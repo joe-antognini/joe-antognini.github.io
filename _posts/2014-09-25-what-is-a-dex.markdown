@@ -5,11 +5,10 @@ date: 2014-09-24
 categories: toolkits
 ---
 
-The term "dex" comes up rather frequently in astronomy discussions and in
-the literature, but is rarely defined in textbooks and a Google search
-doesn't turn up many good definitions.  The idea of a dex is
-straightforward---a dex is simply an order of magnitude.  More formally, a
-difference of $$x$$ dex is a change by a factor of $$10^x$$.
+The term "dex" comes up rather frequently in astronomy discussions but is
+rarely defined in textbooks.  The idea of a dex is straightforward---a dex
+is simply an order of magnitude.  More formally, a difference of $$x$$ dex
+is a change by a factor of $$10^x$$.
 
 We use the terms "order of magnitude" and "factor of $$x$$" all the time,
 though, so why use the term dex?  The reason is that it comes in handy when
@@ -20,9 +19,9 @@ unitless.
 
 As an example, let's take a look at [Fischer & Valenti
 (2005)](http://adsabs.harvard.edu/abs/2005ApJ...622.1102F).  In this paper
-the authors find a correlation between the metallicity of stars and the
+the authors present a correlation between the metallicity of stars and the
 probability that the star hosts a planet---stars with higher metallicities
-are more likely to host a planet.  This result is presented in Figure 5:
+are more likely to host a planet.  This result is shown in Figure 5:
 
 ![Fischer & Valenti (2005)](/images/fischer05.jpg)
 
@@ -33,3 +32,7 @@ asked how wide the bins in this histogram were.  There are ten bins spanning
 an order of magnitude, so the width of each bin is a factor of $$10^{0.1}
 \approx 1.26$$.  This is clumsy, so instead we simply say that each bin has a
 width of 0.1 dex.
+
+A dex is completely equivalent with a "bel," which occasionally comes up in
+engineering and physics.  The bel is much more widely known with its deci-
+prefix as the "decibel."  A decibel is therefore equal to 0.1 dex.
