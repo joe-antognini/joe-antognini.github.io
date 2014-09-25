@@ -68,5 +68,5 @@ I do not expect to post new articles more than once per week.  The web is full
 of enough content already; infrequent articles of higher quality will more
 than make up for frequent articles of lesser quality. 
 
-For those interested, my professional website can be found
+My professional website can be found
 [here](http://www.astronomy.ohio-state.edu/~antognini/)
