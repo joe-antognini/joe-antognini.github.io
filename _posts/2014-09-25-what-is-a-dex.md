@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a dex?
-date: 2014-09-24
+date: 2014-09-25
 categories: toolkit
 ---
 
@@ -42,10 +42,15 @@ widely known with its deci- prefix as the "decibel."  A decibel is therefore
 equal to 0.1 dex.  
 
 As a historical footnote, the term "dex" was coined by the astronomer C. W.
-Allen of "Allen's Astrophysical Quantities" fame.  He original proposed the
-term in the 1948 meeting of the International Astronomical Union in Zurich
-and in 1951 published a short note advocating its use.  The physicist 
-J. B. S. Haldane took up the cause of the dex in 1960 with a short note
+Allen of [Allen's Astrophysical
+Quantities](https://www.goodreads.com/book/show/2973692-allen-s-astrophysical-quantities)
+fame.  He originally proposed the term in the [1948 meeting of the
+International Astronomical
+Union](http://adsabs.harvard.edu/abs/1948PA.....56..401S) in Zurich and in
+1951 published a short
+[note](http://adsabs.harvard.edu/abs/1951Obs....71..157A) advocating its
+use.  The physicist J. B. S. Haldane took up the cause of the dex in 1960
+with a short [note](http://adsabs.harvard.edu/abs/1960Natur.187..879H)
 published in Nature advocating its wider use outside of astronomy and
 physics, particularly in biology.  It seems, however, that the biologists
 and other scientists were not as keen on the dex because it remains limited
