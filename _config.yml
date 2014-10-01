@@ -1,14 +1,14 @@
-<<<<<<< HEAD
 title:            Dynamics in Astronomy
-#tagline:
-canonical: http://joe-antognini.github.io
+#tagline:          A beautiful theme.
+#description:      Describe your website.
+canonical: http://joe.antognini.github.io
 
 # Owner/author information
 owner:
   name:           Joe Antognini
 #  avatar:         avatar.png
 #  bio:            "Aesthete & Athlete"
-  email:          joe.antognini@gmail.com
+  email:          antognini@astronomy.ohio-state.edu
   github:         joe-antognini
   location:       "Columbus, Ohio"
   # Plug in your disqus shortname!
@@ -51,14 +51,3 @@ permalink:   /:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
-=======
-# Site settings
-title: Dynamics of Astronomy
-email: antognini@astronomy.ohio-state.edu
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://joe-antognini.github.io" # the base hostname & protocol for your site
-github_username:  joe-antognini
-
-# Build settings
-markdown: kramdown
->>>>>>> github/master

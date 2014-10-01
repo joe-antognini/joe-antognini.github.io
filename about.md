@@ -1,11 +1,8 @@
 ---
 layout: page
 title: About
-<<<<<<< HEAD
 image:
   feature: constellations1.jpg
-=======
->>>>>>> github/master
 permalink: /about/
 ---
 

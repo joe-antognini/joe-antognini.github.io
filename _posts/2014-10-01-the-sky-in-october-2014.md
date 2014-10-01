@@ -1,15 +1,10 @@
 ---
 layout: post
 title: The Sky in October 2014
-<<<<<<< HEAD
 image:
   feature: constellations2.jpg
 date: 2014-10-01
 categories: sky
-=======
-date: 2014-10-01
-categories: sky update
->>>>>>> github/master
 ---
 
 ## Eclipses
