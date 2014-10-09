@@ -11,7 +11,7 @@ categories: sky
 
 This month is particularly good for eclipses.  There will be a [total lunar
 eclipse](http://eclipse.gsfc.nasa.gov/OH/OH2014.html#LE2014Oct08T) on
-October 8.  The eclispe will be best viewed from near the Pacific.  From the
+October 8.  The eclipse will be best viewed from near the Pacific.  From the
 west coast of the U.S. the eclipse will begin at around 1 o'clock AM PDT and
 will end at 5 o'clock AM PDT.  Those on the east coast of the U.S. will see
 the eclipse begin, but the moon will set before before the eclipse ends.
@@ -37,7 +37,7 @@ they will be too close to the Sun to observe.
 ## Meteor showers
 
 The Orionids will peak October 21 and 22.  The Orionids are a medium
-strength shower that typically produce 20-25 meteors perr hour.  The
+strength shower that typically produce 20-25 meteors per hour.  The
 Southern Taurids peak on October 9 and 10, but are a weak shower (fewer than
 5 meteors per hour).  The Northern Taurids begin in late October although
 they do not peak until mid-November.  Nevertheless, both Taurids are known
