@@ -21,7 +21,7 @@ just a change in the velocity's magnitude and dropped the direction part?
 Then uniform circular motion wouldn't be acceleration!  Why should we prefer
 the first definition?  
 
-It's easy to see that uniform circular motion *feels* like acceleration.  If
+It's easy to see that uniform circular motion _feels_ like acceleration.  If
 you sit in a car making a tight turn you feel yourself shoved to the side.
 How does this appear in the math?  It helps if we lay down coordinate axes.
 When we start, let's suppose we're moving in the positive $$y$$-direction:
