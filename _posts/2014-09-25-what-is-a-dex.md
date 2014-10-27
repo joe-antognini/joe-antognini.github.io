@@ -36,10 +36,9 @@ an order of magnitude, so the width of each bin is a factor of $$10^{0.1}
 \approx 1.26$$.  This is clumsy, so instead we simply say that each bin has
 a width of 0.1 dex.
 
-A dex is completely equivalent to a "bel," "octave," or "decade" which
-occasionally come up in engineering and physics.  The bel is much more
-widely known with its deci- prefix as the "decibel."  A decibel is therefore
-equal to 0.1 dex.  
+A dex is completely equivalent to a "bel" or "decade" which occasionally
+come up in engineering and physics.  The bel is much more widely known with
+its deci- prefix as the "decibel."  A decibel is therefore equal to 0.1 dex.  
 
 As a historical footnote, the term "dex" was coined by the astronomer C. W.
 Allen of [Allen's Astrophysical
