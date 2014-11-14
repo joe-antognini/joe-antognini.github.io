@@ -83,5 +83,71 @@ The shape of an orbit is fully determined by its energy and angular momentum
 (recall that we have already integrated over all possible orientations).  We
 are therefore missing only one coordinate, namely a phase angle specifying
 where the stars are in their orbits.  There are a variety of choices we
-could make here (e.g., the mean anomaly, eccentric anomaly, or the true
-anomaly)
+could make here (e.g., the mean anomaly, eccentric anomaly, true
+anomaly, etc.), but what turns out to be the simplest for the derivation is
+also fairly unintuitive.  Nevertheless, we will follow Jeans, who introduces
+the quantitiy
+
+$$\sigma \equiv \tau - \frac{GM}{r \tau}$$.
+
+This turns out to be equivalent to
+
+$$\sigma = \tau^2 \left( 1 - \frac{v\_{\textrm{circ}}^2}{\tau^2} \right)$$,
+
+where $$v\_{\textrm{circ}}$$ is the velocity the star would have in a
+circular orbit at that radius.  It is clear that at periastron $$\tau$$ is
+going to be larger than $$v\_{\textrm{circ}}$$ giving a negative $$\sigma$$
+and that at apastron $$\tau$$ will be smaller than $$v\_{\textrm{circ}}$$
+giving a positive $$\sigma$$, so $$\sigma$$ will be a measure of the phase
+angle of the orbit as we want.  
+
+To make this transformation we need to calculate the determinant of the
+Jacobian.  Thanks to Jeans's judicious choice of coordinates, this turns out
+to be simple by noting that neither $$k$$ nor $$\sigma$$ depend on
+$$\dot{r}$$, so
+
+$$\left| \frac{ \partial(E, k, \sigma)}{\partial(\dot{r}, \tau, r)}
+\right| = \frac{\partial E}{\partial \dot{r}} \left| \begin{array}{cc}
+\frac{\partial k}{\partial r} & \frac{\partial k}{\partial \tau} \\
+\frac{\partial \sigma}{\partial r} & \frac{\partial \sigma}{\partial \tau}
+\\ \end{array} \right| = \frac{\dot{r}}{r^2 \tau}$$
+
+This implies that the volume element transforms as
+
+$$d\dot{r} d\tau dr = \frac{\tau r^2}{\dot{r}} dE dk d\sigma$$.
+
+Writing the old, physical coordinates in terms of the new ones, we have
+
+$$\tau = \sigma + GMk, \qquad r = \frac{1}{k(\sigma GMk)},$$
+
+and
+
+$$\dot{r} = \sqrt{2E + (GMk)^2 - \sigma^2}.$$
+
+At this point we pause to discuss the limits of these quantities.  It is
+clear that bound orbits can have angular momenta ranging from 0 to
+$$\infty$$ and energies ranging from 0 to $$-\infty$$, but it is less clear
+what the range of $$\sigma$$ is.  We can neveretheless see that the range of
+$$\sigma$$ must be dependent on the $$E$$ and $$L$$ of a particular orbit.
+Recalling our earlier interpretation of $$\sigma$$ as a relationship between
+the tangential velocity and the circular velocity, the minimum value of
+$$\sigma$$ occurs at periastron and the maximum value occurs at apastron.
+Moreover, at periastron and apastron, $$\dot{r} = 0$$, so from our
+definition of $$\dot{r}$$, we have that
+
+$$2E + (GMk)^2 - \sigma^2 = 0$$
+
+for the limits of $$\sigma$$.  We are now in a position to put all this
+together into the distribution function.  But before we do this we have up
+to address one subtlety we have so far overlooked---over the course of a
+single orbit, the star will encounter each value of $$\sigma$$ twice (except
+for the extrema): once when $$\dot{r}$$ is negative and once when it is
+positive.  To account for this, we must multiply the distribution function
+by an extra factor of two.  This then yields
+
+$$f \sim \frac{16 \pi^2}{(\sigma + GMk)^2 k^4 \sqrt{2E + (GMk)^2 -
+\sigma^2}} \exp \left( -2 \frac{E}{T} \right) dE dk d\sigma.$$
+
+Now, we are only interested in the distributions of the eccentricities and
+the periods, so we will have to integrate over the phase variable
+$$\sigma$$.
