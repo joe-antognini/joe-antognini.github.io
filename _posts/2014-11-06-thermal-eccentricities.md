@@ -82,13 +82,18 @@ $$k \equiv \frac{1}{r \tau}$$
 The shape of an orbit is fully determined by its energy and angular momentum
 (recall that we have already integrated over all possible orientations).  We
 are therefore missing only one coordinate, namely a phase angle specifying
-where the stars are in their orbits.  There are a variety of choices we
-could make here (e.g., the mean anomaly, eccentric anomaly, true
-anomaly, etc.), but what turns out to be the simplest for the derivation is
-also fairly unintuitive.  Nevertheless, we will follow Jeans, who introduces
-the quantitiy
+where the stars are in their orbits.  For this purpose we use the true
+anomaly, $$\theta$$, which is related to $$r$$ by
 
-$$\sigma \equiv \tau - \frac{GM}{r \tau}$$.
+$$\frac{1}{r} = GMk^2 \left( 1 + \frac{A}{GM \mu^2} \cos \theta \right)$$,
+
+where $$A$$ is the magnitude of the Runge-Lenz vector:
+
+$$A = GM\mu^2 e$$.
+
+We may rewrite the equation for the true anomaly in this simple form:
+
+$$\frac{A k}{\mu^2} \cos \theta = \tau - \frac{GM}{r \tau}$$.
 
 This turns out to be equivalent to
 
@@ -106,34 +111,46 @@ Jacobian.  Thanks to Jeans's judicious choice of coordinates, this turns out
 to be simple by noting that neither $$k$$ nor $$\sigma$$ depend on
 $$\dot{r}$$, so
 
-$$\left| \frac{ \partial(E, k, \sigma)}{\partial(\dot{r}, \tau, r)}
-\right| = \frac{\partial E}{\partial \dot{r}} \left| \begin{array}{cc}
+$$\left| \frac{ \partial(E, k, \sigma)}{\partial(\dot{r}, \tau, r)} \right|
+= \frac{\partial E}{\partial \dot{r}} 
+\left| \begin{array}{cc}
 \frac{\partial k}{\partial r} & \frac{\partial k}{\partial \tau} \\
-\frac{\partial \sigma}{\partial r} & \frac{\partial \sigma}{\partial \tau}
-\\ \end{array} \right| = \frac{\dot{r}}{r^2 \tau}$$
+\frac{\partial \cos \theta}{\partial r} & \frac{\partial \cos
+\theta}{\partial \tau} \\ 
+\end{array} \right| 
+= \frac{\mu^2 \dot{r}}{A k r^2 \tau}$$
 
 This implies that the volume element transforms as
 
-$$d\dot{r} d\tau dr = \frac{\tau r^2}{\dot{r}} dE dk d\sigma$$.
+$$d\dot{r} d\tau dr = \frac{Ak \tau r^2}{\mu^2 \dot{r}} dE dk d\sigma$$.
 
 Writing the old, physical coordinates in terms of the new ones, we have
 
-$$\tau = \sigma + GMk, \qquad r = \frac{1}{k(\sigma GMk)},$$
+$$\tau = \frac{Ak}{\mu^2} \cos \theta + GMk, \qquad r =
+\frac{1}{k(\frac{Ak}{\mu^2} \cos \theta + GMk)},$$
 
 and
 
-$$\dot{r} = \sqrt{2E + (GMk)^2 - \sigma^2}.$$
+$$\dot{r} = \sqrt{2E + (GMk)^2 - \left( \frac{Ak}{\mu^2} \right)^2 \cos^2
+\theta}.$$
 
-At this point we pause to discuss the limits of these quantities.  It is
-clear that bound orbits can have angular momenta ranging from 0 to
-$$\infty$$ and energies ranging from 0 to $$-\infty$$, but it is less clear
-what the range of $$\sigma$$ is.  We can neveretheless see that the range of
-$$\sigma$$ must be dependent on the $$E$$ and $$L$$ of a particular orbit.
-Recalling our earlier interpretation of $$\sigma$$ as a relationship between
-the tangential velocity and the circular velocity, the minimum value of
-$$\sigma$$ occurs at periastron and the maximum value occurs at apastron.
-Moreover, at periastron and apastron, $$\dot{r} = 0$$, so from our
-definition of $$\dot{r}$$, we have that
+At this point we pause to discuss the limits of these quantities.  Since the
+orbits are bound, the energies must be negative, so they range from 0 to
+$$-\infty$$.  The phase angle naturally ranges from 0 to $$2\pi$$.  The
+angular momenta can be anywhere from zero for a radial orbit to $$\infty$$
+for an infinitely wide orbit.  However, for a fixed energy, there is a
+maximum angular momentum associated with that, namely the angular momentum
+of the circular orbit of that energy.
+
+It is clear that bound orbits can have
+angular momenta ranging from 0 to $$\infty$$ and energies ranging from 0 to
+$$-\infty$$, but it is less clear what the range of $$\sigma$$ is.  We can
+neveretheless see that the range of $$\sigma$$ must be dependent on the
+$$E$$ and $$L$$ of a particular orbit.  Recalling our earlier interpretation
+of $$\sigma$$ as a relationship between the tangential velocity and the
+circular velocity, the minimum value of $$\sigma$$ occurs at periastron and
+the maximum value occurs at apastron.  Moreover, at periastron and apastron,
+$$\dot{r} = 0$$, so from our definition of $$\dot{r}$$, we have that
 
 $$2E + (GMk)^2 - \sigma^2 = 0$$
 
