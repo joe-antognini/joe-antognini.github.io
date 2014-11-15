@@ -122,25 +122,88 @@ $$\left| \frac{ \partial(E, k, \sigma)}{\partial(\dot{r}, \tau, r)} \right|
 
 This implies that the volume element transforms as
 
-$$d\dot{r} d\tau dr = \frac{Ak \tau r^2}{\mu^2 \dot{r}} dE dk d\sigma$$.
+$$d\dot{r} d\tau dr = \frac{Ak \tau r^2}{\mu^2 \dot{r}} dE dk d \cos \theta$$.
 
 Writing the old, physical coordinates in terms of the new ones, we have
 
 $$\tau = \frac{Ak}{\mu^2} \cos \theta + GMk, \qquad r =
-\frac{1}{k(\frac{Ak}{\mu^2} \cos \theta + GMk)},$$
+\frac{\mu^2}{k^2 (A \cos \theta + GM \mu^2)},$$
 
 and
 
 $$\dot{r} = \sqrt{2E + (GMk)^2 - \left( \frac{Ak}{\mu^2} \right)^2 \cos^2
 \theta}.$$
 
+Now recall the relationship between the magnitude of $$A$$ and the energy
+and angular momentum:
+
+$$A^2 = (GM)^2 \mu^4 + 2 E l^2 \mu^4$$.
+
+This means that we can rewrite \dot{r} as
+
+$$\dot{r} = \left( \frac{Ak}{\mu^2} \right) \sqrt{1 - \cos^2 \theta} =
+\left( \frac{Ak}{\mu^2} \right) \sin \theta$$.
+
+Putting all this into the distribution function, we find
+
+$$f \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right) \frac{\mu^4}{(A \cos
+\theta + G M \mu^2)^2 \sin \theta} d \cos \theta \frac{dk}{k^6} dE$$.
+
+We can now integrate this over $$\theta$$ to get the distribution function
+in terms of the variables we wanted all along---the energy and angular
+momentum.
+
+$$f \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right) \int\_0^{2\pi}
+\frac{\mu^4}{(A \cos \theta + G M \mu^2)^2} d\theta \frac{dk}{k^6} dE$$.
+
+After performing the integral we find the distribution function to be
+
+$$f \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right) \frac{GM \mu^6}{ \left(
+(GM \mu^2)^2 - A^2 \right)^{3/2}} \frac{dk}{k^6} dE$$.
+
+Here things start to simplify dramatically.  First, note that $$A$$ is
+related to the eccentricity by 
+
+$$A = GM\mu^2 e$$.
+
+Substituting into the distribution to rid ourselves of $$A$$ forever, we get
+
+$$f \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right) \frac{1}{(1-e^2)^{3/2}}
+\frac{dk}{k^6} \frac{dE}{(GM)^2}$$.
+
+Of course, we're not so much interested in the distribution of angular
+momenta as we are in the distribution of eccentricity.  So now that the
+distribution is fairly simple, let's change coordinates once more, this time
+moving from $$k$$ to $$e$$.  The two are related by
+
+$$k = \frac{\sqrt{2E}}{GM} \frac{1}{(1 - e^2)^{1/2}}, \qquad 
+\frac{\partial k}{\partal e} = \frac{\sqrt{2E}}{GM} \frac{e}{(1 -
+e^2)^{3/2}}.$$
+
+When we make this coordinate transformation we find that the distribution
+function has simlpified dramatically to
+
+$$f \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right) \frac{(GM)^3}{(2E)^{5/2}
+dE \, e \, de$$
+
+The eccentricity dependence of the distribution function is contained
+entirely in the term $$e \, de$$ and is independent of the energy.  We may
+therefore write the distribution function in terms of the eccentricity alone
+as
+
+$$f(e) = 2e \, de$$,
+
+where we have now properly normalized $$f$$. 
+
+coordinates 
+
 At this point we pause to discuss the limits of these quantities.  Since the
 orbits are bound, the energies must be negative, so they range from 0 to
 $$-\infty$$.  The phase angle naturally ranges from 0 to $$2\pi$$.  The
 angular momenta can be anywhere from zero for a radial orbit to $$\infty$$
 for an infinitely wide orbit.  However, for a fixed energy, there is a
-maximum angular momentum associated with that, namely the angular momentum
-of the circular orbit of that energy.
+maximum angular momentum, namely the angular momentum of the circular orbit
+of that energy.  
 
 It is clear that bound orbits can have
 angular momenta ranging from 0 to $$\infty$$ and energies ranging from 0 to
