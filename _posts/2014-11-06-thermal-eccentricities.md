@@ -193,41 +193,59 @@ as
 
 $$f(e) = 2e \, de$$,
 
-where we have now properly normalized $$f$$. 
+where we have now properly normalized $$f$$.  After all our work, this is
+our grand result---the thermal eccentricity distribution.  If a population
+of binaries has thermalized, the eccentricities will be distributed linearly
+and nearly circular orbits will be rare.  In fact, the median eccentricity
+of this distribution is $$1/\sqrt{2}$$.
 
-coordinates 
+Let us turn now to the energies of the binaries.  Here the result seems
+elegant:
 
-At this point we pause to discuss the limits of these quantities.  Since the
-orbits are bound, the energies must be negative, so they range from 0 to
-$$-\infty$$.  The phase angle naturally ranges from 0 to $$2\pi$$.  The
-angular momenta can be anywhere from zero for a radial orbit to $$\infty$$
-for an infinitely wide orbit.  However, for a fixed energy, there is a
-maximum angular momentum, namely the angular momentum of the circular orbit
-of that energy.  
+$$f(E) \sim \frac{1}{(2E)^{5/2}} \exp \left( - \frac{E}{T} \right)$$
 
-It is clear that bound orbits can have
-angular momenta ranging from 0 to $$\infty$$ and energies ranging from 0 to
-$$-\infty$$, but it is less clear what the range of $$\sigma$$ is.  We can
-neveretheless see that the range of $$\sigma$$ must be dependent on the
-$$E$$ and $$L$$ of a particular orbit.  Recalling our earlier interpretation
-of $$\sigma$$ as a relationship between the tangential velocity and the
-circular velocity, the minimum value of $$\sigma$$ occurs at periastron and
-the maximum value occurs at apastron.  Moreover, at periastron and apastron,
-$$\dot{r} = 0$$, so from our definition of $$\dot{r}$$, we have that
+However, when we try to normalize this distribution function we encounter a
+problem---it diverges as $$E \to 0$$ and as $$E \to -\infty$$.  This result
+would appear to contradict our entire analysis---a thermal population of
+binaries cannot exist at all!  And indeed, this is the case.  The divergence
+of this distribution function at both limits is a direct consequence of
+Heggie's law.  Heggie's law, first stated in the massive monograph on
+three-body dynamics by Douglas Heggie, states that in general, when a
+passing star interacts with a soft binary (i.e., a binary whose binding
+energy is less than the kinetic energy of the incoming star), the binary
+will tend to become softer and when a passing star interacts with a hard
+binary (i.e., a binary whose binding energy is greater than the kinetic
+energy of the incoming star), the binary will tend to become harder.  This
+means that if we start with a population of binaries of all different sizes
+and moving with a variety of velocities, after many interactions, the hard
+binaries will have hardened indefinitely (they will see $$E \to -\infty$$)
+and the soft binaries will have softened indefinitely (i.e., disrupted).  So
+our inability to normalize the distribution function actually fits in quite
+well with our understanding of dynamics. 
 
-$$2E + (GMk)^2 - \sigma^2 = 0$$
+Unfortunately Jeans predated the discovery of Heggie's law by many decades,
+so he was unable to interpret the energy distribution as easily as us.
+Jeans nevertheless noted three conclusions from his derivation:
 
-for the limits of $$\sigma$$.  We are now in a position to put all this
-together into the distribution function.  But before we do this we have up
-to address one subtlety we have so far overlooked---over the course of a
-single orbit, the star will encounter each value of $$\sigma$$ twice (except
-for the extrema): once when $$\dot{r}$$ is negative and once when it is
-positive.  To account for this, we must multiply the distribution function
-by an extra factor of two.  This then yields
+1. "There would be no correlation between period and eccentricity."
 
-$$f \sim \frac{16 \pi^2}{(\sigma + GMk)^2 k^4 \sqrt{2E + (GMk)^2 -
-\sigma^2}} \exp \left( -2 \frac{E}{T} \right) dE dk d\sigma.$$
+2. "The eccentricities would be distributed according tot he law $$2e \,
+de$$---in other words, all values of $$e^2$$ would be equally likely."
 
-Now, we are only interested in the distributions of the eccentricities and
-the periods, so we will have to integrate over the phase variable
-$$\sigma$$.
+3. "The periods would conform to the law of distribution."
+
+Jeans then compared these results with the observations available to him in
+1919 to see how thermalized the population of binaries that had been
+observed was.  It is obvious from the distribution of energies that the
+binaries cannot be thermalized.  But it is possible (and indeed it is the
+case) that the eccentricities could thermalize before the energies.
+Nevertheless, the sample of binaries Jeans uses do not follow a thermal
+eccentricity distribution---there is a deficit binaries with eccentricities
+above 0.6.  Moreover, the sample of binaries also exhibits a strong
+correlation between period and eccentricity.  Jeans therefore concludes that
+binaries have not yet thermalized, and so the distribution of their orbital
+parameters must provide information about their formation.
+
+Jeans's sample (which he draws from _The Binary Stars_ by Robert Aitken) was
+not ideal.  It's small (87 stars) and biased.  How does a modern sample hold
+up?  
