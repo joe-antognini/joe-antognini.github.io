@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The thermal eccentricity distribution
-date: 2014-11-06
+date: 2014-11-15
 categories: classics
 ---
 
@@ -9,24 +9,28 @@ One of the most beautiful results in dynamics is the thermal eccentricity
 distribution.  Suppose we have a population of binaries which is, in some
 sense, "thermalized."  That is, these binaries have all interacted with each
 other and exchanged energy many times and have reached statistical
-equilibrium.  We would like to know what these binaries look like.
-eccentricities is.  The derivation of this result is due to Jeans in a 1919
-paper and this post loosely follows Jeans's derivation.
+equilibrium.  We would like to know what these binaries look like.  In
+particular we would like to know the distribution of their periods and
+eccentricities.  The derivation of this result is due to Jeans in a [1919
+paper](http://adsabs.harvard.edu/abs/1919MNRAS..79..408J) and this post
+loosely follows Jeans's derivation.  I have updated some of the notation,
+simplified the derivation somewhat, and provided some motivation behind
+Jeans's sometimes cryptic coordinate transformations.
 
-Now it is clear from the outset that the problem as we have posed it has a
-small issue.  It is not obvious that there is any statistical equilibrium
-that can be reached at all.  When these binaries interact, it seems that
-some of them will dissociate and others of them will form triples.  So a
-thermalized population of binaries won't be a population of binaries at all,
-but a population of binaries mixed with single stars and triples (and given
-that these objects will all interact with each other, there will also be
-higher order systems as well).  If this is the case, then there can be no
-such thing as a thermal population of triples.  This objection turns out to
-be valid because a population of binaries will naturally form single and
-triple systems.  But we will here make a small swindle and suppose that such
-a thermalized population of binaries exists.  This population need not have
-to have come about naturally, but we can imagine that it was instead created
-ab initio and then ask what its properties will be knowing that there is
+It is clear from the outset that the problem as we have posed it has a small
+issue.  It is not obvious that there is any statistical equilibrium that can
+be reached at all.  When these binaries interact, it seems that some of them
+will dissociate and others of them will form triples.  So a thermalized
+population of binaries won't be a population of binaries at all, but a
+population of binaries mixed with single stars and triples (and given that
+these objects will all interact with each other, there will also be higher
+order systems as well).  If this is the case, then there can be no such
+thing as a thermal population of triples.  This objection turns out to be
+valid because a population of binaries will naturally form single and triple
+systems.  But we will here make a small swindle and suppose that such a
+thermalized population of binaries exists.  This population need not have to
+have come about naturally, but we can imagine that it was instead created ab
+initio and then ask what its properties will be knowing that there is
 equipartition of energy.  We should not object to this swindle too much
 because Jeans is already notorious for a far greater swindle.  Moreover, we
 will find that, having made this swindle, the distribution of eccentricities
@@ -50,11 +54,12 @@ the system,
 
 $$\mu \equiv \frac{m1 m2}{M}.$$
 
-The total number of systems in a differential element of phase space is
+The total number of systems in a differential element of phase space, $$d
+\tilde{V}$$, is
 
-$$f d\dot{x} d\dot{y} d\dot{z} dr r^2 d\Omega \sim \exp \left[ \frac{1}{T}
-\left( \frac{1}{2} \mu (\dot{x}^2 \dot{y}^2 \dot{z}^2) - \frac{G M \mu}{r}
-\right) \right] d\dot{x} d\dot{y} d\dot{z} dr r^2 d\Omega$$
+$$f d\tilde{V} \sim \exp \left[ \frac{1}{T} \left( \frac{1}{2} \mu
+(\dot{x}^2 \dot{y}^2 \dot{z}^2) - \frac{G M \mu}{r} \right) \right] d\dot{x}
+d\dot{y} d\dot{z} dr r^2 d\Omega$$
 
 where $$d\Omega$$ is a differential solid angle.  It helps if we decompose
 the velocity into its radial and tangential components --- $$v^2 = \dot{r}^2
@@ -94,17 +99,6 @@ $$A = GM\mu^2 e$$.
 We may rewrite the equation for the true anomaly in this simple form:
 
 $$\frac{A k}{\mu^2} \cos \theta = \tau - \frac{GM}{r \tau}$$.
-
-This turns out to be equivalent to
-
-$$\sigma = \tau^2 \left( 1 - \frac{v\_{\textrm{circ}}^2}{\tau^2} \right)$$,
-
-where $$v\_{\textrm{circ}}$$ is the velocity the star would have in a
-circular orbit at that radius.  It is clear that at periastron $$\tau$$ is
-going to be larger than $$v\_{\textrm{circ}}$$ giving a negative $$\sigma$$
-and that at apastron $$\tau$$ will be smaller than $$v\_{\textrm{circ}}$$
-giving a positive $$\sigma$$, so $$\sigma$$ will be a measure of the phase
-angle of the orbit as we want.  
 
 To make this transformation we need to calculate the determinant of the
 Jacobian.  Thanks to Jeans's judicious choice of coordinates, this turns out
@@ -146,8 +140,8 @@ $$\dot{r} = \left( \frac{Ak}{\mu^2} \right) \sqrt{1 - \cos^2 \theta} =
 
 Putting all this into the distribution function, we find
 
-$$f \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right) \frac{\mu^4}{(A \cos
-\theta + G M \mu^2)^2 \sin \theta} d \cos \theta \frac{dk}{k^6} dE$$.
+$$f d\tilde{V} \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right) \frac{\mu^4}{(A
+\cos \theta + G M \mu^2)^2 \sin \theta} d \cos \theta \frac{dk}{k^6} dE$$.
 
 We can now integrate this over $$\theta$$ to get the distribution function
 in terms of the variables we wanted all along---the energy and angular
@@ -158,8 +152,8 @@ $$f \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right) \int\_0^{2\pi}
 
 After performing the integral we find the distribution function to be
 
-$$f \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right) \frac{GM \mu^6}{ \left(
-(GM \mu^2)^2 - A^2 \right)^{3/2}} \frac{dk}{k^6} dE$$.
+$$f d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right) \frac{GM
+\mu^6}{ \left( (GM \mu^2)^2 - A^2 \right)^{3/2}} \frac{dk}{k^6} dE$$.
 
 Here things start to simplify dramatically.  First, note that $$A$$ is
 related to the eccentricity by 
@@ -168,8 +162,8 @@ $$A = GM\mu^2 e$$.
 
 Substituting into the distribution to rid ourselves of $$A$$ forever, we get
 
-$$f \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right) \frac{1}{(1-e^2)^{3/2}}
-\frac{dk}{k^6} \frac{dE}{(GM)^2}$$.
+$$f d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right)
+\frac{1}{(1-e^2)^{3/2}} \frac{dk}{k^6} \frac{dE}{(GM)^2}$$.
 
 Of course, we're not so much interested in the distribution of angular
 momenta as we are in the distribution of eccentricity.  So now that the
@@ -183,8 +177,8 @@ e^2)^{3/2}}.$$
 When we make this coordinate transformation we find that the distribution
 function has simlpified dramatically to
 
-$$f \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right) \frac{(GM)^3}{(2E)^{5/2}
-dE \, e \, de$$
+$$f d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right)
+\frac{(GM)^3}{(2E)^{5/2} dE \, e \, de$$
 
 The eccentricity dependence of the distribution function is contained
 entirely in the term $$e \, de$$ and is independent of the energy.  We may
@@ -246,6 +240,44 @@ correlation between period and eccentricity.  Jeans therefore concludes that
 binaries have not yet thermalized, and so the distribution of their orbital
 parameters must provide information about their formation.
 
-Jeans's sample (which he draws from _The Binary Stars_ by Robert Aitken) was
-not ideal.  It's small (87 stars) and biased.  How does a modern sample hold
-up?  
+Jeans's sample (which he draws from [_The Binary
+Stars_](http://adsabs.harvard.edu/abs/1918bist.book.....A) by Robert Aitken)
+was not ideal.  It's small (87 stars) and biased.  How does a modern sample
+hold up?  An excellent overview of the properties can be found in the review
+by [Duchene & Kraus (2013)](adsabs.harvard.edu/abs/2013ARA&A..51..269D).  In
+short period binaries the eccentricities are almost all very low due to
+tidal circularization.  In longer period binaries ($$P \gtrsim$$ 100 days)
+the eccentricity distribution is consistent with flat, although there
+appears to be a dearth of systems at very high eccentricities.  At any rate,
+modern samples confirm Jeans's original observation that binaries in the
+field do not appear to be thermalized.  Nevertheless, the modern samples do
+not find a correlation between eccentricity and period aside from the
+circularization of very short period binaries already mentioned.  
+
+It is not very surprising that binaries in the field do not exhibit a
+thermal eccentricity distribution because even over the lifetime of the
+Galaxy nearly all binaries have not had time to interact with each other
+even once.  In a more compact system like a globular cluster we would expect
+the system to be more thermalized because the binaries would have many
+opportunities to interact with one another.  Unfortunately it is generally
+difficult to measure the orbital properties of binaries in globular
+clusters---even getting an accurate measurement of the binary fraction has
+proven to be difficult.  It is possible to get accurate orbital periods from
+millisecond pulsars and these seem to show a bias towards circular orbits.
+But it is reasonable to believe that millisecond pulsars represent a special
+case because the partner would necessarily have to be very close to the
+neutron star to spin it up and therefore a bias towards circular orbits
+would be expected.  Without observations, we have to resort to numerical
+simulations, which seem to indicate that binaries in globular clusters
+should exhibit a thermal eccentricity distribution, but this cannot be
+concluded too definitely because it is standard for numerical simulations to
+begin with a thermal eccentricity distribution.  Nevertheless it is a good
+confirmation of the theory that the thermal eccentricity distribution is
+maintained.
+
+As a footnote, the thermal eccentricity distribution was also derived by the
+Soviet-Armenian astronomer [Victor Ambartsumian in
+1937](http://scholar.google.com/scholar?cluster=14253678264298101405&hl=en&as_sdt=800005&sciodt=0,15),
+although I haven't been able to find a copy of this paper so I do not know
+how his derivation differs from that of Jeans.  The thermal eccentricity
+distribution is sometimes referred to as an Ambartsumian distribution.
