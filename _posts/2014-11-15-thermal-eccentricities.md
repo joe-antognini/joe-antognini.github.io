@@ -52,7 +52,7 @@ where $$r$$ and $$v$$ are the relative distance and velocity, respective,
 $$M$$ is the total mass of the system, and $$\mu$$ is the reduced mass of
 the system,
 
-$$\mu \equiv \frac{m\_{1} m\_{2}}{M}.$$
+$$\mu \equiv \frac{m\_1 m\_2}{M}.$$
 
 The total number of systems in a differential element of phase space, $$d
 \tilde{V}$$, is
