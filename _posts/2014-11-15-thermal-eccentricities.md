@@ -150,7 +150,7 @@ in terms of the variables we wanted all along---the energy and angular
 momentum.
 
 $$f \, d\tilde{V} \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right)
-\int\_{0}^{2\pi} \frac{\mu^4}{(A \cos \theta + G M \mu^2)^2} d\theta
+\int_0^{2\pi} \frac{\mu^4}{(A \cos \theta + G M \mu^2)^2} d\theta
 \frac{dk}{k^6} dE.$$
 
 After performing the integral we find the distribution function to be
