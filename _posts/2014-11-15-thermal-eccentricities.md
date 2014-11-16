@@ -41,12 +41,12 @@ So let's begin.  By assumption, we have a population of binaries which is
 thermalized.  This is to say that the distribution of energies follows a
 Boltzmann distribution:
 
-$$f \sim \exp \left( -\frac{E}{T} \right)$$
+$$f \sim \exp \left( -\frac{E}{T} \right),$$
 
 where $$\tau$$ is some measure of the thermal content of the system.  Now,
 the energy of an individual binary system is
 
-$$E = \frac{1}{2} \mu v^2 - \frac{G M \mu}{r}$$
+$$E = \frac{1}{2} \mu v^2 - \frac{G M \mu}{r},$$
 
 where $$r$$ and $$v$$ are the relative distance and velocity, respective,
 $$M$$ is the total mass of the system, and $$\mu$$ is the reduced mass of
@@ -57,9 +57,9 @@ $$\mu \equiv \frac{m\_{1} m\_{2}}{M}.$$
 The total number of systems in a differential element of phase space, $$d
 \tilde{V}$$, is
 
-$$f d\tilde{V} \sim \exp \left[ \frac{1}{T} \left( \frac{1}{2} \mu
+$$f \, d\tilde{V} \sim \exp \left[ \frac{1}{T} \left( \frac{1}{2} \mu
 (\dot{x}^2 \dot{y}^2 \dot{z}^2) - \frac{G M \mu}{r} \right) \right] d\dot{x}
-d\dot{y} d\dot{z} dr r^2 d\Omega$$
+\, d\dot{y} \, d\dot{z} \, dr \, r^2 \, d\Omega,$$
 
 where $$d\Omega$$ is a differential solid angle.  It helps if we decompose
 the velocity into its radial and tangential components --- $$v^2 = \dot{r}^2
@@ -68,9 +68,9 @@ which case we have $$dx \, dy = \tau \, d\tau \, d\phi$$, where $$\phi$$ is
 an azimuthal angle.  Now, integrating over $$\Omega$$ and $$\phi$$, which
 gives us a factor of $$4\pi$$ and $$2\pi$$, respectively, we get
 
-$$f d\tilde{V} \sim 8 \pi^2 \exp \left[ \frac{1}{T} \left( \frac{1}{2} \mu
-(\dot{r}^2 + \tau^2) - \frac{G M \mu}{r} \right) \right] d\dot{r} \tau d\tau
-r^2 dr$$
+$$f \, d\tilde{V} \sim 8 \pi^2 \exp \left[ \frac{1}{T} \left( \frac{1}{2}
+\mu (\dot{r}^2 + \tau^2) - \frac{G M \mu}{r} \right) \right] d\dot{r} \,
+\tau \, d\tau \, r^2 \, dr.$$
 
 We so far have been using real, physical coordinates to describe the
 binaries.  But what we would like is to transform this distribution function
@@ -80,9 +80,9 @@ using the angular momentum itself complicates the derivation quite a bit and
 the inverse of the angular momentum is the better coordinate to use.  So we
 have two new coordinates:
 
-$$E = \frac{1}{2} \left( \dot{r}^2 + \tau^2 \right) - \frac{G M}{r}$$
+$$E = \frac{1}{2} \left( \dot{r}^2 + \tau^2 \right) - \frac{G M}{r},$$
 
-$$k \equiv \frac{1}{r \tau}$$
+$$k \equiv \frac{1}{r \tau}.$$
 
 The shape of an orbit is fully determined by its energy and angular momentum
 (recall that we have already integrated over all possible orientations).  We
@@ -90,15 +90,15 @@ are therefore missing only one coordinate, namely a phase angle specifying
 where the stars are in their orbits.  For this purpose we use the true
 anomaly, $$\theta$$, which is related to $$r$$ by
 
-$$\frac{1}{r} = GMk^2 \left( 1 + \frac{A}{GM \mu^2} \cos \theta \right)$$,
+$$\frac{1}{r} = GMk^2 \left( 1 + \frac{A}{GM \mu^2} \cos \theta \right)$$
 
 where $$A$$ is the magnitude of the Runge-Lenz vector:
 
-$$A = GM\mu^2 e$$.
+$$A = GM\mu^2 e.$$
 
 We may rewrite the equation for the true anomaly in this simple form:
 
-$$\frac{A k}{\mu^2} \cos \theta = \tau - \frac{GM}{r \tau}$$.
+$$\frac{A k}{\mu^2} \cos \theta = \tau - \frac{GM}{r \tau}.$$
 
 To make this transformation we need to calculate the determinant of the
 Jacobian.  Thanks to Jeans's judicious choice of coordinates, this turns out
@@ -112,11 +112,12 @@ $$\left| \frac{ \partial(E, k, \sigma)}{\partial(\dot{r}, \tau, r)} \right|
 \frac{\partial \cos \theta}{\partial r} & \frac{\partial \cos
 \theta}{\partial \tau} \\ 
 \end{array} \right| 
-= \frac{\mu^2 \dot{r}}{A k r^2 \tau}$$
+= \frac{\mu^2 \dot{r}}{A k r^2 \tau}.$$
 
 This implies that the volume element transforms as
 
-$$d\dot{r} d\tau dr = \frac{Ak \tau r^2}{\mu^2 \dot{r}} dE dk d \cos \theta$$.
+$$d\dot{r} \, d\tau \, dr = \frac{Ak \tau r^2}{\mu^2 \dot{r}} \, dE \, dk \,
+d \cos \theta.$$
 
 Writing the old, physical coordinates in terms of the new ones, we have
 
@@ -131,39 +132,41 @@ $$\dot{r} = \sqrt{2E + (GMk)^2 - \left( \frac{Ak}{\mu^2} \right)^2 \cos^2
 Now recall the relationship between the magnitude of $$A$$ and the energy
 and angular momentum:
 
-$$A^2 = (GM)^2 \mu^4 + 2 E l^2 \mu^4$$.
+$$A^2 = (GM)^2 \mu^4 + 2 E l^2 \mu^4.$$
 
-This means that we can rewrite \dot{r} as
+This means that we can rewrite $$\dot{r}$$ as
 
 $$\dot{r} = \left( \frac{Ak}{\mu^2} \right) \sqrt{1 - \cos^2 \theta} =
-\left( \frac{Ak}{\mu^2} \right) \sin \theta$$.
+\left( \frac{Ak}{\mu^2} \right) \sin \theta.$$
 
 Putting all this into the distribution function, we find
 
-$$f d\tilde{V} \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right) \frac{\mu^4}{(A
-\cos \theta + G M \mu^2)^2 \sin \theta} d \cos \theta \frac{dk}{k^6} dE$$.
+$$f \, d\tilde{V} \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right)
+\frac{\mu^4}{(A \cos \theta + G M \mu^2)^2 \sin \theta} d \cos \theta
+\frac{dk}{k^6} dE.$$
 
 We can now integrate this over $$\theta$$ to get the distribution function
 in terms of the variables we wanted all along---the energy and angular
 momentum.
 
-$$f \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right) \int_0^{2\pi}
-\frac{\mu^4}{(A \cos \theta + G M \mu^2)^2} d\theta \frac{dk}{k^6} dE$$.
+$$f \, d\tilde{V} \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right)
+\int\_{0}^{2\pi} \frac{\mu^4}{(A \cos \theta + G M \mu^2)^2} d\theta
+\frac{dk}{k^6} dE.$$
 
 After performing the integral we find the distribution function to be
 
-$$f d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right) \frac{GM
-\mu^6}{ \left( (GM \mu^2)^2 - A^2 \right)^{3/2}} \frac{dk}{k^6} dE$$.
+$$f \, d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right) \frac{GM
+\mu^6}{ \left[ (GM \mu^2)^2 - A^2 \right]^{3/2}} \frac{dk}{k^6} dE.$$
 
 Here things start to simplify dramatically.  First, note that $$A$$ is
 related to the eccentricity by 
 
-$$A = GM\mu^2 e$$.
+$$A = GM\mu^2 e.$$
 
 Substituting into the distribution to rid ourselves of $$A$$ forever, we get
 
-$$f d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right)
-\frac{1}{(1-e^2)^{3/2}} \frac{dk}{k^6} \frac{dE}{(GM)^2}$$.
+$$f \, d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right)
+\frac{1}{(1-e^2)^{3/2}} \frac{dk}{k^6} \frac{dE}{(GM)^2}.$$
 
 Of course, we're not so much interested in the distribution of angular
 momenta as we are in the distribution of eccentricity.  So now that the
@@ -178,14 +181,14 @@ When we make this coordinate transformation we find that the distribution
 function has simlpified dramatically to
 
 $$f d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right)
-\frac{(GM)^3}{(2E)^{5/2} dE \, e \, de$$
+\frac{(GM)^3}{(2E)^{5/2}} dE \, e \, de$$
 
 The eccentricity dependence of the distribution function is contained
 entirely in the term $$e \, de$$ and is independent of the energy.  We may
 therefore write the distribution function in terms of the eccentricity alone
 as
 
-$$f(e) = 2e \, de$$,
+$$f(e) = 2e \, de,$$
 
 where we have now properly normalized $$f$$.  After all our work, this is
 our grand result---the thermal eccentricity distribution.  If a population
