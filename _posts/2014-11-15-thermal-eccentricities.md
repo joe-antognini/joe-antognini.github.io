@@ -52,7 +52,7 @@ where $$r$$ and $$v$$ are the relative distance and velocity, respective,
 $$M$$ is the total mass of the system, and $$\mu$$ is the reduced mass of
 the system,
 
-$$\mu \equiv \frac{m1 m2}{M}.$$
+$$\mu \equiv \frac{m\_1 m\_2}{M}.$$
 
 The total number of systems in a differential element of phase space, $$d
 \tilde{V}$$, is
@@ -171,7 +171,7 @@ distribution is fairly simple, let's change coordinates once more, this time
 moving from $$k$$ to $$e$$.  The two are related by
 
 $$k = \frac{\sqrt{2E}}{GM} \frac{1}{(1 - e^2)^{1/2}}, \qquad 
-\frac{\partial k}{\partal e} = \frac{\sqrt{2E}}{GM} \frac{e}{(1 -
+\frac{\partial k}{\partial e} = \frac{\sqrt{2E}}{GM} \frac{e}{(1 -
 e^2)^{3/2}}.$$
 
 When we make this coordinate transformation we find that the distribution
