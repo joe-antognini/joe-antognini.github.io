@@ -62,7 +62,7 @@ $$f \, d\tilde{V} \sim \exp \left[ \frac{1}{T} \left( \frac{1}{2} \mu
 \, d\dot{y} \, d\dot{z} \, dr \, r^2 \, d\Omega,$$
 
 where $$d\Omega$$ is a differential solid angle.  It helps if we decompose
-the velocity into its radial and tangential components --- $$v^2 = \dot{r}^2
+the velocity into its radial and tangential components: $$v^2 = \dot{r}^2
 + \tau^2$$.  We can pick $$\dot{r}$$ to be along the $$z$$ direction, in
 which case we have $$dx \, dy = \tau \, d\tau \, d\phi$$, where $$\phi$$ is
 an azimuthal angle.  Now, integrating over $$\Omega$$ and $$\phi$$, which
