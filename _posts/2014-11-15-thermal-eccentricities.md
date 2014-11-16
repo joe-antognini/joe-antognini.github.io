@@ -52,7 +52,7 @@ where $$r$$ and $$v$$ are the relative distance and velocity, respective,
 $$M$$ is the total mass of the system, and $$\mu$$ is the reduced mass of
 the system,
 
-$$\mu \equiv \frac{m\_1 m\_2}{M}.$$
+$$\mu \equiv \frac{m_1 m\_2}{M}.$$
 
 The total number of systems in a differential element of phase space, $$d
 \tilde{V}$$, is
@@ -147,7 +147,7 @@ We can now integrate this over $$\theta$$ to get the distribution function
 in terms of the variables we wanted all along---the energy and angular
 momentum.
 
-$$f \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right) \int\_0^{2\pi}
+$$f \sim 8 \pi^2 \exp \left( -\frac{E}{T} \right) \int_0^{2\pi}
 \frac{\mu^4}{(A \cos \theta + G M \mu^2)^2} d\theta \frac{dk}{k^6} dE$$.
 
 After performing the integral we find the distribution function to be
