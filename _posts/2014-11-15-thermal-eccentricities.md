@@ -180,7 +180,7 @@ e^2)^{3/2}}.$$
 When we make this coordinate transformation we find that the distribution
 function has simlpified dramatically to
 
-$$f d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right)
+$$f \, d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right)
 \frac{(GM)^3}{(2E)^{5/2}} dE \, e \, de$$
 
 The eccentricity dependence of the distribution function is contained
@@ -199,7 +199,7 @@ of this distribution is $$1/\sqrt{2}$$.
 Let us turn now to the energies of the binaries.  Here the result seems
 elegant:
 
-$$f(E) \sim \frac{1}{(2E)^{5/2}} \exp \left( - \frac{E}{T} \right)$$
+$$f(E) \sim \frac{1}{(2E)^{5/2}} \exp \left( - \frac{E}{T} \right) \, dE$$
 
 However, when we try to normalize this distribution function we encounter a
 problem---it diverges as $$E \to 0$$ and as $$E \to -\infty$$.  This result
@@ -247,15 +247,16 @@ Jeans's sample (which he draws from [_The Binary
 Stars_](http://adsabs.harvard.edu/abs/1918bist.book.....A) by Robert Aitken)
 was not ideal.  It's small (87 stars) and biased.  How does a modern sample
 hold up?  An excellent overview of the properties can be found in the review
-by [Duchene & Kraus (2013)](adsabs.harvard.edu/abs/2013ARA&A..51..269D).  In
-short period binaries the eccentricities are almost all very low due to
-tidal circularization.  In longer period binaries ($$P \gtrsim$$ 100 days)
-the eccentricity distribution is consistent with flat, although there
-appears to be a dearth of systems at very high eccentricities.  At any rate,
-modern samples confirm Jeans's original observation that binaries in the
-field do not appear to be thermalized.  Nevertheless, the modern samples do
-not find a correlation between eccentricity and period aside from the
-circularization of very short period binaries already mentioned.  
+by [Duchene & Kraus
+(2013)](http://adsabs.harvard.edu/abs/2013ARA&A..51..269D).  In short period
+binaries the eccentricities are almost all very low due to tidal
+circularization.  In longer period binaries ($$P \gtrsim$$ 100 days) the
+eccentricity distribution is consistent with flat, although there appears to
+be a dearth of systems at very high eccentricities.  At any rate, modern
+samples confirm Jeans's original observation that binaries in the field do
+not appear to be thermalized.  Nevertheless, the modern samples do not find
+a correlation between eccentricity and period aside from the circularization
+of very short period binaries already mentioned.  
 
 It is not very surprising that binaries in the field do not exhibit a
 thermal eccentricity distribution because even over the lifetime of the
