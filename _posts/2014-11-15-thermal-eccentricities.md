@@ -3,6 +3,8 @@ layout: post
 title: The thermal eccentricity distribution
 date: 2014-11-15
 categories: classics
+image:
+  feature: constellations3.jpg
 ---
 
 One of the most beautiful results in dynamics is the thermal eccentricity
