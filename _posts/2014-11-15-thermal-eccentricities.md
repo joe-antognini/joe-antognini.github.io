@@ -105,11 +105,11 @@ $$\frac{A k}{\mu^2} \cos \theta = \tau - \frac{GM}{r \tau}.$$
 
 To make this transformation we need to calculate the determinant of the
 Jacobian.  Thanks to Jeans's judicious choice of coordinates, this turns out
-to be simple by noting that neither $$k$$ nor $$\sigma$$ depend on
+to be simple by noting that neither $$k$$ nor $$\theta$$ depend on
 $$\dot{r}$$, so
 
-$$\left| \frac{ \partial(E, k, \sigma)}{\partial(\dot{r}, \tau, r)} \right|
-= \frac{\partial E}{\partial \dot{r}} 
+$$\left| \frac{ \partial(E, k, \cos \theta)}{\partial(\dot{r}, \tau, r)}
+\right| = \frac{\partial E}{\partial \dot{r}} 
 \left| \begin{array}{cc}
 \frac{\partial k}{\partial r} & \frac{\partial k}{\partial \tau} \\
 \frac{\partial \cos \theta}{\partial r} & \frac{\partial \cos
