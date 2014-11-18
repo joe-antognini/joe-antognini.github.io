@@ -15,7 +15,7 @@ each other and exchanged energy many times and have reached statistical
 equilibrium.  We would like to know what these binaries look like.  In
 particular we would like to know the distribution of their periods and
 eccentricities.  The derivation of this result is due to the British
-astronomy J. H. Jeans in a [1919
+astronomer J. H. Jeans in a [1919
 paper](http://adsabs.harvard.edu/abs/1919MNRAS..79..408J) and this post
 loosely follows Jeans's derivation.  I have updated some of the notation,
 simplified the derivation somewhat, and provided some motivation behind
@@ -212,18 +212,18 @@ would appear to contradict our entire analysis---a thermal population of
 binaries cannot exist at all!  And indeed, this is the case.  The divergence
 of this distribution function at both limits is a direct consequence of
 Heggie's law.  Heggie's law, first stated in the dense monograph on
-three-body dynamics by Douglas Heggie, states that in general, when a
-passing star interacts with a soft binary (i.e., a binary whose binding
-energy is less than the kinetic energy of the incoming star), the binary
-will tend to become softer and when a passing star interacts with a hard
-binary (i.e., a binary whose binding energy is greater than the kinetic
-energy of the incoming star), the binary will tend to become harder.  This
-means that if we start with a population of binaries of all different sizes
-and moving with a variety of velocities, after many interactions, the hard
-binaries will have hardened indefinitely (they will have $$E \to -\infty$$)
-and the soft binaries will have softened indefinitely (i.e., disrupted).  So
-our inability to normalize the distribution function actually fits in quite
-well with our understanding of dynamics. 
+three-body dynamics by the British astronomer Douglas Heggie, states that in
+general, when a passing star interacts with a soft binary (i.e., a binary
+whose binding energy is less than the kinetic energy of the incoming star),
+the binary will tend to become softer and when a passing star interacts with
+a hard binary (i.e., a binary whose binding energy is greater than the
+kinetic energy of the incoming star), the binary will tend to become harder.
+This means that if we start with a population of binaries of all different
+sizes and moving with a variety of velocities, after many interactions, the
+hard binaries will have hardened indefinitely (they will have $$E \to
+-\infty$$) and the soft binaries will have softened indefinitely (i.e.,
+disrupted).  So our inability to normalize the distribution function
+actually fits in quite well with our understanding of dynamics. 
 
 Unfortunately Jeans predated the discovery of Heggie's law by many decades,
 so he was unable to interpret the energy distribution as easily as us.
