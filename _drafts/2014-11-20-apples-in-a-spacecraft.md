@@ -5,26 +5,30 @@ date: 2014-11-20
 categories: classics
 ---
 
-A contribution to a retrospective series on the work of the French
-dynamicist Michel Henon by Scott Tremaine inspired me to do a review of an
-interesting puzzle in dynamics.
+[A contribution](http://arxiv.org/abs/1411.4938) to a retrospective series
+on the work of the French dynamicist Michel Hénon by Scott Tremaine inspired
+me to do a review of an interesting puzzle in dynamics.
 
-The puzzle goes as follows.  Suppose we are in a spacecraft orbiting the
-Earth in a circular orbit.  The spacecraft is rotating such that the same
-side of the spacecraft always points toward the Earth.  That is, its
-rotation period is equal to its revolution period, just like the Moon's.
-Now we release a bushel of apples inside the spacecraft so that they are
-floating all around us.  How will the apples be distributed in the
-spacecraft after a long time?  We will assume that they are real apples, so
-they are inelastic and they are not massive enough for self-gravitation to
-be noticeable.  
+### The puzzle
 
-This question was originally posed by Alfven, but he derived the wrong
-answer.  The correct answer was derived by Henon in a short 1978 note.
-Henon found that half the apples will end up on the floor of the spacecraft
-and half will end up on the ceiling.  (For simplicity, we'll call the side
-of the spacecraft closer to Earth the floor, and the other side the
-ceiling.)
+Suppose we are in a spacecraft orbiting the Earth in a circular orbit.  The
+spacecraft is rotating such that the same side of the spacecraft always
+points toward the Earth.  That is, its rotation period is equal to its
+revolution period, just like the Moon's.  Now we release a bushel of apples
+inside the spacecraft so that they are floating all around us.  How will the
+apples be distributed in the spacecraft after a long time?  We will assume
+that they are real apples, so they are inelastic and they are not massive
+enough for self-gravitation to be noticeable.  
+
+### Solution
+
+This question was originally posed by the Swedish physicist Hannes Alfvén in
+a [1971 paper](http://www.jstor.org/stable/1732245), but he derived the
+wrong answer.  The correct answer was derived by Henon in a short [1978
+note](http://www.jstor.org/stable/1745593).  Hénon found that half the
+apples will end up on the floor of the spacecraft and half will end up on
+the ceiling.  (For simplicity, we'll call the side of the spacecraft closer
+to Earth the floor, and the other side the ceiling.)
 
 To see how this answer comes about, consider an apple which starts out
 closer to the Earth than the center of mass of the spacecraft.  It is on an
@@ -50,28 +54,128 @@ apples that began closer to the floor collecting on the floor towards the
 front of the spacecraft and the apples that began closer to the ceiling
 collecting on the ceiling towards the back of the spacecraft. 
 
+### Timescales
+
 How long will it take this process to occur?  If we assume that the apples
 are extremely inelastic so that there are not too many collisions, then the
 timescale will be of the order of the time it takes the apple to drift to
 one end of the spacecraft.  Now, the orbital velocity of the center of
 mass of the spacecraft is (assuming the spacecraft is in low Earth orbit)
 
-$$v = \sqrt{\frac{GM\_{\bigoplus}}{R\_{\bigoplus}}},$$
+$$v = \sqrt{\frac{GM_{\bigoplus}}{R_{\bigoplus}}},$$
 
 where $$R$$ is the radius of the center of mass of the spacecraft from the
 center of the Earth.  If an apple is some small distance $$\Delta R$$ closer
 to the Earth than the center of mass of the spacecraft, then its velocity
 will be
 
-$$v + \Delta v = \sqrt{\frac{GM\_{\bigoplus}}{R + \Delta R\_{\bigoplus}}.$$
+$$v + \Delta v = \sqrt{\frac{GM_{\bigoplus}}{R + \Delta R_{\bigoplus}}}.$$
 
-Assuming that $$\Delta R / R \ll 1$$, we have
+Assuming that $$\Delta R / R_{\bigoplus} \ll 1$$, we have
 
-$$\frac{\Delta v}{v} \simeq \frac{\Delta R}{2 R\_{\bigoplus}}.$$
+$$\frac{\Delta v}{v} \simeq \frac{\Delta R}{2 R_{\bigoplus}}.$$
 
-The drift time is then
+If we take $$\Delta R$$ to be 1 m then we find the drift velocity to be
 
-$$t = \frac{\Delta R}{\Delta v} = 
+$$\Delta v = 0.6 \, \textrm{mm} \, \textrm{s}^{-1}.$$
 
-If we have a fairly spacious spacecraft that is 10 meters by 10 meters by 10
-meters
+If the spacecraft is a spacious 10 meters long, the time it takes the apple
+to drift from near the center of the spacecraft to the front wall will be 
+
+$$t = 2.24 \, \textrm{hr}.$$
+
+So it will take the apple about two hours and fifteen minutes to drift
+towards the front wall of the spacecraft.
+
+### A more careful analysis --- where Alfvén went wrong
+
+The solution we presented above is intuitive, but does it come out of a
+careful derivation?  Here we follow Tremaine's article.  The energy and
+angular momentum of the system are given by
+
+$$E = \sum_{i = 0}^N m_i \left( \frac{1}{2} v_i^2 - \frac{G
+M_{\bigoplus}}{r_i} \right),$$
+
+$$\mathbf{L} = \sum_{i=0}^N m_i \mathbf{r}_i \times \mathbf{v}_i.$$
+
+Since the apples are inelastic, over time, collisions with the walls of the
+spacecraft will dissipate energy.  Angular momentum cannot be dissipated,
+however.  We therefore seek the minimum energy configuration for the given
+angular momentum.  We can do this using a Lagrange multiplier,
+$$\mathbf{\lambda}$$:
+
+$$0 = \delta E - \mathbf{\lambda} \cdot \delta \mathbf{L}.$$
+
+The variations of the energy and angular momentum are
+
+$$\delta E = \sum_{i=0}^N m_i \mathbf{v}_i \cdot \delta \mathbf{v}_i +
+\frac{G M_{\bigoplus} m_i}{r_i^3} \mathbf{r}_i \cdot \delta \mathbf{r}_i,$$
+
+$$\delta \mathbf{L} = \sum_{i=0}^N m_i \left( \delta \mathbf{r}_i \times
+\mathbf{v}_i + \mathbf{r}_i \times \delta \mathbf{v}_i \right)$$
+
+Grouping the terms by their differentials, we must have that
+
+$$0 = \sum_{i=0}^N m_i \left[ \left( \mathbf{v}_i - (\mathbf{\lambda} \times
+\mathbf{r}_i) \right) \cdot \delta \mathbf{v}_i + \left( \frac{G
+M_{\bigoplus}}{r_i^3} \mathbf{r}_i - \mathbf{v}_i \times \mathbf{\lambda}
+\right) \cdot \delta \mathbf{r}_i \right].$$
+
+Since the differentials act independently, for this equation to be
+satisfied we must have that 
+
+$$\mathbf{v}_i = \mathbf{\lambda} \times \mathbf{r}_i,$$
+
+$$\mathbf{\lambda} \times \mathbf{v}_i + \frac{GM_{\bigoplus}}{r^3}
+\mathbf{r}_i = 0.$$
+
+Substituting the first equation into the second, we have
+
+$$\mathbf{\lambda} \times (\mathbf{\lambda} \times \mathbf{r}_i) +
+\frac{GM_{\bigoplus}}{r_i^3} \mathbf{r}_i = 0
+
+The vector triple product vanishes if $$\mathbf{\lambda}$$ is parallel to
+$$\mathbf{r}_i$$ and the equation cannot be satsified.  This implies that
+
+$$\mathbf{\lambda} \cdot \mathbf{r}_i = 0.$$
+
+Now taking advantage of the identity for vector triple products and using
+the above relation, we have
+
+$$\lambda^2 = \frac{GM_{\bigoplus}}{r_i^3}.$$
+
+Since $$\lambda$$ is the same for all the apples, this implies that at an
+energy extremum all the apples have the same orbital radius.  Moreover,
+because $$\mathbf{\lambda} \cdot \mathbf{r}_i = 0$$ for all the apples, all
+the apples must have the same orbital plane.  This result would then seem to
+contradict our earlier, intuitive derivation ---  we appear to be finding
+that all the apples will collect in the middle of the spacecraft.
+
+This is where Aflvén originally went wrong.  After this derivation, he
+concluded that the coplanar solution was the minimum energy solution.  But
+the Legendre multiplier technique does not necessarily give us energy minima
+--- it only gives us energy _extrema_.  In this case the coplanar solution
+is actually a saddle point, so the solution we have just derived is
+unstable.  To do the analysis properly, we would have to introduce another
+constraint, namely, that the radii of the apples must be between the floor
+and ceiling of the spacecraft.  We can see how the minimum energy solution
+comes about without doing this because there are two singular solutions in
+our above derivation: the variational equation can be satisfied if the
+radius is infinite and the velocity is zero or if the radius is zero and the
+velocity is infinite.  
+
+### Jet streams and planet formation
+
+Alfvén proposed this problem in context of planet formation.  Particles in
+an accretion disk around a protostar can be considered to be inelastic
+particles for which self gravity is negligible --- that is, apples.  If
+Alfvén's solution to the apple problem was correct, then particles in an
+accretion disk would naturally clump together at the same radius in what was
+termed a "jet stream."  These jet streams could aid in the formation of
+planets by increasing the local density and leading to the particles to
+stick together to form larger clumps.
+
+Hénon's analysis showed that this wouldn't work, however.  Rather than being
+brought together in a jet stream, Hénon showed that the opposite would occur
+--- the particles would dissipate.  Jet streams are no longer considered a
+viable mechanism for planet formation.  
