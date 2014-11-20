@@ -11,11 +11,18 @@ owner:
   email:          antognini@astronomy.ohio-state.edu
   github:         joe-antognini
   location:       "Columbus, Ohio"
-  # Plug in your disqus shortname!
+  disqus: dynamicsinastronomy
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      comments: true
 
 # Links to include in top navigation
 # For external links add external: true

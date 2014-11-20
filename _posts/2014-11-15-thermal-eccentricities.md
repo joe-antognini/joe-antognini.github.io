@@ -3,15 +3,19 @@ layout: post
 title: The thermal eccentricity distribution
 date: 2014-11-15
 categories: classics
+image:
+  feature: constellations3.jpg
+comments: true
 ---
 
 One of the most beautiful results in dynamics is the thermal eccentricity
-distribution.  Suppose we have a population of binaries which is, in some
-sense, "thermalized."  That is, these binaries have all interacted with each
-other and exchanged energy many times and have reached statistical
+distribution.  Suppose we have a population of binary stars which is, in
+some sense, "thermalized."  That is, these binaries have all interacted with
+each other and exchanged energy many times and have reached statistical
 equilibrium.  We would like to know what these binaries look like.  In
 particular we would like to know the distribution of their periods and
-eccentricities.  The derivation of this result is due to Jeans in a [1919
+eccentricities.  The derivation of this result is due to the British
+astronomy J. H. Jeans in a [1919
 paper](http://adsabs.harvard.edu/abs/1919MNRAS..79..408J) and this post
 loosely follows Jeans's derivation.  I have updated some of the notation,
 simplified the derivation somewhat, and provided some motivation behind
@@ -25,7 +29,7 @@ population of binaries won't be a population of binaries at all, but a
 population of binaries mixed with single stars and triples (and given that
 these objects will all interact with each other, there will also be higher
 order systems as well).  If this is the case, then there can be no such
-thing as a thermal population of triples.  This objection turns out to be
+thing as a thermal population of binaries.  This objection turns out to be
 valid because a population of binaries will naturally form single and triple
 systems.  But we will here make a small swindle and suppose that such a
 thermalized population of binaries exists.  This population need not have to
@@ -43,8 +47,8 @@ Boltzmann distribution:
 
 $$f \sim \exp \left( -\frac{E}{T} \right),$$
 
-where $$\tau$$ is some measure of the thermal content of the system.  Now,
-the energy of an individual binary system is
+where $$T$$ is some measure of the thermal content of the system.  Now, the
+energy of an individual binary system is
 
 $$E = \frac{1}{2} \mu v^2 - \frac{G M \mu}{r},$$
 
@@ -58,8 +62,8 @@ The total number of systems in a differential element of phase space, $$d
 \tilde{V}$$, is
 
 $$f \, d\tilde{V} \sim \exp \left[ \frac{1}{T} \left( \frac{1}{2} \mu
-(\dot{x}^2 \dot{y}^2 \dot{z}^2) - \frac{G M \mu}{r} \right) \right] d\dot{x}
-\, d\dot{y} \, d\dot{z} \, dr \, r^2 \, d\Omega,$$
+(\dot{x}^2 + \dot{y}^2 + \dot{z}^2) - \frac{G M \mu}{r} \right) \right]
+d\dot{x} \, d\dot{y} \, d\dot{z} \, dr \, r^2 \, d\Omega,$$
 
 where $$d\Omega$$ is a differential solid angle.  It helps if we decompose
 the velocity into its radial and tangential components: $$v^2 = \dot{r}^2
@@ -102,11 +106,11 @@ $$\frac{A k}{\mu^2} \cos \theta = \tau - \frac{GM}{r \tau}.$$
 
 To make this transformation we need to calculate the determinant of the
 Jacobian.  Thanks to Jeans's judicious choice of coordinates, this turns out
-to be simple by noting that neither $$k$$ nor $$\sigma$$ depend on
+to be simple by noting that neither $$k$$ nor $$\theta$$ depend on
 $$\dot{r}$$, so
 
-$$\left| \frac{ \partial(E, k, \sigma)}{\partial(\dot{r}, \tau, r)} \right|
-= \frac{\partial E}{\partial \dot{r}} 
+$$\left| \frac{ \partial(E, k, \cos \theta)}{\partial(\dot{r}, \tau, r)}
+\right| = \frac{\partial E}{\partial \dot{r}} 
 \left| \begin{array}{cc}
 \frac{\partial k}{\partial r} & \frac{\partial k}{\partial \tau} \\
 \frac{\partial \cos \theta}{\partial r} & \frac{\partial \cos
@@ -180,7 +184,7 @@ e^2)^{3/2}}.$$
 When we make this coordinate transformation we find that the distribution
 function has simlpified dramatically to
 
-$$f d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right)
+$$f \, d\tilde{V} \sim 16 \pi^3 \exp \left( -\frac{E}{T} \right)
 \frac{(GM)^3}{(2E)^{5/2}} dE \, e \, de$$
 
 The eccentricity dependence of the distribution function is contained
@@ -188,7 +192,7 @@ entirely in the term $$e \, de$$ and is independent of the energy.  We may
 therefore write the distribution function in terms of the eccentricity alone
 as
 
-$$f(e) = 2e \, de,$$
+$$f(e) \, de = 2e \, de,$$
 
 where we have now properly normalized $$f$$.  After all our work, this is
 our grand result---the thermal eccentricity distribution.  If a population
@@ -199,14 +203,15 @@ of this distribution is $$1/\sqrt{2}$$.
 Let us turn now to the energies of the binaries.  Here the result seems
 elegant:
 
-$$f(E) \sim \frac{1}{(2E)^{5/2}} \exp \left( - \frac{E}{T} \right)$$
+$$f(E) \, dE \sim \frac{1}{(2E)^{5/2}} \exp \left( - \frac{E}{T} \right) \,
+dE$$
 
 However, when we try to normalize this distribution function we encounter a
 problem---it diverges as $$E \to 0$$ and as $$E \to -\infty$$.  This result
 would appear to contradict our entire analysis---a thermal population of
 binaries cannot exist at all!  And indeed, this is the case.  The divergence
 of this distribution function at both limits is a direct consequence of
-Heggie's law.  Heggie's law, first stated in the massive monograph on
+Heggie's law.  Heggie's law, first stated in the dense monograph on
 three-body dynamics by Douglas Heggie, states that in general, when a
 passing star interacts with a soft binary (i.e., a binary whose binding
 energy is less than the kinetic energy of the incoming star), the binary
@@ -215,7 +220,7 @@ binary (i.e., a binary whose binding energy is greater than the kinetic
 energy of the incoming star), the binary will tend to become harder.  This
 means that if we start with a population of binaries of all different sizes
 and moving with a variety of velocities, after many interactions, the hard
-binaries will have hardened indefinitely (they will see $$E \to -\infty$$)
+binaries will have hardened indefinitely (they will have $$E \to -\infty$$)
 and the soft binaries will have softened indefinitely (i.e., disrupted).  So
 our inability to normalize the distribution function actually fits in quite
 well with our understanding of dynamics. 
@@ -247,15 +252,16 @@ Jeans's sample (which he draws from [_The Binary
 Stars_](http://adsabs.harvard.edu/abs/1918bist.book.....A) by Robert Aitken)
 was not ideal.  It's small (87 stars) and biased.  How does a modern sample
 hold up?  An excellent overview of the properties can be found in the review
-by [Duchene & Kraus (2013)](adsabs.harvard.edu/abs/2013ARA&A..51..269D).  In
-short period binaries the eccentricities are almost all very low due to
-tidal circularization.  In longer period binaries ($$P \gtrsim$$ 100 days)
-the eccentricity distribution is consistent with flat, although there
-appears to be a dearth of systems at very high eccentricities.  At any rate,
-modern samples confirm Jeans's original observation that binaries in the
-field do not appear to be thermalized.  Nevertheless, the modern samples do
-not find a correlation between eccentricity and period aside from the
-circularization of very short period binaries already mentioned.  
+by [Duchene & Kraus
+(2013)](http://adsabs.harvard.edu/abs/2013ARA&A..51..269D).  In short period
+binaries the eccentricities are almost all very low due to tidal
+circularization.  In longer period binaries ($$P \gtrsim$$ 100 days) the
+eccentricity distribution is consistent with flat, although there appears to
+be a dearth of systems at very high eccentricities.  At any rate, modern
+samples confirm Jeans's original observation that binaries in the field do
+not appear to be thermalized.  Nevertheless, the modern samples do not find
+a correlation between eccentricity and period aside from the circularization
+of very short period binaries already mentioned.  
 
 It is not very surprising that binaries in the field do not exhibit a
 thermal eccentricity distribution because even over the lifetime of the
