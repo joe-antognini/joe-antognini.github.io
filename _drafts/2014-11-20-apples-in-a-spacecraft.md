@@ -158,24 +158,39 @@ the Legendre multiplier technique does not necessarily give us energy minima
 is actually a saddle point, so the solution we have just derived is
 unstable.  To do the analysis properly, we would have to introduce another
 constraint, namely, that the radii of the apples must be between the floor
-and ceiling of the spacecraft.  We can see how the minimum energy solution
-comes about without doing this because there are two singular solutions in
-our above derivation: the variational equation can be satisfied if the
+and ceiling of the spacecraft.  This complicates the analysis, so we omit it
+here, but we can at least understand how the minimum energy solution comes
+about without doing this directly because there are two singular solutions
+in our above derivation: the variational equation can be satisfied if the
 radius is infinite and the velocity is zero or if the radius is zero and the
-velocity is infinite.  
+velocity is infinite.  To minimize the energy we would have that all the
+particles move to zero radius, but this would violate conservation of
+angular momentum.  To keep angular momentum conserved, some fraction of the
+apples would have to move to infinity.  In this extreme limit only an
+infinitesimal number of apples would have to move out to infinity to
+conserve angular momentum, but if the radii are bounded to some $$\Delta r$$
+which is much less than $$r$$ then half the apples will have to move up and
+half the apples will have to move down.
 
 ### Jet streams and planet formation
 
-Alfvén proposed this problem in context of planet formation.  Particles in
-an accretion disk around a protostar can be considered to be inelastic
-particles for which self gravity is negligible --- that is, apples.  If
-Alfvén's solution to the apple problem was correct, then particles in an
-accretion disk would naturally clump together at the same radius in what was
-termed a "jet stream."  These jet streams could aid in the formation of
-planets by increasing the local density and leading to the particles to
-stick together to form larger clumps.
+As interesting as this problem may be on its own, there was some motivation
+for raising it --- Alfvén proposed it in the context of planet formation.
+Particles in an accretion disk around a protostar can be considered to be
+inelastic particles for which self gravity is negligible --- that is,
+apples.  If Alfvén's solution to the apple problem was correct, then
+particles in an accretion disk would naturally clump together at the same
+radius in what was termed a "jet stream."  These jet streams could aid in
+the formation of planets by increasing the local density and leading to the
+particles to stick together to form larger clumps.
 
-Hénon's analysis showed that this wouldn't work, however.  Rather than being
-brought together in a jet stream, Hénon showed that the opposite would occur
---- the particles would dissipate.  Jet streams are no longer considered a
-viable mechanism for planet formation.  
+But as we saw, Hénon's analysis showed that this wouldn't work.  Rather than
+being brought together in a jet stream, the opposite would occur --- the
+particles would dissipate.  Jet streams are no longer considered a viable
+mechanism for planet formation.
+
+Alfven published a counterpoint to Henon's critique of his work in which he
+argued that although Henon was correct about what would happen to apples in
+a spacecraft, the same analysis would not apply to jet streams.  Alfven
+nevertheless acknowledged that other lines of reasoning led the theory of
+jet streams to be problematic. 
