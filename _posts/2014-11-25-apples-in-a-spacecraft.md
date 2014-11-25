@@ -86,7 +86,7 @@ to drift from near the center of the spacecraft to the front wall will be
 $$t \sim 2.25 \, \textrm{hr}.$$
 
 So it will take the apple about two hours and fifteen minutes to drift
-towards the front wall of the spacecraft and roughly half a day for all the
+towards the front wall of the spacecraft and less than a day for all the
 apples to collect on the floor and ceiling of the spacecraft.
 
 ### The perils of a more careful analysis --- or, where Alfvén went wrong
