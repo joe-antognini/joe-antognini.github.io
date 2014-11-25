@@ -1,31 +1,32 @@
 ---
 layout: post
 title: Apples in a spacecraft
-date: 2014-11-20
+date: 2014-11-25
 categories: classics
+image:
+  feature: constellations3.jpg
 ---
 
-[A contribution](http://arxiv.org/abs/1411.4938) to a retrospective series
-on the work of the French dynamicist Michel Hénon by Scott Tremaine inspired
-me to do a review of an interesting puzzle in dynamics.
+[Scott Tremaine's contribution][1] to a retrospective series on the work of
+the French dynamicist Michel Hénon inspired me to do a review of an
+interesting problem in dynamics.
 
 ### The puzzle
 
 Suppose we are in a spacecraft orbiting the Earth in a circular orbit.  The
 spacecraft is rotating such that the same side of the spacecraft always
-points toward the Earth.  That is, its rotation period is equal to its
+points toward the Earth.  That is to say its rotation period is equal to its
 revolution period, just like the Moon's.  Now we release a bushel of apples
 inside the spacecraft so that they are floating all around us.  How will the
 apples be distributed in the spacecraft after a long time?  We will assume
 that they are real apples, so they are inelastic and they are not massive
 enough for self-gravitation to be noticeable.  
 
-### Solution
+### The solution
 
 This question was originally posed by the Swedish physicist Hannes Alfvén in
-a [1971 paper](http://www.jstor.org/stable/1732245), but he derived the
-wrong answer.  The correct answer was derived by Henon in a short [1978
-note](http://www.jstor.org/stable/1745593).  Hénon found that half the
+a [1971 paper][2], but he derived the wrong answer.  The correct answer was
+derived by Hénon in a [short note in 1978][3].  Hénon found that half the
 apples will end up on the floor of the spacecraft and half will end up on
 the ceiling.  (For simplicity, we'll call the side of the spacecraft closer
 to Earth the floor, and the other side the ceiling.)
@@ -43,7 +44,7 @@ energy, and will end up on the floor of the spacecraft.
 
 As for an apple which starts out farther from the Earth than the center of
 mass of the spacecraft, it will undergo the opposite process.  Because it is
-farther from the Earth, it's orbit has a larger radius and so its orbital
+farther from the Earth, its orbit has a larger radius and so its orbital
 speed is slower than that of the spacecraft.  The apples on the upper half
 of the spacecraft will therefore drift backwards to the rear wall of the
 spacecraft.  There it will collide with the wall and gain energy because the
@@ -58,9 +59,9 @@ collecting on the ceiling towards the back of the spacecraft.
 
 How long will it take this process to occur?  If we assume that the apples
 are extremely inelastic so that there are not too many collisions, then the
-timescale will be of the order of the time it takes the apple to drift to
-one end of the spacecraft.  Now, the orbital velocity of the center of
-mass of the spacecraft is (assuming the spacecraft is in low Earth orbit)
+timescale will be a few times longer than the time it takes the apple to
+drift to one end of the spacecraft.  Now, the orbital velocity of the center
+of mass of the spacecraft is (assuming the spacecraft is in low Earth orbit)
 
 $$v = \sqrt{\frac{GM_{\bigoplus}}{R_{\bigoplus}}},$$
 
@@ -77,17 +78,18 @@ $$\frac{\Delta v}{v} \simeq \frac{\Delta R}{2 R_{\bigoplus}}.$$
 
 If we take $$\Delta R$$ to be 1 m then we find the drift velocity to be
 
-$$\Delta v = 0.6 \, \textrm{mm} \, \textrm{s}^{-1}.$$
+$$\Delta v = 0.6 \, \textrm{mm} \: \textrm{s}^{-1}.$$
 
 If the spacecraft is a spacious 10 meters long, the time it takes the apple
 to drift from near the center of the spacecraft to the front wall will be 
 
-$$t = 2.24 \, \textrm{hr}.$$
+$$t \sim 2.25 \, \textrm{hr}.$$
 
 So it will take the apple about two hours and fifteen minutes to drift
-towards the front wall of the spacecraft.
+towards the front wall of the spacecraft and roughly half a day for all the
+apples to collect on the floor and ceiling of the spacecraft.
 
-### A more careful analysis --- where Alfvén went wrong
+### The perils of a more careful analysis --- or, where Alfvén went wrong
 
 The solution we presented above is intuitive, but does it come out of a
 careful derivation?  Here we follow Tremaine's article.  The energy and
@@ -99,10 +101,9 @@ M_{\bigoplus}}{r_i} \right),$$
 $$\mathbf{L} = \sum_{i=0}^N m_i \mathbf{r}_i \times \mathbf{v}_i.$$
 
 Since the apples are inelastic, over time, collisions with the walls of the
-spacecraft will dissipate energy.  Angular momentum cannot be dissipated,
-however.  We therefore seek the minimum energy configuration for the given
-angular momentum.  We can do this using a Lagrange multiplier,
-$$\mathbf{\lambda}$$:
+spacecraft will dissipate energy, but not angular momentum.  We therefore
+seek the minimum energy configuration for the given angular momentum.  We
+can do this using a Lagrange multiplier, $$\mathbf{\lambda}$$:
 
 $$0 = \delta E - \mathbf{\lambda} \cdot \delta \mathbf{L}.$$
 
@@ -132,7 +133,7 @@ $$\mathbf{\lambda} \times \mathbf{v}_i + \frac{GM_{\bigoplus}}{r^3}
 Substituting the first equation into the second, we have
 
 $$\mathbf{\lambda} \times (\mathbf{\lambda} \times \mathbf{r}_i) +
-\frac{GM_{\bigoplus}}{r_i^3} \mathbf{r}_i = 0
+\frac{GM_{\bigoplus}}{r_i^3} \mathbf{r}_i = 0.$$
 
 The vector triple product vanishes if $$\mathbf{\lambda}$$ is parallel to
 $$\mathbf{r}_i$$ and the equation cannot be satsified.  This implies that
@@ -153,18 +154,18 @@ that all the apples will collect in the middle of the spacecraft.
 
 This is where Aflvén originally went wrong.  After this derivation, he
 concluded that the coplanar solution was the minimum energy solution.  But
-the Legendre multiplier technique does not necessarily give us energy minima
---- it only gives us energy _extrema_.  In this case the coplanar solution
-is actually a saddle point, so the solution we have just derived is
+the Legendre multiplier technique does not necessarily give us the energy
+minimum --- it only gives us energy _extrema_.  In this case the coplanar
+solution is actually a saddle point, so the solution we have just derived is
 unstable.  To do the analysis properly, we would have to introduce another
 constraint, namely, that the radii of the apples must be between the floor
 and ceiling of the spacecraft.  This complicates the analysis, so we omit it
 here, but we can at least understand how the minimum energy solution comes
-about without doing this directly because there are two singular solutions
-in our above derivation: the variational equation can be satisfied if the
-radius is infinite and the velocity is zero or if the radius is zero and the
-velocity is infinite.  To minimize the energy we would have that all the
-particles move to zero radius, but this would violate conservation of
+about without doing this directly by noting that there are two singular
+solutions in our above derivation: the variational equation can be satisfied
+if the radius is infinite and the velocity is zero or if the radius is zero
+and the velocity is infinite.  To minimize the energy we would have that all
+the particles move to zero radius, but this would violate conservation of
 angular momentum.  To keep angular momentum conserved, some fraction of the
 apples would have to move to infinity.  In this extreme limit only an
 infinitesimal number of apples would have to move out to infinity to
@@ -181,16 +182,14 @@ inelastic particles for which self gravity is negligible --- that is,
 apples.  If Alfvén's solution to the apple problem was correct, then
 particles in an accretion disk would naturally clump together at the same
 radius in what was termed a "jet stream."  These jet streams could aid in
-the formation of planets by increasing the local density and leading to the
+the formation of planets by increasing the local density and leading the
 particles to stick together to form larger clumps.
 
 But as we saw, Hénon's analysis showed that this wouldn't work.  Rather than
 being brought together in a jet stream, the opposite would occur --- the
-particles would dissipate.  Jet streams are no longer considered a viable
-mechanism for planet formation.
+particles would dissipate.  Thus jet streams are no longer considered a
+viable mechanism for planet formation.
 
-Alfven published a counterpoint to Henon's critique of his work in which he
-argued that although Henon was correct about what would happen to apples in
-a spacecraft, the same analysis would not apply to jet streams.  Alfven
-nevertheless acknowledged that other lines of reasoning led the theory of
-jet streams to be problematic. 
+[1]: http://arxiv.org/abs/1411.4938
+[2]: http://www.jstor.org/stable/1732245
+[3]: http://www.jstor.org/stable/1745593
