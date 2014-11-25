@@ -20,11 +20,11 @@ when talking about metallicity.  Metallicity is measured logarithmically
 relative to the abundance of metals in the Sun, and accordingly it must be
 unitless. 
 
-As an example, let's take a look at [Fischer & Valenti
-(2005)](http://adsabs.harvard.edu/abs/2005ApJ...622.1102F).  In this paper
-the authors present a correlation between the metallicity of stars and the
-probability that the star hosts a planet---stars with higher metallicities
-are more likely to host a planet.  This result is shown in Figure 5:
+As an example, let's take a look at [Fischer & Valenti (2005)][1].  In this
+paper the authors present a correlation between the metallicity of stars and
+the probability that the star hosts a planet---stars with higher
+metallicities are more likely to host a planet.  This result is shown in
+Figure 5:
 
 ![Fischer & Valenti (2005)](/images/fischer05.png)
 
@@ -41,16 +41,17 @@ come up in engineering and physics.  The bel is much more widely known with
 its deci- prefix as the "decibel."  A decibel is therefore equal to 0.1 dex.  
 
 As a historical footnote, the term "dex" was coined by the astronomer C. W.
-Allen of [Allen's Astrophysical
-Quantities](https://www.goodreads.com/book/show/2973692-allen-s-astrophysical-quantities)
-fame.  He originally proposed the term in the [1948 meeting of the
-International Astronomical
-Union](http://adsabs.harvard.edu/abs/1948PA.....56..401S) in Zurich and in
-1951 published a short
-[note](http://adsabs.harvard.edu/abs/1951Obs....71..157A) advocating its
-use.  The physicist J. B. S. Haldane took up the cause of the dex in 1960
-with a short [note](http://adsabs.harvard.edu/abs/1960Natur.187..879H)
-published in Nature advocating its wider use outside of astronomy and
-physics, particularly in biology.  It seems, however, that the biologists
-and other scientists were not as keen on the dex because it remains limited
-to the jargon of astronomy.
+Allen of [Allen's Astrophysical Quantities][2] fame.  He originally proposed
+the term in the [1948 meeting of the International Astronomical Union][3] in
+Zurich and in 1951 published a short [note][4] advocating its use.  The
+physicist J. B. S. Haldane took up the cause of the dex in 1960 with a short
+[note][5] published in Nature advocating its wider use outside of astronomy
+and physics, particularly in biology.  It seems, however, that the
+biologists and other scientists were not as keen on the dex because it
+remains limited to the jargon of astronomy.
+
+[1]: http://adsabs.harvard.edu/abs/2005ApJ...622.1102F
+[2]: https://www.goodreads.com/book/show/2973692-allen-s-astrophysical-quantities
+[3]: http://adsabs.harvard.edu/abs/1948PA.....56..401S
+[4]: http://adsabs.harvard.edu/abs/1951Obs....71..157A
+[5]: http://adsabs.harvard.edu/abs/1960Natur.187..879H

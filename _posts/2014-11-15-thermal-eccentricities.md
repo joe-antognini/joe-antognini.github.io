@@ -14,11 +14,10 @@ each other and exchanged energy many times and have reached statistical
 equilibrium.  We would like to know what these binaries look like.  In
 particular we would like to know the distribution of their periods and
 eccentricities.  The derivation of this result is due to the British
-astronomer J. H. Jeans in a [1919
-paper](http://adsabs.harvard.edu/abs/1919MNRAS..79..408J) and this post
-loosely follows Jeans's derivation.  I have updated some of the notation,
-simplified the derivation somewhat, and provided some motivation behind
-Jeans's sometimes cryptic coordinate transformations.
+astronomer J. H. Jeans in a [1919 paper][1] and this post loosely follows
+Jeans's derivation.  I have updated some of the notation, simplified the
+derivation somewhat, and provided some motivation behind Jeans's sometimes
+cryptic coordinate transformations.
 
 It is clear from the outset that the problem as we have posed it has a small
 issue.  It is not obvious that there is any statistical equilibrium that can
@@ -247,20 +246,18 @@ correlation between period and eccentricity.  Jeans therefore concludes that
 binaries have not yet thermalized, and so the distribution of their orbital
 parameters must provide information about their formation.
 
-Jeans's sample (which he draws from [_The Binary
-Stars_](http://adsabs.harvard.edu/abs/1918bist.book.....A) by Robert Aitken)
-was not ideal.  It's small (87 stars) and biased.  How does a modern sample
-hold up?  An excellent overview of the properties can be found in the review
-by [Duchene & Kraus
-(2013)](http://adsabs.harvard.edu/abs/2013ARA&A..51..269D).  In short period
-binaries the eccentricities are almost all very low due to tidal
-circularization.  In longer period binaries ($$P \gtrsim$$ 100 days) the
-eccentricity distribution is consistent with flat, although there appears to
-be a dearth of systems at very high eccentricities.  At any rate, modern
-samples confirm Jeans's original observation that binaries in the field do
-not appear to be thermalized.  Nevertheless, the modern samples do not find
-a correlation between eccentricity and period aside from the circularization
-of very short period binaries already mentioned.  
+Jeans's sample (which he draws from [_The Binary Stars_][2] by Robert
+Aitken) was not ideal.  It's small (87 stars) and biased.  How does a modern
+sample hold up?  An excellent overview of the properties can be found in the
+review by [Duchene & Kraus (2013)][3].  In short period binaries the
+eccentricities are almost all very low due to tidal circularization.  In
+longer period binaries ($$P \gtrsim$$ 100 days) the eccentricity
+distribution is consistent with flat, although there appears to be a dearth
+of systems at very high eccentricities.  At any rate, modern samples confirm
+Jeans's original observation that binaries in the field do not appear to be
+thermalized.  Nevertheless, the modern samples do not find a correlation
+between eccentricity and period aside from the circularization of very short
+period binaries already mentioned.  
 
 It is not very surprising that binaries in the field do not exhibit a
 thermal eccentricity distribution because even over the lifetime of the
@@ -284,8 +281,12 @@ confirmation of the theory that the thermal eccentricity distribution is
 maintained.
 
 As a footnote, the thermal eccentricity distribution was also derived by the
-Soviet-Armenian astronomer [Victor Ambartsumian in
-1937](http://scholar.google.com/scholar?cluster=14253678264298101405&hl=en&as_sdt=800005&sciodt=0,15),
-although I haven't been able to find a copy of this paper so I do not know
-how his derivation differs from that of Jeans.  The thermal eccentricity
+Soviet-Armenian astronomer [Victor Ambartsumian in 1937][4], although I
+haven't been able to find a copy of this paper so I do not know how his
+derivation differs from that of Jeans.  The thermal eccentricity
 distribution is sometimes referred to as an Ambartsumian distribution.
+
+[1]: http://adsabs.harvard.edu/abs/1919MNRAS..79..408J
+[2]: http://adsabs.harvard.edu/abs/1918bist.book.....A
+[3]: http://adsabs.harvard.edu/abs/2013ARA&A..51..269D
+[4]: http://scholar.google.com/scholar?cluster=14253678264298101405&hl=en&as_sdt=800005&sciodt=0,15

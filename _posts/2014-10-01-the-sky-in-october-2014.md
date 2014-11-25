@@ -10,16 +10,14 @@ categories: sky
 ## Eclipses
 
 This month is particularly good for eclipses.  There will be a [total lunar
-eclipse](http://eclipse.gsfc.nasa.gov/OH/OH2014.html#LE2014Oct08T) on
-October 8.  The eclipse will be best viewed from near the Pacific.  From the
-west coast of the U.S. the eclipse will begin at around 1 o'clock AM PDT and
-will end at 5 o'clock AM PDT.  Those on the east coast of the U.S. will see
-the eclipse begin, but the moon will set before before the eclipse ends.
+eclipse][1] on October 8.  The eclipse will be best viewed from near the
+Pacific.  From the west coast of the U.S. the eclipse will begin at around 1
+o'clock AM PDT and will end at 5 o'clock AM PDT.  Those on the east coast of
+the U.S. will see the eclipse begin, but the moon will set before before the
+eclipse ends.
 
-There will also be a [partial solar
-eclipse](http://eclipse.gsfc.nasa.gov/OH/OH2014.html#SE2014Oct23P) on
-October 23 that will be visible from almost all of the U.S. at around 5
-o'clock PM EDT.  
+There will also be a [partial solar eclipse][2] on October 23 that will be
+visible from almost all of the U.S. at around 5 o'clock PM EDT.  
 
 ## Planets
 
@@ -47,3 +45,6 @@ for producing fireballs.
 
 The next full moon will be October 8 (the "Hunter's moon") and the next new
 moon will be October 23.
+
+[1]: http://eclipse.gsfc.nasa.gov/OH/OH2014.html#LE2014Oct08T
+[2]: http://eclipse.gsfc.nasa.gov/OH/OH2014.html#SE2014Oct23P
