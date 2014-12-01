@@ -87,3 +87,57 @@ $$H = G \cos i,$$
 where $$\mu$$ is the reduced mass, $$M$$ is the total mass, $$a$$ is the
 semi-major axis, and $$i$$ is the inclination relative to a reference
 plane.
+
+Since we are making a canonical transformation, we don't have to do any
+work --- phase space volume is conserved:
+
+$$dx \, dy \, dz \, dp_x \, dp_y \, dp\_z = dl \, dg \, dh \, dL \, dG \,
+dH.$$
+
+Now the energy is given by
+
+$$E = -\frac{GM \mu}{2a},$$
+
+which can be written in terms of the Delaunay elements as
+
+$$E = -\frac{\mu}{2}(GM\mu)^2.$$
+
+Thus the energy depends only on $$L$$.  We can then write the distribution
+as
+
+$$dN = f(L) \, dl \, dg \, dh \, dL \, dG \, dH.$$
+
+We can now start integrating out the dependence of all variables except for
+$$L$$ on $$N$$.  The canonical coordinates are easy because they are just
+angles that vary from 0 to $$2\pi$$, so the integral of each one of them
+yields a factor of $$2 \pi$$.  As for the conjugate momenta, note that $$H$$
+varies from 0 to $$G$$ and $$G$$ varies from 0 to $$L$$.  Furthermore, if we
+want the number of systems with an eccentricity less than some value
+$$e^{\prime}$$, we want the values of $$G$$ that are greater than some
+corresponding $$G^{\prime}$$.  This gives us
+
+$$N(e < e^{\prime}) = 8 \pi^3 f(L) \, dL \, \int\_{G\_0}^{L} \, dG \,
+\int\_0^G \, dH.$$
+
+This then gives
+
+$$N(e < e^{\prime}) = 4 \pi^3 f(L) (L^2 - G^{\prime 2}) \, dL.$$
+
+Now, remember that $$G = L \sqrt{1 - e^2}$$, so 
+
+$$L^2 - G^{\prime 2} = L^2 e^{\prime 2}.$$
+
+We therefore have that the eccentricity disribution is
+
+$$N(e < e^{\prime}) = 4 \pi^3 e^{\prime 2} \, \int\_0^{\inf} f(L) L^2 \,
+dL.$$
+
+This last integral is not dependent on $$e$$ and so is just a constant.
+Note, however, that dependening on our choice of $$f(L)$$, it might not
+converge.  (This was what happened when we took it to be the Boltzmann
+factor.)
+
+This derivation of the eccentricity distribution is much simpler and much
+more general.  It is because we don't have to assume that the binaries have
+thermalized to obtain this distribution that it is often called an
+Ambartsumian distribution instead of the thermal eccentricity distribution.
