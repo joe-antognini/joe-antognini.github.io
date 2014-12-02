@@ -5,6 +5,7 @@ date: 2014-12-2
 categories: classics
 image:
   feature: constellations3.jpg
+description: A look at Ambartsumian (1937).
 ---
 
 In our look at [Jeans's 1919 paper][1] in [this post][2] we derived the

@@ -5,9 +5,8 @@ image:
   feature: constellations2.jpg
 date: 2014-12-02
 categories: sky
+description: Our monthly summary of what will be up in the sky.
 ---
-
-Our monthly summary of what will be up in the sky.
 
 ## Lunar phases
 

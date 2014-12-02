@@ -5,6 +5,7 @@ date: 2014-11-25
 categories: classics
 image:
   feature: constellations3.jpg
+description: A look at Hénon (1978).
 ---
 
 [Scott Tremaine's contribution][1] to a retrospective series on the work of
