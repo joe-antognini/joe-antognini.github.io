@@ -41,14 +41,16 @@ equipartition of energy was observed, which implied the long timescale.
 
 The Soviet-Armenian astronomer Victor Ambartsumian published a paper in
 1937, [On the Statistics of Double Stars][3] in which he pointed out an
-important flaw in Jeans's reasoning.  In a nutshell, Jeans's fallacy was to
-affirm the consequent.  Jeans showed that a thermalized population of
-binaries should obey the above eccentricity distribution and argued that
-because this distribution is observed, binaries must be thermalized.  But
-Ambartsumian demonstrated that the above eccentricity distribution will be
-produced under a wide variety of conditions, so it does not follow that the
-population of binaries has thermalized if the thermal eccentricity
-distribution is observed. 
+important flaw in Jeans's reasoning.  (A bibliographic note: the paper was
+originally written in Russian and it is hard to find an original copy.  D.
+W. Goldsmith translated it and a copy is hosted on Douglas Heggie's
+website.)  In a nutshell, Jeans's fallacy was to affirm the consequent.
+Jeans showed that a thermalized population of binaries should obey the above
+eccentricity distribution and argued that because this distribution is
+observed, binaries must be thermalized.  But Ambartsumian demonstrated that
+the above eccentricity distribution will be produced under a wide variety of
+conditions, so it does not follow that the population of binaries has
+thermalized if the thermal eccentricity distribution is observed. 
 
 ### Deriving eccentricity distributions the easy way
 
@@ -138,6 +140,26 @@ converge.  (This was what happened when we took it to be the Boltzmann
 factor.)
 
 This derivation of the eccentricity distribution is much simpler and much
-more general.  It is because we don't have to assume that the binaries have
-thermalized to obtain this distribution that it is often called an
-Ambartsumian distribution instead of the thermal eccentricity distribution.
+more general.  Because the assumption that the binaries are thermalized is
+not required to obtain this distribution, it is often called an Ambartsumian
+distribution instead of the thermal eccentricity distribution.
+
+From this result Ambartsumian concluded that even if the observed
+eccentricity distribution of binaries matched this distribution, one would
+be unable to conclude that the binaries actually obeyed equipartition of
+energy. 
+
+### Other arguments against Jeans
+
+Ambartsumian spends the rest of the paper making a few other points against
+Jeans.  The most important of them challenges Jeans claim that equipartition
+of energy requires at least $$10^{13}$$ years to attain.  Ambartsumian
+provides a careful calculation of the time required for equipartition of
+energy to be achieved.  Ambartsumian notes that energy changes are dominated
+by rare close passages instead of the more frequent distant passage.  From
+this it is possible to calculate the time required for equipartition of
+energy to be
+
+$$t \sim \frac{1}{n \sigma v},$$
+
+where $$\sigma$$ is the t
