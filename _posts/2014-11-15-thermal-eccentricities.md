@@ -5,6 +5,7 @@ date: 2014-11-15
 categories: classics
 image:
   feature: constellations3.jpg
+description: A look at Jeans (1919).
 ---
 
 One of the most beautiful results in dynamics is the thermal eccentricity
@@ -280,13 +281,16 @@ begin with a thermal eccentricity distribution.  Nevertheless it is a good
 confirmation of the theory that the thermal eccentricity distribution is
 maintained.
 
-As a footnote, the thermal eccentricity distribution was also derived by the
-Soviet-Armenian astronomer [Victor Ambartsumian in 1937][4], although I
-haven't been able to find a copy of this paper so I do not know how his
-derivation differs from that of Jeans.  The thermal eccentricity
-distribution is sometimes referred to as an Ambartsumian distribution.
+The thermal eccentricity distribution was also derived by the
+Soviet-Armenian astronomer [Victor Ambartsumian in 1937][4] and we have a
+separate post about his derivation [here][5].  Ambartsumian's derivation is
+more general and shows that the same eccentricity distribution can occur
+even if the binaries are not thermalized.  For this reason the thermal
+eccentricity distribution is sometimes referred to as the Ambartsumian
+distribution instead. 
 
 [1]: http://adsabs.harvard.edu/abs/1919MNRAS..79..408J
 [2]: http://adsabs.harvard.edu/abs/1918bist.book.....A
 [3]: http://adsabs.harvard.edu/abs/2013ARA&A..51..269D
-[4]: http://scholar.google.com/scholar?cluster=14253678264298101405&hl=en&as_sdt=800005&sciodt=0,15
+[4]: ../../papers/ambartsumian37.pdf
+[5]: ../../ambartsumian-distribution

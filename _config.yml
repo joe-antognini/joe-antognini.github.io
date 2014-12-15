@@ -27,6 +27,8 @@ defaults:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Archive
+    url: /archive
   - title: About
     url: /about
 

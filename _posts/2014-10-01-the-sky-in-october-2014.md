@@ -5,6 +5,7 @@ image:
   feature: constellations2.jpg
 date: 2014-10-01
 categories: sky
+description: Our monthly summary of what will be up in the sky.
 ---
 
 ## Eclipses
