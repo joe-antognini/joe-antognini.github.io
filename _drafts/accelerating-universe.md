@@ -10,7 +10,8 @@ Among the most important results in cosmology was the discovery at the tail
 end of the twentieth century of the accelerating expansion of the universe.
 This result implied that around 70% of the energy density of the universe
 was composed of some exotic substance given the placeholder name "dark
-energy."
+energy."  In this note we will review the two papers that announced this
+discovery: Riess et al. (1998) and Perlmutter et al. (1999). 
 
 ## A quest for two numbers
 
@@ -53,15 +54,39 @@ them declaring how far away they are for us!  (Or maybe this is fortunate
 job!)  For decades, the hard problem of observational cosmology was
 measuring accurate distances to distant objects.  To solve this problem one
 requires what is known as a "standard candle."  (Sometimes a "standard
-rular" is used, but we won't go into that here.)  A standard candle is
+ruler" is used, but we won't go into that here.)  A standard candle is
 simply some object whose intrinsic luminosity is known.  If you measure how
 bright it appears to be to you and you know its intrinsic brightness, you
 can figure out how far away it must be.
 
 ## Type Ia Supernovae
 
-By far the most useful standard candle for cosmology is the Type Ia
+By far the most useful standard candle for cosmology has been the Type Ia
 supernova (SN Ia).  SNe Ia are a class of supernova defined by a lack of
-hydrogen and helium lines in their spectra.  They are some of the most
-luminous phenomena in the universe, usually exceeding the luminosity of
-their host galaxy for a month or so around their peak brightness.  
+hydrogen and helium lines in their spectra and strong silicon lines.  They
+are among the most luminous phenomena in the universe, usually exceeding the
+luminosity of their host galaxy for a month or so around their peak
+brightness.  Remarkably, all SN Ia appear to exhibit roughly the same
+intrinsic luminosity.  There is a dispersion of only about two magnitudes
+(about a factor of three in luminosity), and incredibly, this variation is
+very tightly correlated with the time it takes the supernova to rise to peak
+brightness.  If the rise time of the supernova is taken into account, the
+intrinsic luminosity can be determined, and hence, the distance.  And
+because SN Ia are so bright, they can be viewed across the universe, which
+makes them ideal cosmological tools.
+
+So then what are these incredible type Ia supernovae?  This, alas, is
+unknown.  Due to the spectral features it is known that there is a white
+dwarf involved.  But whether it is a white dwarf accreting matter from a
+main sequence star or a red giant, or merging or even colliding with
+another white dwarf is not known.  We will discuss the evidence for all
+these scenarios (and a few more) in a future post. 
+
+## 
+
+The main program of SN Ia cosmology during much of the 1990s was determining
+the luminosity-rise time correlation.  (Technically the rise time is called
+the "stretch factor".)  But once a reliable way to determine intrinsic
+luminosities of SN Ia was established, measuring the Hubble constant and
+deceleration parameter was relatively easy.  All that was needed was a
+sample of SN Ia extended out to high redshifts. 
