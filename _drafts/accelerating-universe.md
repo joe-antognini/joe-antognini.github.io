@@ -47,7 +47,7 @@ known (either from laboratory measurements or fundamental physics), the
 redshift of a set of spectral lines can tell us the recession velocity quite
 accurately.
 
-Measurement of distances, however, is an entirely different matter.
+The measurement of distances, however, is an entirely different matter.
 Unfortunately for us astronomers, celestial objects don't come with signs on
 them declaring how far away they are for us!  (Or maybe this is fortunate
 --- if they did, astronomy would be much easier and we might be out of a
@@ -82,11 +82,18 @@ main sequence star or a red giant, or merging or even colliding with
 another white dwarf is not known.  We will discuss the evidence for all
 these scenarios (and a few more) in a future post. 
 
-## 
+## The Evidence
 
 The main program of SN Ia cosmology during much of the 1990s was determining
-the luminosity-rise time correlation.  (Technically the rise time is called
-the "stretch factor".)  But once a reliable way to determine intrinsic
-luminosities of SN Ia was established, measuring the Hubble constant and
-deceleration parameter was relatively easy.  All that was needed was a
-sample of SN Ia extended out to high redshifts. 
+the correlation between the intrinsic luminosity and the rise time.
+(Technically the rise time is called the "stretch factor".)  But once a
+reliable way to determine intrinsic luminosities of SN Ia was established,
+measuring the Hubble constant and deceleration parameter was relatively
+easy.  All that was needed was a sample of SN Ia extended out to high
+redshifts.  This is why two groups were able to independently discover the
+accelerating expansion of the universe within a few months of each other.
+The main result of the Riess et al. paper is here:
+
+![Riess et al. (1998)](/images/riess98a.png)
+
+## Complications
