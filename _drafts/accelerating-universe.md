@@ -37,14 +37,14 @@ known when it was coined!
 
 Measuring these two numbers accurately is an exceedingly difficult task and
 much of observational cosmology of the second half of the twentieth century
-was concerned with measuring reliable values for these numbers.  The
-essential difficulty is that to measure these parameters one needs to
-measure the distance of a number of objects and their recession velocity
-(that is, how fast they are moving away from us).  The latter measurement is
-not so difficult.  Most astrophysical sources exhibit absorption or emission
-lines in their spectra.  Since the rest wavelength of a spectral line is
-known (either from laboratory measurements or fundamental physics), the
-redshift of a set of spectral lines can tell us the recession velocity quite
+was concerned with measuring these numbers reliably.  The essential
+difficulty is that to measure these parameters one needs to measure the
+distance of a number of objects and their recession velocity (that is, how
+fast they are moving away from us).  The latter measurement is not so
+difficult.  Most astrophysical sources exhibit absorption or emission lines
+in their spectra.  Since the rest wavelength of a spectral line is known
+(either from laboratory measurements or fundamental physics), the redshift
+of a set of spectral lines can tell us the recession velocity quite
 accurately.
 
 The measurement of distances, however, is an entirely different matter.
@@ -90,10 +90,31 @@ the correlation between the intrinsic luminosity and the rise time.
 reliable way to determine intrinsic luminosities of SN Ia was established,
 measuring the Hubble constant and deceleration parameter was relatively
 easy.  All that was needed was a sample of SN Ia extended out to high
-redshifts.  This is why two groups were able to independently discover the
-accelerating expansion of the universe within a few months of each other.
-The main result of the Riess et al. paper is here:
+redshifts.  Even then, the necessary sample turned out not to be very large
+--- Riess et al. (1998) only presented ten high-redshift supernovae, but
+they were sufficient to detect the presence of dark energy to high
+confidence.  
+
+The main result of the Riess et al. paper is presented in this figure:
 
 ![Riess et al. (1998)](/images/riess98a.png)
+
+We have here the so-called Hubble diagram, a plot of distance vs.
+recessional velocity, out to redshifts of almost 0.8.  We see in the top
+panel how the universe would be expected to evolve in three fiducial models:
+one with dark energy, and two without.  Of the two models without dark
+energy, one is a low-matter universe and the other is a high matter
+universe.  We see that the prediction for the dark energy model always lies
+above both of the matter-only models.  This means that at any given distance
+(or, equivalently, at any given time in the past) a universe filled with
+dark energy is expanding more slowly than a matter-only universe.  This can
+be interpreted the other way around as meaning that the expansion of
+the universe is accelerating.  In other words, in order to get the observed
+present-day expansion of the universe, an accelerating universe must have
+been expanding more slowly in the past.
+
+Residuals for the three models are shown in the bottom panel and it is clear
+that the ten high redshift supernova all lie above the two matter-only
+models.  There is a much better fit to the dark energy model. 
 
 ## Complications
