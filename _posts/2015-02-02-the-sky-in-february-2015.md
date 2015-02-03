@@ -4,6 +4,7 @@ title: The sky in February 2015
 image:
   feature: constellations2.jpg
 categories: sky
+date: February 2, 2015
 description: Our monthly summary of what will be up in the sky.
 ---
 
@@ -24,8 +25,8 @@ midway through the night and is in the constellation Scorpius.
 
 ## Constellations
 
-Leo, Hydra, and Cancer will be high in the sky at around midnight in the
-middle of the month.
+In the beginning of the night Auriga, Taurus, and Perseus will be high in
+the sky, and towards midnight Leo, Hydra, and Cancer will be near zenith.
 
 ## Eclipses
 

@@ -117,4 +117,14 @@ Residuals for the three models are shown in the bottom panel and it is clear
 that the ten high redshift supernova all lie above the two matter-only
 models.  There is a much better fit to the dark energy model. 
 
+Of course, we don't have to try just three possible models.  We can try a
+very large number of models with all sorts of different values of
+$$\Omega\_{\Lambda}$$ and $$\Omega\_m$$ and see how likely it is that we
+would have observed the data we have.  This would then tell us the relative
+likelihoods of all the different models:
+
+![Riess et al. (1998)](/images/riess98b.png)
+
+From this figure we see that 
+
 ## Complications
