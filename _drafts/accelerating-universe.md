@@ -125,6 +125,85 @@ likelihoods of all the different models:
 
 ![Riess et al. (1998)](/images/riess98b.png)
 
-From this figure we see that 
+From this figure we can see that the best fit to the data seems to be around
+$$\Omega\_{\Lambda} = 0.7$$ and $$\Omega\_m = 0.3$$.  $$\Omega\_{\Lambda} =
+0$$ seems to be ruled out at nearly the 95% confidence level.
+
+The essential result is this (to quote from Riess et al.): "*High-redshift
+SNe Ia are observed to be dimmer than expected in an empty universe (i.e.,
+$$\Omega_m = 0$$) with no cosmological constant.*"
 
 ## Complications
+
+With a result as bizarre as this, it is natural to wonder if something more
+prosaic could be responsible for this effect.  The authors of both papers
+consider a fairly comprehensive set of potential confounding factors that
+they ultimately reject.
+
+### Evolution of SNe Ia
+
+It is possible that the SNe Ia of the early universe were somehow
+intrinsically different from SNe Ia today.  The typical metallicities of
+stars in the early universe were very different from today, so it is
+plausible that this could have some sort of an effect on the luminosity of
+the SNe Ia.  If these early SNe Ia were less luminous than today's SNe Ia,
+this could mimic the effect of dark energy.  
+
+It turns out to be very difficult to rigorously show that SN Ia evolution is
+not mimicking the effect of dark energy, but the authors of both papers make
+a very good case that this is not likely.  There have been a number studies
+that have looked at the effect of metallicity on SNe Ia in the local
+universe.  These studies have not found that metallicity changes the
+properties of the light curve much.  What seems to be more important is the
+age of the progenitor since younger white dwarfs evolve from more massive
+stars with less carbon relative to oxygen in their cores.  This ultimately
+leads to a brighter supernova that should dim more quickly than predicted.
+However, there is such a large range of progenitor ages in the nearby sample
+that a small change in the average progenitor age from the local universe to
+the high-redshift universe is unlikely to bias the result much.
+
+If high-redshift SNe Ia were intrinsically different from local SNe Ia, it
+is plausible that these differences would also show up in the shape of the
+light curve.  However, there is no statistically significant difference in
+the distributions of the light curve shapes between the local and
+high-redshift SNe Ia.  Of course, there are only ten SNe Ia in the
+high-redshift sample in the Riess et al. paper, so it is hard to make any
+strong statements with such a small sample, but the similarity between the
+two distributions is encouraging.
+
+Lastly, one might expect that if high-redshift SNe Ia were intrinsically
+different from local SNe Ia, this would manifest itself in their spectra.
+But after comparing the spectra of the high-redshift SNe Ia to local SNe Ia
+they don't see any obvious differences.  Taken together, these results seem
+to imply that high-redshift SNe Ia are not extremely different from local
+SNe Ia.
+
+### Extinction
+
+Distant supernovae will appear fainter than they actually are because
+intervening dust will absorb some of the light.  This dust does not absorb
+light at all wavelengths equally, however; blue light is preferentially
+absorbed, so dust will redden the light in a characteristic way.  By
+measuring the amount of reddening it is possible to correct for the amount
+of extinction.  
+
+But it is possible that dust in the early universe was different than dust
+in the universe today.  If the dust grains were very large (bricks), they
+would absorb the light at all wavelengths equally.  This would leave no
+reddening signal and we would be unable to correct for the extinction.  But
+dust is in general patchy, so if the observed luminosities of high-redshift
+SNe were due to dust this would introduce a much larger dispersion than is
+observed.  Furthermore, the high redshift universe contained a much larger
+amount of hard radiation which made it less hospitable for the survival of
+dust grains. 
+
+### Selection bias
+
+The bane of observational astronomers is, of course, selection bias.
+Brighter objects can be seen out to larger distances, so any sample that
+probes to the faintest sources that are detectable will have a
+disproportionate number of intrinsically bright members.
+
+### The possibility of a local void
+
+### Weak gravitational lensing
