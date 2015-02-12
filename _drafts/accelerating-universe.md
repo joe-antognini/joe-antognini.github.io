@@ -201,9 +201,39 @@ dust grains.
 
 The bane of observational astronomers is, of course, selection bias.
 Brighter objects can be seen out to larger distances, so any sample that
-probes to the faintest sources that are detectable will have a
-disproportionate number of intrinsically bright members.
+probes to the faintest detectable sources will have a disproportionate
+number of intrinsically bright members.  This turns out not to be one of the
+few measurements in astronomy that does not suffer much from selection bias,
+however.  The reason is that although the distant SNe Ia will be
+intrinsically brighter, this is accounted for in the longer rise time of the
+SNe. 
 
 ### The possibility of a local void
 
+If the Milky Way happened to be in a region of space which is relatively
+underdense compared to the rest of the universe, the gravitational force
+slowing the expansion of the universe won't be as strong.  This means that
+local galaxies will be receding from us more quickly than they otherwise
+would have without the presence of the void.  Then, relative to these local
+galaxies, more distant galaxies will appear to be receding more slowly than
+they should be.  This effect will then mimic the effect of dark energy. 
+
+There is, in fact, some evidence that the Milky Way resides in a local void
+out to about 100 Mpc.  It is straightforward enough to see if the
+accelerating expansion of the universe is due to a void --- just throw out
+all the supernovae within 100 Mpc and measure the cosmological parameters
+again.  When this is done, there is no real difference (aside from a
+reduction in the confidence of the results). 
+
 ### Weak gravitational lensing
+
+Gravitational lensing is a well known phenomenon where the presence of mass
+acts as a lens, gravitationally bending light from a background source
+around itself and focusing it for the observer.  But if the intensity is
+increased in one direction, it must be decreased in some other direction.
+Generally, if you view the source from some random direction, the intensity
+will be decreased slightly.  It is then possible that the light from the
+distant supernovae has been gravitationally defocused, making them appear
+fainter than they really are and mimicking the dark energy signal.  Given
+the amount of matter in the universe, however, it is possible to calculate
+the magnitude of this effet and it turns out to be negligible. 
