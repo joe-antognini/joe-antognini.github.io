@@ -237,3 +237,30 @@ distant supernovae has been gravitationally defocused, making them appear
 fainter than they really are and mimicking the dark energy signal.  Given
 the amount of matter in the universe, however, it is possible to calculate
 the magnitude of this effet and it turns out to be negligible. 
+
+### Sample contamination
+
+Type Ia supernovae are brighter than core collapse supernovae by about two
+magnitudes on average (a factor of six or so).  This means that if some of
+the supposed SNe Ia in the high-redshift sample were actually core collapse
+supernovae, they would be dimmer than expected, thereby mimicking the signal
+from dark energy.
+
+The only way to properly address this possibility is through spectroscopy.
+With a spectrum it is possible to unambiguously classify the supernova as a
+SN Ia or a core collapse supernova.  Unfortunately spectroscopy of such
+distant objects is difficult, so three of the high redshift SNe Ia in the
+Riess et al. paper had poor spectra.  It is possible (though unlikely) that
+these three were actually Type Ic supernovae and biased the measurement of
+the cosmological parameters to a non-zero cosmological constant.  This
+problem can be addressed by estimating the cosmological parameters using
+only the high-redshift SNe Ia with unambiguous spectra.  When this is done
+the non-zero cosmological constant remains. 
+
+## The result
+
+The result of this analysis is we can conclude with high confidence that the
+expansion of the universe is accelerating and that the majority of the
+energy density of the universe consists of dark energy.  This was a truly
+revolutionary discovery.  With it, cosmology completed its quest for two
+numbers and entered into the age of "precision cosmology."  
