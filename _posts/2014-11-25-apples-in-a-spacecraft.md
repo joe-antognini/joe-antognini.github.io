@@ -17,7 +17,7 @@ interesting problem in dynamics.
 Suppose we are in a spacecraft orbiting the Earth in a circular orbit.  The
 spacecraft is rotating such that the same side of the spacecraft always
 points toward the Earth.  That is to say its rotation period is equal to its
-revolution period, just like the Moon's.  Now we release a bushel of apples
+revolution period, just like the Moon.  Now we release a bushel of apples
 inside the spacecraft so that they are floating all around us.  How will the
 apples be distributed in the spacecraft after a long time?  We will assume
 that they are real apples, so they are inelastic and they are not massive
