@@ -40,7 +40,14 @@ timescale][3], this is the time for the star to lose energy due to
 gravitational contraction.  For a Sun-like star the thermal timescale is ~10
 Myr. 
   
-3. The **hydrodynamic timescale**.  
+3. The **hydrodynamic timescale**.  This is the timescale for a star which
+has exceeded its Roche lobe to return to the Roche lobe.  This timescale can
+be estimated by using Bernoulli's equation to calculate the mass flow
+through the first Lagrange point by modeling the mass transfer as flow
+through a cylindrical pipe.  It is difficult to calculate the hydrodynamic
+timescale exactly, but it is of order the dynamical time of the star (i.e.,
+the sound crossing time).  For a Sun-like star the hydrodynamic timescale is
+~1 hour.
 
 ## The radius-mass relationship
 

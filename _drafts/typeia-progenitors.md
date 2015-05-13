@@ -44,4 +44,12 @@ there are many open questions about core-collapse supernovae, the basic
 picture is that core collapse supernovae occur when massive stars (at least
 8 $M\_{\odot}$) run out of nuclear fuel to burn at the end of their lives. 
 
+## The single-degenerate hypothesis
+
+## The double-degenerate hypothesis
+
+## The triple scenario
+
+## Other possibilities?
+
 [1]: ../../classics/accelerating-universe
