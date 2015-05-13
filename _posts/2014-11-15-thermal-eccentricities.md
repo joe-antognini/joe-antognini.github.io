@@ -293,4 +293,4 @@ distribution instead.
 [2]: http://adsabs.harvard.edu/abs/1918bist.book.....A
 [3]: http://adsabs.harvard.edu/abs/2013ARA&A..51..269D
 [4]: ../../papers/ambartsumian37.pdf
-[5]: ../../ambartsumian-distribution
+[5]: ../../classics/ambartsumian-distribution
