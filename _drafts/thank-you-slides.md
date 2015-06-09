@@ -9,8 +9,8 @@ image:
 
 There are many ways to give bad talks, but one guaranteed way to make your
 talk worse than it would have otherwise been is to add a "Thank You" slide
-at the end.  A big slide that says nothing but "Thank you" that you leave up
-during the questions session.
+at the end.  You know the one --- big slide that says nothing but "Thank
+you" that you leave up after you've finished your talk.
 
 Don't do it.  There's no point.  It is a complete waste of a slide.  You
 have just spent 15, 20, 30 minutes, maybe even an hour, describing to your
