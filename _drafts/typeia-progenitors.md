@@ -111,9 +111,25 @@ puffing it up, increasing its luminosity, and emitting light in the spectral
 lines of hydrogen.  Yet even very deep spectra of nearby Type Ia supernovae
 have not revealed any hydrogen in the spectrum at all.  It is difficult to
 reconcile these modern observational constrains with the single degenerate
-model, and for this reason it is beginning to fall out of favor.
+model, and for this reason the double degenerate model has begun to become
+more popular.
 
 ## The double-degenerate model
+
+In the double degenerate model there are two white dwarfs instead of one.
+In any binary system, the two objects will lose orbital energy due to
+gravitational radiation and the orbit will shrink.  Given enough time, the
+orbit of two white dwarfs will shrink to the point that they merge and
+coalesce into a single white dwarf.  If the merger product exceeds the
+Chandrasekhar mass, the white dwarf may then collapse and explode as a Type
+Ia supernova.  
+
+The difficulty with the double degenerate model has historically been the
+assumption above of "given enough time."  One can look out in the universe
+and count up the number of white dwarf-white dwarf binaries at various
+orbital sizes and then estimate the rate at which they should merge in the
+Galaxy.  These estimates are generally at least an order of magnitude
+smaller than the observed rate of Type Ia supernovae.
 
 ## The triple scenario
 
