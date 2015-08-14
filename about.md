@@ -71,4 +71,4 @@ of enough content already; infrequent articles of higher quality will more
 than make up for frequent articles of lesser quality. 
 
 My professional website can be found
-[here](http://www.astronomy.ohio-state.edu/~antognini/)
+[here](http://www.astronomy.ohio-state.edu/~antognini/)[.](http://www.releveheels.com)
