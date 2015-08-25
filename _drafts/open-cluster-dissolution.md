@@ -154,9 +154,119 @@ $$\frac{\Delta M}{M_0} = \frac{a_1}{a_0}.$$
 
 This means that the fractional amount of mass loss necessary to unbind the
 cluster is exactly equal to the fractional change in radius the cluster has
-undergone. 
+undergone.  This then leads to the question:
 
 ## How much does the cluster radius change?
+
+The basic picture of the formation of a star cluster is that the
+protocluster begins as a molecular cloud with some radius and average
+density, $\left< \rho_0 \right>$ which then shrinks under its own
+gravitational influence.  However, the cloud is not of uniform density ---
+some pockets of the cloud will be somewhat denser than others and will
+therefore collapse faster.  To determine how much the cluster radius changes
+we must estimate by how much the cluster has collapsed at the time the
+densest pockets have formed stars (which, for the purposes of this estimate
+is the time that these dense pockets have collapsed to zero radius).  
+
+We'll begin by writing down the equation of motion for some shell that
+starts at radius $r_0$:
+
+$$\frac{ d^2 r}{dt^2} = - \frac{G M(r_0)}{r^2 = - \frac{4 \pi G \left<
+\rho_0 \right> r_0^3}{3 r^2}.$$
+
+If we multiply both sides by $dr/dt$, we can integrate to find
+
+$$\frac{1}{r_0} \frac{dr}{dt} = - \sqrt{\frac{8}{3} \pi G \left< \rho_0
+\right> \left( \frac{r_0}{r} - 1 \right)}.$$
+
+This is a tricky differential equation to solve, but if we make the clever
+substitution $r/r_0 = \cos^2 \beta$, we can rewrite it as
+
+$$\frac{d \beta}{dt} = \frac{1}{2} \sqrt{ \frac{8}{3} \pi G \left< \rho_0
+\right>} \sec^2 \beta,$$
+
+which is then easily integrated to yield the collapse equation:
+
+$$\beta + \frac{1}{2} \sin 2 \beta = t \sqrt{ \frac{8}{3} \pi G \left<
+\rho_0 \right>.$$
+
+Now suppose that some pocket in the protocluster began with a slight
+overdensity, $\rho^{\prime}$.  The time this pocket to collapse to zero
+radius can be found by setting $\beta = \pi / 2$ and solving for $t$:
+
+$$t_c = \sqrt{ \frac{3 \pi}{32 G \rho^{\prime}}}.$$
+
+We can then write the collapse equation in terms of $t_c$ and radii:
+
+$$\frac{r}{r_0} + \sqrt{\frac{r}{r_0} - \left( \frac{r}{r_0} \right)^3} =
+\frac{\pi}{2} \sqrt{ \frac{\left< \rho_0 \right>}{\rho^{\prime}}}.$$
+
+So in order to estimate the radius of the cluster at the time the most
+massive stars form (i.e., $r/r_0$), we must estimate $\left< \rho_0 \right>
+/ \rho^{\prime}$.  If we assume that the molecular cloud is rather
+homogeneous, and the greatest density fluctuations are only 10%, then we can
+numerically solve the above equation to find $r/r_0 \approx 0.2$.  The more
+homogeneous the cloud begins, the smaller $r/r_0$ is.  It is therefore
+plausible that a typical protocluster will have $r_0 / r \sim 10$.  If we
+use this estimate with our result from the previous section, we find that
+the cluster needs to lose only 10% of its mass to become unbound. 
+
+## Why does so little mass need to be lost?
+
+Let us picture the process of virialization.  We begin with a cluster of
+stars, all stationary and at a very large distance.  Due to their mutual
+gravitational attraction, they begin to fall to the center of the cluster
+and pick up speed.  As they pass through the center of the cluster, they
+have strong gravitational interactions with each other.  This process
+transfers energy among the stars and redirects their trajectories.  However,
+the stars generally have enough velocity that they make it out to nearly the
+same distance that they started at roughly the same time.  Over a long
+enough time, the strong gravitational encounters at the center of the
+cluster serve to transfer enough energy between stars that the trajectories
+of the stars become sufficiently randomized that as some stars are at
+apocenter, other stars are passing through the center of the cluster and the
+cluster has become virialized. 
+
+Now, if the cluster loses mass at the very beginning of its life when the
+stars are at a very large distance it is not going to affect this process.
+The stars will pass through the center with lower speed, but qualitatively
+nothing else will change.  This is because when the mass is lost from the
+system, it takes the gravitational potential energy it had away with it.
+
+If, however, the mass loss takes place as the stars are passing through the
+center of the cluster the situation is different.  At this point, the
+gravitational potential energy from the mass that is lost has been
+transferred to the mass that remains in the form of kinetic energy.  In
+other words, the extra mass has increased the speed of the stars as they
+pass through the center of the cluster.  When the mass is then lost, it is
+unable to contribute to the gravitational attraction that slows the stars
+down enough to keep them bound.  The closer the stars are to the center of
+the cluster when mass is lost, the more mass needs to remain to keep the
+cluster bound since nearly all of the energy is in kinetic energy at this
+point.  Since the cluster will have collapsed by quite a bit by the time the
+first supernovae go off if it began relatively homogeneous, this means that
+only a modest amount of mass needs to be lost to unbind the cluster.
+
+## What is the velocity of the unbound stars?
+
+If the mass loss succeeds in unbinding the cluster, how fast do the stars
+escape?  Conservation of energy states that after mass loss we have
+
+$$\frac{1}{2} M \left< v_{\infty}^2 \right> = \frac{1}{2} M \left< v^2
+\right> - \frac{3}{5} \frac{G M^2}{a_1},$$
+
+which can be rewritten in terms of the velocity dispersion that the cluster
+would have after virialization if mass loss had not occured, $\left< v_c^2
+\right>$, as
+
+$$\left< v_{\infty}^2 \right>^{1/2} = \left< v_c^2 \right>^{1/2} \sqrt{
+\left( \frac{a_0}{a_1} \right) \left( \frac{ \Delta M}{M_0} \right) - 1}.$$
+
+So for reasonable amounts of mass loss the expansion velocity will be only a
+few times larger than the velocity dispersion of the virialized cluster.
+This means that for a massive O star with a lifetime of a few tens of
+millions of years and an escape velocity of a few km / s, the supernova will
+take place of order 100 pc away from its birthsite!
 
 [1]: http://adsabs.harvard.edu/abs/1980ApJ...235..986H
 [2]: https://en.wikipedia.org/wiki/Virial_theorem
