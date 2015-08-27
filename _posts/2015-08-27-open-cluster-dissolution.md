@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How much mass must an open cluster lose to become unbound?
-date: 2015-08-17
+date: 2015-08-27
 categories: classics
 image:
   feature: constellations3.jpg
@@ -22,7 +22,7 @@ exception rather than the rule.
 So we know that open clusters dissociate after a short period of time, but
 why does this happen?  The very brief answer is that open clusters are only
 barely bound --- they consist of a loose collection of gas and stars.  When
-the most massive stars in the cluster go supernova, they shocks from the
+the most massive stars in the cluster go supernova, the shocks from the
 supernovae drive out much of the gas.  This removes some of the mass from
 the cluster, which unbinds it.  But how much mass must be removed to unbind
 the cluster?  Is it plausible that enough mass is still in the gas phase at
@@ -48,7 +48,7 @@ have the same velocities they did before, but the total mass of the cluster
 will be reduced to $$M$$.  The cluster will be out of equilibrium now, and
 will have energy
 
-$$E = \frac{1}{2} \left( M v_0^2 - \frac{G M^2}{R_0} \right)$$
+$$E = \frac{1}{2} \left( M v_0^2 - \frac{G M^2}{R_0} \right).$$
 
 Once virial equilibrium is regained, the radius of the cluster will have
 changed, but the energy will be the same:
@@ -62,11 +62,11 @@ $$ \frac{R}{R_0} = \frac{M_0 - \Delta M}{M_0 - 2 \Delta M}.$$
 We see that this ratio diverges if half the mass of the cluster is lost.
 Thus, in a virialized system half the mass needs to be lost to unbind it.
 
-### An aside: adiabatic mass loss
+### _An aside: adiabatic mass loss_
 
 Hills (1980) next briefly states the case of adiadabatic mass loss.  This
 isn't particularly relevant to the question at hand but is good to know, so
-I'll present here as an aside.
+I'll just state it here.
 
 Adiabatic mass loss occurs whenever the fractional mass lost is small on the
 dynamical timescale.  This means that the system always remains in virial
@@ -80,8 +80,8 @@ instantaneous mass loss above and substitute $$-dm$$ for $$\Delta M$$ and
 $$(R + dr) / R$$ for $$R/R_0$$ and integrate.
 
 In this case, the initial-final radius relationship diverges only for
-$$\Delta M = M_0$$.  In other words, the cluster always remains bound until
-you remove all the mass from it entirely. 
+$$\Delta M = M_0$$.  In other words, the cluster always remains bound no
+matter how much mass you remove.
 
 ## Mass loss prior to virialization
 
@@ -91,17 +91,17 @@ will still be contracting and this will affect the amount of mass loss that
 will be necessary to unbind the cluster.
 
 Suppose that a cluster of constant density, $$\rho_0$$, starts out at a
-radius $$a_0$$ and then some time later has collapsed to a radius $$a_1$$
+radius $$R_0$$ and then some time later has collapsed to a radius $$R_1$$
 when the supernovae go off and drive mass out of the system.  What is the
 energy of the cluster at this point?  Let's start by considering the
 velocity of the outer shell.  Initially its energy is all in potential
 energy, so we have
 
-$$E = - \frac{4}{3} \pi G \rho_0 a_0^2.$$
+$$E = - \frac{4}{3} \pi G \rho_0 R_0^2.$$
 
 The energy of the outer shell is conserved, so we have at this later time
 
-$$v(a_1)^2 = \frac{8}{3} \pi G \rho_0 a_0 \left( \frac{a_0}{a_1} - 1
+$$v(R_1)^2 = \frac{8}{3} \pi G \rho_0 R_0 \left( \frac{R_0}{R_1} - 1
 \right).$$
 
 What about the velocity of some interior shell?  Well, since we are assuming
@@ -111,19 +111,18 @@ the acceleration scales as $$a \sim r$$.  Since the velocity after some time
 is just $$v = a t$$, we have just $$v \sim r$$.  Thus we can scale our
 result above to arbitrary radii:
 
-$$v(r)^2 = \frac{8}{3} \pi G \rho_0 a_0 \left( \frac{r}{a_1} \right)^2
-\left( \frac{a_0}{a_1} - 1 \right).$$
+$$v(r)^2 = \frac{8}{3} \pi G \rho_0 R_0 \left( \frac{r}{R_1} \right)^2
+\left( \frac{R_0}{R_1} - 1 \right).$$
 
 Integrating over the entire shell, we can calculate the kinetic energy of
 the entire cluster at this later time to be
 
-$$T_0 = \frac{3 G M_0^2}{5 a_0} \left( \frac{a_0}{a_1} - 1 \right),$$
+$$T_0 = \frac{3 G M_0^2}{5 R_0} \left( \frac{R_0}{R_1} - 1 \right).$$
 
-where $$M_0$$ is the initial mass of the cluster.  The mean-squared velocity
-of the stars in the cluster at the time of mass loss, $$\left< v^2 \right> =
-2T / M_0$$ is then
+The mean-squared velocity of the stars in the cluster at the time of mass
+loss, $$\left< v^2 \right> = 2T / M_0$$ is then
 
-$$\left< v^2 \right> = \frac{6 G M_0}{5 a_0} \left( \frac{a_0}{a_1} - 1
+$$\left< v^2 \right> = \frac{6 G M_0}{5 R_0} \left( \frac{R_0}{R_1} - 1
 \right).$$
 
 After the mass loss takes place, the mean-squared velocity of the stars
@@ -134,34 +133,34 @@ $$T = \frac{1}{2} M \left< v_{\infty}^2 \right>,$$
 and the potential energy is (this can be looked up in a textbook or [on
 Wikipedia][3]):
 
-$$U = - \frac{3 G M^2}{5 a_1}.$$
+$$U = - \frac{3 G M^2}{5 R_1}.$$
 
 Eventually the cluster will come into virial equilibrium with some effective
-radius $$R$$, such that the total energy is half the potential energy:
+radius $$R_f$$, such that the total energy is half the potential energy:
 
-$$E = - \frac{3 G M^2}{10 R}.$$
+$$E = - \frac{3 G M^2}{10 R_f}.$$
 
 We can now use these equations to relate the final radius, $$R$$, with the
-initial radius, $$a_0$$, to find:
+initial radius, $$R_0$$, to find:
 
-$$\frac{R}{a_0} = \frac{1}{2} \left[ \frac{M_0 - \Delta M}{M_0 - \Delta M
-(a_0 / a_1)} \right].$$
+$$\frac{R_f}{R_0} = \frac{1}{2} \left[ \frac{M_0 - \Delta M}{M_0 - \Delta M
+(R_0 / R_1)} \right].$$
 
-An unbound cluster has $$R \to \infty$$, so from this we can easily see how
+An unbound cluster has $$R_f \to \infty$$, so from this we can easily see how
 much mass loss is necessary to unbind the cluster just by setting the
 denominator equal to zero:
 
-$$\frac{\Delta M}{M_0} = \frac{a_1}{a_0}.$$
+$$\frac{\Delta M}{M_0} = \frac{R_1}{R_0}.$$
 
 This means that the fractional amount of mass loss necessary to unbind the
 cluster is exactly equal to the fractional change in radius the cluster has
-undergone.  This then leads to the question:
+undergone.  This then raises the question:
 
 ## How much does the cluster radius change?
 
 The basic picture of the formation of a star cluster is that the
 protocluster begins as a molecular cloud with some radius and average
-density, $$\left< \rho_0 \right>$$ which then shrinks under its own
+density, $$\left< \rho_0 \right>$$, which then shrinks under its own
 gravitational influence.  However, the cloud is not of uniform density ---
 some pockets of the cloud will be somewhat denser than others and will
 therefore collapse faster.  To determine how much the cluster radius changes
@@ -199,18 +198,20 @@ $$t_c = \sqrt{ \frac{3 \pi}{32 G \rho^{\prime}}}.$$
 
 We can then write the collapse equation in terms of $$t_c$$ and radii:
 
-$$\frac{r}{r_0} + \sqrt{\frac{r}{r_0} - \left( \frac{r}{r_0} \right)^3} =
-\frac{\pi}{2} \sqrt{ \frac{\left< \rho_0 \right>}{\rho^{\prime}}}.$$
+$$\frac{R_1}{R_0} + \sqrt{\frac{R_1}{R_0} - \left( \frac{R_1}{R_0}
+\right)^3} = \frac{\pi}{2} \sqrt{ \frac{\left< \rho_0
+\right>}{\rho^{\prime}}}.$$
 
 So in order to estimate the radius of the cluster at the time the most
-massive stars form (i.e., $$r/r_0$$), we must estimate $$\left< \rho_0
+massive stars form (i.e., $$R_1/R_0$$), we must estimate $$\left< \rho_0
 \right> / \rho^{\prime}$$.  If we assume that the molecular cloud is rather
 homogeneous, and the greatest density fluctuations are only 10%, then we can
-numerically solve the above equation to find $$r/r_0 \approx 0.2$$.  The
-more homogeneous the cloud begins, the smaller $$r/r_0$$ is.  It is
-therefore plausible that a typical protocluster will have $$r_0 / r \sim
-10$$.  If we use this estimate with our result from the previous section, we
-find that the cluster needs to lose only 10% of its mass to become unbound. 
+numerically solve the above equation to find $$R_1/R_0 \approx 0.2$$.  The
+more homogeneous the cloud begins, the smaller $$R_1/R_0$$ is.  It is
+therefore plausible that a typical protocluster will have $$R_0 / R_1 \sim
+10$$ or more.  If we use this estimate with our result from the previous
+section, we find that the cluster needs to lose only 10% of its mass to
+become unbound. 
 
 ## Why does so little mass need to be lost?
 
@@ -254,14 +255,14 @@ If the mass loss succeeds in unbinding the cluster, how fast do the stars
 escape?  Conservation of energy states that after mass loss we have
 
 $$\frac{1}{2} M \left< v_{\infty}^2 \right> = \frac{1}{2} M \left< v^2
-\right> - \frac{3}{5} \frac{G M^2}{a_1},$$
+\right> - \frac{3}{5} \frac{G M^2}{R_1},$$
 
 which can be rewritten in terms of the velocity dispersion that the cluster
-would have after virialization if mass loss had not occured, $$\left< v_c^2
+would have after virialization if mass loss had not occurred, $$\left< v_c^2
 \right>$$, as
 
 $$\left< v_{\infty}^2 \right>^{1/2} = \left< v_c^2 \right>^{1/2} \sqrt{
-\left( \frac{a_0}{a_1} \right) \left( \frac{ \Delta M}{M_0} \right) - 1}.$$
+\left( \frac{R_0}{R_1} \right) \left( \frac{ \Delta M}{M_0} \right) - 1}.$$
 
 So for reasonable amounts of mass loss the expansion velocity will be only a
 few times larger than the velocity dispersion of the virialized cluster.
@@ -278,19 +279,21 @@ magnetic fields threading the cluster will become more compact, leading to a
 higher magnetic energy density.  This will result in an additional source of
 pressure which will serve to resist the collapse of the cluster.  Thus,
 although we estimated that the cluster would have collapsed to some fraction
-of its radius, $$r / r_0$$ at the time of mass loss, the cluster will
+of its radius, $$R_1 / R_0$$ at the time of mass loss, the cluster will
 actually have only collapsed to some larger fraction of its radius
-$$r^{\prime} / r_0$$ (where $$r^{\prime} > r$$) due to the extra magnetic
-pressure.  The exact amount by which $$r^{\prime}$$ is larger than $$r$$
+$$R^{\prime} / R_0$$ (where $$R^{\prime} > R_1$$) due to the extra magnetic
+pressure.  The exact amount by which $$R^{\prime}$$ is larger than $$R_1$$
 will depend on how much energy is in magnetic fields compared to
 gravitational potential energy.  
 
 Since the energy density in magnetic fields in the ISM is comparable to the
 thermal energy density (and pretty much every thing else, as it happens), we
-can a priori guess that magnetic fields will have an order unity effect on
-the evolution of the cluster.  So, for the cluster above where we estimated
-that only 10% of mass loss was necessary to unbind the cluster, it might be
-more like 15% or 20%.  As it happens, this guess is correct.
+can a priori guess that in a protocluster with strong magnetic fields, the
+magnetic fields will have an order unity effect on the evolution of the
+cluster.  So, for the cluster above where we estimated that only 10% of mass
+loss was necessary to unbind the cluster, it might be more like 15% or 20%.
+The more careful analysis of Hills (1980) reveals that this guess appears to
+be correct.
 
 [1]: http://adsabs.harvard.edu/abs/1980ApJ...235..986H
 [2]: https://en.wikipedia.org/wiki/Virial_theorem
