@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are the progenitors of Type Ia supernovae?
-date: 2014-12-20
+date: 2015-9-2
 categories: unsolved-problems
 image:
   feature: constellations3.jpg
@@ -100,22 +100,22 @@ mass white dwarf.  If the explosions were to typically occur in lower mass
 (and hence less dense) white dwarfs it would be difficult to explain the
 abundance of magnesium observed in the Sun and other Sun-like stars.
 
-There are, however, three principal difficulties with the single degenerate
-model.  Two of these difficulties are related to the observational fact that
-no hydrogen is observed in the spectrum.  The first is that it turns out to
-be very difficult for the white dwarf to accrete matter from its companion
-in a way consistent with observations.  If the white dwarf accretes matter
-too quickly, it builds up a large hydrogen or helium atmosphere which
-engulfs its own Roche lobe, leading to common envelope evolution.  But if
-the white dwarf accretes matter too slowly, it builds up a thin, cold
-degenerate hydrogen atmosphere.  Once the atmosphere gets heavy enough, it
-can rapidly ignite hydrogen burning.  This then causes a small explosion in
-the hydrogen atmosphere of the white dwarf which blows away the rest of the
-accreted material, leading to no net mass gain.  There seems to be only a
-small range of mass transfer rates (only a factor of a few wide) within
-which it is possbile for the white dwarf to steadily gain mass.  To achieve
-these mass transfer rates is certainly possible in some systems, but seems
-to require fine tuning in general. 
+There are, however, several difficulties with the single degenerate model.
+Two of these difficulties are related to the observational fact that no
+hydrogen is observed in the spectrum.  The first is that it turns out to be
+very difficult for the white dwarf to accrete matter from its companion in a
+way consistent with observations.  If the white dwarf accretes matter too
+quickly, it builds up a large hydrogen or helium atmosphere which engulfs
+its own Roche lobe, leading to common envelope evolution.  But if the white
+dwarf accretes matter too slowly, it builds up a thin, cold degenerate
+hydrogen atmosphere.  Once the atmosphere gets heavy enough, it can rapidly
+ignite hydrogen burning.  This then causes a small explosion in the hydrogen
+atmosphere of the white dwarf which blows away the rest of the accreted
+material, leading to no net mass gain.  There seems to be only a small range
+of mass transfer rates (only a factor of a few wide) within which it is
+possbile for the white dwarf to steadily gain mass.  To achieve these mass
+transfer rates is certainly possible in some systems, but seems to require
+fine tuning in general. 
 
 The second difficulty with the single degenerate model is simply the lack of
 hydrogen observed in the spectrum.  The white dwarf is accreting hydrogen,
@@ -125,11 +125,7 @@ accretion disk would appear in the spectrum.  In fact, the energy of the
 shock from the explosion on the companion star would have the effect of
 puffing it up, increasing its luminosity, and emitting light in the spectral
 lines of hydrogen.  Yet even very deep spectra of nearby Type Ia supernovae
-have not revealed any hydrogen in the spectrum at all.  
-
-The final difficulty with the single degenerate model lies with what is
-called the "delay time distribution."  
-It is difficult to
+have not revealed any hydrogen in the spectrum at all.  It is difficult to
 reconcile these modern observational constrains with the single degenerate
 model, and for this reason the double degenerate model has begun to become
 more popular.
@@ -161,12 +157,14 @@ degenerate model quite easily predicts that the observed rate of Type Ia
 supernovae should fall off inversely with time for the whole lifetime of the
 universe.
 
-The difficulty with the double degenerate model has historically been the
-assumption above of "given enough time."  One can look out in the universe
-and count up the number of white dwarf-white dwarf binaries at various
-orbital sizes and then estimate the rate at which they should merge in the
-Galaxy.  These estimates are generally at least an order of magnitude
-smaller than the observed rate of Type Ia supernovae.
+The difficulty with the double degenerate model has historically been the a
+problem of rates.  One can look out in the universe and count up the number
+of white dwarf-white dwarf binaries at various orbital sizes and then
+estimate the rate at which they should merge in the Galaxy.  These estimates
+are generally at least an order of magnitude smaller than the observed rate
+of Type Ia supernovae.  The double degenerate model also has trouble
+reproducing the observed abundances of magnesium compared to the single
+degenerate model.
 
 ## The triple scenario
 
@@ -182,11 +180,31 @@ The key to the triple scenario is that if the orbit of the tertiary is at a
 high inclination relative to the inner WD-WD binary, it will induce
 Kozai-Lidov oscillations in the inner binary.  Over time, it will cause the
 eccentricity of the inner binary to oscillate from relatively small values
-to extremely large values. 
+to extremely large values.  At these extremely large eccentricities,
+gravitational wave radiation is much more efficient, greatly reducing the
+merger time.  The accelerated merger of the white dwarfs in the inner binary
+due to the tertiary may therefore serve to mitigate some of the rate
+problems that the traditional double degenerate model has.
 
-## Other models
+An even more exciting variant of the triple scenario is that if the
+eccentricity of the inner orbit becomes large enough its angular momentum
+can fluctuate stochastically due to the perturbative influence of the
+tertiary.  Given enough time, this can lead to the two white dwarfs to
+actually collide head-on.
+
+The strongest piece of evidence in favor of these collisions is the
+appearence of double peaked spectral lines in the late time spectrum of Type
+Ia supernovae.  These peaks are moving relative to each other at several
+thousands of kilometers per second.  Unfortunately these double peaks have
+not been studied in much detail.  [The only paper][5] published on them
+found them in three Type Ia supernovae out of a sample of twenty, and it is
+unclear if those three are really typical.
+
+The main issue with the triple scenario is how to construct a WD-WD binary
+with a highly inclined tertiary in the first place.  
 
 [1]: ../../classics/accelerating-universe
 [2]: http://en.wikipedia.org/wiki/Roche_lobe
 [3]: http://en.wikipedia.org/wiki/Chandrasekhar_limit
 [4]: http://snworkshop.obs.carnegiescience.edu/
+[5]: http://arxiv.org/abs/1401.3347
