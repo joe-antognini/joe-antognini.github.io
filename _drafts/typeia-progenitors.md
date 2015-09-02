@@ -7,7 +7,7 @@ image:
   feature: constellations3.jpg
 ---
 
-## Dark energy's dark secret
+## Dark energy's secret
 
 I discussed in a [previous article][1] one of the most important discoveries
 in all of astronomy --- the discovery of dark energy.  Key to this is an
@@ -26,10 +26,11 @@ progenitors so I thought I would summarize the state of the field.
 
 ## What we do know about Type Ia supernovae
 
-Strictly speaking, the Type Ia classification is a *spectroscopic*
-and *photometric* classification.  It is important to note that the classification does not
-really care what the supernova *is*, only on the spectral features it has.
-A Type Ia supernova spectrum has the following characteristics:
+Strictly speaking, the Type Ia classification is a *spectroscopic* and
+*photometric* classification.  It is important to note that the
+classification does not really care what the supernova *is*, only on the
+spectral features it has.  A Type Ia supernova spectrum has the following
+characteristics:
 
 1. No hydrogen lines in the spectrum
 2. No helium lines in the spectrum
@@ -201,10 +202,36 @@ found them in three Type Ia supernovae out of a sample of twenty, and it is
 unclear if those three are really typical.
 
 The main issue with the triple scenario is how to construct a WD-WD binary
-with a highly inclined tertiary in the first place.  
+with a highly inclined tertiary in the first place.  One would imagine that
+if Kozai-Lidov oscillations can drive two white dwarfs to collide then
+Kozai-Lidov oscillations would drive the two stars to coalesce while still
+on the main sequence.  This concern is borne out by more careful
+calculations.  It may be possible to get around this problem, however.  If
+the triple started at low inclination, Kozai-Lidov oscillations would not
+occur and the two main sequence stars would not interact.  Eventually, after
+evolving into white dwarfs, the triple might be reoriented in some way ---
+perhaps during the mass loss process or if another star were to pass near
+the triple --- and be pushed to high inclination so that Kozai-Lidov
+oscillations could begin.  Whether any of these processes can produce enough
+high inclination triples is still an open question (and a focal point of my
+research), but the early results are that it is difficult to do so.
+
+## Where we are now
+
+The current state of affairs in Type Ia supernova research is undoubtedly
+unsatisfying.  There seems to be strong evidence both in favor and against
+the single degenerate model and the double degenerate model.  Can it be
+both?  Unfortunately, the evidence seems to argue against that possibility
+as well.  Nearly all Type Ia supernovae fall on a very tight curve relating
+the luminosity of the supernova to the decay time of the light curve after
+maximum light, known as the [Phillips relation][6].  The scatter on the
+Phillips relation is very small and the curve appears very smooth (i.e.,
+there are no breaks).  It is hard to imagine how a mix of two very different
+physical scenarios could produce a one-parameter curve with no break.  
 
 [1]: ../../classics/accelerating-universe
-[2]: http://en.wikipedia.org/wiki/Roche_lobe
-[3]: http://en.wikipedia.org/wiki/Chandrasekhar_limit
+[2]: https://en.wikipedia.org/wiki/Roche_lobe
+[3]: https://en.wikipedia.org/wiki/Chandrasekhar_limit
 [4]: http://snworkshop.obs.carnegiescience.edu/
 [5]: http://arxiv.org/abs/1401.3347
+[6]: https://en.wikipedia.org/wiki/Phillips_relationship
