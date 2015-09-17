@@ -214,20 +214,27 @@ perhaps during the mass loss process or if another star were to pass near
 the triple --- and be pushed to high inclination so that Kozai-Lidov
 oscillations could begin.  Whether any of these processes can produce enough
 high inclination triples is still an open question (and a focal point of my
-research), but the early results are that it is difficult to do so.
+research), but the preliminary results suggest that it is difficult to do
+so.
 
 ## Where we are now
 
 The current state of affairs in Type Ia supernova research is undoubtedly
 unsatisfying.  There seems to be strong evidence both in favor and against
 the single degenerate model and the double degenerate model.  Can it be
-both?  Unfortunately, the evidence seems to argue against that possibility
-as well.  Nearly all Type Ia supernovae fall on a very tight curve relating
-the luminosity of the supernova to the decay time of the light curve after
-maximum light, known as the [Phillips relation][6].  The scatter on the
-Phillips relation is very small and the curve appears very smooth (i.e.,
-there are no breaks).  It is hard to imagine how a mix of two very different
-physical scenarios could produce a one-parameter curve with no break.  
+both?  Possibly.  However, the case for a mix of models must explain another
+observational fact: nearly all Type Ia supernovae fall on a very tight curve
+relating the luminosity of the supernova to the decay time of the light
+curve after maximum light, known as the [Phillips relation][6].  The scatter
+on the Phillips relation is very small and the curve appears very smooth
+(i.e., there are no breaks).  It seems at least peculiar that a mix of two
+very different physical scenarios could produce a one-parameter curve with
+no break.  But it is perhaps not so outrageous to imagine that the two
+models could both reproduce the Phillips curve.  Since degenerate objects
+are relatively simple physical objects, it may just be that degenerate
+object explosions generically appear similar no matter the mechanism that
+led to the explosion.  Alas, the SN Ia community is still far from answering
+these questions.
 
 [1]: ../../classics/accelerating-universe
 [2]: https://en.wikipedia.org/wiki/Roche_lobe
