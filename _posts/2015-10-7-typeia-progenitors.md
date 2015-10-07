@@ -32,15 +32,15 @@ classification does not really care what the supernova *is*, only on the
 features of the spectrum and light curve.  A Type Ia supernova has the
 following characteristics:
 
-1. No hydrogen lines in the spectrum
-2. No helium lines in the spectrum
-3. There is a secondary peak in the infrared light curve 
+1. There is a secondary peak in the infrared light curve 
+2. No hydrogen lines in the spectrum
+3. No helium lines in the spectrum
 
-And that's it.  In practice the third point is often not used when
+And that's it.  In practice the first point is often not used when
 classifying a supernova and instead an alternate spectroscopic
 characteristic is used:
 
-3. Silicon lines are present in the spectrum
+1. Silicon lines are present in the spectrum
 
 Other supernova classes have different spectral lines in their spectra.
 Despite the fact that this classification scheme is not based on what the
@@ -48,8 +48,8 @@ supernova really *is*, it so happens that Type Ia supernovae are physically
 quite different from other kinds of supernova, which are collectively
 referred to as core-collapse supernovae.  Although there are many open
 questions about core-collapse supernovae, the basic picture is that core
-collapse supernovae occur when massive stars (at least 8 $M\_{\odot}$ or so)
-run out of nuclear fuel to burn at the end of their lives. 
+collapse supernovae occur when massive stars (at least 8 $$M_{\odot}$$ or
+so) run out of nuclear fuel to burn at the end of their lives. 
 
 Type Ia supernovae are a completely different kind of phenomenon.  What we
 do know from the spectroscopic properties and the shape of the light curve
@@ -57,11 +57,12 @@ is that Type Ia supernovae are exploding white dwarfs.  Most white dwarfs
 are made principally of carbon and oxygen, and if the density of the white
 dwarf gets large enough, the carbon and oxgyen can be made to undergo a
 runaway thermonuclear reaction.  In this reaction, the carbon and oxygen of
-the white dwarf burns all the way to $^{56}$Ni, which is an unstable isotope
-with a half-life of 9 days.  The $^{56}$Ni then decays to $^{56}$Co, which
-is also unstable with a half-life of 114 days.  The $^{56}$Co then decays to
-$^{56}$Fe, which is stable.  It is the radioactive decay of nickel and
-cobalt that powers the light curve of the supernova.
+the white dwarf burns all the way to $$^{56}$$Ni, which is an unstable
+isotope with a half-life of 9 days.  The $$^{56}$$Ni then decays to
+$$^{56}$$Co, which is also unstable with a half-life of 114 days.  The
+$$^{56}$$Co then decays to $$^{56}$$Fe, which is stable.  It is the
+radioactive decay of nickel and cobalt that powers the light curve of the
+supernova.
 
 The central question of the Type Ia supernova progenitor problem is: **What
 causes the white dwarf to explode?**  An isolated white dwarf is stable, so
