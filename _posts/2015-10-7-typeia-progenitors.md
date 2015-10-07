@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are the progenitors of Type Ia supernovae?
-date: 2015-9-2
+date: 2015-10-7
 categories: unsolved-problems
 image:
   feature: constellations3.jpg
@@ -11,7 +11,7 @@ image:
 
 I discussed in a [previous article][1] one of the most important discoveries
 in all of astronomy --- the discovery of dark energy.  Key to this is an
-accurate measurement of the distances and recessional velocities of distant
+accurate measurement of the distances and recession velocities of distant
 galaxies.  For this, cosmologists have used Type Ia supernovae.  
 
 Type Ia supernovae are ideal for cosmological measurements.  They are
@@ -29,8 +29,8 @@ progenitors so I thought I would summarize the state of the field.
 Strictly speaking, the Type Ia classification is a *spectroscopic* and
 *photometric* classification.  It is important to note that the
 classification does not really care what the supernova *is*, only on the
-spectral features it has.  A Type Ia supernova spectrum has the following
-characteristics:
+features of the spectrum and light curve.  A Type Ia supernova has the
+following characteristics:
 
 1. No hydrogen lines in the spectrum
 2. No helium lines in the spectrum
@@ -66,7 +66,7 @@ cobalt that powers the light curve of the supernova.
 The central question of the Type Ia supernova progenitor problem is: **What
 causes the white dwarf to explode?**  An isolated white dwarf is stable, so
 some companion must be present.  But it is unknown what the companion is.
-We here describe the competing models.  
+Here are the competing models:
 
 ## The single-degenerate model
 
