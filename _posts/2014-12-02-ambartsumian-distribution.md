@@ -138,7 +138,7 @@ $$N(e < e^{\prime}) = 4 \pi^3 e^{\prime \, 2} \, \int_0^{\infty} f(L) \, L^2
 \, dL.$$
 
 This last integral is not dependent on $$e$$ and so is just a constant.
-Note, however, that dependning on our choice of $$f(L)$$, it might not
+Note, however, that depending on our choice of $$f(L)$$, it might not
 converge.  (This was what happened when we took it to be the Boltzmann
 factor.)
 

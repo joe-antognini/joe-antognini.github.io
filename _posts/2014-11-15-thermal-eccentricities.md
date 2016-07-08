@@ -210,7 +210,7 @@ problem---it diverges as $$E \to 0$$ and as $$E \to -\infty$$.  This result
 would appear to contradict our entire analysis---a thermal population of
 binaries cannot exist at all!  And indeed, this is the case.  The divergence
 of this distribution function at both limits is a direct consequence of
-Heggie's law.  Heggie's law, first stated in the dense monograph on
+Heggie's law.  Heggie's law, first stated in the [dense monograph][2] on
 three-body dynamics by the British astronomer Douglas Heggie, states that in
 general, when a passing star interacts with a soft binary (i.e., a binary
 whose binding energy is less than the kinetic energy of the incoming star),
@@ -247,10 +247,10 @@ correlation between period and eccentricity.  Jeans therefore concludes that
 binaries have not yet thermalized, and so the distribution of their orbital
 parameters must provide information about their formation.
 
-Jeans's sample (which he draws from [_The Binary Stars_][2] by Robert
+Jeans's sample (which he draws from [_The Binary Stars_][3] by Robert
 Aitken) was not ideal.  It's small (87 stars) and biased.  How does a modern
 sample hold up?  An excellent overview of the properties can be found in the
-review by [Duchene & Kraus (2013)][3].  In short period binaries the
+review by [Duchene & Kraus (2013)][4].  In short period binaries the
 eccentricities are almost all very low due to tidal circularization.  In
 longer period binaries ($$P \gtrsim$$ 100 days) the eccentricity
 distribution is consistent with flat, although there appears to be a dearth
@@ -282,15 +282,16 @@ confirmation of the theory that the thermal eccentricity distribution is
 maintained.
 
 The thermal eccentricity distribution was also derived by the
-Soviet-Armenian astronomer [Victor Ambartsumian in 1937][4] and we have a
-separate post about his derivation [here][5].  Ambartsumian's derivation is
+Soviet-Armenian astronomer [Victor Ambartsumian in 1937][5] and we have a
+separate post about his derivation [here][6].  Ambartsumian's derivation is
 more general and shows that the same eccentricity distribution can occur
 even if the binaries are not thermalized.  For this reason the thermal
 eccentricity distribution is sometimes referred to as the Ambartsumian
 distribution instead. 
 
 [1]: http://adsabs.harvard.edu/abs/1919MNRAS..79..408J
-[2]: http://adsabs.harvard.edu/abs/1918bist.book.....A
-[3]: http://adsabs.harvard.edu/abs/2013ARA&A..51..269D
-[4]: ../../papers/ambartsumian37.pdf
-[5]: ../../classics/ambartsumian-distribution
+[2]: http://adsabs.harvard.edu/abs/1975MNRAS.173..729H
+[3]: http://adsabs.harvard.edu/abs/1918bist.book.....A
+[4]: http://adsabs.harvard.edu/abs/2013ARA&A..51..269D
+[5]: ../../papers/ambartsumian37.pdf
+[6]: ../../classics/ambartsumian-distribution
