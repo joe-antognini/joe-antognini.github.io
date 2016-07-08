@@ -158,7 +158,7 @@ evidence against thermalization.  Ambartsumian also performed a careful
 calculation of the relaxation time of binaries in the Galaxy and estimated
 that binaries with semi-major axes of around $$10^4$$ AU would have a
 relaxation time of $$5 \times 10^9$$ years, far shorter than the timescale
-of $$10^{13}$$ years that Jeans advocated.
+of $$10^{13}$$ years that Jeans advocated.  The end.
 
 [1]: http://adsabs.harvard.edu/abs/1919MNRAS..79..408J
 [2]: ../../classics/thermal-eccentricities

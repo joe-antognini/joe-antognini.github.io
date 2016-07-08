@@ -5,7 +5,7 @@ date: 2015-09-03
 categories: advice
 image:
   feature: constellations3.jpg
-description: Unasked-for advice
+description: Unsolicited advice
 ---
 
 There are many ways to give bad talks, but one guaranteed way to make your
