@@ -4,6 +4,7 @@ title: The discovery of the accelerating expansion of the universe
 categories: classics
 image:
   feature: constellations3.jpg
+description: A look at Riess et al. (1998) and Perlmutter et al. (1999).
 ---
 
 Among the most important developments in cosmology was the discovery at the

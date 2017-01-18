@@ -69,6 +69,3 @@ will write articles as frequently as my personal and work schedules allow, but
 I do not expect to post new articles more than once per week.  The web is full
 of enough content already; infrequent articles of higher quality will more
 than make up for frequent articles of lesser quality. 
-
-My professional website can be found
-[here](http://www.astronomy.ohio-state.edu/~antognini/)[.](http://www.releveheels.com)
