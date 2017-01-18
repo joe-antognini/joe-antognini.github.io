@@ -2,7 +2,7 @@
 layout: post
 title: Reverse engineering the logit
 date: 2016-09-28
-categories: toolkit
+categories: ml
 image:
   feature: constellations3.jpg
 ---
@@ -11,31 +11,30 @@ If you spend some time working with neural networks you will inevitably
 begin hearing the term "logit" all around.  The logit has a simple
 definition:
 
-$$\textrm{logit} p \equiv \log \left( \frac{p}{1 - } \right).$$
+$$\textrm{logit} p \equiv \log \left( \frac{p}{1 - p} \right).$$
 
 But it's useful to understand where this definition comes from and why
 logits are so natural in machine learning.
 
-But why is this a natural
-definition and why are logits so frequently used?
-
-
-Neural networks are inherently going to be a little "fuzzy" when used on
-real data.  Real data are noisy, and as the inputs jitter around, the
-activations of different neurons will jitter around a little bit as well.
-The neural network should be robust to this jitter --- most small
-perturbations of the input should not produce big changes to the output.
-But when we start considering the output of the neural network, we have to
-be careful about what we consider a "big change."
+Many machine learning models are inherently going to be a little "fuzzy"
+when used on real data.  Real data are noisy, and as the inputs jitter
+around, the output of the model will jitter around a little bit as well.
+The model should be robust to this jitter --- most small perturbations to
+the input should not produce big changes to the output.  But when we start
+considering the output of the model, we have to be careful about what we
+consider a "big change."
 
 Suppose, for concreteness, we have a neural network that is a binary
-classifier.  On one input, the NN gives a probability that the input belongs
-to class A of 0.5.  On the second input the NN gives a class A membership
-probability of 0.99.  We now perturb the inputs very slightly and the
-probabilities change by 0.009.  The class A membereship probability is now
-0.509 for the first input, and 0.999 for the second input.  The As far as
-the neural network is concerned, the changes here are equivalent.  But they
-are not at all.  
+classifier, with a single neuron in the output layer that has a linear
+activation.  On one case in the training set, the NN gives a probability
+that the input belongs to class A of 0.5.  On a second training case the NN
+gives a probability that the input belongs to class A of 0.99.  We now
+perturb the inputs very slightly, and by the same amount.  If the output of and the probabilities change by 0.009.  The
+class A membership probability is now 0.509 for the first input, and 0.999
+for the second input.  
+
+As far as the neural network is concerned, the changes here are equivalent.
+But they are not at all.  In the first case, we started with 
 
 How could we try to account for this?  Instead of trying to train directly
 to the probability, we could instead try to train to $$\log(1 - p)$$.  This
