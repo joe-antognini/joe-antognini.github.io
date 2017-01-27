@@ -21,10 +21,11 @@ your reference distribution predicts to be extremely unlikely compared to
 the cost of describing the non-existence of data points that your reference
 distribution predicts to be common.
 
-To make this explanation concrete, consider two Gaussian, $p_1$ and $p_2$,
-both centered around 0, where one is extremely narrow and the other is
-extremely wide.  Let us call the standard deviations of the two Gaussians
-$\sigma_1$ and $\sigma_2$, respectively, so we have $\sigma_1 \ll \sigma_2$.
+To make this explanation concrete, consider two Gaussians, $$p_1$$, and
+$$p_2$$, both centered around 0, where one is extremely narrow and the other
+is extremely wide.  Let us call the standard deviations of the two Gaussians
+$$\sigma_1$$ and $$\sigma_2$$, respectively, so we have \\(\sigma\_1 \ll
+\sigma\_2\\).
 
 If we draw data from the narrow Gaussian, we will, of course, find that all
 the data points are very close to 0.  The probability that you would pick a
@@ -57,35 +58,37 @@ $$p_2(x) = \frac{1}{\sqrt{2 \pi \sigma_2^2}} \exp \left( - \frac{x^2}{2
 
 For a continuous probability distirbution, the KL divergence is defined as
 
-$$D_{KL}(p_1 || p_2) \equiv \int p_1(x) \log \frac{p_1(x)}{p_2(x)} dx.$$
+$$D_{\textrm{KL}}(p_1 || p_2) \equiv \int p_1(x) \log \frac{p_1(x)}{p_2(x)}
+dx.$$
 
 For our Gaussians we therefore have
 
-$$D_{KL}(p_1 || p_2) = \frac{1}{\sqrt{2 \pi \sigma_1^2} \int \exp \left( -
-\frac{x^2}{2 \sigma_1^2} \right) \left[ \log \left(
-\frac{\sigma_1}{\sigma_2} \right) + \frac{x^2}{2\sigma_1^2} \left(
+$$D_{\textrm{KL}}(p_1 || p_2) = \frac{1}{\sqrt{2 \pi \sigma_1^2}} \int \exp
+\left( - \frac{x^2}{2 \sigma_1^2} \right) \left[ \log \left(
+\frac{\sigma_1}{\sigma_2} \right) + \frac{x^2}{2 \sigma_1^2} \left(
 \frac{\sigma_1^2}{\sigma_2^2} - 1 \right) \right] dx.$$
 
 After integrating, we find
 
-$$D_{KL}(p_1 || p_2) = \frac{1}{\sqrt{\sigma_1}} \left( \log \left(
+$$D_{\textrm{KL}}(p_1 || p_2) = \frac{1}{\sqrt{\sigma_1}} \left( \log \left(
 \frac{\sigma_2}{\sigma_1} \right) + \sqrt{\frac{\pi}{2}} \left[ \left(
 \frac{\sigma_1}{\sigma_2} \right)^2 - 1 \right] \right).$$
 
 Now, let's look at the asymmetry between the KL divergences of the two
-distributions by taking the ratio of $D_{KL}(p_1 || p_2)$ to $D_{KL}(p_2 ||
-p_1)$.  If it is much costlier to use the narrow distribution to describe
-the wide distribution than vice versa, we should find that this ratio will
-approach zero.  If we calculate the ratio, we have
+distributions by taking the ratio of \\(D\_{\textrm{KL}}(p\_1 || p\_2)\\) to
+\\(D\_{\textrm{KL}}(p\_2 || p\_1)\\).  If it is much costlier to use the
+narrow distribution to describe the wide distribution than vice versa, we
+should find that this ratio will approach zero.  If we calculate the ratio,
+we have
 
-$$\frac{D_{KL}(p_1 || p_2)}{D_{KL}(p_2 || p_1)} =
-\sqrt{\frac{\sigma_2}{\sigma_1} \left( \frac{ \log (\sigma_2 / \sigma_1) +
+$$\frac{D\_{\textrm{KL}}(p_1 || p_2)}{D\_{\textrm{KL}}(p_2 || p_1)} =
+\sqrt{\frac{\sigma_2}{\sigma_1}} \left( \frac{ \log (\sigma_2 / \sigma_1) +
 \sqrt{\pi/2} [(\sigma_1 / \sigma_2)^2 - 1]}{\log (\sigma_1 / \sigma_2) +
-\sqrt{\pi/2} [(\sigma_2 / \sigma_1)^2 - 1]}.$$
+\sqrt{\pi/2} [(\sigma_2 / \sigma_1)^2 - 1]} \right).$$
 
-If we now take the limit as $\sigma_1 / \sigma_2 \to 0$, we find that 
+If we now take the limit as $$\sigma_1 / \sigma_2 \to 0$$, we find that 
 
-$$ \lim_{\sigma_1 / \sigma_2 \to 0} \frac{D_{KL}(p_1 || p_2)}{D_{KL}(p_2 ||
-p_1)} = 0,$$
+$$\lim\_{\sigma\_1 / \sigma\_2 \to 0} \frac{D\_{\textrm{KL}}(p\_1 ||
+p\_2)}{D\_{\textrm{KL}}(p\_2 || p\_1)} = 0,$$
 
 which is what we predicted.
