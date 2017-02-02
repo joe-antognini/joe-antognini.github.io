@@ -13,5 +13,4 @@ many of the topics covered on this website reflect this background
 Huntington's beautiful 1856 celestial atlas).  In the final year of writing
 my dissertation I became very interested in deep learning and transitioned
 to work in that field rather than pursue a postdoc in astronomy.  The topics
-on this website are therefore a mix of both astronomy and machine learning,
-(though probably not both at the same time!).
+on this website are therefore a mix of both astronomy and machine learning.
