@@ -5,7 +5,6 @@ date: 2017-01-17
 categories: ml
 image:
   feature: constellations3.jpg
-description: An intuitive explanation.
 ---
 
 I occasionally see questions come up on Stack Exchange asking for an
@@ -81,14 +80,14 @@ narrow distribution to describe the wide distribution than vice versa, we
 should find that this ratio will approach zero.  If we calculate the ratio,
 we have
 
-$$\frac{D\_{\textrm{KL}}(p_1 || p_2)}{D\_{\textrm{KL}}(p_2 || p_1)} =
+$$\frac{D_{\textrm{KL}}(p_1 || p_2)}{D_{\textrm{KL}}(p_2 || p_1)} =
 \sqrt{\frac{\sigma_2}{\sigma_1}} \left( \frac{ \log (\sigma_2 / \sigma_1) +
 \sqrt{\pi/2} [(\sigma_1 / \sigma_2)^2 - 1]}{\log (\sigma_1 / \sigma_2) +
 \sqrt{\pi/2} [(\sigma_2 / \sigma_1)^2 - 1]} \right).$$
 
 If we now take the limit as $$\sigma_1 / \sigma_2 \to 0$$, we find that 
 
-$$\lim\_{\sigma\_1 / \sigma\_2 \to 0} \frac{D\_{\textrm{KL}}(p\_1 ||
-p\_2)}{D\_{\textrm{KL}}(p\_2 || p\_1)} = 0,$$
+$$\lim_{\sigma_1 / \sigma_2 \to 0} \frac{D_{\textrm{KL}}(p_1 ||
+p_2)}{D_{\textrm{KL}}(p_2 || p_1)} = 0,$$
 
 which is what we predicted.

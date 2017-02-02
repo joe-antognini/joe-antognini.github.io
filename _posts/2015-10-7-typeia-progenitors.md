@@ -5,7 +5,6 @@ date: 2015-10-7
 categories: unsolved-problems
 image:
   feature: constellations3.jpg
-description: A look at the competing models for Type Ia supernovae
 ---
 
 ## Dark energy's secret

@@ -5,7 +5,6 @@ date: 2014-11-15
 categories: classics
 image:
   feature: constellations3.jpg
-description: A look at Jeans (1919).
 ---
 
 One of the most beautiful results in dynamics is the thermal eccentricity

@@ -5,7 +5,6 @@ date: 2017-01-25
 categories: ml
 image:
   feature: constellations3.jpg
-description: A guide
 ---
 
 `sudo apt-get install torque-server torque-client torque-mom torque-pam`

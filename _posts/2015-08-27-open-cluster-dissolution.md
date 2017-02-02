@@ -5,7 +5,6 @@ date: 2015-08-27
 categories: classics
 image:
   feature: constellations3.jpg
-description: A look at Hills (1980).
 ---
 
 Although there is strong evidence that nearly all stars are born in open
