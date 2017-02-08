@@ -11,7 +11,7 @@ If you spend some time working with neural networks you will inevitably
 begin hearing the term "logit" all around.  The definition of the logit is
 simple enough:
 
-$$\textrm{logit} p \equiv \log \left( \frac{p}{1 - p} \right).$$
+$$\textrm{logit} \, p \equiv \log \left( \frac{p}{1 - p} \right).$$
 
 But it's useful to understand where this definition comes from and why
 logits are so natural in machine learning.
@@ -28,16 +28,16 @@ available, over-the-counter methods.)
 Suppose, for concreteness, we have a simply have a linear model as a binary
 classifier:
 
-$$p = \textbf{w} \textbf{x}$$,
+$$p = \textbf{w} \textbf{x},$$
 
 where $$\textbf{x}$$ is an input, $$\textbf{w}$$ is a weight matrix that we
-fit to some training data, and $p$ is the class probability.  Let's suppose
-we train this model by naively minimizing the squared error between $p$ and
+fit to some training data, and $$p$$ is the class probability.  Let's suppose
+we train this model by naively minimizing the squared error between $$p$$ and
 the true class (0 or 1 for the negative and positive classes, respectively). 
 
 Now we have two issues here.  The first is that probabilities are restricted
 to the range $(0, 1)$, but our model could conceivably output any real
-number.  We could making some ad hoc changes to deal with this by, say,
+number.  We could make some ad hoc changes to deal with this by, say,
 clamping outputs below 0 to 0, and outputs above 1 to 1.  But this points to
 a deeper issue with interpreting the output of our linear model as a
 probability --- namely, that these outputs don't seem to behave the way we
@@ -78,7 +78,7 @@ p \to 0$$ as $$p \to 1$$ and $$\log (1 - p) \to 0$$ as $$p \to 0$$, we can
 simply add them up since each one will be small when the other is big.  And
 this gives us the logit.
 
-What we've basically done here, is make a function that takes as its domain
+What we've basically done here is make a function that takes as its domain
 the open unit real line $(0, 1)$, and stretches it out over the entire real
 line, so that as you get exponentially close to 0, the function gets
 negative linearly, and as you get exponentially close to 1, the function
@@ -87,9 +87,54 @@ gets positive linearly.
 With this intuition of what we want out of the function, we could have
 simply guessed the correct answer all along!  A useful tool in the
 mathematics toolbag is that if you want a differentiable function that maps
-the real numbers onto the range $(0, 1)$ the sigmoid function fits the bill.
-(In fact, the sigmoid function is used for this purpose to prove that the
-real numbers in the range $(0, 1)$ are uncountable.)  Since we want to do
-the opposite and take the reals between $(0, 1)$ and map them onto the reals
-between $(-\infty, \infty)$, we want to use its inverse: which turns out to
-be the definition of the logit!
+the real numbers onto the range $(0, 1)$, then the sigmoid function fits the
+bill.  (In fact, the sigmoid function can be used for this purpose to prove
+that the real numbers in the range $(0, 1)$ are uncountable.)  Since we want
+to do the opposite and take the reals between $(0, 1)$ and map them onto the
+reals between $(-\infty, \infty)$, we want to use its inverse --- which
+turns out to be the definition of the logit!
+
+## The easy way to logistic regression
+
+Going back to our linear model, if we now are modeling logits,
+
+$$\textrm{logit} \equiv \log \left( \frac{p}{1 - p} \right) = \textbf{w}
+\textbf{x}$$,
+
+and we train it to minimize the squared error between the class probability
+and the label, we find that our model is nothing more than logistic
+regression.  (Strictly speaking, logistic regression minimizes the
+cross-entropy, but the two loss functions converge to the same point.)
+
+## Logits and neural networks
+
+Logits come up frequently in neural networks for essentially the same reason
+that they are useful for logistic regression.  Oftentimes we would like our
+neural network to spit out a classification probability and a neural network
+is nothing more than a series of linear transformations (or affine
+transformations if you want to be technical), each immediately followed by
+pointwise non-linear mappings.  To get a probability out at the end, we need
+to squash the entire real number line onto the range $(0, 1)$.  If the
+neural network is a binary classifier, we can do this most easily with a
+single output neuron that has a sigmoid activation function.  But if the
+neural network is properly trained (so that the output correctly represents
+probabilities), then the pre-activation value of the neuron is a logit.  
+
+It is particularly useful to work with logits because we may find ourselves
+confronted with training cases that have very high or low probabilities.
+When calculating something like the cross-entropy loss it can be difficult
+to do correctly if the probability comes to close to 1 because we may
+encounter rounding errors with a number like 0.999999999.  But if we do the
+same calculation with logits, we have no problem because we are just dealing
+with the number 20.  Incidentally, this is the rationale behind functions in
+tensorflow like `sigmoid_cross_entropy_with_logits`.
+
+## A postscript on the softmax function
+
+So far we have just been dealing with binary classifiers.  But we usually
+have more than two classes in our problem.  The softmax function is just a
+generalization of the sigmoid function to map logits onto probabilities when
+there are more than two classes.  Now, instead of comparing the odds of a
+case being in one class against a single other class, the softmax
+function compares the odds of the case being in one particular class against
+being in *any* other class.

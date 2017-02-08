@@ -52,7 +52,7 @@ $$E = \frac{1}{2} \left( M v_0^2 - \frac{G M^2}{R_0} \right).$$
 Once virial equilibrium is regained, the radius of the cluster will have
 changed, but the energy will be the same:
 
-$$E = -\frac{G M^2}{4 R}$$
+$$E = -\frac{G M^2}{4 R}.$$
 
 This then results in an initial-final radius relationship for the cluster:
 
