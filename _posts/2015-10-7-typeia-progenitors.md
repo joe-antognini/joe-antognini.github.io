@@ -7,8 +7,6 @@ image:
   feature: constellations3.jpg
 ---
 
-## Dark energy's secret
-
 I discussed in a [previous article][1] one of the most important discoveries
 in all of astronomy --- the discovery of dark energy.  Key to this is an
 accurate measurement of the distances and recession velocities of distant
