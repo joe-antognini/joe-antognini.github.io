@@ -64,11 +64,12 @@ $$f \, d\tilde{V} \sim \exp \left[ \frac{1}{T} \left( \frac{1}{2} \mu
 d\dot{x} \, d\dot{y} \, d\dot{z} \, dr \, r^2 \, d\Omega,$$
 
 where $$d\Omega$$ is a differential solid angle.  It helps if we decompose
-the velocity into its radial and tangential components: $$v^2 = \dot{r}^2
-+ \tau^2$$.  We can pick $$\dot{r}$$ to be along the $$z$$ direction, in
-which case we have $$dx \, dy = \tau \, d\tau \, d\phi$$, where $$\phi$$ is
-an azimuthal angle.  Now, integrating over $$\Omega$$ and $$\phi$$, which
-gives us a factor of $$4\pi$$ and $$2\pi$$, respectively, we get
+the velocity into its radial and tangential components: 
+$$v^2 = \dot{r}^2 + \tau^2$$.  We can pick $$\dot{r}$$ to be along the 
+$$z$$ direction, in which case we have $$dx \, dy = \tau \, d\tau \,
+d\phi$$, where $$\phi$$ is an azimuthal angle.  Now, integrating over
+$$\Omega$$ and $$\phi$$, which gives us a factor of $$4\pi$$ and $$2\pi$$,
+respectively, we get
 
 $$f \, d\tilde{V} \sim 8 \pi^2 \exp \left[ \frac{1}{T} \left( \frac{1}{2}
 \mu (\dot{r}^2 + \tau^2) - \frac{G M \mu}{r} \right) \right] d\dot{r} \,

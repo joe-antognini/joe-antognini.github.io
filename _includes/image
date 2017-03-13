@@ -1,0 +1,10 @@
+{% capture imagePath %}{{ page.url | split: '/' | last }}/{{ include.name }}{% endcapture %}
+
+{% if include.caption %}
+  <figure>
+    <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} />
+    <figcaption>{{ include.caption }}</figcaption>
+  </figure>
+{% else %}
+  <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} />
+{% endif %}

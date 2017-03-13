@@ -99,7 +99,7 @@ high confidence.
 
 The main result of the Riess et al. paper is presented in this figure:
 
-![Riess et al. (1998)](/images/riess98a.png)
+{% include image name="riess98a.png" caption="Riess et al. (1998)" %}
 
 We have here the so-called Hubble diagram, a plot of distance vs.
 recessional velocity, out to redshifts of almost $$z = 0.8$$.  We see in the
@@ -126,7 +126,7 @@ $$\Omega_{\Lambda}$$ and $$\Omega_m$$ and see how likely it is that we
 would have observed the data we have.  This would then tell us the relative
 likelihoods of all the different models:
 
-![Riess et al. (1998)](/images/riess98b.png)
+{% include image name="riess98b.png" caption="Riess et al. (1998)" %}
 
 From this figure we can see that the best fit to the data seems to be around
 $$\Omega_{\Lambda} = 0.7$$ and $$\Omega_m = 0.3$$.  $$\Omega_{\Lambda} =

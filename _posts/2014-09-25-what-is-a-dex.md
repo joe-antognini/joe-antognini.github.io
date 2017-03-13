@@ -24,9 +24,9 @@ As an example, let's take a look at [Fischer & Valenti (2005)][1].  In this
 paper the authors present a correlation between the metallicity of stars and
 the probability that the star hosts a planet---stars with higher
 metallicities are more likely to host a planet.  This result is shown in
-Figure 5:
+figure 5:
 
-![Fischer & Valenti (2005)](/images/fischer05.png)
+{% include image name="fischer05.png" caption="Fischer & Valenti (2005)" %}
 
 We can see that the sample of stars spans a range of [Fe/H] from -0.5 to
 0.5, which is one order of magnitude, or one dex.  Although it was just as

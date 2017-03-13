@@ -1,3 +1,4 @@
+*.swp
 <<<<<<< HEAD
 # Don't include generated site
 _site

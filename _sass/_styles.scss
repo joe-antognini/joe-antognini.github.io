@@ -478,20 +478,22 @@ header.site-header nav {
         
         img {
             margin-bottom: $lh/2;
+            width: 75%;
+            height: auto;
         }
         
         figcaption {
             font-size: $fs5;
             font-family: $sans;
             font-weight: bold;
-            text-transform: uppercase;
-            color: lighten($black, 50%);
+            /*text-transform: uppercase;*/
+            color: lighten($black, 15%);
             text-align: center;
         }
     }
     
     img {
-        width: 100%;
+        width: 75%;
         height: auto;
         display: block;
         margin: $lh auto;

@@ -26,16 +26,16 @@ you sit in a car making a tight turn you feel yourself shoved to the side.
 How does this appear in the math?  It helps if we lay down coordinate axes.
 When we start, let's suppose we're moving in the positive $$y$$-direction:
 
-![](/images/circ_accel_1.png)
+{% include image name="circ_accel_1.png" %}
 
 Let's imagine we're moving counter-clockwise, so after we've turned 90
 degrees we will be moving in the negative $$x$$-direction, like so:
 
-![](/images/circ_accel_3.png)
+{% include image name="circ_accel_3.png" %}
 
 Now, a small time after we begin moving, we look like this:
 
-![](/images/circ_accel_2.png)
+{% include image name="circ_accel_2.png" %}
 
 Here I've drawn in the $$x$$-component of this vector.  At this point,
 remember that the $$x$$- and $$y$$-coordinates are completely independent.

@@ -5,6 +5,7 @@ date: 2015-06-09
 categories: toolkit
 image:
   feature: constellations3.jpg
+name: mass-transfer-modes
 ---
 
 Suppose we have a pair of stars orbiting each other in a binary system.
@@ -47,7 +48,7 @@ decreases.  This does not quite tell the whole story, however, because in
 the process of mass transfer the semi-major axis also changes.  If the
 timescale for mass transfer is slow relative to the orbital period, the
 semi-major axis as function of $$q$$ is given by $$a = a_{\min} (1 + q)^4 /
-16q^2$$.  (This condition should almost always be the case for semi-detached
+16q^2$$.  (This condition should almost always be met for semi-detached
 systems.)  The smallest semi-major axis is therefore achieved for equal mass
 systems, $$q = 1$$.  If we combine this with the expression for $$R_L$$, we
 find that the physical size of the Roche lobe is given by
@@ -57,8 +58,7 @@ $$\frac{R_L}{a_{\min}} \approx \left( \frac{0.49 q^{2/3}}{0.6 q^{2/3} +
 
 which looks like this:
 
-![The effective Roche lobe radius as a function of mass
-ratio](/images/roche_q.png)
+{% include image name="roche_q.png" %}
 
 So if the donor is much more massive than the gainer ($$q \gg 1$$), the
 physical size of the Roche lobe shrinks as the donor loses mass.  But if the
