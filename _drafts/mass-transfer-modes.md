@@ -9,7 +9,7 @@ name: mass-transfer-modes
 ---
 
 Suppose we have a pair of stars orbiting each other in a binary system.
-Each star has a [Rcohe lobe][1], beyond which matter is not gravitationally
+Each star has a [Roche lobe][1], beyond which matter is not gravitationally
 bound to the star.  What happens if one of the stars grows larger than its
 Roche lobe?  Since this material is no longer bound to the original star it
 is clear that mass will be lost from the original star and it is likely that
@@ -94,6 +94,49 @@ the sound crossing time).  For a Sun-like star the hydrodynamic timescale is
 ~1 hour.
 
 ## The radius-mass relationship
+
+In order to determine which of these three timescales will operate, we must
+understand how the donor's radius is related to its radius.  The starting
+point here is the ZAMS mass-radius relationship, which can be written like
+
+$$R_0 \propto M_0^{\alpha},$$
+
+for some constant $$\alpha$$.  A value like $$\alpha \sim 0.8$$ is pretty
+good for many initial masses, but its specific value isn't important to us
+here.  The important feature of this relationship is that near any
+particular mass, the relationship between the mass and radius is a power
+law.
+
+We next must take into account the fact that the radius of a star slowly
+changes over time due to changes in its internal composition as hydrogen is
+consumed and helium produced.  This change in radius is approximately
+exponential --- for a Sun-like star, it is a change of $$\sim$$0.7% for
+every 100 Myr.  Since this change in the radius happens over the nuclear
+timescale, we may incorporate it into our mass-radius relationship as
+
+$$\log R = \log R_0 + \alpha \log \frac{M}{M_0} + 
+\frac{t}{t_{\textrm{NE}}},$$
+
+where $$t_{\textrm{NE}}$$ is the nuclear timescale of the star ($$\sim$$10
+Gyr for a Sun-like star). 
+
+How does this relationship interact with the Roche lobe radius?  Suppose the
+mass-radius relationship is fairly steep, as in the figure below, where we
+have taken $$\alpha = 3$$:
+
+{% include image name="mass_radius1.png" %}
+
+In this scenario, we start out on the ZAMS, and then over the nuclear
+timescale, the radius of the star slowly increases along the dotted arrow
+until the radius reaches the Roche lobe.  Once the radius increases a little
+beyond the Roche lobe, that mass is lost to the other star.  This pushes the
+star slightly down the mass-radius relationship, represented by the dashed
+line.  Because the mass-radius relationship is steeper than the Roche lobe
+relationship at this point, the radius of the star is now well below the
+Roche lobe after having lost mass.  The star must therefore evolve at the
+nuclear timescale until it expands enough to fill its Roche lobe again.
+Thus, when the mass-radius relationship is steep relative to the Roche lobe
+relationship, mass loss proceeds on the nuclear timescale.
 
 [1]: https://en.wikipedia.org/wiki/Roche_lobe
 [2]: http://adsabs.harvard.edu/abs/2006epbm.book.....E

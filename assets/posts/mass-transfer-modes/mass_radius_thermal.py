@@ -1,18 +1,8 @@
 #! /usr/bin/env python
 
-#
-# Plot the Roche lobe as a function of the mass ratio
-#
-
 import numpy as np
 from astroutils.matplotlibrc import *
-
-def calc_qr(min_q=-2, max_q=2):
-  q = np.logspace(-2, 2)
-  r = (.49 * q**(2./3) / (.6 * q**(2./3) + np.log(1 + q**(1./3))) * (1 + q)**4
-    / (16 * q**2))
-
-  return (q, r)
+from roche_q import calc_qr
 
 if __name__ == '__main__':
   mpl.rcParams['font.size'] = 28
@@ -26,10 +16,10 @@ if __name__ == '__main__':
   ax.set_xlabel(r'mass ratio')
   ax.set_ylabel(r'$r_L / a_{\min}$')
 
+  # Plot the Roche-lobe radius
   q, r = calc_qr()
-
   ax.plot(q, r, c='k')
 
-  filename = 'roche_q'
-  dvires = 240
-  plt.savefig(filename + '.png', dpi=dvires, transparent=True)
+  # Plot the initial mass-radius relationship
+  X0 = np.linspace(1.1, 1.8)
+  Y0 = 4 * X0 

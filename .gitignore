@@ -1,4 +1,5 @@
 *.swp
+.ipynb_checkpoints/
 <<<<<<< HEAD
 # Don't include generated site
 _site
