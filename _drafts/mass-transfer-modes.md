@@ -19,9 +19,9 @@ in Section 3.3 of the wonderfully thorough book [Evolutionary Processes in
 Binary and Multiple Stars][2] by Peter Eggleton.  Although the detailed
 answer to this question is quite involved, the qualitative picture is
 enlightening, so I will summarize it here.  To keep things simple, in this
-note I am just going to concern myself with conservative mass transfer.
-This means that no mass or angular momentum is lost in the system --- any
-mass lost from star 1 is accreted by star 2. 
+post I am only going to be concerned with conservative mass transfer.  This
+means that no mass or angular momentum is lost in the system --- any mass
+lost from star 1 is accreted by star 2. 
 
 ## The Roche lobe radius and the mass ratio
 
@@ -68,9 +68,9 @@ decreased ratio $$R_L/a$$, so the overall size of the Roche lobe increases.
 
 ## Timescales
 
-As with any process in astronomy it is instructive to examine the timescales
-in the problem.  In this case there are three relevant timescales.  In order
-of decreasing time:
+As with any process in astronomy, it is instructive to examine the
+timescales in the problem.  In this case there are three relevant
+timescales.  In order of decreasing time:
 
 1. The **nuclear timescale**.  This is the evolutionary timescale of an
 isolated star.  As the star evolves the composition of the core changes due
@@ -97,15 +97,16 @@ the sound crossing time).  For a Sun-like star the hydrodynamic timescale is
 
 In order to determine which of these three timescales will operate, we must
 understand how the donor's radius is related to its radius.  The starting
-point here is the ZAMS mass-radius relationship, which can be written like
+point here is the zero-age main squence (ZAMS) mass-radius relationship,
+which can be written like
 
 $$R_0 \propto M_0^{\alpha},$$
 
 for some constant $$\alpha$$.  A value like $$\alpha \sim 0.8$$ is pretty
 good for many initial masses, but its specific value isn't important to us
 here.  The important feature of this relationship is that near any
-particular mass, the relationship between the mass and radius is a power
-law.
+particular mass, the relationship between the mass and radius is
+approximately a power law.
 
 We next must take into account the fact that the radius of a star slowly
 changes over time due to changes in its internal composition as hydrogen is
@@ -119,6 +120,8 @@ $$\log R = \log R_0 + \alpha \log \frac{M}{M_0} +
 
 where $$t_{\textrm{NE}}$$ is the nuclear timescale of the star ($$\sim$$10
 Gyr for a Sun-like star). 
+
+## Mass loss on the nuclear timescale
 
 How does this relationship interact with the Roche lobe radius?  Suppose the
 mass-radius relationship is fairly steep, as in the figure below, where we
@@ -137,6 +140,66 @@ Roche lobe after having lost mass.  The star must therefore evolve at the
 nuclear timescale until it expands enough to fill its Roche lobe again.
 Thus, when the mass-radius relationship is steep relative to the Roche lobe
 relationship, mass loss proceeds on the nuclear timescale.
+
+## Mass loss on faster timescales
+
+Now consider a mass-radius relationship that is much shallower, as in the
+figure below, where we have taken $$\alpha = .5$$:
+
+{% include image name="mass_radius2.png" %}
+
+Again we start on the ZAMS, and then move up the dotted arrow on the nuclear
+timescale as the radius of the star slowly increases due to ordinary stellar
+evolution.  Eventually, the star fills its Roche lobe, at which point it
+begins losing mass.  This causes the star's mass and radius to decrease, and
+therefore to move to the left along the dashed line.  However, because the
+mass-radius relationship is above the Roche lobe-mass ratio relationship,
+the star still finds itself overfilling its Roche lobe even after it has
+lost some mass.  It seems that something catastrophic is going to happen to
+the star here.  Somehow, the star will have to make it to the large dot
+where the mass-radius relationship once again intersects the Roche lobe-mass
+ratio relationship.  It is clear that a substantial amount of mass will have
+to be lost on a timescale that is short compared to the nuclear timescale,
+but is this timsecale the thermal timescale or the hydrodynamic timescale?
+
+At this point we need to know more about the donor star.
+
+
+In the case of a radiative envelope, when the star has expanded slightly
+beyond the Roche lobe, it will lose the outer layer beyond the Roche lobe.
+Since we are assuming that the mass-radius relationship is shallow, this
+mass loss will cause the Roche lobe to shrink relative to the new radius of
+the star, and the .  We might imagine that the mass loss would continue ,
+but we have to remember that at this point the star is no longer in thermal
+equilibrium.  Now, the dashed line in the figure above is the mass-radius
+relationship *only for stars in thermal equilibrium*.  So the donor star
+cannot 
+
+An intuitive way to understand these two situations is to note that in a
+convective star the convective bubbles are moving across the star on the
+hydrodynamic timescale.  Thus if the top layer of the star is removed due to
+Roche lobe overflow, this material will be replenished by new convective
+bubbles on that same timescale.  (One can imagine the bubbles as overeager
+lemmings casting themselve bodily out of the Roche lobe.)  In a radiative
+star, the only way for the material in lower layers to expand is for to to
+adjust to the new thermal equilibrium.  This causes mass transfer in this
+situation to take place on the Kelvin-Helmholtz timescale.
+
+## Summary
+
+The three modes of mass transfer are as follows:
+
+1. If the slope of the mass-radius relationship is steep relative to the
+Roche lobe-mass ratio relationship, mass loss will take place on the nuclear
+timescale.
+
+2. If the slope of the mass-radius relationship is shallow relative to the
+Roche lobe-mass ratio relationship and the star's envelope is radiative,
+mass loss will take place on the Kelvin-Helmholtz timescale.
+
+3. If the slope of the mass-radius relationship is shallow relative to the
+Roche lobe-mass ratio relationship and the star's envelope is convective,
+mass loss will take place on the hydrodynamic timescale.
 
 [1]: https://en.wikipedia.org/wiki/Roche_lobe
 [2]: http://adsabs.harvard.edu/abs/2006epbm.book.....E
