@@ -2,7 +2,7 @@
 layout: post
 title: The Ambartsumian distribution
 date: 2014-12-2
-categories: classics
+categories: astronomy
 image:
   feature: constellations3.jpg
 ---

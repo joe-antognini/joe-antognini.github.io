@@ -2,7 +2,7 @@
 layout: post
 title: The thermal eccentricity distribution
 date: 2014-11-15
-categories: classics
+categories: astronomy
 image:
   feature: constellations3.jpg
 ---

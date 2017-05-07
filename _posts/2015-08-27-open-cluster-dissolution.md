@@ -2,7 +2,7 @@
 layout: post
 title: How much mass must an open cluster lose to become unbound?
 date: 2015-08-27
-categories: classics
+categories: astronomy
 image:
   feature: constellations3.jpg
 ---

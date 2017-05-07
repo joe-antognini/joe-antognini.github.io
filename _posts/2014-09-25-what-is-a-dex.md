@@ -2,7 +2,7 @@
 layout: post
 title: What is a dex?
 date: 2014-09-25
-categories: toolkit
+categories: astronomy
 ---
 
 The term "dex" comes up rather frequently in astronomy discussions but is

@@ -2,7 +2,7 @@
 layout: post
 title: What are the progenitors of Type Ia supernovae?
 date: 2015-10-7
-categories: unsolved-problems
+categories: astronomy
 image:
   feature: constellations3.jpg
 ---

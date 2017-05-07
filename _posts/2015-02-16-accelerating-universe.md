@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The discovery of the accelerating expansion of the universe
-categories: classics
+categories: astronomy
 image:
   feature: constellations3.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Why is uniform circular motion acceleration?
 date: 2014-10-23
-categories: toolkit
+categories: physics
 ---
 
 A common stumbling block for new physics students is why uniform circular

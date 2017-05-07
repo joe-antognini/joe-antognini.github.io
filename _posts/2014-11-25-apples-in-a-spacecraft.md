@@ -2,7 +2,7 @@
 layout: post
 title: Apples in a spacecraft
 date: 2014-11-25
-categories: classics
+categories: astronomy
 image:
   feature: constellations3.jpg
 ---
