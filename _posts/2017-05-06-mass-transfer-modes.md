@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Understanding the modes of mass transfer in binary stars
-date: 2015-06-09
-categories: toolkit
+date: 2017-05-06
+categories: astronomy
 image:
   feature: constellations3.jpg
 name: mass-transfer-modes
@@ -14,7 +14,7 @@ bound to the star.  What happens if one of the stars grows larger than its
 Roche lobe?  Since this material is no longer bound to the original star it
 is clear that mass will be lost from the original star and it is likely that
 the secondary will accrete some or all of the matter.  But over what
-timescale will this mass transfer take place?  This is the queston addressed
+timescale will this mass transfer take place?  This is the question addressed
 in Section 3.3 of the wonderfully thorough book [Evolutionary Processes in
 Binary and Multiple Stars][2] by Peter Eggleton.  Although the detailed
 answer to this question is quite involved, the qualitative picture is
@@ -97,8 +97,8 @@ the sound crossing time).  For a Sun-like star the hydrodynamic timescale is
 
 In order to determine which of these three timescales will operate, we must
 understand how the donor's radius is related to its radius.  The starting
-point here is the zero-age main squence (ZAMS) mass-radius relationship,
-which can be written like
+point here is the zero-age main sequence (ZAMS) mass-radius relationship,
+which can be written as
 
 $$R_0 \propto M_0^{\alpha},$$
 
@@ -155,39 +155,43 @@ begins losing mass.  This causes the star's mass and radius to decrease, and
 therefore to move to the left along the dashed line.  However, because the
 mass-radius relationship is above the Roche lobe-mass ratio relationship,
 the star still finds itself overfilling its Roche lobe even after it has
-lost some mass.  It seems that something catastrophic is going to happen to
-the star here.  Somehow, the star will have to make it to the large dot
-where the mass-radius relationship once again intersects the Roche lobe-mass
-ratio relationship.  It is clear that a substantial amount of mass will have
-to be lost on a timescale that is short compared to the nuclear timescale,
-but is this timsecale the thermal timescale or the hydrodynamic timescale?
+lost some mass.  It seems that something catastrophic must happen to the
+star here.  We might imagine that the star would rapidly lose mass,
+following the dashed line until it once again intersects the Roche lobe-mass
+ratio relationship.  But this is not quite right, because the mass-radius
+relationship is only valid for stars in thermal equilibrium.  Whatever
+happens to the star in this situation, it is clearly not in thermal
+equilibrium, and a substantial amount of mass will have to be lost on a
+timescale that is short compared to the nuclear timescale.
 
-At this point we need to know more about the donor star.
+At this point we need to know more about the donor star.  In particular, it
+turns out that the behavior of the mass loss depends on whether the outer
+envelope of the star is radiative or convective.
 
+### Radiative envelopes
 
-In the case of a radiative envelope, when the star has expanded slightly
-beyond the Roche lobe, it will lose the outer layer beyond the Roche lobe.
-Since we are assuming that the mass-radius relationship is shallow, this
-mass loss will cause the Roche lobe to shrink relative to the new radius of
-the star, and the .  We might imagine that the mass loss would continue ,
-but we have to remember that at this point the star is no longer in thermal
-equilibrium.  Now, the dashed line in the figure above is the mass-radius
-relationship *only for stars in thermal equilibrium*.  So the donor star
-cannot 
+Stars with radiative envelopes have shallow temperature gradients relative
+to the adiabatic temperature gradient.  This renders them stable to
+convection since hot bubbles in the envelope thermalize with their
+surroundings before they have the chance to move very far under their own
+buoyancy.  In this case, when the star has expanded slightly beyond the
+Roche lobe, the outer layer will be stripped and the star will no longer be
+in thermal equilibrium.  The star will then require a Kelvin-Helmholtz time
+to adjust to its new thermal equilibrium beyond the Roche lobe.  The mass
+loss will therefore take place on the thermal timescale.
 
-An intuitive way to understand these two situations is to note that in a
-convective star the convective bubbles are moving across the star on the
-hydrodynamic timescale.  Thus if the top layer of the star is removed due to
-Roche lobe overflow, this material will be replenished by new convective
-bubbles on that same timescale.  (One can imagine the bubbles as overeager
-lemmings casting themselve bodily out of the Roche lobe.)  In a radiative
-star, the only way for the material in lower layers to expand is for to to
-adjust to the new thermal equilibrium.  This causes mass transfer in this
-situation to take place on the Kelvin-Helmholtz timescale.
+### Convective envelopes
+
+Stars with convective envelopes constantly circulate material throughout the
+convective envelope on the hydrodynamic timescale.  If the outer layer is
+stripped, the material will be replenished by the star as new convective
+bubbles rise to its surface.  (One can imagine the bubbles as overeager
+lemmings casting themselves bodily into space as they rise beyond the Roche
+lobe.)  These stars will therefore lose mass on the hydrodynamic timescale 
 
 ## Summary
 
-The three modes of mass transfer are as follows:
+The three modes of mass transfer are:
 
 1. If the slope of the mass-radius relationship is steep relative to the
 Roche lobe-mass ratio relationship, mass loss will take place on the nuclear
