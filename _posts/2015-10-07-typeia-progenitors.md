@@ -235,7 +235,7 @@ object explosions generically appear similar no matter the mechanism that
 led to the explosion.  Alas, the SN Ia community is still far from answering
 these questions.
 
-[1]: ../../classics/accelerating-universe
+[1]: ../../astronomy/accelerating-universe
 [2]: https://en.wikipedia.org/wiki/Roche_lobe
 [3]: https://en.wikipedia.org/wiki/Chandrasekhar_limit
 [4]: http://snworkshop.obs.carnegiescience.edu/

@@ -160,6 +160,6 @@ relaxation time of $$5 \times 10^9$$ years, far shorter than the timescale
 of $$10^{13}$$ years that Jeans advocated.
 
 [1]: http://adsabs.harvard.edu/abs/1919MNRAS..79..408J
-[2]: ../../classics/thermal-eccentricities
+[2]: ../../astronomy/thermal-eccentricities
 [3]: ../../papers/ambartsumian37.pdf
 [4]: http://www.maths.ed.ac.uk/~douglas/Ambartsumian1937001.pdf 
