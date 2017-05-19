@@ -294,4 +294,4 @@ distribution instead.
 [3]: http://adsabs.harvard.edu/abs/1918bist.book.....A
 [4]: http://adsabs.harvard.edu/abs/2013ARA&A..51..269D
 [5]: ../../papers/ambartsumian37.pdf
-[6]: ../../classics/ambartsumian-distribution
+[6]: ../../astronomy/ambartsumian-distribution
