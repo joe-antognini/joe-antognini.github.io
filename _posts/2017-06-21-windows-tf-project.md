@@ -68,7 +68,6 @@ int main()
   // fed into the placeholder.  Note that this will be broken up into two
   // separate vectors of length 2: [1, 2] and [3, 4], which will separately
   // be multiplied by the matrix.
-
   std::vector<float> data = { 1, 2, 3, 4 };
   auto mapped_X_ = Eigen::TensorMap<Eigen::Tensor<float, 2, Eigen::RowMajor>>
                      (&data[0], 2, 2);
