@@ -240,5 +240,5 @@ output should look like:
 -1 -3
 ```
 
-[1]: ../../machine-learning/build_windows_tf
+[1]: ../../machine-learning/build-windows-tf
 [2]: https://github.com/tensorflow/tensorflow/issues/9837
