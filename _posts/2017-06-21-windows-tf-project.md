@@ -14,7 +14,7 @@ tutorials I have been able to find about writing a new Tensorflow C++
 program all seem to require that the new C++ project live within the
 Tensorflow repository itself.  But this is not practical for many projects,
 nor does it turn out to be necessary.  If you haven't built a static
-Tensorflow library, [do that first][2].
+Tensorflow library, [do that first][1].
 
 This program will simply read some data that has been hard-coded into
 memory, and then feed it into a graph that just multiplies it by another
@@ -42,10 +42,12 @@ GraphDef CreateGraphDef()
 {
   Scope root = Scope::NewRootScope();
 
-  auto X = ops::Placeholder(root.WithOpName("x"), DT_FLOAT, ops::Placeholder::Shape({ -1, 2 }));
+  auto X = ops::Placeholder(root.WithOpName("x"), DT_FLOAT, 
+                            ops::Placeholder::Shape({ -1, 2 }));
   auto A = ops::Const(root, { { 3.f, 2.f },{ -1.f, 0.f } });
 
-  auto Y = ops::MatMul(root.WithOpName("y"), A, X, ops::MatMul::TransposeB(true));
+  auto Y = ops::MatMul(root.WithOpName("y"), A, X, 
+                       ops::MatMul::TransposeB(true));
 
   GraphDef def;
   TF_CHECK_OK(root.ToGraphDef(&def));
@@ -68,7 +70,8 @@ int main()
   // be multiplied by the matrix.
 
   std::vector<float> data = { 1, 2, 3, 4 };
-  auto mapped_X_ = Eigen::TensorMap<Eigen::Tensor<float, 2, Eigen::RowMajor>>(&data[0], 2, 2);
+  auto mapped_X_ = Eigen::TensorMap<Eigen::Tensor<float, 2, Eigen::RowMajor>>
+                     (&data[0], 2, 2);
   auto eigen_X_ = Eigen::Tensor<float, 2, Eigen::RowMajor>(mapped_X_);
 
   Tensor X_(DT_FLOAT, TensorShape({ 2, 2 }));
