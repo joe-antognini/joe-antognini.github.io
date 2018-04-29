@@ -11,7 +11,7 @@ owner:
 #  bio:            "Aesthete & Athlete"
   email:          joe.antognini@gmail.com
   github:         joe-antognini
-  location:       "San Diego, California"
+  location:       "San Francisco, California"
   disqus: dynamicsinastronomy
 
 tools:
@@ -28,6 +28,8 @@ defaults:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Publications
+    url: /publications
   - title: Archive
     url: /archive
   - title: About
