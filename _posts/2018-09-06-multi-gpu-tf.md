@@ -2,7 +2,7 @@
 layout: post
 title: Multi-GPU training with Tensorflow Estimators
 date: 2018-09-06
-categories: ml
+categories: machine-learning
 image:
   feature: constellations3.jpg
 ---
