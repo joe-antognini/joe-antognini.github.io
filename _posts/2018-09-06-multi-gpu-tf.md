@@ -14,7 +14,7 @@ synchronous multi-GPU training with only three new lines of code.
 
 First, wrap your `model_fn` with `tf.contrib.estimator.replicate_model_fn`:
 
-```
+```python
 nn = tf.estimator.Estimator(
     model_fn=tf.contrib.estimator.replicate_model_fn(my_model_fn),
     run_config=run_config,
@@ -23,8 +23,8 @@ nn = tf.estimator.Estimator(
 
 Second, wrap your optimizer with `TowerOptimizer` in your `model_fn`:
 
-```
-optimizer = tf.train.GradientDescentOptimizer(learning_rate=params['learning_rate'])
+```python
+optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.1)
 optimizer = tf.contrib.estimator.TowerOptimizer(optimizer)
 ```
 
@@ -32,13 +32,14 @@ Unfortunately there's one additional (undocumented) step that you have to take t
 work.  If you only use the two lines above, you'll see an error that will look something like this:
 
 ```
-ValueError: Variable does not exist, or was not created with tf.get_variable(). Did you mean to set reuse=tf.AUTO_REUSE in VarScope?
+ValueError: Variable does not exist, or was not created with
+tf.get_variable(). Did you mean to set reuse=tf.AUTO_REUSE in VarScope?
 ```
 
 To fix this, you need to wrap the definition of your model with a `variable_scope` that has `reuse`
 set to `tf.AUTO_REUSE`:
 
-```
+```python
 def model_fn(features, labels, mode, params):
   with tf.variable_scope('my_model', reuse=tf.AUTO_REUSE):
     net = tf.identity(features, 'input')

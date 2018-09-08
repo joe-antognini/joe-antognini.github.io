@@ -76,14 +76,15 @@ code {
 }
 
 .highlight {
-    background: $black;
+    //background: $grey-light;
+    background: #d0d7dc;
     padding: 12px;
     border-radius: 4px;
     margin-bottom: $lh;
     overflow-x: scroll;
 
     code {
-        color: $white;
+        color: $black;
         font-family: "Monaco", "Courier New", "Courier";
         font-size: .9em;
         .lineno {
@@ -91,14 +92,20 @@ code {
             color: $grey-light;
             line-height: 2em;
         }
+        .k {
+            color: #618000;
+        }
+        .nf {
+            color: #637373;
+        }
         .nt {
             color: #c85b5c;
         }
         .na {
-            color: #f0e687;
+            color: #d36868;
         }
         .s {
-            color: #87ceeb;
+            color: #c91b00;
         }
     }
 }
