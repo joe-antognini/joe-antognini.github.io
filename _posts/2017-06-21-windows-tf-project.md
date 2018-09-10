@@ -24,7 +24,7 @@ hard-coded matrix.
 
 Create a new solution with the following code:
 
-```
+```cpp
 // matmul.cpp
 
 #include <vector>
@@ -105,7 +105,7 @@ them in C++.
 
 Next, in the header file, put the following:
 
-```
+```cpp
 // matmul.h
 
 #pragma once

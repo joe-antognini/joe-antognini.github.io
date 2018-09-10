@@ -76,7 +76,6 @@ code {
 }
 
 .highlight {
-    //background: $grey-light;
     background: #d0d7dc;
     padding: 12px;
     border-radius: 4px;
@@ -92,7 +91,16 @@ code {
             color: $grey-light;
             line-height: 2em;
         }
+        .cp {
+            color: #c930c7;
+        }
+        .c1 {
+            color: #0225c7;
+        }
         .k {
+            color: #618000;
+        }
+        .kt {
             color: #618000;
         }
         .m {
