@@ -1,0 +1,2924 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190428
+SUMMARY:« St. Paul of the Cross »
+DESCRIPTION:This year the Feast of St. Paul of the Cross is outranked by Quasimodo Sunday.\n\nMore information about the Feast of St. Paul of the Cross:\n• https://en.wikipedia.org/wiki/Paul_of_the_Cross\n• http://www.newadvent.org/cathen/11590a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:afc231fa-a04b-4425-bb05-f19c9dcc4650@afc2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191026
+SUMMARY:Pope Evaristus
+DESCRIPTION:More information about the Commemoration of Pope Evaristus:\n• https://en.wikipedia.org/wiki/Pope_Evaristus\n• http://www.newadvent.org/cathen/05646a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:20a9a29c-cef9-416b-86b9-ea1bdbf0266f@20a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190807
+SUMMARY:St. Cajetan
+DESCRIPTION:More information about the Feast of St. Cajetan:\n• https://en.wikipedia.org/wiki/Saint_Cajetan\n• http://www.newadvent.org/cathen/03145a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:015b1b15-9498-4787-9573-bd5ef008d3d9@015b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190705
+SUMMARY:St. Anthony Mary Zaccaria
+DESCRIPTION:More information about the Feast of St. Anthony Mary Zaccaria:\n• https://en.wikipedia.org/wiki/Anthony_Maria_Zaccaria\n• http://www.newadvent.org/cathen/01588a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:06d718b6-93d6-45bf-bf27-94c46ef3b0df@06d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190927
+SUMMARY:SS. Cosmas & Damian
+DESCRIPTION:More information about the Feast of SS. Cosmas & Damian:\n• https://en.wikipedia.org/wiki/Saints_Cosmas_and_Damian\n• http://www.newadvent.org/cathen/04403e.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:22c29da4-1403-413d-96b5-f92a799c3876@22c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191008
+SUMMARY:St. Bridget
+DESCRIPTION:More information about the Feast of St. Bridget:\n• https://en.wikipedia.org/wiki/Bridget_of_Sweden\n• http://www.newadvent.org/cathen/02782a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:826073d1-af62-4ee2-9bfb-ea3feddf44b6@8260.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190123
+SUMMARY:St. Raymond of Peñafort
+DESCRIPTION:More information about the Feast of St. Raymond of Peñafort:\n• https://en.wikipedia.org/wiki/Raymond_of_Penyafort\n• http://www.newadvent.org/cathen/12671c.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:69f49c08-304e-4e3d-8be5-0571d73a685a@69f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191010
+SUMMARY:St. Francis Borgi
+DESCRIPTION:More information about the Feast of St. Francis Borgi:\n• https://en.wikipedia.org/wiki/Francis_Borgia\,_4th_Duke_of_Gand%C3%ADa\n• http://www.newadvent.org/cathen/06213a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:4358df9b-c105-45a2-bce2-54d50965b57a@4358.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190102
+SUMMARY:Feast of the Holy Name
+DESCRIPTION:More information about the Feast of the Holy Name:\n• https://fisheaters.com/customschristmas1.html\n• https://fisheaters.com/customschristmas7a.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Holy_Name_of_Jesus\n• http://www.newadvent.org/cathen/07420a.htm\n• http://www.newadvent.org/cathen/07421a.htm\n\nMore information about Christmastide:\n• https://fisheaters.com/customschristmas1.html\n
+TRANSP:OPAQUE
+UID:b9d1cd03-796e-4f2d-9373-7a4a4e0813bd@b9d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190825
+SUMMARY:« St. Louis »
+DESCRIPTION:This year the Feast of St. Louis is outranked by the Eleventh Sunday after Pentecost.\n\nMore information about the Feast of St. Louis:\n• https://fisheaters.com/customstimeafterpentecostsaintlouis.html\n• https://en.wikipedia.org/wiki/Saint_Louis_IX\n• http://www.newadvent.org/cathen/09368a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:4b91cb6e-2328-4935-b194-828af8a3ad92@4b91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181219
+SUMMARY:Advent Embertide
+DESCRIPTION:More information about Advent Embertide:\n• https://fisheaters.com/customsadvent11.html\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:cab90ce7-37a4-4994-8586-a62c8e3bce32@cab9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190830
+SUMMARY:« SS. Felix & Adauctus »
+DESCRIPTION:The Commemoration of SS. Felix & Adauctus is outranked by the Feast of St. Rose of Lima.\n\nMore information about the Commemoration of SS. Felix & Adauctus:\n• https://en.wikipedia.org/wiki/Felix_and_Adauctus\n• http://www.newadvent.org/cathen/06032b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:dd650028-6c2f-43c6-855d-e64b48e6cbbc@dd65.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191011
+SUMMARY:The Motherhood of Mary
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:742b08a6-9ef5-48c6-9106-228a51a989b7@742b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190614
+SUMMARY:Whit Embertide
+DESCRIPTION:More information about Whit Embertide:\n• https://fisheaters.com/customseastertide8.html\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:4439ee29-9985-4f6f-8e92-534d03ea9fed@4439.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191111
+SUMMARY:Martinmas
+DESCRIPTION:More information about Martinmas:\n• https://fisheaters.com/customstimeafterpentecost15.html\n• https://en.wikipedia.org/wiki/St._Martin%27s_Day\n• https://en.wikipedia.org/wiki/Saint_Martin_of_Tours\n• http://www.newadvent.org/cathen/09732b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:42758b4d-9f35-4105-a795-7685e87268a3@4275.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190425
+SUMMARY:« Major Rogation »
+DESCRIPTION:This year Major Rogation is outranked by Easter Thursday.\n\nMore information about Major Rogation:\n• https://fisheaters.com/customseastertide3.html\n• https://en.wikipedia.org/wiki/Rogation_days\n• http://www.newadvent.org/cathen/13110b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:77e69f3e-b7c4-45d2-a89f-f28cd6bdc11f@77e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190420
+SUMMARY:Holy Saturday
+DESCRIPTION:More information about Holy Saturday:\n• https://fisheaters.com/customslent15.html\n• https://en.wikipedia.org/wiki/Holy_Saturday\n• http://www.newadvent.org/cathen/07424a.htm\n\nMore information about Paschal Triduum:\n• https://en.wikipedia.org/wiki/Paschal_Triduum\n
+TRANSP:OPAQUE
+UID:62c106d0-f0f7-48b2-8e40-f97c17cdd1de@62c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190714
+SUMMARY:« St. Bonaventure »
+DESCRIPTION:This year the Feast of St. Bonaventure is outranked by the Fifth Sunday after Pentecost.\n\nMore information about the Feast of St. Bonaventure:\n• https://en.wikipedia.org/wiki/Bonaventure\n• http://www.newadvent.org/cathen/02648c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:724cfe73-f0e1-4afb-9231-a75dec23f456@724c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190818
+SUMMARY:Tenth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:fd2b91c4-53b6-4fd6-8b48-7a29a4daf89b@fd2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190321
+SUMMARY:St. Benedict
+DESCRIPTION:More information about the Feast of St. Benedict:\n• https://en.wikipedia.org/wiki/Benedict_of_Nursia\n• http://www.newadvent.org/cathen/02467b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:df4bd607-9f56-4da0-910a-4b1e255959dc@df4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190630
+SUMMARY:Peter's Pence
+DESCRIPTION:Peter's Pence has no special liturgy.\n\nMore information about Peter's Pence:\n• https://fisheaters.com/peterspence.html\n• https://en.wikipedia.org/wiki/Peter%27s_Pence\n• http://www.newadvent.org/cathen/11774a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:3e443c36-6879-4116-89c3-9240c43986c5@3e44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190228
+SUMMARY:Fat Thursday
+DESCRIPTION:Fat Thursday has no special liturgy.\n\nMore information about Fat Thursday:\n• https://en.wikipedia.org/wiki/Fat_Thursday\n\nMore information about Shrovetide:\n• https://fisheaters.com/customsseptuagesima2.html\n• https://en.wikipedia.org/wiki/Shrovetide\n• https://en.wikipedia.org/wiki/Carnival\n• http://www.newadvent.org/cathen/13763a.htm\n
+TRANSP:OPAQUE
+UID:c4728951-6bbc-42bc-bb94-10e49bb146fd@c472.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191020
+SUMMARY:Nineteenth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:317e8df2-9286-4c1d-a50a-5dbfa46949d6@317e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190423
+SUMMARY:Easter Tuesday
+DESCRIPTION:More information about Easter Tuesday:\n• https://fisheaters.com/customseastertide2.html\n• https://en.wikipedia.org/wiki/Easter\n• http://www.newadvent.org/cathen/05224d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:3000e4bd-d479-4709-92bc-9be4e693cbb4@3000.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190309
+SUMMARY:St. Frances of Rome
+DESCRIPTION:More information about the Feast of St. Frances of Rome:\n• https://en.wikipedia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/06205c.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:5a67d86d-7ebe-4d35-b748-fab8aaa3a4ba@5a67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190805
+SUMMARY:Church of St. Mary of the Snow
+DESCRIPTION:More information about Church of St. Mary of the Snow:\n• https://en.wikipedia.org/wiki/Dedication_of_the_Basilica_of_St_Mary_Major\n• http://www.newadvent.org/cathen/11361c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:6cbbe254-06ee-4e8d-88ea-3324a95b9b00@6cbb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190308
+SUMMARY:St. John of God
+DESCRIPTION:More information about the Feast of St. John of God:\n• https://en.wikipedia.org/wiki/John_of_God\n• http://www.newadvent.org/cathen/08472c.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:f4cefb52-d732-4110-a9e5-f8dcbfa061fc@f4ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190510
+SUMMARY:St. Antoninus
+DESCRIPTION:More information about the Feast of St. Antoninus:\n• https://en.wikipedia.org/wiki/Antoninus_of_Florence\n• http://www.newadvent.org/cathen/01585b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:56d69ccb-d3a7-4c0e-b43f-a31870cd57fc@56d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190529
+SUMMARY:« St. Mary Magdalen of Pazzi »
+DESCRIPTION:This year the Feast of St. Mary Magdalen of Pazzi is outranked by Minor Rogation.\n\nMore information about the Feast of St. Mary Magdalen of Pazzi:\n• https://en.wikipedia.org/wiki/Mary_Magdalene_de%27_Pazzi\n• http://www.newadvent.org/cathen/09762a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:35f15360-02f3-4f08-9a74-ca531e65a4ad@35f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190423
+SUMMARY:« St. George »
+DESCRIPTION:This year the Commemoration of St. George is outranked by Easter Tuesday.\n\nMore information about the Commemoration of St. George:\n• https://en.wikipedia.org/wiki/Saint_George\n• http://www.newadvent.org/cathen/06453a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:08b564c6-ae5b-4abc-b9a9-eb3a85fe4098@08b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190512
+SUMMARY:Misericordia Sunday
+DESCRIPTION:More information about Misericordia Sunday:\n• https://en.wikipedia.org/wiki/Misericordia_Sunday\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:e2416224-a177-4c60-a4e8-4f4843907a51@e241.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190728
+SUMMARY:Seventh Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:df9c20d3-7b0c-4a24-a8ae-0f68a4587448@df9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190312
+SUMMARY:Gregory the Great
+DESCRIPTION:More information about Gregory the Great:\n• https://en.wikipedia.org/wiki/Pope_Gregory_I\n• http://www.newadvent.org/cathen/06780a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:42a71481-5cff-431b-a462-ff997d97dabc@42a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191113
+SUMMARY:St. Didacus
+DESCRIPTION:More information about the Feast of St. Didacus:\n• https://en.wikipedia.org/wiki/Didacus_of_Alcal%C3%A1\n• http://www.newadvent.org/cathen/04781a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:c5cf73d4-fff0-43f0-bf09-d226dee41f73@c5cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181226
+SUMMARY:St. Stephen
+DESCRIPTION:More information about the Feast of St. Stephen:\n• https://fisheaters.com/customschristmas3.html\n• https://en.wikipedia.org/wiki/Saint_Stephen\n• http://www.newadvent.org/cathen/14286b.htm\n\nMore information about Christmastide:\n• https://fisheaters.com/customschristmas1.html\n
+TRANSP:OPAQUE
+UID:6c7e0cf7-2550-4a6a-8f8d-00de79fae7c0@6c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190721
+SUMMARY:Sixth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:c5caf609-79ed-4189-b718-2d2ffebd5294@c5ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191126
+SUMMARY:St. Sylvester
+DESCRIPTION:More information about the Feast of St. Sylvester:\n• https://en.wikipedia.org/wiki/Sylvester_Gozzolini\n• http://www.newadvent.org/cathen/14372b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:c3fed8e2-f63f-4ae6-aedc-d0a3d962d1a1@c3fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190824
+SUMMARY:St. Bartholomew
+DESCRIPTION:More information about the Feast of St. Bartholomew:\n• https://en.wikipedia.org/wiki/Bartholomew_the_Apostle\n• http://www.newadvent.org/cathen/02313c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e109b0a9-106d-48e6-a60d-736a7cfef3eb@e109.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191003
+SUMMARY:St. Theresa of Lisieux
+DESCRIPTION:More information about the Feast of St. Theresa of Lisieux:\n• https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux\n• http://www.newadvent.org/cathen/17721a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:03c18a4f-3f32-42e8-926e-700133864f9e@03c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190224
+SUMMARY:Sexagesima
+DESCRIPTION:More information about Sexagesima:\n• https://en.wikipedia.org/wiki/Sexagesima\n• http://www.newadvent.org/cathen/13747a.htm\n\nMore information about Septuagesima:\n• https://fisheaters.com/customsseptuagesima1.html\n
+TRANSP:OPAQUE
+UID:15210f6e-9156-4eab-9278-539028838eea@1521.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190310
+SUMMARY:« The Forty Martyrs »
+DESCRIPTION:This year The Forty Martyrs is outranked by the First Sunday of Lent.\n\nMore information about The Forty Martyrs:\n• https://en.wikipedia.org/wiki/Forty_Martyrs_of_Sebaste\n• http://www.newadvent.org/cathen/06153a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:e29f28f9-225f-4803-a3a4-d878ee2ca997@e29f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190416
+SUMMARY:Tuesday of Holy Week
+DESCRIPTION:More information about Holy Week:\n• https://en.wikipedia.org/wiki/Holy_Week\n• http://www.newadvent.org/cathen/07435a.htm\n
+TRANSP:OPAQUE
+UID:9d21c73d-903e-4ec9-af47-699f799ac0bc@9d21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190525
+SUMMARY:Pope Gregory VII
+DESCRIPTION:More information about the Feast of Pope Gregory VII:\n• https://en.wikipedia.org/wiki/Pope_Gregory_VII\n• http://www.newadvent.org/cathen/06791c.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:21c660f8-849e-4004-b215-667a5d099495@21c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190702
+SUMMARY:The Visitation
+DESCRIPTION:More information about The Visitation:\n• https://fisheaters.com/visitation.html\n• https://en.wikipedia.org/wiki/Visitation_(Christianity)\n• http://www.newadvent.org/cathen/15480a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:5cc86c9b-c338-4209-bd18-9d036ea67cff@5cc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190101
+SUMMARY:Feast of the Circumcision
+DESCRIPTION:Today is a Holy Day of Obligation.\n\nMore information about the Feast of the Circumcision:\n• https://fisheaters.com/customschristmas7.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Circumcision_of_Christ\n• http://www.newadvent.org/cathen/03779a.htm\n\nMore information about Christmastide:\n• https://fisheaters.com/customschristmas1.html\n
+TRANSP:OPAQUE
+UID:4c8a8f16-0807-4455-8235-7b754ee2f462@4c8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190303
+SUMMARY:Quinquagesima
+DESCRIPTION:More information about Quinquagesima:\n• https://en.wikipedia.org/wiki/Quinquagesima\n• http://www.newadvent.org/cathen/12614a.htm\n\nMore information about Septuagesima:\n• https://fisheaters.com/customsseptuagesima1.html\n
+TRANSP:OPAQUE
+UID:449dcda0-978c-4241-a512-bef34cc1dd28@449d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190425
+SUMMARY:Easter Thursday
+DESCRIPTION:More information about Easter Thursday:\n• https://fisheaters.com/customseastertide2.html\n• https://en.wikipedia.org/wiki/Easter\n• http://www.newadvent.org/cathen/05224d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:95c1e11d-f838-465e-af7d-20d85b0663ab@95c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190304
+SUMMARY:Shrove Monday
+DESCRIPTION:Shrove Monday has no special liturgy.\n\nMore information about Shrove Monday:\n• https://en.wikipedia.org/wiki/Shrove_Monday\n\nMore information about Shrovetide:\n• https://fisheaters.com/customsseptuagesima2.html\n• https://en.wikipedia.org/wiki/Shrovetide\n• https://en.wikipedia.org/wiki/Carnival\n• http://www.newadvent.org/cathen/13763a.htm\n
+TRANSP:OPAQUE
+UID:8d47f8b4-a972-4da3-b523-7a9b184cfeb5@8d47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190519
+SUMMARY:« Pope Celestine V »
+DESCRIPTION:This year the Feast of Pope Celestine V is outranked by Cantate Sunday.\n\nMore information about the Feast of Pope Celestine V:\n• https://en.wikipedia.org/wiki/Pope_Celestine_V\n• http://www.newadvent.org/cathen/03479b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:47fceaa8-041a-4198-a45a-300c2d9c762f@47fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190501
+SUMMARY:St. Joseph the Worker
+DESCRIPTION:More information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:f92ef77a-ca4b-4b11-8875-a73d4e9c2220@f92e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190327
+SUMMARY:« St. John Capistrano »
+DESCRIPTION:The Feast of St. John Capistrano is outranked by the Feast of St. John Damascene.\n\nMore information about the Feast of St. John Capistrano:\n• https://en.wikipedia.org/wiki/John_of_Capistrano\n• http://www.newadvent.org/cathen/08452a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:23d9ec40-1119-4d4f-ab3d-f79a3b1bedda@23d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190829
+SUMMARY:The Beheading of John the Baptist
+DESCRIPTION:More information about The Beheading of John the Baptist:\n• https://en.wikipedia.org/wiki/Beheading_of_John_the_Baptist\n• http://www.newadvent.org/cathen/08486b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:0bd4ddce-d65b-46ee-8f82-e5365c783d1b@0bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190227
+SUMMARY:St. Gabriel of Our Lady of Sorrows
+DESCRIPTION:More information about the Feast of St. Gabriel of Our Lady of Sorrows:\n• https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sorrows\n• http://www.newadvent.org/cathen/06330c.htm\n\nMore information about Septuagesima:\n• https://fisheaters.com/customsseptuagesima1.html\n
+TRANSP:OPAQUE
+UID:c699de53-356b-4334-90de-18cdd874dfc7@c699.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190922
+SUMMARY:« St. Thomas of Villanova »
+DESCRIPTION:This year the Feast of St. Thomas of Villanova is outranked by the Fifteenth Sunday after Pentecost.\n\nMore information about the Feast of St. Thomas of Villanova:\n• https://en.wikipedia.org/wiki/Thomas_of_Villanova\n• http://www.newadvent.org/cathen/14696a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:f44be733-a62c-4cf5-844a-feecbf8746e0@f44b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190502
+SUMMARY:St. Athanasius
+DESCRIPTION:More information about the Feast of St. Athanasius:\n• https://en.wikipedia.org/wiki/Athanasius_of_Alexandria\n• http://www.newadvent.org/cathen/02035a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:39fb14ad-151e-4a0a-8c01-87b202bd51e0@39fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190910
+SUMMARY:St. Nicholas of Tolentino
+DESCRIPTION:More information about the Feast of St. Nicholas of Tolentino:\n• https://en.wikipedia.org/wiki/Nicholas_of_Tolentino\n• http://www.newadvent.org/cathen/11065a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:bef82b2c-df95-4cc3-b99d-95ab01737c90@bef8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190122
+SUMMARY:SS. Vincent & Anastasius
+DESCRIPTION:More information about the Feast of SS. Vincent & Anastasius:\n• https://en.wikipedia.org/wiki/Vincent_of_Saragossa\n• http://www.newadvent.org/cathen/15434b.htm\n• https://en.wikipedia.org/wiki/Anastasius_of_Persia\n• http://www.newadvent.org/cathen/01455c.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:10cc7da9-eae2-4e1e-bb92-dcb74d8a0275@10cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181221
+SUMMARY:« St. Thomas »
+DESCRIPTION:This year the Feast of St. Thomas is outranked by Advent Embertide.\n\nMore information about the Feast of St. Thomas:\n• https://en.wikipedia.org/wiki/Thomas_the_Apostle\n• http://www.newadvent.org/cathen/14658b.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:f4df1e2f-02a8-464e-acf2-96029ac70f41@f4df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190128
+SUMMARY:St. Peter Nolasco
+DESCRIPTION:More information about the Feast of St. Peter Nolasco:\n• https://en.wikipedia.org/wiki/Peter_Nolasco\n• http://www.newadvent.org/cathen/11770b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:8a6b1be2-d85b-4515-9a34-388368d4fe7b@8a6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190625
+SUMMARY:St. William
+DESCRIPTION:More information about the Feast of St. William:\n• https://en.wikipedia.org/wiki/William_of_Montevergine\n• http://www.newadvent.org/cathen/15639b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:68674ba2-1745-4354-a072-8d79445894d4@6867.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181203
+SUMMARY:St. Francis Xavier
+DESCRIPTION:More information about the Feast of St. Francis Xavier:\n• https://en.wikipedia.org/wiki/Francis_Xavier\n• http://www.newadvent.org/cathen/06233b.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:c89650ad-313c-4e61-9c35-2d85eafd00c5@c896.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181228
+SUMMARY:Childermas
+DESCRIPTION:More information about Childermas:\n• https://fisheaters.com/customschristmas5.html\n• https://en.wikipedia.org/wiki/Massacre_of_the_Innocents\n• http://www.newadvent.org/cathen/07419a.htm\n\nMore information about Christmastide:\n• https://fisheaters.com/customschristmas1.html\n
+TRANSP:OPAQUE
+UID:e0754e93-98bb-45ce-80ab-eff564b9471f@e075.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190209
+SUMMARY:St. Cyril of Alexandria
+DESCRIPTION:More information about the Feast of St. Cyril of Alexandria:\n• https://en.wikipedia.org/wiki/Cyril_of_Alexandria\n• http://www.newadvent.org/cathen/04592b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:2302bef9-911a-4c60-b27c-38302e5a2a92@2302.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190620
+SUMMARY:Corpus Christi
+DESCRIPTION:More information about Corpus Christi:\n• https://fisheaters.com/customstimeafterpentecost2.html\n• https://en.wikipedia.org/wiki/Corpus_Christi_(feast)\n• http://www.newadvent.org/cathen/04390b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:3fdaff33-1e9d-4b83-bb76-71fb1508e6bd@3fda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190119
+SUMMARY:SS. Marius\, Martha\, Audifax\, & Abachum
+DESCRIPTION:More information about the Commemoration of SS. Marius\, Martha\, Audifax\, & Abachum:\n• https://en.wikipedia.org/wiki/Marius\,_Martha\,_Audifax\,_and_Abachum\n• http://www.newadvent.org/cathen/09671b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:f7afa46e-d893-44ee-a78d-9e54602eb4cb@f7af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190129
+SUMMARY:St. Francis de Sales
+DESCRIPTION:More information about the Feast of St. Francis de Sales:\n• https://en.wikipedia.org/wiki/Francis_de_Sales\n• http://www.newadvent.org/cathen/06220a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:519f903f-a08e-482f-9cb5-d39527d2f10c@519f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181211
+SUMMARY:Pope Damasus I
+DESCRIPTION:More information about the Feast of Pope Damasus I:\n• https://en.wikipedia.org/wiki/Pope_Damasus_I\n• http://www.newadvent.org/cathen/04613a.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:64417f62-d7cd-4595-9307-e322645e4d21@6441.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190813
+SUMMARY:SS. Hippolytus & Cassian
+DESCRIPTION:More information about the Commemoration of SS. Hippolytus & Cassian:\n• https://en.wikipedia.org/wiki/Hippolytus_of_Rome\n• https://en.wikipedia.org/wiki/Cassian_of_Imola\n• http://www.newadvent.org/cathen/07360c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:96501228-a161-465b-b8c3-f14746b87a17@9650.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191114
+SUMMARY:St. Josaphat
+DESCRIPTION:More information about the Feast of St. Josaphat:\n• https://en.wikipedia.org/wiki/Josaphat_Kuntsevych\n• http://www.newadvent.org/cathen/08503b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:ee75ce14-9ca3-423a-8ce8-68bf59c4c00d@ee75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190421
+SUMMARY:Easter
+DESCRIPTION:More information about Easter:\n• https://fisheaters.com/customseastertide2.html\n• https://en.wikipedia.org/wiki/Easter\n• http://www.newadvent.org/cathen/05224d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:3b8b625d-550b-4f7f-846f-f615a86817da@3b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190514
+SUMMARY:St. Boniface of Tarsus
+DESCRIPTION:More information about the Commemoration of St. Boniface of Tarsus:\n• https://en.wikipedia.org/wiki/Boniface_of_Tarsus\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:a710eb87-a5e3-4db0-a561-4a17e8b196ed@a710.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190214
+SUMMARY:St. Valentine
+DESCRIPTION:More information about the Commemoration of St. Valentine:\n• https://fisheaters.com/customstimeafterepiphany5.html\n• https://en.wikipedia.org/wiki/Valentine%27s_Day\n• https://en.wikipedia.org/wiki/Saint_Valentine\n• http://www.newadvent.org/cathen/15254a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:5e14e18e-9916-43dc-b71f-6042eb3881b1@5e14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190629
+SUMMARY:SS. Peter and Paul
+DESCRIPTION:More information about the Feast of SS. Peter and Paul:\n• https://en.wikipedia.org/wiki/Feast_of_Saints_Peter_and_Paul\n• https://en.wikipedia.org/wiki/Saint_Peter\n• https://en.wikipedia.org/wiki/Paul_the_Apostle\n• http://www.newadvent.org/cathen/11744a.htm\n• http://www.newadvent.org/cathen/11567b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:1bd5a360-249c-4960-934a-bf914e9be34e@1bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190417
+SUMMARY:Spy Wednesday
+DESCRIPTION:More information about Spy Wednesday:\n• https://fisheaters.com/customslent12.html\n• https://en.wikipedia.org/wiki/Holy_Wednesday\n\nMore information about Holy Week:\n• https://en.wikipedia.org/wiki/Holy_Week\n• http://www.newadvent.org/cathen/07435a.htm\n
+TRANSP:OPAQUE
+UID:c50ae209-c280-4677-838a-462d1e67f9a4@c50a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190318
+SUMMARY:St. Cyril of Jerusalem
+DESCRIPTION:More information about the Feast of St. Cyril of Jerusalem:\n• https://en.wikipedia.org/wiki/Cyril_of_Jerusalem\n• http://www.newadvent.org/cathen/04595b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:aa6d4002-ca4a-411c-9566-e193f8368c45@aa6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190614
+SUMMARY:« St. Basil the Great »
+DESCRIPTION:This year the Feast of St. Basil the Great is outranked by Whit Embertide.\n\nMore information about the Feast of St. Basil the Great:\n• https://en.wikipedia.org/wiki/Basil_of_Caesarea\n• http://www.newadvent.org/cathen/02330b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:1b3db801-5bdd-4fe1-959e-263d156e7c39@1b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190920
+SUMMARY:Michaelmas Embertide
+DESCRIPTION:More information about Michaelmas Embertide:\n• https://fisheaters.com/customstimeafterpentecost8.html\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2a0760a1-5379-42ec-994b-64f77386f1c8@2a07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190802
+SUMMARY:« St. Alphonsus Liguori »
+DESCRIPTION:The Feast of St. Alphonsus Liguori is outranked by The Holy Machabees.\n\nMore information about the Feast of St. Alphonsus Liguori:\n• https://en.wikipedia.org/wiki/Alphonsus_Liguori\n• http://www.newadvent.org/cathen/01334a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:7f3410e5-07e6-49d2-9947-419e37a429bb@7f34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190407
+SUMMARY:Passion Sunday
+DESCRIPTION:More information about Passion Sunday:\n• https://en.wikipedia.org/wiki/Passion_Sunday\n• http://www.newadvent.org/cathen/11535a.htm\n\nMore information about Passiontide:\n• https://fisheaters.com/customslent8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/cathen/11535b.htm\n
+TRANSP:OPAQUE
+UID:c5b18f18-8931-4d71-9175-ae1be692f4b1@c5b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190609
+SUMMARY:« SS. Primus & Felician »
+DESCRIPTION:This year the Commemoration of SS. Primus & Felician is outranked by Pentecost.\n\nMore information about the Commemoration of SS. Primus & Felician:\n• https://en.wikipedia.org/wiki/Primus_and_Felician\n• http://www.newadvent.org/cathen/12427a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:049e5c4c-04e8-4ada-bba4-c68b3276d499@049e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190127
+SUMMARY:« St. John Chrysostom »
+DESCRIPTION:This year the Feast of St. John Chrysostom is outranked by the Third Sunday after Epiphany.\n\nMore information about the Feast of St. John Chrysostom:\n• https://en.wikipedia.org/wiki/John_Chrysostom\n• http://www.newadvent.org/cathen/08452b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:5e373399-38e4-42fe-8992-a545c7057b3e@5e37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191110
+SUMMARY:« St. Andrew Avellino »
+DESCRIPTION:This year the Feast of St. Andrew Avellino is outranked by the Twenty-second Sunday after Pentecost.\n\nMore information about the Feast of St. Andrew Avellino:\n• https://en.wikipedia.org/wiki/Andrew_Avellino\n• http://www.newadvent.org/cathen/01472b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:b3645d13-0f2e-4e4e-9925-9176e6afd052@b364.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190105
+SUMMARY:Twelfth Night
+DESCRIPTION:More information about the Twelfth Night:\n• https://fisheaters.com/epiphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(holiday)\n\nMore information about Christmastide:\n• https://fisheaters.com/customschristmas1.html\n
+TRANSP:OPAQUE
+UID:497deaee-8aaa-446a-8ab8-a111de42ff98@497d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190622
+SUMMARY:St. Paulinus
+DESCRIPTION:More information about the Feast of St. Paulinus:\n• https://en.wikipedia.org/wiki/Paulinus_of_Nola\n• http://www.newadvent.org/cathen/11585b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:bac4f06a-cbf8-4e90-abb6-8153a6fc0987@bac4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190505
+SUMMARY:Jubilate Sunday
+DESCRIPTION:More information about Jubilate Sunday:\n• https://en.wikipedia.org/wiki/Jubilate_Sunday\n• http://www.newadvent.org/cathen/08531b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:e6e242d9-3e70-4032-af1b-5523ec805d45@e6e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190422
+SUMMARY:Easter Monday
+DESCRIPTION:More information about Easter Monday:\n• https://fisheaters.com/customseastertide2.html\n• https://en.wikipedia.org/wiki/Easter\n• http://www.newadvent.org/cathen/05224d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:0f19c143-76eb-4bde-9c6c-b39cea2edbf4@0f19.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191017
+SUMMARY:St. Margaret Mary Alacoque
+DESCRIPTION:More information about the Feast of St. Margaret Mary Alacoque:\n• https://en.wikipedia.org/wiki/Margaret_Mary_Alacoque\n• http://www.newadvent.org/cathen/09653a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:5a34a220-f084-4b57-85c5-95b03a9d64a4@5a34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190827
+SUMMARY:St. Joseph Calasnctius
+DESCRIPTION:More information about the Feast of St. Joseph Calasnctius:\n• https://en.wikipedia.org/wiki/Joseph_Calasanz\n• http://www.newadvent.org/cathen/08518d.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:c595b938-f491-423b-b96a-9c3be2874036@c595.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190615
+SUMMARY:Whit Embertide
+DESCRIPTION:More information about Whit Embertide:\n• https://fisheaters.com/customseastertide8.html\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:3f98543d-c92d-461a-af64-a0be22c0d037@3f98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190924
+SUMMARY:Our Lady of Ransom
+DESCRIPTION:More information about the Commemoration of Our Lady of Ransom:\n• https://en.wikipedia.org/wiki/Feast_of_Our_Lady_of_Ransom\n• https://en.wikipedia.org/wiki/Order_of_the_Blessed_Virgin_Mary_of_Mercy\n• http://www.newadvent.org/cathen/12640a.htm\n• http://www.newadvent.org/cathen/10197b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:9a9e4cad-cf42-4eeb-b7ba-0ece433da043@9a9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190828
+SUMMARY:St. Augustine
+DESCRIPTION:More information about the Feast of St. Augustine:\n• https://en.wikipedia.org/wiki/Augustine_of_Hippo\n• http://www.newadvent.org/cathen/02084a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:b0d196e0-6a40-44e8-a4e0-e5020fb4ab79@b0d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190926
+SUMMARY:SS. Cyprian & Justina
+DESCRIPTION:More information about the Commemoration of SS. Cyprian & Justina:\n• https://en.wikipedia.org/wiki/Cyprian_and_Justina\n• http://www.newadvent.org/cathen/04583a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:637c7113-9698-46aa-9077-96727ea96cb5@637c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181204
+SUMMARY:St. Peter Chrysologus
+DESCRIPTION:More information about the Feast of St. Peter Chrysologus:\n• https://en.wikipedia.org/wiki/Peter_Chrysologus\n• http://www.newadvent.org/cathen/11762c.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:ad3bfe8b-fe8a-4db8-963c-f98fbcb1c9eb@ad3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190505
+SUMMARY:« Pope Pius V »
+DESCRIPTION:This year the Feast of Pope Pius V is outranked by Jubilate Sunday.\n\nMore information about the Feast of Pope Pius V:\n• https://en.wikipedia.org/wiki/Pope_Pius_V\n• http://www.newadvent.org/cathen/12130a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:fc81ae73-c4f3-4109-a749-0534be837472@fc81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190305
+SUMMARY:Mardi Gras
+DESCRIPTION:Mardi Gras has no special liturgy.\n\nMore information about Mardi Gras:\n• https://en.wikipedia.org/wiki/Mardi_Gras\n• https://en.wikipedia.org/wiki/Shrove_Tuesday\n\nMore information about Shrovetide:\n• https://fisheaters.com/customsseptuagesima2.html\n• https://en.wikipedia.org/wiki/Shrovetide\n• https://en.wikipedia.org/wiki/Carnival\n• http://www.newadvent.org/cathen/13763a.htm\n
+TRANSP:OPAQUE
+UID:99e22a3e-58f5-4722-ad2d-b7c3c0b9b83f@99e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190217
+SUMMARY:Septuagesima
+DESCRIPTION:More information about Septuagesima:\n• https://fisheaters.com/septuagesima.html\n• https://en.wikipedia.org/wiki/Septuagesima\n• http://www.newadvent.org/cathen/13721b.htm\n\nMore information about Septuagesima:\n• https://fisheaters.com/customsseptuagesima1.html\n
+TRANSP:OPAQUE
+UID:8d4c6f53-058c-4903-99e5-0622ef163714@8d4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190717
+SUMMARY:St. Alexius
+DESCRIPTION:More information about the Commemoration of St. Alexius:\n• https://en.wikipedia.org/wiki/Alexius_of_Rome\n• http://www.newadvent.org/cathen/01307b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:46b8d824-5764-44e9-b25d-8b03004fd471@46b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190903
+SUMMARY:Pope Pius X
+DESCRIPTION:More information about the Feast of Pope Pius X:\n• https://en.wikipedia.org/wiki/Pope_Pius_X\n• http://www.newadvent.org/cathen/12137a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:faf81956-06a2-4eed-8deb-45037e2f7b09@faf8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190715
+SUMMARY:St. Henry
+DESCRIPTION:More information about the Feast of St. Henry:\n• https://en.wikipedia.org/wiki/Henry_II\,_Holy_Roman_Emperor\n• http://www.newadvent.org/cathen/07227a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:7c4ee691-37e0-4182-b492-2b5b70bc4777@7c4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190914
+SUMMARY:Roodmas
+DESCRIPTION:More information about Roodmas:\n• https://fisheaters.com/customstimeafterpentecost7.html\n• https://en.wikipedia.org/wiki/Roodmas\n• https://en.wikipedia.org/wiki/Feast_of_the_Cross\n• http://www.newadvent.org/cathen/04529a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:fe6437ce-ff14-46da-9413-a9dc7d6ccc7d@fe64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190426
+SUMMARY:« SS. Cletus and Marcellinus »
+DESCRIPTION:This year the Feast of SS. Cletus and Marcellinus is outranked by Easter Friday.\n\nMore information about the Feast of SS. Cletus and Marcellinus:\n• https://en.wikipedia.org/wiki/Pope_Anacletus\n• https://en.wikipedia.org/wiki/Pope_Marcellinus\n• http://www.newadvent.org/cathen/04054a.htm\n• http://www.newadvent.org/cathen/01446a.htm\n• http://www.newadvent.org/cathen/09637d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:d1fff895-9b68-400f-b2da-3d6753bee022@d1ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190127
+SUMMARY:Third Sunday after Epiphany
+DESCRIPTION:More information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:0458123d-98fb-4f12-8118-4af1272e7110@0458.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190701
+SUMMARY:Feast of the Most Precious Blood
+DESCRIPTION:More information about the Feast of the Most Precious Blood:\n• https://en.wikipedia.org/wiki/Feast_of_the_Most_Precious_Blood\n• https://en.wikipedia.org/wiki/Blood_of_Christ\n• http://www.newadvent.org/cathen/12373a.htm\n• http://www.newadvent.org/cathen/12372c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:3ad82a13-5b58-4808-b1d4-71043e590e5e@3ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190921
+SUMMARY:Michaelmas Embertide
+DESCRIPTION:More information about Michaelmas Embertide:\n• https://fisheaters.com/customstimeafterpentecost8.html\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:19644f17-4eb0-43d2-99f4-c76cc1c96f1a@1964.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190922
+SUMMARY:Fifteenth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e6ed04d9-ae6e-42ae-b6a3-b23c8028a631@e6ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190630
+SUMMARY:« Third Sunday after Pentecost »
+DESCRIPTION:This year the Third Sunday after Pentecost is outranked by Peter's Pence.\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:7cfc825e-dc1a-454e-859d-6060dc528c2b@7cfc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190417
+SUMMARY:« Pope Anicetus »
+DESCRIPTION:This year the Commemoration of Pope Anicetus is outranked by Spy Wednesday.\n\nMore information about the Commemoration of Pope Anicetus:\n• https://en.wikipedia.org/wiki/Pope_Anicetus\n• http://www.newadvent.org/cathen/01514a.htm\n\nMore information about Holy Week:\n• https://en.wikipedia.org/wiki/Holy_Week\n• http://www.newadvent.org/cathen/07435a.htm\n
+TRANSP:OPAQUE
+UID:a6358882-7db6-42f5-929c-78958f726043@a635.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190819
+SUMMARY:St. John Eudes
+DESCRIPTION:More information about the Feast of St. John Eudes:\n• https://en.wikipedia.org/wiki/John_Eudes\n• http://www.newadvent.org/cathen/05596a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:7e99fd4e-2cff-4874-8b52-b19512299c62@7e99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190530
+SUMMARY:« Pope Felix I »
+DESCRIPTION:This year the Commemoration of Pope Felix I is outranked by Ascension.\n\nMore information about the Commemoration of Pope Felix I:\n• https://en.wikipedia.org/wiki/Pope_Felix_I\n• http://www.newadvent.org/cathen/06029b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:09cb18ff-a994-401f-9851-33ba0e0ca4ad@09cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190526
+SUMMARY:« St. Philip Neri »
+DESCRIPTION:This year the Feast of St. Philip Neri is outranked by Sunday after Ascension.\n\nMore information about the Feast of St. Philip Neri:\n• https://en.wikipedia.org/wiki/Philip_Neri\n• http://www.newadvent.org/cathen/12018b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:11d70f2d-5bee-4482-ba80-8582914faecd@11d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191004
+SUMMARY:St. Francis of Assisi
+DESCRIPTION:More information about the Feast of St. Francis of Assisi:\n• https://fisheaters.com/feastofstfrancisofassisi.html\n• https://en.wikipedia.org/wiki/Francis_of_Assisi\n• http://www.newadvent.org/cathen/06221a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:6738cbd9-f022-44c8-918a-894d7fcbc11e@6738.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190923
+SUMMARY:Pope Linus
+DESCRIPTION:More information about the Feast of Pope Linus:\n• https://en.wikipedia.org/wiki/Pope_Linus\n• http://www.newadvent.org/cathen/09272b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:ecdc1c60-00c7-40bb-aead-01a29440a1de@ecdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190616
+SUMMARY:Trinity Sunday
+DESCRIPTION:More information about Trinity Sunday:\n• https://fisheaters.com/customseastertide9.html\n• https://en.wikipedia.org/wiki/Trinity_Sunday\n• http://www.newadvent.org/cathen/15058a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2a2627ab-1a65-426b-8bed-3adaef8023a4@2a26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191130
+SUMMARY:St. Andrew
+DESCRIPTION:More information about the Feast of St. Andrew:\n• https://en.wikipedia.org/wiki/Andrew_the_Apostle\n• http://www.newadvent.org/cathen/01471a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:1029dbfe-e1e7-432b-b2f1-047efc25f457@1029.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190728
+SUMMARY:« SS. Nazarius & Celsus\, St. Victor I\, St. Innocent I »
+DESCRIPTION:This year the Feast of SS. Nazarius & Celsus\, St. Victor I\, St. Innocent I is outranked by the Seventh Sunday after Pentecost.\n\nMore information about the Feast of SS. Nazarius & Celsus\, St. Victor I\, St. Innocent I:\n• https://en.wikipedia.org/wiki/Nazarius_and_Celsus\n• https://en.wikipedia.org/wiki/Pope_Victor_I\n• https://en.wikipedia.org/wiki/Pope_Innocent_I\n• http://www.newadvent.org/cathen/10728a.htm\n• http://www.newadvent.org/cathen/15408a.htm\n• http://www.newadvent.org/cathen/08011a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:05d9aafa-ba96-4d25-b7b2-b04e34de2df2@05d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190224
+SUMMARY:« St. Matthias »
+DESCRIPTION:This year the Feast of St. Matthias is outranked by Sexagesima.\n\nMore information about the Feast of St. Matthias:\n• https://en.wikipedia.org/wiki/Saint_Matthias\n• http://www.newadvent.org/cathen/10066a.htm\n\nMore information about Septuagesima:\n• https://fisheaters.com/customsseptuagesima1.html\n
+TRANSP:OPAQUE
+UID:c277fa95-ebfb-4a76-983d-60d7d5864e8f@c277.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181209
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:More information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:d69f52f6-dd66-48c5-b0e7-8d43f126efc3@d69f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190619
+SUMMARY:« SS. Gervase & Protase »
+DESCRIPTION:The Commemoration of SS. Gervase & Protase is outranked by the Feast of St. Juliana Falconieri.\n\nMore information about the Commemoration of SS. Gervase & Protase:\n• https://en.wikipedia.org/wiki/Gervasius_and_Protasius\n• http://www.newadvent.org/cathen/06537a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:aebe0400-7593-4245-8812-86a0039280a5@aebe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190718
+SUMMARY:St. Camillus de Lellis
+DESCRIPTION:More information about the Feast of St. Camillus de Lellis:\n• https://en.wikipedia.org/wiki/Camillus_de_Lellis\n• http://www.newadvent.org/cathen/03217b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:70d5c839-7ca7-4bad-8b7b-fb359079cc6e@70d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181208
+SUMMARY:Feast of the Immaculate Conception
+DESCRIPTION:Today is a Holy Day of Obligation.\n\nMore information about the Feast of the Immaculate Conception:\n• https://fisheaters.com/customsadvent5.html\n• http://www.newadvent.org/cathen/07674d.htm\n• https://en.wikipedia.org/wiki/Feast_of_the_Immaculate_Conception\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:602e6c06-b55b-4817-926f-f7390135c7e5@602e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191023
+SUMMARY:St. Anthony Mary Claret
+DESCRIPTION:More information about the Feast of St. Anthony Mary Claret:\n• https://en.wikipedia.org/wiki/Anthony_Mary_Claret\n• http://www.newadvent.org/cathen/16026a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:0aa5606d-e1e5-4baf-84ae-b5b1c63c685c@0aa5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181223
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:More information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:9d0bbb97-574c-4f55-b2b1-26ad6f764bc7@9d0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190317
+SUMMARY:« St. Patrick »
+DESCRIPTION:This year the Feast of St. Patrick is outranked by the Second Sunday of Lent.\n\nMore information about the Feast of St. Patrick:\n• https://fisheaters.com/customslent4.html\n• https://en.wikipedia.org/wiki/Saint_Patrick\n• https://en.wikipedia.org/wiki/Saint_Patrick%27s_Day\n• http://www.newadvent.org/cathen/11554a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:4b8d5473-ab96-4d4f-853c-a87375689235@4b8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190130
+SUMMARY:St. Martina
+DESCRIPTION:More information about the Feast of St. Martina:\n• https://en.wikipedia.org/wiki/Martina_of_Rome\n• http://www.newadvent.org/cathen/09730a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:dbef0953-e7bf-4f5e-b6b8-bf247542629e@dbef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181227
+SUMMARY:St. John
+DESCRIPTION:More information about the Feast of St. John:\n• https://fisheaters.com/customschristmas4.html\n• https://en.wikipedia.org/wiki/John_the_Evangelist\n• http://www.newadvent.org/cathen/08492a.htm\n\nMore information about Christmastide:\n• https://fisheaters.com/customschristmas1.html\n
+TRANSP:OPAQUE
+UID:20573818-e6ea-4758-ae12-d4aab670a5fc@2057.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190613
+SUMMARY:St. Anthony of Padua
+DESCRIPTION:More information about the Feast of St. Anthony of Padua:\n• https://fisheaters.com/customstimeafterpentecoststa.html\n• https://en.wikipedia.org/wiki/Anthony_of_Padua\n• http://www.newadvent.org/cathen/01556a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:caebd7a7-f7d1-4f78-a971-f2f0a5147560@caeb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191129
+SUMMARY:St. Saturninus
+DESCRIPTION:More information about the Commemoration of St. Saturninus:\n• https://en.wikipedia.org/wiki/Saturnin\n• http://www.newadvent.org/cathen/13486b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2ee876cb-916c-4233-96f0-0b0e145f5433@2ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190421
+SUMMARY:« St. Anselm »
+DESCRIPTION:This year the Feast of St. Anselm is outranked by Easter.\n\nMore information about the Feast of St. Anselm:\n• https://en.wikipedia.org/wiki/Anselm_of_Canterbury\n• http://www.newadvent.org/cathen/01546a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:32cbce5b-fc97-40d8-8bfb-b1010b1c3e2c@32cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190612
+SUMMARY:Whit Embertide
+DESCRIPTION:More information about Whit Embertide:\n• https://fisheaters.com/customseastertide8.html\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:ed76ac39-8b41-4cf1-be14-5e598a413723@ed76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190918
+SUMMARY:« St. Joseph of Cupertino »
+DESCRIPTION:This year the Feast of St. Joseph of Cupertino is outranked by Michaelmas Embertide.\n\nMore information about the Feast of St. Joseph of Cupertino:\n• https://en.wikipedia.org/wiki/Joseph_of_Cupertino\n• http://www.newadvent.org/cathen/08520b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:0fcc3c21-1e84-467c-aa35-d59921fa2d07@0fcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191125
+SUMMARY:St. Catherine of Alexandria
+DESCRIPTION:More information about the Feast of St. Catherine of Alexandria:\n• https://fisheaters.com/customstimeafterpentecost14.html\n• https://en.wikipedia.org/wiki/Catherine_of_Alexandria\n• http://www.newadvent.org/cathen/03445a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:59a176ec-17b9-41cb-94c7-9db798e3bb68@59a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190606
+SUMMARY:St. Norbert
+DESCRIPTION:More information about the Feast of St. Norbert:\n• https://en.wikipedia.org/wiki/Norbert_of_Xanten\n• http://www.newadvent.org/cathen/11100b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:15565b94-5252-47c8-93e0-348b666d73e2@1556.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190726
+SUMMARY:St. Anne
+DESCRIPTION:More information about the Feast of St. Anne:\n• https://en.wikipedia.org/wiki/Saint_Anne\n• http://www.newadvent.org/cathen/01538a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:17a03628-62c3-4f25-a053-ce89d1072796@17a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190916
+SUMMARY:Pope Cornelius & St. Cyprian
+DESCRIPTION:More information about the Feast of Pope Cornelius & St. Cyprian:\n• https://en.wikipedia.org/wiki/Pope_Cornelius\n• https://en.wikipedia.org/wiki/Cyprian\n• http://www.newadvent.org/cathen/04375c.htm\n• http://www.newadvent.org/cathen/04583b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:261846fd-557f-4702-94ac-0fc1acd984f5@2618.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190518
+SUMMARY:St. Venantius
+DESCRIPTION:More information about the Feast of St. Venantius:\n• https://en.wikipedia.org/wiki/Venantius_of_Camerino\n• http://www.newadvent.org/cathen/15619a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:c59e34ea-d465-47e4-88f4-84947ec8f37b@c59e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191024
+SUMMARY:St. Raphael
+DESCRIPTION:More information about the Feast of St. Raphael:\n• https://en.wikipedia.org/wiki/Raphael_(archangel)\n• http://www.newadvent.org/cathen/12640b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:a0b9d745-2c7c-4305-8293-3c401c787945@a0b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190724
+SUMMARY:St. Christina
+DESCRIPTION:More information about the Commemoration of St. Christina:\n• https://en.wikipedia.org/wiki/Christina_of_Bolsena\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:617c13bf-7404-460b-a297-fb3414678ba0@617c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190617
+SUMMARY:St. Gregory Barbarigo
+DESCRIPTION:More information about the Feast of St. Gregory Barbarigo:\n• https://en.wikipedia.org/wiki/Gregorio_Barbarigo\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:7de0ee7f-0296-4c37-b7a1-126811b603cd@7de0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190402
+SUMMARY:St. Francis of Paula
+DESCRIPTION:More information about the Feast of St. Francis of Paula:\n• https://en.wikipedia.org/wiki/Francis_of_Paola\n• http://www.newadvent.org/cathen/06231a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:1a0b5143-23a4-489a-9266-868c495f9abf@1a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181205
+SUMMARY:St. Sabbas
+DESCRIPTION:More information about the Commemoration of St. Sabbas:\n• https://en.wikipedia.org/wiki/Sabbas_the_Sanctified\n• http://www.newadvent.org/cathen/13286b.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:b562c38e-84a6-4d2b-8c94-f11f64479770@b562.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190919
+SUMMARY:St. Januarius
+DESCRIPTION:More information about the Feast of St. Januarius:\n• https://fisheaters.com/customstimeafterpentecost9.html\n• https://en.wikipedia.org/wiki/Januarius\n• http://www.newadvent.org/cathen/08295a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:f80bb679-df61-422e-a51c-ad19c621a18d@f80b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190117
+SUMMARY:St. Anthony the Great
+DESCRIPTION:More information about the Feast of St. Anthony the Great:\n• https://en.wikipedia.org/wiki/Anthony_the_Great\n• http://www.newadvent.org/cathen/01553d.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:172bf2be-eeae-481b-a5f4-e3d7b4518e1d@172b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190327
+SUMMARY:St. John Damascene
+DESCRIPTION:More information about the Feast of St. John Damascene:\n• https://en.wikipedia.org/wiki/John_of_Damascus\n• http://www.newadvent.org/cathen/08459b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:ed85171e-155c-4d64-8671-4578eaeb2349@ed85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190316
+SUMMARY:Lenten Embertide
+DESCRIPTION:More information about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:7aa7bfae-cd19-458c-80fc-d7a79d0fc9cc@7aa7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190517
+SUMMARY:St. Pascal Baylon
+DESCRIPTION:More information about the Feast of St. Pascal Baylon:\n• https://en.wikipedia.org/wiki/Paschal_Baylon\n• http://www.newadvent.org/cathen/11512a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:3ec9e3e0-2a44-41d2-a4f4-587628f62344@3ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190503
+SUMMARY:SS. Alexander & Companions
+DESCRIPTION:More information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:fb69e350-aef5-4bfa-9338-a7e40fdc38ef@fb69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190419
+SUMMARY:Good Friday
+DESCRIPTION:More information about Good Friday:\n• https://fisheaters.com/customslent14.html\n• https://en.wikipedia.org/wiki/Good_Friday\n• http://www.newadvent.org/cathen/06643a.htm\n\nMore information about Paschal Triduum:\n• https://en.wikipedia.org/wiki/Paschal_Triduum\n
+TRANSP:OPAQUE
+UID:06a9694d-e930-4240-accf-cd86cf46d1b2@06a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190618
+SUMMARY:« SS. Mark & Marcellian »
+DESCRIPTION:The Commemoration of SS. Mark & Marcellian is outranked by the Feast of St. Ephrem.\n\nMore information about the Commemoration of SS. Mark & Marcellian:\n• https://en.wikipedia.org/wiki/Mark_and_Marcellian\n• http://www.newadvent.org/cathen/09682a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:d36e9efc-33ee-4360-b772-b6b940797b52@d36e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190901
+SUMMARY:« St. Giles »
+DESCRIPTION:This year the Commemoration of St. Giles is outranked by the Twelfth Sunday after Pentecost.\n\nMore information about the Commemoration of St. Giles:\n• https://en.wikipedia.org/wiki/Saint_Giles\n• http://www.newadvent.org/cathen/06559a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:fc8a8163-4dc2-4a62-aafc-5abd156e307a@fc8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190414
+SUMMARY:Palm Sunday
+DESCRIPTION:More information about Palm Sunday:\n• https://fisheaters.com/customslent11.html\n• https://en.wikipedia.org/wiki/Palm_Sunday\n• http://www.newadvent.org/cathen/11432b.htm\n\nMore information about Holy Week:\n• https://en.wikipedia.org/wiki/Holy_Week\n• http://www.newadvent.org/cathen/07435a.htm\n
+TRANSP:OPAQUE
+UID:2e9ba9c7-64fe-436f-b7fd-b44e1597eab2@2e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191112
+SUMMARY:Pope Martin I
+DESCRIPTION:More information about the Feast of Pope Martin I:\n• https://en.wikipedia.org/wiki/Pope_Martin_I\n• http://www.newadvent.org/cathen/09723c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e825be5f-d024-44e5-a417-6b1ed8a85519@e825.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181225
+SUMMARY:Christmas
+DESCRIPTION:Today is a Holy Day of Obligation.\n\nMore information about Christmas:\n• https://fisheaters.com/customschristmas2.html\n• https://en.wikipedia.org/wiki/Christmas\n• http://www.newadvent.org/cathen/03724b.htm\n\nMore information about Christmastide:\n• https://fisheaters.com/customschristmas1.html\n
+TRANSP:OPAQUE
+UID:aada63bf-7ca7-405d-b22b-329528215210@aada.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190208
+SUMMARY:St. John of Matha
+DESCRIPTION:More information about the Feast of St. John of Matha:\n• https://en.wikipedia.org/wiki/John_of_Matha\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:03c0a2cd-ec1a-4b39-8a27-41e64d0b1e3e@03c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190426
+SUMMARY:Easter Friday
+DESCRIPTION:More information about Easter Friday:\n• https://fisheaters.com/customseastertide2.html\n• https://en.wikipedia.org/wiki/Easter\n• http://www.newadvent.org/cathen/05224d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:7cc545ff-73c9-4c0f-b20a-71dfbb752ce3@7cc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190731
+SUMMARY:St. Ignatius of Loyola
+DESCRIPTION:More information about the Feast of St. Ignatius of Loyola:\n• https://en.wikipedia.org/wiki/Ignatius_of_Loyola\n• http://www.newadvent.org/cathen/07639c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:b5503726-bf9f-4348-99be-b0ad94df6186@b550.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190727
+SUMMARY:St. Pantaleon
+DESCRIPTION:More information about the Commemoration of St. Pantaleon:\n• https://en.wikipedia.org/wiki/Saint_Pantaleon\n• http://www.newadvent.org/cathen/11447a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:663c1cf1-19a6-48e0-b04b-8fdbf1c6b813@663c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191103
+SUMMARY:Twenty-first Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:d19b7697-56ca-4f5b-809a-964552afa5b6@d19b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190710
+SUMMARY:The Seven Holy Brothers and SS. Rufina and Secunda
+DESCRIPTION:More information about The Seven Holy Brothers and SS. Rufina and Secunda:\n• https://en.wikipedia.org/wiki/Felicitas_of_Rome\n• https://en.wikipedia.org/wiki/Rufina_and_Secunda\n• http://www.newadvent.org/cathen/13221a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:3fd63e31-6089-4f10-8400-c8cc55750e4b@3fd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190307
+SUMMARY:St. Thomas Aquinas
+DESCRIPTION:More information about the Feast of St. Thomas Aquinas:\n• https://en.wikipedia.org/wiki/Thomas_Aquinas\n• http://www.newadvent.org/cathen/14663b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:0232af2c-5e93-49ce-807d-ebd1327edf1a@0232.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191117
+SUMMARY:Twenty-third Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:4b791a5f-6e5c-4256-b63e-1a8db4494216@4b79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190121
+SUMMARY:St. Agnes
+DESCRIPTION:More information about the Feast of St. Agnes:\n• https://fisheaters.com/customstimeafterepiphany2.html\n• https://en.wikipedia.org/wiki/Agnes_of_Rome\n• http://www.newadvent.org/cathen/01214a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:99e62d5e-8161-4620-af06-71acf59fdf4a@99e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191123
+SUMMARY:Pope Clement I
+DESCRIPTION:More information about the Feast of Pope Clement I:\n• https://en.wikipedia.org/wiki/Pope_Clement_I\n• http://www.newadvent.org/cathen/04012c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:c6da7eda-54ce-4fd1-b6b9-eaa900507e32@c6da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191021
+SUMMARY:St. Hilarion
+DESCRIPTION:More information about the Commemoration of St. Hilarion:\n• https://en.wikipedia.org/wiki/Hilarion\n• http://www.newadvent.org/cathen/07347a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e63a55ef-a63d-4f37-b64e-b2d9a626647a@e63a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190114
+SUMMARY:St. Hilary
+DESCRIPTION:More information about the Feast of St. Hilary:\n• https://en.wikipedia.org/wiki/Hilary_of_Poitiers\n• http://www.newadvent.org/cathen/07349b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:05de8e0d-2997-4f56-9e3c-afc0149aa910@05de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190415
+SUMMARY:Monday of Holy Week
+DESCRIPTION:More information about Holy Week:\n• https://en.wikipedia.org/wiki/Holy_Week\n• http://www.newadvent.org/cathen/07435a.htm\n
+TRANSP:OPAQUE
+UID:6329ac52-6589-4967-8fc7-122e98d5a35b@6329.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190810
+SUMMARY:St. Lawrence
+DESCRIPTION:More information about the Feast of St. Lawrence:\n• https://fisheaters.com/stlawrence.html\n• https://en.wikipedia.org/wiki/Saint_Lawrence\n• http://www.newadvent.org/cathen/09089a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:7bdc1eed-9649-4d69-8321-01f1be965f25@7bdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191009
+SUMMARY:St. John Leonardi
+DESCRIPTION:More information about the Feast of St. John Leonardi:\n• https://en.wikipedia.org/wiki/St._Giovanni_Leonardi\n• http://www.newadvent.org/cathen/15262a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:6b574a89-c9bd-41fa-bd1b-f6506d40cbe9@6b57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190804
+SUMMARY:« St. Dominic »
+DESCRIPTION:This year the Feast of St. Dominic is outranked by the Eighth Sunday after Pentecost.\n\nMore information about the Feast of St. Dominic:\n• https://en.wikipedia.org/wiki/Saint_Dominic\n• http://www.newadvent.org/cathen/05106a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2ffde249-ee2f-463c-b22e-fe25a188cf35@2ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190313
+SUMMARY:Lenten Embertide
+DESCRIPTION:More information about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:8d98a11c-e212-4014-8c9c-682ad7f6effa@8d98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191124
+SUMMARY:Last Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:69fa62bc-67ea-41f7-a5c3-fc4b5d37edd1@69fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190315
+SUMMARY:Lenten Embertide
+DESCRIPTION:More information about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:56165439-74c1-4324-b9e9-f5c8e660d3fb@5616.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191104
+SUMMARY:St. Charles Borromeo
+DESCRIPTION:More information about the Feast of St. Charles Borromeo:\n• https://en.wikipedia.org/wiki/Charles_Borromeo\n• http://www.newadvent.org/cathen/03619a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:76e04fb2-a56d-4da0-900d-33f5cdf92b22@76e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190310
+SUMMARY:First Sunday of Lent
+DESCRIPTION:More information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:6dc7713d-721e-4357-8708-2a37d58166a0@6dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190207
+SUMMARY:St. Romuald
+DESCRIPTION:More information about the Feast of St. Romuald:\n• https://en.wikipedia.org/wiki/Romuald\n• http://www.newadvent.org/cathen/13179b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:6ecadea1-8f84-463d-98a9-c18534f4e52e@6eca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190427
+SUMMARY:« St. Peter Canisuius »
+DESCRIPTION:This year the Feast of St. Peter Canisuius is outranked by Easter Saturday.\n\nMore information about the Feast of St. Peter Canisuius:\n• https://en.wikipedia.org/wiki/Peter_Canisius\n• http://www.newadvent.org/cathen/11756c.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:15e40a07-1efa-491c-af8f-cea3774e5fdf@15e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181216
+SUMMARY:« St. Eusebius »
+DESCRIPTION:This year the Feast of St. Eusebius is outranked by Gaudete Sunday.\n\nMore information about the Feast of St. Eusebius:\n• https://en.wikipedia.org/wiki/Eusebius_of_Vercelli\n• http://www.newadvent.org/cathen/05614b.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:5771c2b7-5830-487c-a41d-2518adcffd5e@5771.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190902
+SUMMARY:St. Stephen I
+DESCRIPTION:More information about the Feast of St. Stephen I:\n• https://en.wikipedia.org/wiki/Stephen_I_of_Hungary\n• http://www.newadvent.org/cathen/14287a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e29690eb-8e3e-45b6-a76c-2b417d724897@e296.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190707
+SUMMARY:Fourth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:a6599830-4617-4a86-bbb4-3b63d918e960@a659.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191005
+SUMMARY:St. Placid
+DESCRIPTION:More information about the Commemoration of St. Placid:\n• https://en.wikipedia.org/wiki/Placidus_(martyr)\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:9a62b06b-d65a-4f66-acea-b4eea5bd45ab@9a62.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190317
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:More information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:eef22b9f-40eb-46bf-b996-e8d89a38d665@eef2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190201
+SUMMARY:St. Ignatius
+DESCRIPTION:More information about the Feast of St. Ignatius:\n• https://en.wikipedia.org/wiki/Ignatius_of_Antioch\n• http://www.newadvent.org/cathen/07644a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:e3704aa6-de5f-4cf3-83f4-2b93957d0259@e370.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191001
+SUMMARY:St. Remigius
+DESCRIPTION:More information about the Commemoration of St. Remigius:\n• https://en.wikipedia.org/wiki/Saint_Remigius\n• http://www.newadvent.org/cathen/12763b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:853c17e5-047c-4eb6-bf0a-11af1bc15985@853c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190519
+SUMMARY:Cantate Sunday
+DESCRIPTION:More information about Cantate Sunday:\n• https://en.wikipedia.org/wiki/Cantate_Sunday\n• http://www.newadvent.org/cathen/03299a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:b7b9d585-a26e-405a-90be-e95557a1bc98@b7b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191016
+SUMMARY:St. Hedwig
+DESCRIPTION:More information about the Feast of St. Hedwig:\n• https://en.wikipedia.org/wiki/Hedwig_of_Silesia\n• http://www.newadvent.org/cathen/07189a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:a2b07f1c-079d-4a09-9043-d4ca84b5c35a@a2b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190707
+SUMMARY:« SS. Cyril and Methodius »
+DESCRIPTION:This year the Feast of SS. Cyril and Methodius is outranked by the Fourth Sunday after Pentecost.\n\nMore information about the Feast of SS. Cyril and Methodius:\n• https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius\n• http://www.newadvent.org/cathen/04592a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:c8561305-855e-40ce-b615-ab903e625505@c856.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190908
+SUMMARY:« The Nativity of Mary »
+DESCRIPTION:This year The Nativity of Mary is outranked by the Thirteenth Sunday after Pentecost.\n\nMore information about The Nativity of Mary:\n• https://fisheaters.com/customstimeafterpentecost6a.html\n• https://en.wikipedia.org/wiki/Nativity_of_Mary\n• http://www.newadvent.org/cathen/10712b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:b5020231-0d99-431f-ac7d-63cc0b459216@b502.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190917
+SUMMARY:The Stigmata of St. Francis
+DESCRIPTION:More information about The Stigmata of St. Francis:\n• https://en.wikipedia.org/wiki/Francis_of_Assisi\n• https://en.wikipedia.org/wiki/Stigmata\n• http://www.newadvent.org/cathen/06221a.htm\n• http://www.newadvent.org/cathen/14294b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:603638e9-3c31-48d5-ae2e-9d60323f281e@6036.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190120
+SUMMARY:Second Sunday after Epiphany
+DESCRIPTION:More information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:e5fa5da6-3294-4794-8f91-df34136355e6@e5fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181210
+SUMMARY:Pope Melchiades
+DESCRIPTION:More information about the Commemoration of Pope Melchiades:\n• https://en.wikipedia.org/wiki/Pope_Miltiades\n• http://www.newadvent.org/cathen/10318a.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:e4d6ca46-1b82-453d-8415-9edf859e9409@e4d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190430
+SUMMARY:St. Catherine of Siena
+DESCRIPTION:More information about the Feast of St. Catherine of Siena:\n• https://en.wikipedia.org/wiki/Catherine_of_Siena\n• http://www.newadvent.org/cathen/03447a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:7e2de75d-9f45-4c47-ac99-e5f28728dd66@7e2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181216
+SUMMARY:Gaudete Sunday
+DESCRIPTION:More information about Gaudete Sunday:\n• https://en.wikipedia.org/wiki/Gaudete_Sunday\n• http://www.newadvent.org/cathen/06394b.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:ab810055-ba88-42c9-9c0c-f8c53711bed2@ab81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190212
+SUMMARY:The Seven Holy Founders of the Servite Order
+DESCRIPTION:More information about The Seven Holy Founders of the Servite Order:\n• https://en.wikipedia.org/wiki/Servite_Order\n• https://en.wikipedia.org/wiki/Amadio_degli_Amidei\n• https://en.wikipedia.org/wiki/Hugh_dei_Lippi_Uggucioni\n• https://en.wikipedia.org/wiki/Alexis_Falconieri\n• http://www.newadvent.org/cathen/13736a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:c3a8e661-daf8-44a1-8535-c464525f2111@c3a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190802
+SUMMARY:The Holy Machabees
+DESCRIPTION:More information about The Holy Machabees:\n• https://en.wikipedia.org/wiki/Woman_with_seven_sons\n• https://en.wikipedia.org/wiki/Machabees\n• http://www.newadvent.org/cathen/09493b.htm\n• http://www.newadvent.org/cathen/09495a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:8526f1f6-c261-4e2f-8ec3-08843a2af763@8526.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190601
+SUMMARY:St. Angela Merici
+DESCRIPTION:More information about the Feast of St. Angela Merici:\n• https://en.wikipedia.org/wiki/Angela_Merici\n• http://www.newadvent.org/cathen/01481a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:d6680d61-7adf-46fc-b5fb-b1d3d2ee9059@d668.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191122
+SUMMARY:St. Cecilia
+DESCRIPTION:More information about the Feast of St. Cecilia:\n• https://en.wikipedia.org/wiki/Saint_Cecilia\n• http://www.newadvent.org/cathen/03471b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:f6108b68-a2e4-4bf9-89ca-439ce68e1b32@f610.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191124
+SUMMARY:« St. John of the Cross »
+DESCRIPTION:This year the Feast of St. John of the Cross is outranked by the Last Sunday after Pentecost.\n\nMore information about the Feast of St. John of the Cross:\n• https://en.wikipedia.org/wiki/John_of_the_Cross\n• http://www.newadvent.org/cathen/08480a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:8e265db5-3a75-4eaa-8e94-c3eab0495615@8e26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190324
+SUMMARY:« St. Gabriel »
+DESCRIPTION:This year the Feast of St. Gabriel is outranked by the Third Sunday of Lent.\n\nMore information about the Feast of St. Gabriel:\n• https://en.wikipedia.org/wiki/Gabriel\n• http://www.newadvent.org/cathen/06330a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:9644daf9-7dda-4200-946b-9e9476c2bbf9@9644.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190729
+SUMMARY:St. Martha
+DESCRIPTION:More information about the Feast of St. Martha:\n• https://fisheaters.com/customstimeafterpentecost5a.html\n• https://en.wikipedia.org/wiki/Martha\n• http://www.newadvent.org/cathen/09721b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2caeb1cf-302b-45af-988a-b4ca5a4412f8@2cae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20181202
+SUMMARY:First Sunday of Advent
+DESCRIPTION:More information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:500cd9e6-39f1-4d03-9191-5147c34f87b8@500c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191101
+SUMMARY:Hallowmas
+DESCRIPTION:Today is a Holy Day of Obligation.\n\nMore information about Hallowmas:\n• https://fisheaters.com/customstimeafterpentecost12.html\n• https://en.wikipedia.org/wiki/All_Saints%27_Day\n• http://www.newadvent.org/cathen/01315a.htm\n\nMore information about Hallowtide:\n• https://en.wikipedia.org/wiki/Allhallowtide\n
+TRANSP:OPAQUE
+UID:38b97421-379e-40b9-bf72-bc596ee0e1a9@38b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190630
+SUMMARY:« St. Paul »
+DESCRIPTION:This year the Feast of St. Paul is outranked by Peter's Pence.\n\nMore information about the Feast of St. Paul:\n• https://en.wikipedia.org/wiki/Paul_the_Apostle\n• http://www.newadvent.org/cathen/11567b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:cdbccfc8-c4a2-4a7d-ba58-6b0d32220c35@cdbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190730
+SUMMARY:SS. Abdon & Sennen
+DESCRIPTION:More information about the Commemoration of SS. Abdon & Sennen:\n• https://en.wikipedia.org/wiki/Abdon_and_Sennen\n• http://www.newadvent.org/cathen/01032a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e6d96bf4-bc82-479e-80ae-8b75d3939d59@e6d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20191015
+SUMMARY:St. Teresa of Avila
+DESCRIPTION:More information about the Feast of St. Teresa of Avila:\n• https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila\n• http://www.newadvent.org/cathen/14515b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:f937b8d6-3cbf-4257-94c2-ff2b3d1688ae@f937.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190331
+SUMMARY:Laetare Sunday
+DESCRIPTION:More information about Laetare Sunday:\n• https://fisheaters.com/customslent7.html\n• https://en.wikipedia.org/wiki/Laetare_Sunday\n• http://www.newadvent.org/cathen/08737c.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:7089d62e-3253-46a7-b8c9-f63e55ead681@7089.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190721
+SUMMARY:« St. Praxedes »
+DESCRIPTION:This year the Commemoration of St. Praxedes is outranked by the Sixth Sunday after Pentecost.\n\nMore information about the Commemoration of St. Praxedes:\n• https://en.wikipedia.org/wiki/Praxedes\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:502092e5-64b8-4f9a-955f-76681c2c9530@5020.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190615
+SUMMARY:« SS. Vitus\, Modestus\, & Crescentia »
+DESCRIPTION:This year the Commemoration of SS. Vitus\, Modestus\, & Crescentia is outranked by Whit Embertide.\n\nMore information about the Commemoration of SS. Vitus\, Modestus\, & Crescentia:\n• https://en.wikipedia.org/wiki/Vitus\n• http://www.newadvent.org/cathen/15490b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2574194b-2c08-4a27-bfa0-b368f66d231f@2574.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190816
+SUMMARY:St. Joachim
+DESCRIPTION:More information about the Feast of St. Joachim:\n• https://en.wikipedia.org/wiki/Joachim\n• http://www.newadvent.org/cathen/08406b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:63abd02c-5c20-45a1-81d5-466ef49a4b90@63ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170919Z
+DTSTART;VALUE=DATE:20190602
+SUMMARY:SS. Marcellinus\, Peter\, & St. Erasmus
+DESCRIPTION:More information about the Commemoration of SS. Marcellinus\, Peter\, & St. Erasmus:\n• https://en.wikipedia.org/wiki/Marcellinus_and_Peter\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:8e31734e-0b8c-4953-a80c-8040575f01b9@8e31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190719
+SUMMARY:St. Vincent de Paul
+DESCRIPTION:More information about the Feast of St. Vincent de Paul:\n• https://en.wikipedia.org/wiki/Vincent_de_Paul\n• http://www.newadvent.org/cathen/15434c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:bf058de4-d69c-460e-b860-607436201988@bf05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190202
+SUMMARY:Candlemas
+DESCRIPTION:More information about Candlemas:\n• https://fisheaters.com/customstimeafterepiphany3.html\n• https://en.wikipedia.org/wiki/Candlemas\n• http://www.newadvent.org/cathen/03245b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:cbb04825-cdf9-48ec-b829-2eef1fa1b0ba@cbb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190712
+SUMMARY:St. John Gualbert
+DESCRIPTION:More information about the Feast of St. John Gualbert:\n• https://en.wikipedia.org/wiki/John_Gualbert\n• http://www.newadvent.org/cathen/15262a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:88741547-b924-4603-9899-6223cf26215a@8874.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190920
+SUMMARY:« St. Eustace and Companions »
+DESCRIPTION:This year the Commemoration of St. Eustace and Companions is outranked by Michaelmas Embertide.\n\nMore information about the Commemoration of St. Eustace and Companions:\n• https://en.wikipedia.org/wiki/Saint_Eustace\n• http://www.newadvent.org/cathen/05627a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:49c7fe97-9105-4d06-b045-d36e47cb465a@49c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190509
+SUMMARY:St. Gregory Nazianzen
+DESCRIPTION:More information about the Feast of St. Gregory Nazianzen:\n• https://en.wikipedia.org/wiki/Gregory_of_Nazianzus\n• http://www.newadvent.org/cathen/07010b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:63569805-807b-4395-b99a-557357600a4e@6356.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190210
+SUMMARY:Fifth Sunday after Epiphany
+DESCRIPTION:More information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:0fd8c21e-20e3-4ff7-b302-852b689c98ed@0fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190412
+SUMMARY:The Seven Sorrows
+DESCRIPTION:More information about The Seven Sorrows:\n• https://fisheaters.com/customslent10.html\n• https://en.wikipedia.org/wiki/Friday_of_Sorrows\n• https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows\n• http://www.newadvent.org/cathen/14151b.htm\n\nMore information about Passiontide:\n• https://fisheaters.com/customslent8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/cathen/11535b.htm\n
+TRANSP:OPAQUE
+UID:5f347a8d-3ddf-4722-8146-298b70f33706@5f34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190530
+SUMMARY:Ascension
+DESCRIPTION:More information about Ascension:\n• https://fisheaters.com/customseastertide6.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Ascension\n• http://www.newadvent.org/cathen/01767b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:79edc3a9-6af5-47ff-b2ce-84f74271678b@79ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190830
+SUMMARY:St. Rose of Lima
+DESCRIPTION:More information about the Feast of St. Rose of Lima:\n• https://en.wikipedia.org/wiki/Rose_of_Lima\n• http://www.newadvent.org/cathen/13192c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:599a1fb7-34a7-4502-9a74-7b5ebf1cbe00@599a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190404
+SUMMARY:St. Isidore
+DESCRIPTION:More information about the Feast of St. Isidore:\n• https://en.wikipedia.org/wiki/Isidore_of_Seville\n• http://www.newadvent.org/cathen/08186a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:54a4eb90-98a0-4fce-a0e5-4c5eb17ea7a7@54a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190205
+SUMMARY:St. Agatha
+DESCRIPTION:More information about the Feast of St. Agatha:\n• https://en.wikipedia.org/wiki/Agatha_of_Sicily\n• http://www.newadvent.org/cathen/01203c.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:b31f6f2f-66b3-467f-8c89-67c2ff98f6bf@b31f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190526
+SUMMARY:Sunday after Ascension
+DESCRIPTION:More information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:baf4fd00-be12-4f10-a657-361fee3f531f@baf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190218
+SUMMARY:St. Simeon
+DESCRIPTION:More information about the Commemoration of St. Simeon:\n• https://en.wikipedia.org/wiki/Simeon_of_Jerusalem\n\nMore information about Septuagesima:\n• https://fisheaters.com/customsseptuagesima1.html\n
+TRANSP:OPAQUE
+UID:6ae63550-2d2c-4b40-80d9-d44a70c7bd31@6ae6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190507
+SUMMARY:St. Stanislaus
+DESCRIPTION:More information about the Feast of St. Stanislaus:\n• https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w\n• http://www.newadvent.org/cathen/14246a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:bc9a99e5-5ddc-4e21-9a50-f457b91d8132@bc9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190723
+SUMMARY:St. Apollinaris
+DESCRIPTION:More information about the Feast of St. Apollinaris:\n• https://en.wikipedia.org/wiki/Apollinaris_of_Ravenna\n• http://www.newadvent.org/cathen/01616a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:860e52e8-4fbe-4369-9905-5272b976c91e@860e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191110
+SUMMARY:Twenty-second Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e0027cc7-d213-426a-89aa-3e813474fba5@e002.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190427
+SUMMARY:Easter Saturday
+DESCRIPTION:More information about Easter Saturday:\n• https://fisheaters.com/customseastertide2.html\n• https://en.wikipedia.org/wiki/Easter\n• http://www.newadvent.org/cathen/05224d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:a54d6464-6709-44b6-be5b-950b5b881025@a54d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190107
+SUMMARY:Plough Monday
+DESCRIPTION:Plough Monday has no special liturgy.\n\nMore information about Plough Monday:\n• https://en.wikipedia.org/wiki/Plough_Monday\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:55c17ec5-922b-419a-be8d-9a63dd38ac48@55c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190429
+SUMMARY:St. Peter of Verona
+DESCRIPTION:More information about the Feast of St. Peter of Verona:\n• https://en.wikipedia.org/wiki/Peter_of_Verona\n• http://www.newadvent.org/cathen/11773d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:0c036ea0-7a1c-4b6e-bddc-0480b8214e96@0c03.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20181206
+SUMMARY:St. Nicholas
+DESCRIPTION:More information about the Feast of St. Nicholas:\n• https://fisheaters.com/customsadvent3.html\n• https://en.wikipedia.org/wiki/Saint_Nicholas\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:62c12298-5a08-45a2-81c2-cf8ee1ed8fda@62c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191013
+SUMMARY:Eighteenth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:5c3ed8e5-f743-4d78-a955-4d876f9be5d1@5c3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190605
+SUMMARY:St. Boniface
+DESCRIPTION:More information about the Feast of St. Boniface:\n• https://en.wikipedia.org/wiki/Saint_Boniface\n• http://www.newadvent.org/cathen/02656a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:7c13ae80-aba0-48ac-bb00-3a7086c2c054@7c13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190531
+SUMMARY:The Queenship of Mary
+DESCRIPTION:More information about The Queenship of Mary:\n• https://fisheaters.com/queenshipofmary.html\n• https://en.wikipedia.org/wiki/Coronation_of_the_Virgin\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:feb2ddcd-cc98-4b73-835f-2fbb3becf8ea@feb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190929
+SUMMARY:« Sixteenth Sunday after Pentecost »
+DESCRIPTION:The Sixteenth Sunday after Pentecost is outranked by Michaelmas.\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:920cb359-7958-4285-841d-3b35b148addc@920c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190120
+SUMMARY:« Pope Fabian & St. Sebastian »
+DESCRIPTION:This year the Feast of Pope Fabian & St. Sebastian is outranked by the Second Sunday after Epiphany.\n\nMore information about the Feast of Pope Fabian & St. Sebastian:\n• https://en.wikipedia.org/wiki/Pope_Fabian\n• http://www.newadvent.org/cathen/05742d.htm\n• https://en.wikipedia.org/wiki/Saint_Sebastian\n• http://www.newadvent.org/cathen/13668a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:4fe9782b-af7f-4205-95bd-73ea909c6f6b@4fe9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191013
+SUMMARY:« St. Edward »
+DESCRIPTION:This year the Feast of St. Edward is outranked by the Eighteenth Sunday after Pentecost.\n\nMore information about the Feast of St. Edward:\n• https://en.wikipedia.org/wiki/Edward_the_Confessor\n• http://www.newadvent.org/cathen/05322a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:3499154b-2516-46ce-afa0-e45e68f6c50d@3499.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190414
+SUMMARY:« St. Justin »
+DESCRIPTION:This year the Feast of St. Justin is outranked by Palm Sunday.\n\nMore information about the Feast of St. Justin:\n• https://en.wikipedia.org/wiki/Justin_Martyr\n• http://www.newadvent.org/cathen/08580c.htm\n\nMore information about Holy Week:\n• https://en.wikipedia.org/wiki/Holy_Week\n• http://www.newadvent.org/cathen/07435a.htm\n
+TRANSP:OPAQUE
+UID:ce85e2b3-5e99-4e8b-97f6-4848e1c4eae6@ce85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190911
+SUMMARY:SS. Protus & Hyacinth
+DESCRIPTION:More information about the Commemoration of SS. Protus & Hyacinth:\n• https://en.wikipedia.org/wiki/Protus_and_Hyacinth\n• http://www.newadvent.org/cathen/12504a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:13f0983d-4265-48bd-b094-3b580aa3a157@13f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190703
+SUMMARY:St. Irenaeus
+DESCRIPTION:More information about the Feast of St. Irenaeus:\n• https://en.wikipedia.org/wiki/Irenaeus\n• http://www.newadvent.org/cathen/08130b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:5bc729fe-4705-4041-acfe-f77a34a0fdef@5bc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190620
+SUMMARY:« Pope Silverius »
+DESCRIPTION:This year the Commemoration of Pope Silverius is outranked by Corpus Christi.\n\nMore information about the Commemoration of Pope Silverius:\n• https://en.wikipedia.org/wiki/Pope_Silverius\n• http://www.newadvent.org/cathen/08480a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:5365f372-e8df-456a-a07e-1d659aef984d@5365.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190527
+SUMMARY:Minor Rogation
+DESCRIPTION:More information about Minor Rogation:\n• https://fisheaters.com/customseastertide3.html\n• https://en.wikipedia.org/wiki/Rogation_days\n• http://www.newadvent.org/cathen/13110b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:4b2b6442-67e4-4055-bd9c-3b3e1fd10bdf@4b2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190908
+SUMMARY:Thirteenth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:5981443b-769f-4781-af9b-b98bc3da3d11@5981.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190223
+SUMMARY:St. Peter Damian
+DESCRIPTION:More information about the Feast of St. Peter Damian:\n• https://en.wikipedia.org/wiki/Peter_Damian\n• http://www.newadvent.org/cathen/11764a.htm\n\nMore information about Septuagesima:\n• https://fisheaters.com/customsseptuagesima1.html\n
+TRANSP:OPAQUE
+UID:77b2d5b3-3dbd-4d6a-afbf-deeda842533d@77b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190905
+SUMMARY:St. Lawrence Justinian
+DESCRIPTION:More information about the Feast of St. Lawrence Justinian:\n• https://en.wikipedia.org/wiki/Lawrence_Giustiniani\n• http://www.newadvent.org/cathen/09091a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e4d51d4b-ba3d-482f-90fd-68774a796159@e4d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190115
+SUMMARY:St. Paul the Hermit
+DESCRIPTION:More information about the Feast of St. Paul the Hermit:\n• https://en.wikipedia.org/wiki/Paul_of_Thebes\n• http://www.newadvent.org/cathen/11590b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:3148e378-0877-4251-8e9a-e402413a0db3@3148.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190722
+SUMMARY:St. Mary Magdalen
+DESCRIPTION:More information about the Feast of St. Mary Magdalen:\n• https://fisheaters.com/customstimeafterpentecost3x.html\n• https://en.wikipedia.org/wiki/Mary_Magdalene\n• http://www.newadvent.org/cathen/09761a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:3bbe4aca-dc45-4424-ad2c-eb444c72ac20@3bbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190515
+SUMMARY:St. John Baptist de la Salle
+DESCRIPTION:More information about the Feast of St. John Baptist de la Salle:\n• https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle\n• http://www.newadvent.org/cathen/08444a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:df3a4f45-ba60-4e69-9ca4-ef54c9aff01f@df3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190116
+SUMMARY:Pope Marcellus I
+DESCRIPTION:More information about the Feast of Pope Marcellus I:\n• https://en.wikipedia.org/wiki/Pope_Marcellus_I\n• http://www.newadvent.org/cathen/09640b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:b70dbd19-b1d9-4a31-8786-785f9c32f3ce@b70d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191102
+SUMMARY:All Souls' Day
+DESCRIPTION:More information about All Souls' Day:\n• https://fisheaters.com/customstimeafterpentecost12ac.html\n• https://en.wikipedia.org/wiki/All_Souls%27_Day\n• https://en.wikipedia.org/wiki/Day_of_the_Dead\n• http://www.newadvent.org/cathen/01315b.htm\n\nMore information about Hallowtide:\n• https://en.wikipedia.org/wiki/Allhallowtide\n
+TRANSP:OPAQUE
+UID:3509c1d1-8a87-4b1c-9acb-278512d32659@3509.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191118
+SUMMARY:Basilicas of SS. Peter & Paul
+DESCRIPTION:More information about the Feast of Basilicas of SS. Peter & Paul:\n• https://en.wikipedia.org/wiki/St._Peter%27s_Basilica\n• https://en.wikipedia.org/wiki/Basilica_of_Saint_Paul_Outside_the_Walls\n• http://www.newadvent.org/cathen/13369b.htm\n• http://www.newadvent.org/cathen/13369a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:55ac2e28-8472-4235-9f88-9a50da1029df@55ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190820
+SUMMARY:St. Bernard
+DESCRIPTION:More information about the Feast of St. Bernard:\n• https://en.wikipedia.org/wiki/Bernard_of_Clairvaux\n• http://www.newadvent.org/cathen/02498d.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:dd6e9290-1cc8-4b32-aa20-41bf8ed0e3a1@dd6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190422
+SUMMARY:« SS. Soter & Caius »
+DESCRIPTION:This year the Feast of SS. Soter & Caius is outranked by Easter Monday.\n\nMore information about the Feast of SS. Soter & Caius:\n• https://en.wikipedia.org/wiki/Pope_Soter\n• https://en.wikipedia.org/wiki/Pope_Caius\n• http://www.newadvent.org/cathen/03144c.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:82518a6c-a12f-4f47-8db7-db7387f0cddc@8251.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191116
+SUMMARY:St. Gertrude
+DESCRIPTION:More information about the Feast of St. Gertrude:\n• https://en.wikipedia.org/wiki/Gertrude_the_Great\n• http://www.newadvent.org/cathen/06534a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:16a692b1-c66f-46db-b747-8f0367e1c6d6@16a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191018
+SUMMARY:St. Luke
+DESCRIPTION:More information about the Feast of St. Luke:\n• https://en.wikipedia.org/wiki/Luke_the_Evangelist\n• http://www.newadvent.org/cathen/09420a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:4207f33a-9f34-4af8-aecb-2baef6f11aec@4207.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191027
+SUMMARY:« Twentieth Sunday after Pentecost »
+DESCRIPTION:This year the Twentieth Sunday after Pentecost is outranked by Christ the King.\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:a9ec1eae-0239-492f-9560-6b8f23cd4f7e@a9ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20181213
+SUMMARY:St. Lucy
+DESCRIPTION:More information about the Feast of St. Lucy:\n• https://fisheaters.com/customsadvent6a.html\n• https://en.wikipedia.org/wiki/Saint_Lucy\n• http://www.newadvent.org/cathen/09414a.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:c1200087-e2f0-459c-a01f-9b2d672e2d62@c120.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190823
+SUMMARY:St. Philip Benizi
+DESCRIPTION:More information about the Feast of St. Philip Benizi:\n• https://en.wikipedia.org/wiki/Philip_Benizi_de_Damiani\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:876cbe94-0b0c-4496-bf16-b1a7d1c81f45@876c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191006
+SUMMARY:« St. Bruno »
+DESCRIPTION:This year the Feast of St. Bruno is outranked by the Seventeenth Sunday after Pentecost.\n\nMore information about the Feast of St. Bruno:\n• https://en.wikipedia.org/wiki/Bruno_of_Cologne\n• http://www.newadvent.org/cathen/03014b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:3296d975-6528-44ef-9c96-05cd04d4944a@3296.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190210
+SUMMARY:« St. Scholastica »
+DESCRIPTION:This year the Feast of St. Scholastica is outranked by the Fifth Sunday after Epiphany.\n\nMore information about the Feast of St. Scholastica:\n• https://en.wikipedia.org/wiki/Scholastica\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:cf80bf04-fe5d-4360-aaa1-942df22ab072@cf80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190204
+SUMMARY:St. Andrew Cosini
+DESCRIPTION:More information about the Commemoration of St. Andrew Cosini:\n• https://en.wikipedia.org/wiki/Saint_Blaise\n• http://www.newadvent.org/cathen/02592a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:562919ee-98ec-4615-9e3b-af8e54a9b2b0@5629.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190912
+SUMMARY:The Most Holy Name of Mary
+DESCRIPTION:More information about The Most Holy Name of Mary:\n• https://en.wikipedia.org/wiki/The_Most_Holy_Name_of_the_Blessed_Virgin_Mary\n• http://www.newadvent.org/cathen/10673b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e4423f7c-cd39-4647-9b9d-f5e503909423@e442.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190125
+SUMMARY:Conversion of St. Paul
+DESCRIPTION:More information about Conversion of St. Paul:\n• https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:011e67d6-ae97-411e-9362-0122a987a3ac@011e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190901
+SUMMARY:Twelfth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:91e002b1-b6a5-4f4b-9fd9-207bc4611d5e@91e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190711
+SUMMARY:Pope Pius I
+DESCRIPTION:More information about the Commemoration of Pope Pius I:\n• https://en.wikipedia.org/wiki/Pope_Pius_I\n• http://www.newadvent.org/cathen/12126b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:807adb61-f0ed-4a96-a48d-7421a8b65b7e@807a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190516
+SUMMARY:St. Ubald
+DESCRIPTION:More information about the Feast of St. Ubald:\n• https://en.wikipedia.org/wiki/Ubald\n• http://www.newadvent.org/cathen/15114b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:42ff0ab5-ff0d-4e3c-91ca-ea62be3b4ac8@42ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20181202
+SUMMARY:« St. Bibiana »
+DESCRIPTION:This year the Feast of St. Bibiana is outranked by the First Sunday of Advent.\n\nMore information about the Feast of St. Bibiana:\n• https://en.wikipedia.org/wiki/Saint_Bibiana\n• http://www.newadvent.org/cathen/02542b.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:7a0a9662-51b1-4da6-bfe7-492a98781040@7a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190818
+SUMMARY:« St. Agapitus »
+DESCRIPTION:This year the Commemoration of St. Agapitus is outranked by the Tenth Sunday after Pentecost.\n\nMore information about the Commemoration of St. Agapitus:\n• https://en.wikipedia.org/wiki/Agapitus_of_Palestrina\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:32dca3ad-7667-4ca4-b314-34765563bbaf@32dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190822
+SUMMARY:Feast of the Immaculate Heart
+DESCRIPTION:More information about the Feast of the Immaculate Heart:\n• https://en.wikipedia.org/wiki/Immaculate_Heart_of_Mary\n• http://www.newadvent.org/cathen/10600a.htm\n• http://www.newadvent.org/cathen/07168a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:0295b4ad-113f-489c-91f0-0cdeecf118f0@0295.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191117
+SUMMARY:« St. Gregory Thaumaturgus »
+DESCRIPTION:This year the Feast of St. Gregory Thaumaturgus is outranked by the Twenty-third Sunday after Pentecost.\n\nMore information about the Feast of St. Gregory Thaumaturgus:\n• https://en.wikipedia.org/wiki/Gregory_Thaumaturgus\n• http://www.newadvent.org/cathen/07015a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:a4efdc31-a0b2-4242-952b-731ecb05f802@a4ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190126
+SUMMARY:St. Polycarp
+DESCRIPTION:More information about the Feast of St. Polycarp:\n• https://en.wikipedia.org/wiki/Polycarp\n• http://www.newadvent.org/cathen/12219b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:34d1a3ea-bb6b-4bd7-bc25-9c255bab5ac3@34d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190812
+SUMMARY:St. Clare
+DESCRIPTION:More information about the Feast of St. Clare:\n• https://en.wikipedia.org/wiki/Clare_of_Assisi\n• http://www.newadvent.org/cathen/04004a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:ddd6dfd8-bc1c-47a3-b552-fd08998013a2@ddd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190203
+SUMMARY:Fourth Sunday after Epiphany
+DESCRIPTION:More information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:e47375ba-4260-43fa-85ed-13adee8ef141@e473.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190319
+SUMMARY:St. Joseph
+DESCRIPTION:More information about the Feast of St. Joseph:\n• https://fisheaters.com/customslent5.html\n• https://en.wikipedia.org/wiki/Saint_Joseph\n• http://www.newadvent.org/cathen/08504a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:be5ed2af-5ac7-4bde-8cf9-72e77f941377@be5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190418
+SUMMARY:Maundy Thursday
+DESCRIPTION:More information about Maundy Thursday:\n• https://fisheaters.com/customslent13.html\n• https://en.wikipedia.org/wiki/Maundy_Thursday\n• http://www.newadvent.org/cathen/10068a.htm\n\nMore information about Paschal Triduum:\n• https://en.wikipedia.org/wiki/Paschal_Triduum\n
+TRANSP:OPAQUE
+UID:6f04f4f4-5f69-4318-a777-096cb7054a7d@6f04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190623
+SUMMARY:Second Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:ab65d6e6-d7c8-4f5c-a445-91c30e5abaf8@ab65.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190113
+SUMMARY:« Baptism of Christ »
+DESCRIPTION:This year Baptism of Christ is outranked by the Feast of the Holy Family.\n\nMore information about Baptism of Christ:\n• https://fisheaters.com/baptism3.html\n• https://en.wikipedia.org/wiki/Baptism_of_Jesus\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:2e87fe1b-4e3a-4f20-9aab-aff38ad2d772@2e87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190808
+SUMMARY:« SS. Cyriacus\, Largus\, & Smaragdus »
+DESCRIPTION:The Commemoration of SS. Cyriacus\, Largus\, & Smaragdus is outranked by the Feast of St. John Mary Vianney.\n\nMore information about the Commemoration of SS. Cyriacus\, Largus\, & Smaragdus:\n• https://en.wikipedia.org/wiki/Cyriacus\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:ff5c73b8-40e6-4e66-afe3-ecd26067d9c3@ff5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20181222
+SUMMARY:Advent Embertide
+DESCRIPTION:More information about Advent Embertide:\n• https://fisheaters.com/customsadvent11.html\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:f15e7eb5-e068-40ad-8984-bc7fcaab85a0@f15e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190610
+SUMMARY:St. Margaret
+DESCRIPTION:More information about the Feast of St. Margaret:\n• https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland\n• http://www.newadvent.org/cathen/09655c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:bdc64b5b-9a8a-4ebd-a4c0-d6668ef6bd08@bdc6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190928
+SUMMARY:St. Wenceslaus
+DESCRIPTION:More information about the Feast of St. Wenceslaus:\n• https://en.wikipedia.org/wiki/Wenceslaus_I\,_Duke_of_Bohemia\n• http://www.newadvent.org/cathen/15587b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:56a5df9b-27b8-434f-99e6-d452d9783a38@56a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191025
+SUMMARY:SS. Chrysanthus & Daria
+DESCRIPTION:More information about the Commemoration of SS. Chrysanthus & Daria:\n• https://en.wikipedia.org/wiki/Chrysanthus_and_Daria\n• http://www.newadvent.org/cathen/03742a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:b85c9aeb-0518-4012-a7cb-602b4f0d1a5a@b85c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191109
+SUMMARY:Basilica of St. John Lateran
+DESCRIPTION:More information about the Feast of Basilica of St. John Lateran:\n• https://en.wikipedia.org/wiki/Archbasilica_of_St._John_Lateran\n• http://www.newadvent.org/cathen/09014b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:f610e81d-9548-49c9-9721-e239b1c5e3f0@f610.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190528
+SUMMARY:Minor Rogation
+DESCRIPTION:More information about Minor Rogation:\n• https://fisheaters.com/customseastertide3.html\n• https://en.wikipedia.org/wiki/Rogation_days\n• http://www.newadvent.org/cathen/13110b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:890bebba-40c1-4521-a7fc-c4dede1066fd@890b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190612
+SUMMARY:« St. John of St. Facundo »
+DESCRIPTION:This year the Feast of St. John of St. Facundo is outranked by Whit Embertide.\n\nMore information about the Feast of St. John of St. Facundo:\n• https://en.wikipedia.org/wiki/John_of_Sahag%C3%BAn\n• http://www.newadvent.org/cathen/08478a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e16081c5-0bca-44e9-a932-07918ff7cb4c@e160.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190815
+SUMMARY:Marymass
+DESCRIPTION:Today is a Holy Day of Obligation.\n\nMore information about Marymass:\n• https://fisheaters.com/customstimeafterpentecost6.html\n• https://en.wikipedia.org/wiki/Assumption_of_Mary\n• http://www.newadvent.org/cathen/02006b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:411d6057-b5c5-46bb-9aa5-93805553b1fc@411d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190817
+SUMMARY:St. Hyacinth
+DESCRIPTION:More information about the Feast of St. Hyacinth:\n• https://en.wikipedia.org/wiki/Hyacinth_of_Poland\n• http://www.newadvent.org/cathen/07591b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:acec54cd-1696-4c02-b91d-f4c39891ab88@acec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191115
+SUMMARY:St. Albert the Great
+DESCRIPTION:More information about the Feast of St. Albert the Great:\n• https://en.wikipedia.org/wiki/Albertus_Magnus\n• http://www.newadvent.org/cathen/01264a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:3eb6ef1f-03f9-4614-944e-d74d558e9798@3eb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190111
+SUMMARY:Pope Hyginus
+DESCRIPTION:More information about the Commemoration of Pope Hyginus:\n• https://en.wikipedia.org/wiki/Pope_Hyginus\n• http://www.newadvent.org/cathen/07593a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:9c29dcf7-b2f5-43dc-a835-bacd8f58fe89@9c29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190520
+SUMMARY:St. Bernardine of Siena
+DESCRIPTION:More information about the Feast of St. Bernardine of Siena:\n• https://en.wikipedia.org/wiki/Bernardino_of_Siena\n• http://www.newadvent.org/cathen/02505b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:248c81ac-2139-4464-a3a1-fe2aa09a911f@248c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191027
+SUMMARY:Christ the King
+DESCRIPTION:More information about Christ the King:\n• https://fisheaters.com/customstimeafterpentecost11.html\n• https://en.wikipedia.org/wiki/Christ_the_King\n• https://en.wikipedia.org/wiki/Feast_of_Christ_the_King\n• http://www.newadvent.org/library/docs_pi11qp.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:5ccf2003-e21f-46da-b95a-4700fcb1a031@5ccf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190716
+SUMMARY:Our Lady of Mt. Carmel
+DESCRIPTION:More information about the Commemoration of Our Lady of Mt. Carmel:\n• https://en.wikipedia.org/wiki/Our_Lady_of_Mount_Carmel\n• http://www.newadvent.org/cathen/10604b.htm\n• http://www.newadvent.org/cathen/03352a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2795688a-c649-490a-85f1-caa4389ebafb@2795.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190215
+SUMMARY:SS. Faustinus & Jovita
+DESCRIPTION:More information about the Commemoration of SS. Faustinus & Jovita:\n• https://en.wikipedia.org/wiki/Faustinus_and_Jovita\n• http://www.newadvent.org/cathen/06019a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:9cab3613-3913-49f6-8fd2-c09780ca04e3@9cab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190124
+SUMMARY:St. Timothy
+DESCRIPTION:More information about the Feast of St. Timothy:\n• https://en.wikipedia.org/wiki/Saint_Timothy\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:fe082bcb-796b-48f8-90c3-a9392378ca1d@fe08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191020
+SUMMARY:« St. John Cantius »
+DESCRIPTION:This year the Feast of St. John Cantius is outranked by the Nineteenth Sunday after Pentecost.\n\nMore information about the Feast of St. John Cantius:\n• https://en.wikipedia.org/wiki/John_Cantius\n• http://www.newadvent.org/cathen/08451b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2da447e5-327b-4c57-a46d-1788f54e289c@2da4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190811
+SUMMARY:Ninth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:59673aae-0a63-4530-90c0-ec5c24348e29@5967.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20181224
+SUMMARY:Christmas Eve
+DESCRIPTION:More information about Christmas Eve:\n• https://fisheaters.com/customschristmas2.html\n• https://en.wikipedia.org/wiki/Christmas_Eve\n• http://www.newadvent.org/cathen/05647a.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:66428a65-1392-46d5-9199-255db65b151d@6642.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190306
+SUMMARY:« SS. Perpetua and Felicitas »
+DESCRIPTION:This year the Feast of SS. Perpetua and Felicitas is outranked by Ash Wednesday.\n\nMore information about the Feast of SS. Perpetua and Felicitas:\n• https://en.wikipedia.org/wiki/Passion_of_Saint_Perpetua\,_Saint_Felicitas\,_and_their_Companions\n• http://www.newadvent.org/cathen/06029a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:c28ab01d-ff70-4304-866e-0e6f7c34c27b@c28a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190411
+SUMMARY:Leo the Great
+DESCRIPTION:More information about Leo the Great:\n• https://en.wikipedia.org/wiki/Pope_Leo_I\n• http://www.newadvent.org/cathen/09154b.htm\n\nMore information about Passiontide:\n• https://fisheaters.com/customslent8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/cathen/11535b.htm\n
+TRANSP:OPAQUE
+UID:26e57720-492c-4a06-9940-a102850c0965@26e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190811
+SUMMARY:« St. Tiburtius & St. Susanna »
+DESCRIPTION:This year the Commemoration of St. Tiburtius & St. Susanna is outranked by the Ninth Sunday after Pentecost.\n\nMore information about the Commemoration of St. Tiburtius & St. Susanna:\n• https://en.wikipedia.org/wiki/Saint_Tiburtius\n• https://en.wikipedia.org/wiki/Saint_Susanna\n• http://www.newadvent.org/cathen/14720a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:a4ccdd67-604b-49ec-8783-382771e48fa5@a4cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190918
+SUMMARY:Michaelmas Embertide
+DESCRIPTION:More information about Michaelmas Embertide:\n• https://fisheaters.com/customstimeafterpentecost8.html\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:8fc6c328-2efe-45c7-bcde-8556d00a03f6@8fc6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190929
+SUMMARY:Michaelmas
+DESCRIPTION:More information about Michaelmas:\n• https://fisheaters.com/customstimeafterpentecost10.html\n• https://en.wikipedia.org/wiki/Michaelmas\n• https://en.wikipedia.org/wiki/Michael_(archangel)\n• http://www.newadvent.org/cathen/10275b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:7a695653-7f09-4534-b65a-2a215eed7360@7a69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190623
+SUMMARY:« St. John's Eve »
+DESCRIPTION:This year the Feast of St. John's Eve is outranked by the Second Sunday after Pentecost.\n\nMore information about the Feast of St. John's Eve:\n• https://fisheaters.com/customstimeafterpentecost3.html\n• https://en.wikipedia.org/wiki/Saint_John%27s_Eve\n• https://en.wikipedia.org/wiki/Saint_John_the_Baptist\n• http://www.newadvent.org/cathen/08486b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:f3168afc-0f9d-4d6f-9027-00c1fe13b19b@f316.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190915
+SUMMARY:« The Seven Sorrows »
+DESCRIPTION:This year The Seven Sorrows is outranked by the Fourteenth Sunday after Pentecost.\n\nMore information about The Seven Sorrows:\n• https://fisheaters.com/customslent10.html\n• https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows\n• http://www.newadvent.org/cathen/14151b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:563ce6f4-23cc-4a97-8710-62481bab74c3@563c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190513
+SUMMARY:St. Robert Bellarmine
+DESCRIPTION:More information about the Feast of St. Robert Bellarmine:\n• https://en.wikipedia.org/wiki/Robert_Bellarmine\n• http://www.newadvent.org/cathen/02411d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:d15880b7-9f11-48c7-ba3b-ea8dcc1ef566@d158.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191007
+SUMMARY:Feast of the Holy Rosary
+DESCRIPTION:More information about the Feast of the Holy Rosary:\n• https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary\n• https://en.wikipedia.org/wiki/Rosary\n• http://www.newadvent.org/cathen/13189a.htm\n• http://www.newadvent.org/cathen/13184b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:aa79615a-05bd-46bb-a9ba-4e90fdd8e85b@aa79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190118
+SUMMARY:St. Prisca
+DESCRIPTION:More information about the Commemoration of St. Prisca:\n• https://en.wikipedia.org/wiki/Saint_Prisca\n• http://www.newadvent.org/cathen/12428c.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:9fbf723d-d68a-4c48-8f35-7f68813bd7c5@9fbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190304
+SUMMARY:« St. Casimir »
+DESCRIPTION:This year the Feast of St. Casimir is outranked by Shrove Monday.\n\nMore information about the Feast of St. Casimir:\n• https://en.wikipedia.org/wiki/Saint_Casimir\n• http://www.newadvent.org/cathen/03402a.htm\n\nMore information about Shrovetide:\n• https://fisheaters.com/customsseptuagesima2.html\n• https://en.wikipedia.org/wiki/Shrovetide\n• https://en.wikipedia.org/wiki/Carnival\n• http://www.newadvent.org/cathen/13763a.htm\n
+TRANSP:OPAQUE
+UID:2f8f48d6-e8f0-4088-9dc8-ee9d5f7f52a9@2f8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190628
+SUMMARY:Feast of the Sacred Heart
+DESCRIPTION:More information about the Feast of the Sacred Heart:\n• https://fisheaters.com/customstimeafterpentecost4.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Sacred_Heart\n• https://en.wikipedia.org/wiki/Sacred_Heart\n• http://www.newadvent.org/cathen/07163a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:530a782b-db67-4d7f-800e-4153b6b1e538@530a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190826
+SUMMARY:Pope Zephyrinus
+DESCRIPTION:More information about the Commemoration of Pope Zephyrinus:\n• https://en.wikipedia.org/wiki/Pope_Zephyrinus\n• http://www.newadvent.org/cathen/15756c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:5b601cb7-7445-4262-81ee-fb452dbd780e@5b60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190604
+SUMMARY:St. Francis Caracciolo
+DESCRIPTION:More information about the Feast of St. Francis Caracciolo:\n• https://en.wikipedia.org/wiki/Francis_Caracciolo\n• http://www.newadvent.org/cathen/06218a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:beb98643-c69d-4cf8-b655-2d233abc7304@beb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190413
+SUMMARY:St. Hermenegild
+DESCRIPTION:More information about the Feast of St. Hermenegild:\n• https://en.wikipedia.org/wiki/Hermenegild\n• http://www.newadvent.org/cathen/07276a.htm\n\nMore information about Passiontide:\n• https://fisheaters.com/customslent8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/cathen/11535b.htm\n
+TRANSP:OPAQUE
+UID:6680d59c-af67-49d2-8943-006b125c4890@6680.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190424
+SUMMARY:Easter Wednesday
+DESCRIPTION:More information about Easter Wednesday:\n• https://fisheaters.com/customseastertide2.html\n• https://en.wikipedia.org/wiki/Easter\n• http://www.newadvent.org/cathen/05224d.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:6cea9c54-a4e0-4284-8020-62e0f40bfa37@6cea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190915
+SUMMARY:Fourteenth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:bb2b8725-3a08-42d4-a3aa-481f8be25f90@bb2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190618
+SUMMARY:St. Ephrem
+DESCRIPTION:More information about the Feast of St. Ephrem:\n• https://en.wikipedia.org/wiki/Ephrem_the_Syrian\n• http://www.newadvent.org/cathen/05498a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:a4bc56d2-08c4-43d8-b962-90cac72fe556@a4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190804
+SUMMARY:Eighth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:cf3f0f66-1365-41ec-86ee-994977bf2070@cf3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190206
+SUMMARY:St. Titus
+DESCRIPTION:More information about the Feast of St. Titus:\n• https://en.wikipedia.org/wiki/Saint_Titus\n• http://www.newadvent.org/cathen/14727b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:f504ff9b-a154-4f84-b073-f70e0f65fd3b@f504.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190113
+SUMMARY:Feast of the Holy Family
+DESCRIPTION:More information about the Feast of the Holy Family:\n• https://fisheaters.com/customstimeafterepiphany1a.html\n• https://en.wikipedia.org/wiki/Holy_Family\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:73c520cf-3b6b-460b-89c9-6f3fe6ec2ebe@73c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190909
+SUMMARY:St. Gorgonius
+DESCRIPTION:More information about the Commemoration of St. Gorgonius:\n• https://en.wikipedia.org/wiki/Gorgonius\n• http://www.newadvent.org/cathen/06651b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:165cdb99-fce3-46a6-ab88-b81997328551@165c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190131
+SUMMARY:St. John Bosco
+DESCRIPTION:More information about the Feast of St. John Bosco:\n• https://en.wikipedia.org/wiki/John_Bosco\n• http://www.newadvent.org/cathen/02689d.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:91b6a895-8840-4045-b118-80e8d5d5f51a@91b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190211
+SUMMARY:The Apparition at Lourdes
+DESCRIPTION:More information about The Apparition at Lourdes:\n• https://en.wikipedia.org/wiki/Lourdes_apparitions\n• http://www.newadvent.org/cathen/09389b.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:2d077f0a-afc0-4d5a-a2b8-ca2f588b403b@2d07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191121
+SUMMARY:The Presentation of Mary
+DESCRIPTION:More information about The Presentation of Mary:\n• https://en.wikipedia.org/wiki/Presentation_of_Mary\n• http://www.newadvent.org/cathen/12400a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2cd5489e-ccfd-410c-8b0f-bc5b3d00e957@2cd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190611
+SUMMARY:St. Barnabas
+DESCRIPTION:More information about the Feast of St. Barnabas:\n• https://en.wikipedia.org/wiki/Barnabas\n• http://www.newadvent.org/cathen/02300a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:432197c1-c374-48e2-b227-dcf247cb153c@4321.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190324
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:More information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:a3161a1a-65c9-4eec-ad9d-97d6062d9f25@a316.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191014
+SUMMARY:Pope Callistus I
+DESCRIPTION:More information about the Feast of Pope Callistus I:\n• https://en.wikipedia.org/wiki/Pope_Callixtus_I\n• http://www.newadvent.org/cathen/03183d.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:df8ad8c7-f11f-49bf-9aa4-9deea703f833@df8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190529
+SUMMARY:Minor Rogation
+DESCRIPTION:More information about Minor Rogation:\n• https://fisheaters.com/customseastertide3.html\n• https://en.wikipedia.org/wiki/Rogation_days\n• http://www.newadvent.org/cathen/13110b.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:1b52bfde-bacb-4738-a6f5-1c26b9f551cb@1b52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190511
+SUMMARY:SS. Philip & James
+DESCRIPTION:More information about the Feast of SS. Philip & James:\n• https://en.wikipedia.org/wiki/Philip_the_Apostle\n• https://en.wikipedia.org/wiki/James\,_son_of_Alphaeus\n• http://www.newadvent.org/cathen/11799a.htm\n• http://www.newadvent.org/cathen/08280a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:781ca7bd-6f8a-45df-944b-695617f31865@781c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190831
+SUMMARY:St. Raymond Nonnatus
+DESCRIPTION:More information about the Feast of St. Raymond Nonnatus:\n• https://en.wikipedia.org/wiki/Raymond_Nonnatus\n• http://www.newadvent.org/cathen/12671b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:ebf5b151-1023-4105-80c4-9a02216a1a79@ebf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190428
+SUMMARY:Quasimodo Sunday
+DESCRIPTION:More information about Quasimodo Sunday:\n• https://fisheaters.com/customseastertide4.html\n• https://en.wikipedia.org/wiki/Divine_Mercy_Sunday\n• http://www.newadvent.org/cathen/09400a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:9c51c936-dd96-43c8-b967-358fa31baa20@9c51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190512
+SUMMARY:« SS. Nereus\, Achilleus\, Domitilla\, & Pancras »
+DESCRIPTION:This year the Feast of SS. Nereus\, Achilleus\, Domitilla\, & Pancras is outranked by Misericordia Sunday.\n\nMore information about the Feast of SS. Nereus\, Achilleus\, Domitilla\, & Pancras:\n• https://en.wikipedia.org/wiki/Saints_Nereus_and_Achilleus\n• https://en.wikipedia.org/wiki/Flavia_Domitilla_(saint)\n• https://en.wikipedia.org/wiki/Pancras_of_Rome\n• http://www.newadvent.org/cathen/10751a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:b6d03d25-ae3e-47f7-a7de-8d7a50941d13@b6d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191006
+SUMMARY:Seventeenth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:f3bb64f4-d34f-43b4-b0ec-e1cc10e9bb6e@f3bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190721
+SUMMARY:« St. Lawrence of Brindisi »
+DESCRIPTION:This year the Feast of St. Lawrence of Brindisi is outranked by the Sixth Sunday after Pentecost.\n\nMore information about the Feast of St. Lawrence of Brindisi:\n• https://en.wikipedia.org/wiki/Lawrence_of_Brindisi\n• http://www.newadvent.org/cathen/09359a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:fc404fab-265d-4d8c-b1ba-8e43a291b874@fc40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190624
+SUMMARY:St. John's Day
+DESCRIPTION:More information about the Feast of St. John's Day:\n• https://fisheaters.com/customstimeafterpentecost3.html\n• https://en.wikipedia.org/wiki/Nativity_of_Saint_John_the_Baptist\n• https://en.wikipedia.org/wiki/Saint_John_the_Baptist\n• http://www.newadvent.org/cathen/08486b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:f0243266-942a-4080-8505-6b26763067f6@f024.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190714
+SUMMARY:Fifth Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:148d77d6-4170-4057-af8e-495da29c3042@148d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190725
+SUMMARY:St. James the Greater
+DESCRIPTION:More information about the Feast of St. James the Greater:\n• https://fisheaters.com/customstimeafterpentecost4x.html\n• https://en.wikipedia.org/wiki/James\,_son_of_Zebedee\n• http://www.newadvent.org/cathen/08279b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:b100e3c8-4988-43cc-bd83-d2e4b5cd0fcd@b100.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190930
+SUMMARY:St. Jerome
+DESCRIPTION:More information about the Feast of St. Jerome:\n• https://en.wikipedia.org/wiki/Jerome\n• http://www.newadvent.org/cathen/08341a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:6aa823a7-d0e2-4964-8c7e-b74fbfd38d86@6aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190118
+SUMMARY:« St. Peter's Chair »
+DESCRIPTION:The Feast of St. Peter's Chair is outranked by the Commemoration of St. Prisca.\n\nMore information about the Feast of St. Peter's Chair:\n• https://en.wikipedia.org/wiki/Chair_of_Saint_Peter\n• http://www.newadvent.org/cathen/03551e.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:280ce9c1-35c0-46d8-aec8-3733a569730a@280c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191028
+SUMMARY:SS. Simon & Jude
+DESCRIPTION:More information about the Feast of SS. Simon & Jude:\n• https://en.wikipedia.org/wiki/Simon_the_Zealot\n• https://en.wikipedia.org/wiki/Jude_the_Apostle\n• http://www.newadvent.org/cathen/13796b.htm\n• http://www.newadvent.org/cathen/08542b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:8e11f6a1-37f1-4853-8c47-ea92c3f7903d@8e11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190821
+SUMMARY:St. Jane Frances Fremiot de Chantal
+DESCRIPTION:More information about the Feast of St. Jane Frances Fremiot de Chantal:\n• https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal\n• http://www.newadvent.org/cathen/08282c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:9f1301d8-791a-4cbe-83cc-d718c528ca26@9f13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190825
+SUMMARY:Eleventh Sunday after Pentecost
+DESCRIPTION:More information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:7015d7a4-3c2a-4024-bc8e-fb7e9930ba76@7015.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191119
+SUMMARY:St. Elizabeth of Hungary
+DESCRIPTION:More information about the Feast of St. Elizabeth of Hungary:\n• https://en.wikipedia.org/wiki/Elizabeth_of_Hungary\n• http://www.newadvent.org/cathen/05389a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:2dc18b76-b26c-4ebd-bd94-53b5910b16f9@2dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191120
+SUMMARY:St. Felix of Valois
+DESCRIPTION:More information about the Feast of St. Felix of Valois:\n• https://en.wikipedia.org/wiki/Felix_of_Valois\n• http://www.newadvent.org/cathen/06033c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:276e5d4f-a795-4593-a730-8b571c41a124@276e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190921
+SUMMARY:« St. Matthew »
+DESCRIPTION:This year the Feast of St. Matthew is outranked by Michaelmas Embertide.\n\nMore information about the Feast of St. Matthew:\n• https://en.wikipedia.org/wiki/Matthew_the_Apostle\n• http://www.newadvent.org/cathen/10056b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:6e68c383-1c5e-4088-910b-7ed61958a987@6e68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190708
+SUMMARY:St. Elizabeth
+DESCRIPTION:More information about the Feast of St. Elizabeth:\n• https://en.wikipedia.org/wiki/Elizabeth_of_Aragon\n• http://www.newadvent.org/cathen/05391a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e8976e06-49c9-4890-a6e2-451c041eb7c9@e897.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20181207
+SUMMARY:St. Ambrose
+DESCRIPTION:More information about the Feast of St. Ambrose:\n• https://en.wikipedia.org/wiki/Ambrose\n• http://www.newadvent.org/cathen/01383c.htm\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:50a858ad-9325-4f00-824a-aef2057ce482@50a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190528
+SUMMARY:« St. Augustine of Canterbury »
+DESCRIPTION:This year the Feast of St. Augustine of Canterbury is outranked by Minor Rogation.\n\nMore information about the Feast of St. Augustine of Canterbury:\n• https://en.wikipedia.org/wiki/Augustine_of_Canterbury\n• http://www.newadvent.org/cathen/02081a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:2abae518-8092-4843-946c-7f6ce7823f0f@2aba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190504
+SUMMARY:St. Monica
+DESCRIPTION:More information about the Feast of St. Monica:\n• https://en.wikipedia.org/wiki/Saint_Monica\n• http://www.newadvent.org/cathen/10482a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:bedfc573-c8c5-43ab-b566-db9d1da07106@bedf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190306
+SUMMARY:Ash Wednesday
+DESCRIPTION:More information about Ash Wednesday:\n• https://fisheaters.com/customslent2.html\n• https://en.wikipedia.org/wiki/Ash_Wednesday\n• http://www.newadvent.org/cathen/01775b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:7d297352-c6b9-4e41-829d-6647879e1ad9@7d29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190106
+SUMMARY:Three Kings Day
+DESCRIPTION:More information about Three Kings Day:\n• https://fisheaters.com/customschristmas8.html\n• https://en.wikipedia.org/wiki/Epiphany_(holiday)\n• http://www.newadvent.org/cathen/05504c.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:b1e45c54-71d6-4f25-846a-55fd2cf81691@b1e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190609
+SUMMARY:Pentecost
+DESCRIPTION:More information about Pentecost:\n• https://fisheaters.com/customseastertide7.html\n• https://en.wikipedia.org/wiki/Pentecost\n• https://en.wikipedia.org/wiki/Whitsun\n• http://www.newadvent.org/cathen/15614b.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:9bc1beb5-a6ea-49a0-8fd6-cee35d536378@9bc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190405
+SUMMARY:St. Vincent Ferrer
+DESCRIPTION:More information about the Feast of St. Vincent Ferrer:\n• https://en.wikipedia.org/wiki/Vincent_Ferrer\n• http://www.newadvent.org/cathen/15437a.htm\n\nMore information about Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm\n
+TRANSP:OPAQUE
+UID:3c9589b6-cf80-4e5d-a9f0-0b345b421afb@3c95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20181221
+SUMMARY:Advent Embertide
+DESCRIPTION:More information about Advent Embertide:\n• https://fisheaters.com/customsadvent11.html\n\nMore information about Advent:\n• https://fisheaters.com/customsadvent1.html\n• https://fisheaters.com/customsadvent2.html\n• https://fisheaters.com/adventcribs.html\n• https://fisheaters.com/customsadvent12.html\n• https://fisheaters.com/customsadvent9.html\n• https://en.wikipedia.org/wiki/Advent\n
+TRANSP:OPAQUE
+UID:ba555700-606f-47c9-9c86-56b7f7a4938a@ba55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190424
+SUMMARY:« St. Fidelis of Sigmaringen »
+DESCRIPTION:This year the Feast of St. Fidelis of Sigmaringen is outranked by Easter Wednesday.\n\nMore information about the Feast of St. Fidelis of Sigmaringen:\n• https://en.wikipedia.org/wiki/Fidelis_of_Sigmaringen\n• http://www.newadvent.org/cathen/06069a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:06b2030a-b72e-409e-a4a0-51f427b9b658@06b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191002
+SUMMARY:The Holy Guardian Angels
+DESCRIPTION:More information about The Holy Guardian Angels:\n• https://en.wikipedia.org/wiki/Memorial_of_the_Holy_Guardian_Angels\n• https://en.wikipedia.org/wiki/Guardian_angel\n• http://www.newadvent.org/cathen/07050a.htm\n• http://www.newadvent.org/cathen/07049c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:dc10949a-3963-45a2-8057-125c1173ff78@dc10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190619
+SUMMARY:St. Juliana Falconieri
+DESCRIPTION:More information about the Feast of St. Juliana Falconieri:\n• https://en.wikipedia.org/wiki/Juliana_Falconieri\n• http://www.newadvent.org/cathen/08556a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:c2bc3dbf-ff7a-4d7d-992a-88fe0ebffe92@c2bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20181229
+SUMMARY:St. Thomas Becket
+DESCRIPTION:More information about the Feast of St. Thomas Becket:\n• https://fisheaters.com/customschristmasx.html\n• https://en.wikipedia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.htm\n\nMore information about Christmastide:\n• https://fisheaters.com/customschristmas1.html\n
+TRANSP:OPAQUE
+UID:d6ad953e-6762-43e1-b094-f2613564cece@d6ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190720
+SUMMARY:St. Jerome Emilian
+DESCRIPTION:More information about the Feast of St. Jerome Emilian:\n• https://en.wikipedia.org/wiki/Gerolamo_Emiliani\n• http://www.newadvent.org/cathen/08343a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:8578969e-a0ed-4126-895b-422d920b2179@8578.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190425
+SUMMARY:« St. Mark »
+DESCRIPTION:This year the Feast of St. Mark is outranked by Easter Thursday.\n\nMore information about the Feast of St. Mark:\n• https://en.wikipedia.org/wiki/Mark_the_Evangelist\n• http://www.newadvent.org/cathen/09672c.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:7505977a-d8f0-47d9-98d4-8f849dd2e4a8@7505.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190808
+SUMMARY:St. John Mary Vianney
+DESCRIPTION:More information about the Feast of St. John Mary Vianney:\n• https://en.wikipedia.org/wiki/John_Vianney\n• http://www.newadvent.org/cathen/08326c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:d8bae458-e13d-4aba-b228-c7b660ff6f51@d8ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190527
+SUMMARY:« St. Bede the Venerable »
+DESCRIPTION:This year the Feast of St. Bede the Venerable is outranked by Minor Rogation.\n\nMore information about the Feast of St. Bede the Venerable:\n• https://en.wikipedia.org/wiki/Bede\n• http://www.newadvent.org/cathen/02384a.htm\n\nMore information about Eastertide:\n• https://fisheaters.com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.htm\n
+TRANSP:OPAQUE
+UID:b164f98d-c0b3-4c4a-8986-93c49529f912@b164.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191108
+SUMMARY:The Four Crowned Holy Martyrs
+DESCRIPTION:More information about The Four Crowned Holy Martyrs:\n• https://en.wikipedia.org/wiki/Four_Crowned_Martyrs\n• http://www.newadvent.org/cathen/06163a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:5ffc830d-f582-4e19-8214-1d3ff762ac3c@5ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190203
+SUMMARY:« St. Blaise »
+DESCRIPTION:This year the Commemoration of St. Blaise is outranked by the Fourth Sunday after Epiphany.\n\nMore information about the Commemoration of St. Blaise:\n• https://fisheaters.com/customstimeafterepiphany4.html\n• https://en.wikipedia.org/wiki/Saint_Blaise\n• http://www.newadvent.org/cathen/02592a.htm\n\nMore information about the Time after Epiphany:\n• https://fisheaters.com/customstimeafterepiphany1.html\n
+TRANSP:OPAQUE
+UID:97d9daba-6137-4231-af7c-8e167724ff65@97d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190612
+SUMMARY:« SS. Basilides\, Cyrinus\, Nabor\, & Nazarius »
+DESCRIPTION:This year the Commemoration of SS. Basilides\, Cyrinus\, Nabor\, & Nazarius is outranked by Whit Embertide.\n\nMore information about the Commemoration of SS. Basilides\, Cyrinus\, Nabor\, & Nazarius:\n• https://en.wikipedia.org/wiki/Basilides\,_Cyrinus\,_Nabor_and_Nazarius\n• http://www.newadvent.org/cathen/10728b.htm\n• http://www.newadvent.org/cathen/02329a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:8c576190-6fcb-466c-973b-f02d3a115832@8c57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20191019
+SUMMARY:St. Peter of Alcántara
+DESCRIPTION:More information about the Feast of St. Peter of Alcántara:\n• https://en.wikipedia.org/wiki/Peter_of_Alcantara\n• http://www.newadvent.org/cathen/11770c.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:79a4177d-2525-4368-a314-11069a2ab768@79a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190806
+SUMMARY:Feast of the Transfiguration
+DESCRIPTION:More information about the Feast of the Transfiguration:\n• https://fisheaters.com/customstimeafterpentecost5.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Transfiguration\n• https://en.wikipedia.org/wiki/Transfiguration_of_Jesus\n• http://www.newadvent.org/cathen/15019b.htm\n• http://www.newadvent.org/cathen/15019a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:34701168-71c9-4ecd-8a71-7ff283ecb7d1@3470.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190414
+SUMMARY:« Palm Sunday »
+DESCRIPTION:This year Palm Sunday is outranked by Palm Sunday.\n\nMore information about Palm Sunday:\n• https://fisheaters.com/customslent11.html\n• https://en.wikipedia.org/wiki/Palm_Sunday\n• http://www.newadvent.org/cathen/11432b.htm\n\nMore information about Holy Week:\n• https://en.wikipedia.org/wiki/Holy_Week\n• http://www.newadvent.org/cathen/07435a.htm\n
+TRANSP:OPAQUE
+UID:961e4b16-5f86-42e9-9108-18e54e847c15@961e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20190626
+SUMMARY:SS. John & Paul
+DESCRIPTION:More information about the Feast of SS. John & Paul:\n• https://en.wikipedia.org/wiki/John_and_Paul\n• http://www.newadvent.org/cathen/08443a.htm\n\nMore information about the Time after Pentecost:\n• https://fisheaters.com/customstimeafterpentecost1.html\n
+TRANSP:OPAQUE
+UID:e3aaf22d-098c-45ee-90e2-92c6f2cf210f@e3aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190110T170920Z
+DTSTART;VALUE=DATE:20181231
+SUMMARY:Pope Sylvester I
+DESCRIPTION:More information about the Feast of Pope Sylvester I:\n• https://fisheaters.com/customschristmas6.html\n• https://en.wikipedia.org/wiki/Saint_Sylvester%27s_Day\n• https://en.wikipedia.org/wiki/Pope_Sylvester_I\n• http://www.newadvent.org/cathen/14370a.htm\n\nMore information about Christmastide:\n• https://fisheaters.com/customschristmas1.html\n
+TRANSP:OPAQUE
+UID:d48a0123-4e80-422c-9c46-d506b8ea81af@d48a.org
+END:VEVENT
+END:VCALENDAR
