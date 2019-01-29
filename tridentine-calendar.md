@@ -12,7 +12,6 @@ calendar was marked using the 1962 Roman Catholic rubrics.
 
 * *Google Calendar, Yahoo Calendar, and other web-based calendar users: [click here to
 subscribe.](webcal://joe-antognini.github.io/assets/ical/html_tridentine_calendar.ics)*
-
 * *Apple users: [click here to
 subscribe.](webcal://joe-antognini.github.io/assets/ical/tridentine_calendar.ics)*
 
@@ -21,10 +20,11 @@ season.  When two feasts conflict, the lower-ranking feast is prepended with a '
 takes precedence.  Some other commonly observed non-liturgical events like Plough Monday and Mardi Gras
 are also included and are prepended with a '»'.
 
-Here is what the calendar looks like in Google Calendar:
+Here is a preview of the calendar:
 
-And here is what the calendar looks like in iCalendar:
+<iframe src="https://calendar.google.com/calendar/embed?src=3hco683jsm1dop6j5sn5qgrqhd5d0jsi%40import.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+<br>
 
 The code that was used to generate this calendar can be found [at this
 link](https://github.com/joe-antognini/tridentine_calendar).  If you find any errors, please
