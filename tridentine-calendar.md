@@ -23,7 +23,8 @@ are also included and are prepended with a '»'.
 Here is a preview of the calendar:
 
 <div class="calendarWrapper">
-<iframe src="https://calendar.google.com/calendar/embed?src=ta6ovur2eupmh90ame1svspqbrcreg5m%40import.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe
+src="https://calendar.google.com/calendar/embed?src=ta6ovur2eupmh90ame1svspqbrcreg5m%40import.calendar.google.com&mode=AGENDA&color=%23333333" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <br>
