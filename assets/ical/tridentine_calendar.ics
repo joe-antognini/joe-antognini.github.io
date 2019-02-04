@@ -921,14 +921,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Casimir
 DTSTART;VALUE=DATE:20170304
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. C
- asimir falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Saturday after Ash Wednesday.\n\nMore informati
- on about the Feast of St. Casimir:\n• https://en.wikipedia.org/wiki/Sain
- t_Casimir\n• http://www.newadvent.org/cathen/03402a.htm\n\nMore informat
- ion about Lent:\n• https://fisheaters.com/customslent1.html\n• https:/
- /en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.ht
- m
+DESCRIPTION:Since the Feast of St. Casimir falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Saturday af
+ ter Ash Wednesday.  The liturgical color today is violet.\n\nMore informat
+ ion about the Feast of St. Casimir:\n• https://en.wikipedia.org/wiki/Sai
+ nt_Casimir\n• http://www.newadvent.org/cathen/03402a.htm\n\nMore informa
+ tion about Lent:\n• https://fisheaters.com/customslent1.html\n• https:
+ //en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.h
+ tm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First Sunday of Lent
@@ -941,34 +941,34 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SS. Perpetua and Felicitas
 DTSTART;VALUE=DATE:20170306
-DESCRIPTION:The liturgical color today is red.  Since the Feast of SS. Per
- petua and Felicitas falls during Lent it will ordinarily be celebrated onl
- y as a commemoration during the mass of Monday in the first week of Lent.\
- n\nMore information about the Feast of SS. Perpetua and Felicitas:\n• ht
- tps://en.wikipedia.org/wiki/Passion_of_Saint_Perpetua\,_Saint_Felicitas\,_
- and_their_Companions\n• http://www.newadvent.org/cathen/06029a.htm\n\nMo
- re information about Lent:\n• https://fisheaters.com/customslent1.html\n
- • https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathe
- n/09152a.htm
+DESCRIPTION:Since the Feast of SS. Perpetua and Felicitas falls during Len
+ t it will ordinarily be celebrated only as a commemoration during the mass
+  of Monday in the first week of Lent.  The liturgical color today is viole
+ t.\n\nMore information about the Feast of SS. Perpetua and Felicitas:\n•
+  https://en.wikipedia.org/wiki/Passion_of_Saint_Perpetua\,_Saint_Felicitas
+ \,_and_their_Companions\n• http://www.newadvent.org/cathen/06029a.htm\n\
+ nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
+ l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
+ then/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Thomas Aquinas
 DTSTART;VALUE=DATE:20170307
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. T
- homas Aquinas falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Tuesday in the first week of Lent.\n\nMo
- re information about the Feast of St. Thomas Aquinas:\n• https://en.wiki
- pedia.org/wiki/Thomas_Aquinas\n• http://www.newadvent.org/cathen/14663b.
- htm\n\nMore information about Lent:\n• https://fisheaters.com/customslen
- t1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.
- org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Thomas Aquinas falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Tues
+ day in the first week of Lent.  The liturgical color today is violet.\n\nM
+ ore information about the Feast of St. Thomas Aquinas:\n• https://en.wik
+ ipedia.org/wiki/Thomas_Aquinas\n• http://www.newadvent.org/cathen/14663b
+ .htm\n\nMore information about Lent:\n• https://fisheaters.com/customsle
+ nt1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent
+ .org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20170308
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Wednesday in the first week of Lent.\n\nMore informati
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Wednesday in the fi
+ rst week of Lent.  The liturgical color today is violet.\n\nMore informati
  on about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n
  \nMore information about Lent:\n• https://fisheaters.com/customslent1.ht
  ml\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/c
@@ -987,21 +987,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Frances of Rome
 DTSTART;VALUE=DATE:20170309
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. F
- rances of Rome falls during Lent it will ordinarily be celebrated only as 
- a commemoration during the mass of Thursday in the first week of Lent.\n\n
- More information about the Feast of St. Frances of Rome:\n• https://en.w
- ikipedia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/062
- 05c.htm\n\nMore information about Lent:\n• https://fisheaters.com/custom
- slent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadv
- ent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Frances of Rome falls during Lent it wi
+ ll ordinarily be celebrated only as a commemoration during the mass of Thu
+ rsday in the first week of Lent.  The liturgical color today is violet.\n\
+ nMore information about the Feast of St. Frances of Rome:\n• https://en.
+ wikipedia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/06
+ 205c.htm\n\nMore information about Lent:\n• https://fisheaters.com/custo
+ mslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newad
+ vent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20170310
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Friday in the first week of Lent.\n\nMore information 
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Friday in the first
+  week of Lent.  The liturgical color today is violet.\n\nMore information 
  about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\nM
  ore information about Lent:\n• https://fisheaters.com/customslent1.html\
  n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cath
@@ -1020,9 +1020,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20170311
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Saturday in the first week of Lent.\n\nMore informatio
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Saturday in the fir
+ st week of Lent.  The liturgical color today is violet.\n\nMore informatio
  n about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\
  nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
  l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
@@ -1049,27 +1049,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Patrick
 DTSTART;VALUE=DATE:20170317
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. P
- atrick falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Friday in the second week of Lent.\n\nMore info
- rmation about the Feast of St. Patrick:\n• https://fisheaters.com/custom
- slent4.html\n• https://en.wikipedia.org/wiki/Saint_Patrick\n• https://
- en.wikipedia.org/wiki/Saint_Patrick%27s_Day\n• http://www.newadvent.org/
- cathen/11554a.htm\n\nMore information about Lent:\n• https://fisheaters.
- com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://
- www.newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Patrick falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Friday in t
+ he second week of Lent.  The liturgical color today is violet.\n\nMore inf
+ ormation about the Feast of St. Patrick:\n• https://fisheaters.com/custo
+ mslent4.html\n• https://en.wikipedia.org/wiki/Saint_Patrick\n• https:/
+ /en.wikipedia.org/wiki/Saint_Patrick%27s_Day\n• http://www.newadvent.org
+ /cathen/11554a.htm\n\nMore information about Lent:\n• https://fisheaters
+ .com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http:/
+ /www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Cyril of Jerusalem
 DTSTART;VALUE=DATE:20170318
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. C
- yril of Jerusalem falls during Lent it will ordinarily be celebrated only 
- as a commemoration during the mass of Saturday in the second week of Lent.
- \n\nMore information about the Feast of St. Cyril of Jerusalem:\n• https
- ://en.wikipedia.org/wiki/Cyril_of_Jerusalem\n• http://www.newadvent.org/
- cathen/04595b.htm\n\nMore information about Lent:\n• https://fisheaters.
- com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://
- www.newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Cyril of Jerusalem falls during Lent it
+  will ordinarily be celebrated only as a commemoration during the mass of 
+ Saturday in the second week of Lent.  The liturgical color today is violet
+ .\n\nMore information about the Feast of St. Cyril of Jerusalem:\n• http
+ s://en.wikipedia.org/wiki/Cyril_of_Jerusalem\n• http://www.newadvent.org
+ /cathen/04595b.htm\n\nMore information about Lent:\n• https://fisheaters
+ .com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http:/
+ /www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Joseph
@@ -1094,25 +1094,25 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Benedict
 DTSTART;VALUE=DATE:20170321
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. B
- enedict falls during Lent it will ordinarily be celebrated only as a comme
- moration during the mass of Tuesday in the third week of Lent.\n\nMore inf
- ormation about the Feast of St. Benedict:\n• https://en.wikipedia.org/wi
- ki/Benedict_of_Nursia\n• http://www.newadvent.org/cathen/02467b.htm\n\nM
- ore information about Lent:\n• https://fisheaters.com/customslent1.html\
- n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cath
- en/09152a.htm
+DESCRIPTION:Since the Feast of St. Benedict falls during Lent it will ordi
+ narily be celebrated only as a commemoration during the mass of Tuesday in
+  the third week of Lent.  The liturgical color today is violet.\n\nMore in
+ formation about the Feast of St. Benedict:\n• https://en.wikipedia.org/w
+ iki/Benedict_of_Nursia\n• http://www.newadvent.org/cathen/02467b.htm\n\n
+ More information about Lent:\n• https://fisheaters.com/customslent1.html
+ \n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cat
+ hen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Gabriel
 DTSTART;VALUE=DATE:20170324
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. G
- abriel falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Friday in the third week of Lent.\n\nMore infor
- mation about the Feast of St. Gabriel:\n• https://en.wikipedia.org/wiki/
- Gabriel\n• http://www.newadvent.org/cathen/06330a.htm\n\nMore informatio
- n about Lent:\n• https://fisheaters.com/customslent1.html\n• https://e
- n.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Gabriel falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Friday in t
+ he third week of Lent.  The liturgical color today is violet.\n\nMore info
+ rmation about the Feast of St. Gabriel:\n• https://en.wikipedia.org/wiki
+ /Gabriel\n• http://www.newadvent.org/cathen/06330a.htm\n\nMore informati
+ on about Lent:\n• https://fisheaters.com/customslent1.html\n• https://
+ en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laetare Sunday
@@ -1127,14 +1127,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John Damascene
 DTSTART;VALUE=DATE:20170327
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. J
- ohn Damascene falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Monday in the fourth week of Lent.\n\nMo
- re information about the Feast of St. John Damascene:\n• https://en.wiki
- pedia.org/wiki/John_of_Damascus\n• http://www.newadvent.org/cathen/08459
- b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customsl
- ent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadven
- t.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. John Damascene falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Mond
+ ay in the fourth week of Lent.  The liturgical color today is violet.\n\nM
+ ore information about the Feast of St. John Damascene:\n• https://en.wik
+ ipedia.org/wiki/John_of_Damascus\n• http://www.newadvent.org/cathen/0845
+ 9b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customs
+ lent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadve
+ nt.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:› St. John Capistrano
@@ -1169,33 +1169,33 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Isidore
 DTSTART;VALUE=DATE:20170404
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. I
- sidore falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Tuesday in Passion week.\n\nMore information ab
- out the Feast of St. Isidore:\n• https://en.wikipedia.org/wiki/Isidore_o
- f_Seville\n• http://www.newadvent.org/cathen/08186a.htm\n\nMore informat
- ion about Passiontide:\n• https://fisheaters.com/customslent8.html\n• 
- https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/ca
- then/11535b.htm
+DESCRIPTION:Since the Feast of St. Isidore falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Tuesday in 
+ Passion week.  The liturgical color today is violet.\n\nMore information a
+ bout the Feast of St. Isidore:\n• https://en.wikipedia.org/wiki/Isidore_
+ of_Seville\n• http://www.newadvent.org/cathen/08186a.htm\n\nMore informa
+ tion about Passiontide:\n• https://fisheaters.com/customslent8.html\n•
+  https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/c
+ athen/11535b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Vincent Ferrer
 DTSTART;VALUE=DATE:20170405
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. V
- incent Ferrer falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Wednesday in Passion week.\n\nMore infor
- mation about the Feast of St. Vincent Ferrer:\n• https://en.wikipedia.or
- g/wiki/Vincent_Ferrer\n• http://www.newadvent.org/cathen/15437a.htm\n\nM
- ore information about Passiontide:\n• https://fisheaters.com/customslent
- 8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.newa
- dvent.org/cathen/11535b.htm
+DESCRIPTION:Since the Feast of St. Vincent Ferrer falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Wedn
+ esday in Passion week.  The liturgical color today is violet.\n\nMore info
+ rmation about the Feast of St. Vincent Ferrer:\n• https://en.wikipedia.o
+ rg/wiki/Vincent_Ferrer\n• http://www.newadvent.org/cathen/15437a.htm\n\n
+ More information about Passiontide:\n• https://fisheaters.com/customslen
+ t8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.new
+ advent.org/cathen/11535b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Seven Sorrows
 DTSTART;VALUE=DATE:20170407
-DESCRIPTION:The liturgical color today is violet.  Since the Feast of the 
- Seven Sorrows falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Friday in Passion week.\n\nMore informat
+DESCRIPTION:Since the Feast of the Seven Sorrows falls during Lent it will
+  ordinarily be celebrated only as a commemoration during the mass of Frida
+ y in Passion week.  The liturgical color today is violet.\n\nMore informat
  ion about the Feast of the Seven Sorrows:\n• https://fisheaters.com/cust
  omslent10.html\n• https://en.wikipedia.org/wiki/Friday_of_Sorrows\n• h
  ttps://en.wikipedia.org/wiki/Our_Lady_of_Sorrows\n• http://www.newadvent
@@ -4582,10 +4582,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SS. Faustinus & Jovita
 DTSTART;VALUE=DATE:20180215
-DESCRIPTION:The liturgical color today is violet.  Since the Commemoration
-  of SS. Faustinus & Jovita falls during Lent it will ordinarily be celebra
- ted only as a commemoration during the mass of Thursday after Ash Wednesda
- y.\n\nMore information about the Commemoration of SS. Faustinus & Jovita:\
+DESCRIPTION:Since the Commemoration of SS. Faustinus & Jovita falls during
+  Lent it will ordinarily be celebrated only as a commemoration during the 
+ mass of Thursday after Ash Wednesday.  The liturgical color today is viole
+ t.\n\nMore information about the Commemoration of SS. Faustinus & Jovita:\
  n• https://en.wikipedia.org/wiki/Faustinus_and_Jovita\n• http://www.ne
  wadvent.org/cathen/06019a.htm\n\nMore information about Lent:\n• https:/
  /fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\
@@ -4612,9 +4612,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20180221
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Wednesday in the first week of Lent.\n\nMore informati
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Wednesday in the fi
+ rst week of Lent.  The liturgical color today is violet.\n\nMore informati
  on about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n
  \nMore information about Lent:\n• https://fisheaters.com/customslent1.ht
  ml\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/c
@@ -4623,9 +4623,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20180223
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Friday in the first week of Lent.\n\nMore information 
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Friday in the first
+  week of Lent.  The liturgical color today is violet.\n\nMore information 
  about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\nM
  ore information about Lent:\n• https://fisheaters.com/customslent1.html\
  n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cath
@@ -4644,9 +4644,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20180224
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Saturday in the first week of Lent.\n\nMore informatio
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Saturday in the fir
+ st week of Lent.  The liturgical color today is violet.\n\nMore informatio
  n about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\
  nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
  l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
@@ -4673,10 +4673,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Gabriel of Our Lady of Sorrows
 DTSTART;VALUE=DATE:20180227
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. G
- abriel of Our Lady of Sorrows falls during Lent it will ordinarily be cele
- brated only as a commemoration during the mass of Tuesday in the second we
- ek of Lent.\n\nMore information about the Feast of St. Gabriel of Our Lady
+DESCRIPTION:Since the Feast of St. Gabriel of Our Lady of Sorrows falls du
+ ring Lent it will ordinarily be celebrated only as a commemoration during 
+ the mass of Tuesday in the second week of Lent.  The liturgical color toda
+ y is white.\n\nMore information about the Feast of St. Gabriel of Our Lady
   of Sorrows:\n• https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sor
  rows\n• http://www.newadvent.org/cathen/06330c.htm\n\nMore information a
  bout Lent:\n• https://fisheaters.com/customslent1.html\n• https://en.w
@@ -4703,63 +4703,63 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SS. Perpetua and Felicitas
 DTSTART;VALUE=DATE:20180306
-DESCRIPTION:The liturgical color today is red.  Since the Feast of SS. Per
- petua and Felicitas falls during Lent it will ordinarily be celebrated onl
- y as a commemoration during the mass of Tuesday in the third week of Lent.
- \n\nMore information about the Feast of SS. Perpetua and Felicitas:\n• h
- ttps://en.wikipedia.org/wiki/Passion_of_Saint_Perpetua\,_Saint_Felicitas\,
- _and_their_Companions\n• http://www.newadvent.org/cathen/06029a.htm\n\nM
- ore information about Lent:\n• https://fisheaters.com/customslent1.html\
- n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cath
- en/09152a.htm
+DESCRIPTION:Since the Feast of SS. Perpetua and Felicitas falls during Len
+ t it will ordinarily be celebrated only as a commemoration during the mass
+  of Tuesday in the third week of Lent.  The liturgical color today is viol
+ et.\n\nMore information about the Feast of SS. Perpetua and Felicitas:\n
+ • https://en.wikipedia.org/wiki/Passion_of_Saint_Perpetua\,_Saint_Felici
+ tas\,_and_their_Companions\n• http://www.newadvent.org/cathen/06029a.htm
+ \n\nMore information about Lent:\n• https://fisheaters.com/customslent1.
+ html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org
+ /cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Thomas Aquinas
 DTSTART;VALUE=DATE:20180307
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. T
- homas Aquinas falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Wednesday in the third week of Lent.\n\n
- More information about the Feast of St. Thomas Aquinas:\n• https://en.wi
- kipedia.org/wiki/Thomas_Aquinas\n• http://www.newadvent.org/cathen/14663
- b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customsl
- ent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadven
- t.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Thomas Aquinas falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Wedn
+ esday in the third week of Lent.  The liturgical color today is violet.\n\
+ nMore information about the Feast of St. Thomas Aquinas:\n• https://en.w
+ ikipedia.org/wiki/Thomas_Aquinas\n• http://www.newadvent.org/cathen/1466
+ 3b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customs
+ lent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadve
+ nt.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John of God
 DTSTART;VALUE=DATE:20180308
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. J
- ohn of God falls during Lent it will ordinarily be celebrated only as a co
- mmemoration during the mass of Thursday in the third week of Lent.\n\nMore
-  information about the Feast of St. John of God:\n• https://en.wikipedia
- .org/wiki/John_of_God\n• http://www.newadvent.org/cathen/08472c.htm\n\nM
- ore information about Lent:\n• https://fisheaters.com/customslent1.html\
- n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cath
- en/09152a.htm
+DESCRIPTION:Since the Feast of St. John of God falls during Lent it will o
+ rdinarily be celebrated only as a commemoration during the mass of Thursda
+ y in the third week of Lent.  The liturgical color today is violet.\n\nMor
+ e information about the Feast of St. John of God:\n• https://en.wikipedi
+ a.org/wiki/John_of_God\n• http://www.newadvent.org/cathen/08472c.htm\n\n
+ More information about Lent:\n• https://fisheaters.com/customslent1.html
+ \n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cat
+ hen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Frances of Rome
 DTSTART;VALUE=DATE:20180309
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. F
- rances of Rome falls during Lent it will ordinarily be celebrated only as 
- a commemoration during the mass of Friday in the third week of Lent.\n\nMo
- re information about the Feast of St. Frances of Rome:\n• https://en.wik
- ipedia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/06205
- c.htm\n\nMore information about Lent:\n• https://fisheaters.com/customsl
- ent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadven
- t.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Frances of Rome falls during Lent it wi
+ ll ordinarily be celebrated only as a commemoration during the mass of Fri
+ day in the third week of Lent.  The liturgical color today is violet.\n\nM
+ ore information about the Feast of St. Frances of Rome:\n• https://en.wi
+ kipedia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/0620
+ 5c.htm\n\nMore information about Lent:\n• https://fisheaters.com/customs
+ lent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadve
+ nt.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forty Martyrs
 DTSTART;VALUE=DATE:20180310
-DESCRIPTION:The liturgical color today is red.  Since the Feast of the For
- ty Martyrs falls during Lent it will ordinarily be celebrated only as a co
- mmemoration during the mass of Saturday in the third week of Lent.\n\nMore
-  information about the Feast of the Forty Martyrs:\n• https://en.wikiped
- ia.org/wiki/Forty_Martyrs_of_Sebaste\n• http://www.newadvent.org/cathen/
- 06153a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cus
- tomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.new
- advent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of the Forty Martyrs falls during Lent it will
+  ordinarily be celebrated only as a commemoration during the mass of Satur
+ day in the third week of Lent.  The liturgical color today is violet.\n\nM
+ ore information about the Feast of the Forty Martyrs:\n• https://en.wiki
+ pedia.org/wiki/Forty_Martyrs_of_Sebaste\n• http://www.newadvent.org/cath
+ en/06153a.htm\n\nMore information about Lent:\n• https://fisheaters.com/
+ customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.
+ newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laetare Sunday
@@ -4774,27 +4774,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pope Gregory the Great
 DTSTART;VALUE=DATE:20180312
-DESCRIPTION:The liturgical color today is white.  Since the Feast of Pope 
- Gregory the Great falls during Lent it will ordinarily be celebrated only 
- as a commemoration during the mass of Monday in the fourth week of Lent.\n
- \nMore information about the Feast of Pope Gregory the Great:\n• https:/
- /en.wikipedia.org/wiki/Pope_Gregory_I\n• http://www.newadvent.org/cathen
- /06780a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cu
- stomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.ne
- wadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of Pope Gregory the Great falls during Lent it
+  will ordinarily be celebrated only as a commemoration during the mass of 
+ Monday in the fourth week of Lent.  The liturgical color today is violet.\
+ n\nMore information about the Feast of Pope Gregory the Great:\n• https:
+ //en.wikipedia.org/wiki/Pope_Gregory_I\n• http://www.newadvent.org/cathe
+ n/06780a.htm\n\nMore information about Lent:\n• https://fisheaters.com/c
+ ustomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.n
+ ewadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Patrick
 DTSTART;VALUE=DATE:20180317
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. P
- atrick falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Saturday in the fourth week of Lent.\n\nMore in
- formation about the Feast of St. Patrick:\n• https://fisheaters.com/cust
- omslent4.html\n• https://en.wikipedia.org/wiki/Saint_Patrick\n• https:
- //en.wikipedia.org/wiki/Saint_Patrick%27s_Day\n• http://www.newadvent.or
- g/cathen/11554a.htm\n\nMore information about Lent:\n• https://fisheater
- s.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http:
- //www.newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Patrick falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Saturday in
+  the fourth week of Lent.  The liturgical color today is violet.\n\nMore i
+ nformation about the Feast of St. Patrick:\n• https://fisheaters.com/cus
+ tomslent4.html\n• https://en.wikipedia.org/wiki/Saint_Patrick\n• https
+ ://en.wikipedia.org/wiki/Saint_Patrick%27s_Day\n• http://www.newadvent.o
+ rg/cathen/11554a.htm\n\nMore information about Lent:\n• https://fisheate
+ rs.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http
+ ://www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Passion Sunday
@@ -4830,21 +4830,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Benedict
 DTSTART;VALUE=DATE:20180321
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. B
- enedict falls during Lent it will ordinarily be celebrated only as a comme
- moration during the mass of Wednesday in Passion week.\n\nMore information
-  about the Feast of St. Benedict:\n• https://en.wikipedia.org/wiki/Bened
- ict_of_Nursia\n• http://www.newadvent.org/cathen/02467b.htm\n\nMore info
- rmation about Passiontide:\n• https://fisheaters.com/customslent8.html\n
- • https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.or
- g/cathen/11535b.htm
+DESCRIPTION:Since the Feast of St. Benedict falls during Lent it will ordi
+ narily be celebrated only as a commemoration during the mass of Wednesday 
+ in Passion week.  The liturgical color today is violet.\n\nMore informatio
+ n about the Feast of St. Benedict:\n• https://en.wikipedia.org/wiki/Bene
+ dict_of_Nursia\n• http://www.newadvent.org/cathen/02467b.htm\n\nMore inf
+ ormation about Passiontide:\n• https://fisheaters.com/customslent8.html\
+ n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.o
+ rg/cathen/11535b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Seven Sorrows
 DTSTART;VALUE=DATE:20180323
-DESCRIPTION:The liturgical color today is violet.  Since the Feast of the 
- Seven Sorrows falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Friday in Passion week.\n\nMore informat
+DESCRIPTION:Since the Feast of the Seven Sorrows falls during Lent it will
+  ordinarily be celebrated only as a commemoration during the mass of Frida
+ y in Passion week.  The liturgical color today is violet.\n\nMore informat
  ion about the Feast of the Seven Sorrows:\n• https://fisheaters.com/cust
  omslent10.html\n• https://en.wikipedia.org/wiki/Friday_of_Sorrows\n• h
  ttps://en.wikipedia.org/wiki/Our_Lady_of_Sorrows\n• http://www.newadvent
@@ -4855,14 +4855,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Gabriel
 DTSTART;VALUE=DATE:20180324
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. G
- abriel falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Saturday in Passion week.\n\nMore information a
- bout the Feast of St. Gabriel:\n• https://en.wikipedia.org/wiki/Gabriel\
- n• http://www.newadvent.org/cathen/06330a.htm\n\nMore information about 
- Passiontide:\n• https://fisheaters.com/customslent8.html\n• https://en
- .wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/cathen/11535
- b.htm
+DESCRIPTION:Since the Feast of St. Gabriel falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Saturday in
+  Passion week.  The liturgical color today is violet.\n\nMore information 
+ about the Feast of St. Gabriel:\n• https://en.wikipedia.org/wiki/Gabriel
+ \n• http://www.newadvent.org/cathen/06330a.htm\n\nMore information about
+  Passiontide:\n• https://fisheaters.com/customslent8.html\n• https://e
+ n.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/cathen/1153
+ 5b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palm Sunday
@@ -8387,38 +8387,38 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Thomas Aquinas
 DTSTART;VALUE=DATE:20190307
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. T
- homas Aquinas falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Thursday after Ash Wednesday.\n\nMore in
- formation about the Feast of St. Thomas Aquinas:\n• https://en.wikipedia
- .org/wiki/Thomas_Aquinas\n• http://www.newadvent.org/cathen/14663b.htm\n
- \nMore information about Lent:\n• https://fisheaters.com/customslent1.ht
- ml\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/c
- athen/09152a.htm
+DESCRIPTION:Since the Feast of St. Thomas Aquinas falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Thur
+ sday after Ash Wednesday.  The liturgical color today is violet.\n\nMore i
+ nformation about the Feast of St. Thomas Aquinas:\n• https://en.wikipedi
+ a.org/wiki/Thomas_Aquinas\n• http://www.newadvent.org/cathen/14663b.htm\
+ n\nMore information about Lent:\n• https://fisheaters.com/customslent1.h
+ tml\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/
+ cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John of God
 DTSTART;VALUE=DATE:20190308
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. J
- ohn of God falls during Lent it will ordinarily be celebrated only as a co
- mmemoration during the mass of Friday after Ash Wednesday.\n\nMore informa
- tion about the Feast of St. John of God:\n• https://en.wikipedia.org/wik
- i/John_of_God\n• http://www.newadvent.org/cathen/08472c.htm\n\nMore info
- rmation about Lent:\n• https://fisheaters.com/customslent1.html\n• htt
- ps://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152
- a.htm
+DESCRIPTION:Since the Feast of St. John of God falls during Lent it will o
+ rdinarily be celebrated only as a commemoration during the mass of Friday 
+ after Ash Wednesday.  The liturgical color today is violet.\n\nMore inform
+ ation about the Feast of St. John of God:\n• https://en.wikipedia.org/wi
+ ki/John_of_God\n• http://www.newadvent.org/cathen/08472c.htm\n\nMore inf
+ ormation about Lent:\n• https://fisheaters.com/customslent1.html\n• ht
+ tps://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/0915
+ 2a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Frances of Rome
 DTSTART;VALUE=DATE:20190309
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. F
- rances of Rome falls during Lent it will ordinarily be celebrated only as 
- a commemoration during the mass of Saturday after Ash Wednesday.\n\nMore i
- nformation about the Feast of St. Frances of Rome:\n• https://en.wikiped
- ia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/06205c.ht
- m\n\nMore information about Lent:\n• https://fisheaters.com/customslent1
- .html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.or
- g/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Frances of Rome falls during Lent it wi
+ ll ordinarily be celebrated only as a commemoration during the mass of Sat
+ urday after Ash Wednesday.  The liturgical color today is violet.\n\nMore 
+ information about the Feast of St. Frances of Rome:\n• https://en.wikipe
+ dia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/06205c.h
+ tm\n\nMore information about Lent:\n• https://fisheaters.com/customslent
+ 1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.o
+ rg/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First Sunday of Lent
@@ -8441,21 +8441,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pope Gregory the Great
 DTSTART;VALUE=DATE:20190312
-DESCRIPTION:The liturgical color today is white.  Since the Feast of Pope 
- Gregory the Great falls during Lent it will ordinarily be celebrated only 
- as a commemoration during the mass of Tuesday in the first week of Lent.\n
- \nMore information about the Feast of Pope Gregory the Great:\n• https:/
- /en.wikipedia.org/wiki/Pope_Gregory_I\n• http://www.newadvent.org/cathen
- /06780a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cu
- stomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.ne
- wadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of Pope Gregory the Great falls during Lent it
+  will ordinarily be celebrated only as a commemoration during the mass of 
+ Tuesday in the first week of Lent.  The liturgical color today is violet.\
+ n\nMore information about the Feast of Pope Gregory the Great:\n• https:
+ //en.wikipedia.org/wiki/Pope_Gregory_I\n• http://www.newadvent.org/cathe
+ n/06780a.htm\n\nMore information about Lent:\n• https://fisheaters.com/c
+ ustomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.n
+ ewadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20190313
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Wednesday in the first week of Lent.\n\nMore informati
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Wednesday in the fi
+ rst week of Lent.  The liturgical color today is violet.\n\nMore informati
  on about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n
  \nMore information about Lent:\n• https://fisheaters.com/customslent1.ht
  ml\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/c
@@ -8464,9 +8464,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20190315
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Friday in the first week of Lent.\n\nMore information 
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Friday in the first
+  week of Lent.  The liturgical color today is violet.\n\nMore information 
  about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\nM
  ore information about Lent:\n• https://fisheaters.com/customslent1.html\
  n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cath
@@ -8475,9 +8475,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20190316
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Saturday in the first week of Lent.\n\nMore informatio
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Saturday in the fir
+ st week of Lent.  The liturgical color today is violet.\n\nMore informatio
  n about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\
  nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
  l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
@@ -8505,14 +8505,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Cyril of Jerusalem
 DTSTART;VALUE=DATE:20190318
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. C
- yril of Jerusalem falls during Lent it will ordinarily be celebrated only 
- as a commemoration during the mass of Monday in the second week of Lent.\n
- \nMore information about the Feast of St. Cyril of Jerusalem:\n• https:/
- /en.wikipedia.org/wiki/Cyril_of_Jerusalem\n• http://www.newadvent.org/ca
- then/04595b.htm\n\nMore information about Lent:\n• https://fisheaters.co
- m/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://ww
- w.newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Cyril of Jerusalem falls during Lent it
+  will ordinarily be celebrated only as a commemoration during the mass of 
+ Monday in the second week of Lent.  The liturgical color today is violet.\
+ n\nMore information about the Feast of St. Cyril of Jerusalem:\n• https:
+ //en.wikipedia.org/wiki/Cyril_of_Jerusalem\n• http://www.newadvent.org/c
+ athen/04595b.htm\n\nMore information about Lent:\n• https://fisheaters.c
+ om/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://w
+ ww.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Joseph
@@ -8528,14 +8528,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Benedict
 DTSTART;VALUE=DATE:20190321
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. B
- enedict falls during Lent it will ordinarily be celebrated only as a comme
- moration during the mass of Thursday in the second week of Lent.\n\nMore i
- nformation about the Feast of St. Benedict:\n• https://en.wikipedia.org/
- wiki/Benedict_of_Nursia\n• http://www.newadvent.org/cathen/02467b.htm\n\
- nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
- l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
- then/09152a.htm
+DESCRIPTION:Since the Feast of St. Benedict falls during Lent it will ordi
+ narily be celebrated only as a commemoration during the mass of Thursday i
+ n the second week of Lent.  The liturgical color today is violet.\n\nMore 
+ information about the Feast of St. Benedict:\n• https://en.wikipedia.org
+ /wiki/Benedict_of_Nursia\n• http://www.newadvent.org/cathen/02467b.htm\n
+ \nMore information about Lent:\n• https://fisheaters.com/customslent1.ht
+ ml\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/c
+ athen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Third Sunday of Lent
@@ -8558,14 +8558,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John Damascene
 DTSTART;VALUE=DATE:20190327
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. J
- ohn Damascene falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Wednesday in the third week of Lent.\n\n
- More information about the Feast of St. John Damascene:\n• https://en.wi
- kipedia.org/wiki/John_of_Damascus\n• http://www.newadvent.org/cathen/084
- 59b.htm\n\nMore information about Lent:\n• https://fisheaters.com/custom
- slent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadv
- ent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. John Damascene falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Wedn
+ esday in the third week of Lent.  The liturgical color today is violet.\n\
+ nMore information about the Feast of St. John Damascene:\n• https://en.w
+ ikipedia.org/wiki/John_of_Damascus\n• http://www.newadvent.org/cathen/08
+ 459b.htm\n\nMore information about Lent:\n• https://fisheaters.com/custo
+ mslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newad
+ vent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:› St. John Capistrano
@@ -8590,38 +8590,38 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Francis of Paula
 DTSTART;VALUE=DATE:20190402
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. F
- rancis of Paula falls during Lent it will ordinarily be celebrated only as
-  a commemoration during the mass of Tuesday in the fourth week of Lent.\n\
- nMore information about the Feast of St. Francis of Paula:\n• https://en
- .wikipedia.org/wiki/Francis_of_Paola\n• http://www.newadvent.org/cathen/
- 06231a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cus
- tomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.new
- advent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Francis of Paula falls during Lent it w
+ ill ordinarily be celebrated only as a commemoration during the mass of Tu
+ esday in the fourth week of Lent.  The liturgical color today is violet.\n
+ \nMore information about the Feast of St. Francis of Paula:\n• https://e
+ n.wikipedia.org/wiki/Francis_of_Paola\n• http://www.newadvent.org/cathen
+ /06231a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cu
+ stomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.ne
+ wadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Isidore
 DTSTART;VALUE=DATE:20190404
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. I
- sidore falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Thursday in the fourth week of Lent.\n\nMore in
- formation about the Feast of St. Isidore:\n• https://en.wikipedia.org/wi
- ki/Isidore_of_Seville\n• http://www.newadvent.org/cathen/08186a.htm\n\nM
- ore information about Lent:\n• https://fisheaters.com/customslent1.html\
- n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cath
- en/09152a.htm
+DESCRIPTION:Since the Feast of St. Isidore falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Thursday in
+  the fourth week of Lent.  The liturgical color today is violet.\n\nMore i
+ nformation about the Feast of St. Isidore:\n• https://en.wikipedia.org/w
+ iki/Isidore_of_Seville\n• http://www.newadvent.org/cathen/08186a.htm\n\n
+ More information about Lent:\n• https://fisheaters.com/customslent1.html
+ \n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cat
+ hen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Vincent Ferrer
 DTSTART;VALUE=DATE:20190405
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. V
- incent Ferrer falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Friday in the fourth week of Lent.\n\nMo
- re information about the Feast of St. Vincent Ferrer:\n• https://en.wiki
- pedia.org/wiki/Vincent_Ferrer\n• http://www.newadvent.org/cathen/15437a.
- htm\n\nMore information about Lent:\n• https://fisheaters.com/customslen
- t1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.
- org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Vincent Ferrer falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Frid
+ ay in the fourth week of Lent.  The liturgical color today is violet.\n\nM
+ ore information about the Feast of St. Vincent Ferrer:\n• https://en.wik
+ ipedia.org/wiki/Vincent_Ferrer\n• http://www.newadvent.org/cathen/15437a
+ .htm\n\nMore information about Lent:\n• https://fisheaters.com/customsle
+ nt1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent
+ .org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Passion Sunday
@@ -8636,21 +8636,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pope Leo the Great
 DTSTART;VALUE=DATE:20190411
-DESCRIPTION:The liturgical color today is white.  Since the Feast of Pope 
- Leo the Great falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Thursday in Passion week.\n\nMore inform
- ation about the Feast of Pope Leo the Great:\n• https://en.wikipedia.org
- /wiki/Pope_Leo_I\n• http://www.newadvent.org/cathen/09154b.htm\n\nMore i
- nformation about Passiontide:\n• https://fisheaters.com/customslent8.htm
- l\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent
- .org/cathen/11535b.htm
+DESCRIPTION:Since the Feast of Pope Leo the Great falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Thur
+ sday in Passion week.  The liturgical color today is violet.\n\nMore infor
+ mation about the Feast of Pope Leo the Great:\n• https://en.wikipedia.or
+ g/wiki/Pope_Leo_I\n• http://www.newadvent.org/cathen/09154b.htm\n\nMore 
+ information about Passiontide:\n• https://fisheaters.com/customslent8.ht
+ ml\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadven
+ t.org/cathen/11535b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Seven Sorrows
 DTSTART;VALUE=DATE:20190412
-DESCRIPTION:The liturgical color today is violet.  Since the Feast of the 
- Seven Sorrows falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Friday in Passion week.\n\nMore informat
+DESCRIPTION:Since the Feast of the Seven Sorrows falls during Lent it will
+  ordinarily be celebrated only as a commemoration during the mass of Frida
+ y in Passion week.  The liturgical color today is violet.\n\nMore informat
  ion about the Feast of the Seven Sorrows:\n• https://fisheaters.com/cust
  omslent10.html\n• https://en.wikipedia.org/wiki/Friday_of_Sorrows\n• h
  ttps://en.wikipedia.org/wiki/Our_Lady_of_Sorrows\n• http://www.newadvent
@@ -8661,14 +8661,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Hermenegild
 DTSTART;VALUE=DATE:20190413
-DESCRIPTION:The liturgical color today is red.  Since the Feast of St. Her
- menegild falls during Lent it will ordinarily be celebrated only as a comm
- emoration during the mass of Saturday in Passion week.\n\nMore information
-  about the Feast of St. Hermenegild:\n• https://en.wikipedia.org/wiki/He
- rmenegild\n• http://www.newadvent.org/cathen/07276a.htm\n\nMore informat
- ion about Passiontide:\n• https://fisheaters.com/customslent8.html\n• 
- https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/ca
- then/11535b.htm
+DESCRIPTION:Since the Feast of St. Hermenegild falls during Lent it will o
+ rdinarily be celebrated only as a commemoration during the mass of Saturda
+ y in Passion week.  The liturgical color today is violet.\n\nMore informat
+ ion about the Feast of St. Hermenegild:\n• https://en.wikipedia.org/wiki
+ /Hermenegild\n• http://www.newadvent.org/cathen/07276a.htm\n\nMore infor
+ mation about Passiontide:\n• https://fisheaters.com/customslent8.html\n
+ • https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.or
+ g/cathen/11535b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palm Sunday
@@ -12080,10 +12080,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Gabriel of Our Lady of Sorrows
 DTSTART;VALUE=DATE:20200228
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. G
- abriel of Our Lady of Sorrows falls during Lent it will ordinarily be cele
- brated only as a commemoration during the mass of Friday after Ash Wednesd
- ay.\n\nMore information about the Feast of St. Gabriel of Our Lady of Sorr
+DESCRIPTION:Since the Feast of St. Gabriel of Our Lady of Sorrows falls du
+ ring Lent it will ordinarily be celebrated only as a commemoration during 
+ the mass of Friday after Ash Wednesday.  The liturgical color today is whi
+ te.\n\nMore information about the Feast of St. Gabriel of Our Lady of Sorr
  ows:\n• https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sorrows\n
  • http://www.newadvent.org/cathen/06330c.htm\n\nMore information about L
  ent:\n• https://fisheaters.com/customslent1.html\n• https://en.wikiped
@@ -12100,9 +12100,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20200304
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Wednesday in the first week of Lent.\n\nMore informati
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Wednesday in the fi
+ rst week of Lent.  The liturgical color today is violet.\n\nMore informati
  on about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n
  \nMore information about Lent:\n• https://fisheaters.com/customslent1.ht
  ml\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/c
@@ -12121,9 +12121,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20200306
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Friday in the first week of Lent.\n\nMore information 
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Friday in the first
+  week of Lent.  The liturgical color today is violet.\n\nMore information 
  about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\nM
  ore information about Lent:\n• https://fisheaters.com/customslent1.html\
  n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cath
@@ -12143,9 +12143,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20200307
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Saturday in the first week of Lent.\n\nMore informatio
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Saturday in the fir
+ st week of Lent.  The liturgical color today is violet.\n\nMore informatio
  n about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\
  nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
  l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
@@ -12182,38 +12182,38 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Frances of Rome
 DTSTART;VALUE=DATE:20200309
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. F
- rances of Rome falls during Lent it will ordinarily be celebrated only as 
- a commemoration during the mass of Monday in the second week of Lent.\n\nM
- ore information about the Feast of St. Frances of Rome:\n• https://en.wi
- kipedia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/0620
- 5c.htm\n\nMore information about Lent:\n• https://fisheaters.com/customs
- lent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadve
- nt.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Frances of Rome falls during Lent it wi
+ ll ordinarily be celebrated only as a commemoration during the mass of Mon
+ day in the second week of Lent.  The liturgical color today is violet.\n\n
+ More information about the Feast of St. Frances of Rome:\n• https://en.w
+ ikipedia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/062
+ 05c.htm\n\nMore information about Lent:\n• https://fisheaters.com/custom
+ slent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadv
+ ent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forty Martyrs
 DTSTART;VALUE=DATE:20200310
-DESCRIPTION:The liturgical color today is red.  Since the Feast of the For
- ty Martyrs falls during Lent it will ordinarily be celebrated only as a co
- mmemoration during the mass of Tuesday in the second week of Lent.\n\nMore
-  information about the Feast of the Forty Martyrs:\n• https://en.wikiped
- ia.org/wiki/Forty_Martyrs_of_Sebaste\n• http://www.newadvent.org/cathen/
- 06153a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cus
- tomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.new
- advent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of the Forty Martyrs falls during Lent it will
+  ordinarily be celebrated only as a commemoration during the mass of Tuesd
+ ay in the second week of Lent.  The liturgical color today is violet.\n\nM
+ ore information about the Feast of the Forty Martyrs:\n• https://en.wiki
+ pedia.org/wiki/Forty_Martyrs_of_Sebaste\n• http://www.newadvent.org/cath
+ en/06153a.htm\n\nMore information about Lent:\n• https://fisheaters.com/
+ customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.
+ newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pope Gregory the Great
 DTSTART;VALUE=DATE:20200312
-DESCRIPTION:The liturgical color today is white.  Since the Feast of Pope 
- Gregory the Great falls during Lent it will ordinarily be celebrated only 
- as a commemoration during the mass of Thursday in the second week of Lent.
- \n\nMore information about the Feast of Pope Gregory the Great:\n• https
- ://en.wikipedia.org/wiki/Pope_Gregory_I\n• http://www.newadvent.org/cath
- en/06780a.htm\n\nMore information about Lent:\n• https://fisheaters.com/
- customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.
- newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of Pope Gregory the Great falls during Lent it
+  will ordinarily be celebrated only as a commemoration during the mass of 
+ Thursday in the second week of Lent.  The liturgical color today is violet
+ .\n\nMore information about the Feast of Pope Gregory the Great:\n• http
+ s://en.wikipedia.org/wiki/Pope_Gregory_I\n• http://www.newadvent.org/cat
+ hen/06780a.htm\n\nMore information about Lent:\n• https://fisheaters.com
+ /customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www
+ .newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Third Sunday of Lent
@@ -12226,27 +12226,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Patrick
 DTSTART;VALUE=DATE:20200317
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. P
- atrick falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Tuesday in the third week of Lent.\n\nMore info
- rmation about the Feast of St. Patrick:\n• https://fisheaters.com/custom
- slent4.html\n• https://en.wikipedia.org/wiki/Saint_Patrick\n• https://
- en.wikipedia.org/wiki/Saint_Patrick%27s_Day\n• http://www.newadvent.org/
- cathen/11554a.htm\n\nMore information about Lent:\n• https://fisheaters.
- com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://
- www.newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Patrick falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Tuesday in 
+ the third week of Lent.  The liturgical color today is violet.\n\nMore inf
+ ormation about the Feast of St. Patrick:\n• https://fisheaters.com/custo
+ mslent4.html\n• https://en.wikipedia.org/wiki/Saint_Patrick\n• https:/
+ /en.wikipedia.org/wiki/Saint_Patrick%27s_Day\n• http://www.newadvent.org
+ /cathen/11554a.htm\n\nMore information about Lent:\n• https://fisheaters
+ .com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http:/
+ /www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Cyril of Jerusalem
 DTSTART;VALUE=DATE:20200318
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. C
- yril of Jerusalem falls during Lent it will ordinarily be celebrated only 
- as a commemoration during the mass of Wednesday in the third week of Lent.
- \n\nMore information about the Feast of St. Cyril of Jerusalem:\n• https
- ://en.wikipedia.org/wiki/Cyril_of_Jerusalem\n• http://www.newadvent.org/
- cathen/04595b.htm\n\nMore information about Lent:\n• https://fisheaters.
- com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://
- www.newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Cyril of Jerusalem falls during Lent it
+  will ordinarily be celebrated only as a commemoration during the mass of 
+ Wednesday in the third week of Lent.  The liturgical color today is violet
+ .\n\nMore information about the Feast of St. Cyril of Jerusalem:\n• http
+ s://en.wikipedia.org/wiki/Cyril_of_Jerusalem\n• http://www.newadvent.org
+ /cathen/04595b.htm\n\nMore information about Lent:\n• https://fisheaters
+ .com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http:/
+ /www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Joseph
@@ -12262,14 +12262,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Benedict
 DTSTART;VALUE=DATE:20200321
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. B
- enedict falls during Lent it will ordinarily be celebrated only as a comme
- moration during the mass of Saturday in the third week of Lent.\n\nMore in
- formation about the Feast of St. Benedict:\n• https://en.wikipedia.org/w
- iki/Benedict_of_Nursia\n• http://www.newadvent.org/cathen/02467b.htm\n\n
- More information about Lent:\n• https://fisheaters.com/customslent1.html
- \n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cat
- hen/09152a.htm
+DESCRIPTION:Since the Feast of St. Benedict falls during Lent it will ordi
+ narily be celebrated only as a commemoration during the mass of Saturday i
+ n the third week of Lent.  The liturgical color today is violet.\n\nMore i
+ nformation about the Feast of St. Benedict:\n• https://en.wikipedia.org/
+ wiki/Benedict_of_Nursia\n• http://www.newadvent.org/cathen/02467b.htm\n\
+ nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
+ l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
+ then/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laetare Sunday
@@ -12284,26 +12284,26 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Gabriel
 DTSTART;VALUE=DATE:20200324
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. G
- abriel falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Tuesday in the fourth week of Lent.\n\nMore inf
- ormation about the Feast of St. Gabriel:\n• https://en.wikipedia.org/wik
- i/Gabriel\n• http://www.newadvent.org/cathen/06330a.htm\n\nMore informat
- ion about Lent:\n• https://fisheaters.com/customslent1.html\n• https:/
- /en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.ht
- m
+DESCRIPTION:Since the Feast of St. Gabriel falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Tuesday in 
+ the fourth week of Lent.  The liturgical color today is violet.\n\nMore in
+ formation about the Feast of St. Gabriel:\n• https://en.wikipedia.org/wi
+ ki/Gabriel\n• http://www.newadvent.org/cathen/06330a.htm\n\nMore informa
+ tion about Lent:\n• https://fisheaters.com/customslent1.html\n• https:
+ //en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.h
+ tm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John Damascene
 DTSTART;VALUE=DATE:20200327
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. J
- ohn Damascene falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Friday in the fourth week of Lent.\n\nMo
- re information about the Feast of St. John Damascene:\n• https://en.wiki
- pedia.org/wiki/John_of_Damascus\n• http://www.newadvent.org/cathen/08459
- b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customsl
- ent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadven
- t.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. John Damascene falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Frid
+ ay in the fourth week of Lent.  The liturgical color today is violet.\n\nM
+ ore information about the Feast of St. John Damascene:\n• https://en.wik
+ ipedia.org/wiki/John_of_Damascus\n• http://www.newadvent.org/cathen/0845
+ 9b.htm\n\nMore information about Lent:\n• https://fisheaters.com/customs
+ lent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadve
+ nt.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:› St. John Capistrano
@@ -12328,21 +12328,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Francis of Paula
 DTSTART;VALUE=DATE:20200402
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. F
- rancis of Paula falls during Lent it will ordinarily be celebrated only as
-  a commemoration during the mass of Thursday in Passion week.\n\nMore info
- rmation about the Feast of St. Francis of Paula:\n• https://en.wikipedia
- .org/wiki/Francis_of_Paola\n• http://www.newadvent.org/cathen/06231a.htm
- \n\nMore information about Passiontide:\n• https://fisheaters.com/custom
- slent8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www
- .newadvent.org/cathen/11535b.htm
+DESCRIPTION:Since the Feast of St. Francis of Paula falls during Lent it w
+ ill ordinarily be celebrated only as a commemoration during the mass of Th
+ ursday in Passion week.  The liturgical color today is violet.\n\nMore inf
+ ormation about the Feast of St. Francis of Paula:\n• https://en.wikipedi
+ a.org/wiki/Francis_of_Paola\n• http://www.newadvent.org/cathen/06231a.ht
+ m\n\nMore information about Passiontide:\n• https://fisheaters.com/custo
+ mslent8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://ww
+ w.newadvent.org/cathen/11535b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Seven Sorrows
 DTSTART;VALUE=DATE:20200403
-DESCRIPTION:The liturgical color today is violet.  Since the Feast of the 
- Seven Sorrows falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Friday in Passion week.\n\nMore informat
+DESCRIPTION:Since the Feast of the Seven Sorrows falls during Lent it will
+  ordinarily be celebrated only as a commemoration during the mass of Frida
+ y in Passion week.  The liturgical color today is violet.\n\nMore informat
  ion about the Feast of the Seven Sorrows:\n• https://fisheaters.com/cust
  omslent10.html\n• https://en.wikipedia.org/wiki/Friday_of_Sorrows\n• h
  ttps://en.wikipedia.org/wiki/Our_Lady_of_Sorrows\n• http://www.newadvent
@@ -12353,14 +12353,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Isidore
 DTSTART;VALUE=DATE:20200404
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. I
- sidore falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Saturday in Passion week.\n\nMore information a
- bout the Feast of St. Isidore:\n• https://en.wikipedia.org/wiki/Isidore_
- of_Seville\n• http://www.newadvent.org/cathen/08186a.htm\n\nMore informa
- tion about Passiontide:\n• https://fisheaters.com/customslent8.html\n•
-  https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/c
- athen/11535b.htm
+DESCRIPTION:Since the Feast of St. Isidore falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Saturday in
+  Passion week.  The liturgical color today is violet.\n\nMore information 
+ about the Feast of St. Isidore:\n• https://en.wikipedia.org/wiki/Isidore
+ _of_Seville\n• http://www.newadvent.org/cathen/08186a.htm\n\nMore inform
+ ation about Passiontide:\n• https://fisheaters.com/customslent8.html\n
+ • https://en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.or
+ g/cathen/11535b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palm Sunday
@@ -15765,9 +15765,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Simeon
 DTSTART;VALUE=DATE:20210218
-DESCRIPTION:The liturgical color today is violet.  Since the Commemoration
-  of St. Simeon falls during Lent it will ordinarily be celebrated only as 
- a commemoration during the mass of Thursday after Ash Wednesday.\n\nMore i
+DESCRIPTION:Since the Commemoration of St. Simeon falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Thur
+ sday after Ash Wednesday.  The liturgical color today is violet.\n\nMore i
  nformation about the Commemoration of St. Simeon:\n• https://en.wikipedi
  a.org/wiki/Simeon_of_Jerusalem\n\nMore information about Lent:\n• https:
  //fisheaters.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent
@@ -15784,21 +15784,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Peter Damian
 DTSTART;VALUE=DATE:20210223
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. P
- eter Damian falls during Lent it will ordinarily be celebrated only as a c
- ommemoration during the mass of Tuesday in the first week of Lent.\n\nMore
-  information about the Feast of St. Peter Damian:\n• https://en.wikipedi
- a.org/wiki/Peter_Damian\n• http://www.newadvent.org/cathen/11764a.htm\n\
- nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
- l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
- then/09152a.htm
+DESCRIPTION:Since the Feast of St. Peter Damian falls during Lent it will 
+ ordinarily be celebrated only as a commemoration during the mass of Tuesda
+ y in the first week of Lent.  The liturgical color today is violet.\n\nMor
+ e information about the Feast of St. Peter Damian:\n• https://en.wikiped
+ ia.org/wiki/Peter_Damian\n• http://www.newadvent.org/cathen/11764a.htm\n
+ \nMore information about Lent:\n• https://fisheaters.com/customslent1.ht
+ ml\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/c
+ athen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20210224
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Wednesday in the first week of Lent.\n\nMore informati
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Wednesday in the fi
+ rst week of Lent.  The liturgical color today is violet.\n\nMore informati
  on about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n
  \nMore information about Lent:\n• https://fisheaters.com/customslent1.ht
  ml\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/c
@@ -15817,9 +15817,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20210226
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Friday in the first week of Lent.\n\nMore information 
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Friday in the first
+  week of Lent.  The liturgical color today is violet.\n\nMore information 
  about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\nM
  ore information about Lent:\n• https://fisheaters.com/customslent1.html\
  n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cath
@@ -15828,9 +15828,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lenten Embertide
 DTSTART;VALUE=DATE:20210227
-DESCRIPTION:The liturgical color today is violet.  Since Lenten Embertide 
- falls during Lent it will ordinarily be celebrated only as a commemoration
-  during the mass of Saturday in the first week of Lent.\n\nMore informatio
+DESCRIPTION:Since Lenten Embertide falls during Lent it will ordinarily be
+  celebrated only as a commemoration during the mass of Saturday in the fir
+ st week of Lent.  The liturgical color today is violet.\n\nMore informatio
  n about Lenten Embertide:\n• https://fisheaters.com/customslent3.html\n\
  nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
  l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
@@ -15858,27 +15858,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Casimir
 DTSTART;VALUE=DATE:20210304
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. C
- asimir falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Thursday in the second week of Lent.\n\nMore in
- formation about the Feast of St. Casimir:\n• https://en.wikipedia.org/wi
- ki/Saint_Casimir\n• http://www.newadvent.org/cathen/03402a.htm\n\nMore i
- nformation about Lent:\n• https://fisheaters.com/customslent1.html\n• 
- https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/09
- 152a.htm
+DESCRIPTION:Since the Feast of St. Casimir falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Thursday in
+  the second week of Lent.  The liturgical color today is violet.\n\nMore i
+ nformation about the Feast of St. Casimir:\n• https://en.wikipedia.org/w
+ iki/Saint_Casimir\n• http://www.newadvent.org/cathen/03402a.htm\n\nMore 
+ information about Lent:\n• https://fisheaters.com/customslent1.html\n•
+  https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathen/0
+ 9152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SS. Perpetua and Felicitas
 DTSTART;VALUE=DATE:20210306
-DESCRIPTION:The liturgical color today is red.  Since the Feast of SS. Per
- petua and Felicitas falls during Lent it will ordinarily be celebrated onl
- y as a commemoration during the mass of Saturday in the second week of Len
- t.\n\nMore information about the Feast of SS. Perpetua and Felicitas:\n•
-  https://en.wikipedia.org/wiki/Passion_of_Saint_Perpetua\,_Saint_Felicitas
- \,_and_their_Companions\n• http://www.newadvent.org/cathen/06029a.htm\n\
- nMore information about Lent:\n• https://fisheaters.com/customslent1.htm
- l\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/ca
- then/09152a.htm
+DESCRIPTION:Since the Feast of SS. Perpetua and Felicitas falls during Len
+ t it will ordinarily be celebrated only as a commemoration during the mass
+  of Saturday in the second week of Lent.  The liturgical color today is vi
+ olet.\n\nMore information about the Feast of SS. Perpetua and Felicitas:\n
+ • https://en.wikipedia.org/wiki/Passion_of_Saint_Perpetua\,_Saint_Felici
+ tas\,_and_their_Companions\n• http://www.newadvent.org/cathen/06029a.htm
+ \n\nMore information about Lent:\n• https://fisheaters.com/customslent1.
+ html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org
+ /cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Third Sunday of Lent
@@ -15901,50 +15901,50 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John of God
 DTSTART;VALUE=DATE:20210308
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. J
- ohn of God falls during Lent it will ordinarily be celebrated only as a co
- mmemoration during the mass of Monday in the third week of Lent.\n\nMore i
- nformation about the Feast of St. John of God:\n• https://en.wikipedia.o
- rg/wiki/John_of_God\n• http://www.newadvent.org/cathen/08472c.htm\n\nMor
- e information about Lent:\n• https://fisheaters.com/customslent1.html\n
+DESCRIPTION:Since the Feast of St. John of God falls during Lent it will o
+ rdinarily be celebrated only as a commemoration during the mass of Monday 
+ in the third week of Lent.  The liturgical color today is violet.\n\nMore 
+ information about the Feast of St. John of God:\n• https://en.wikipedia.
+ org/wiki/John_of_God\n• http://www.newadvent.org/cathen/08472c.htm\n\nMo
+ re information about Lent:\n• https://fisheaters.com/customslent1.html\n
  • https://en.wikipedia.org/wiki/Lent\n• http://www.newadvent.org/cathe
  n/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Frances of Rome
 DTSTART;VALUE=DATE:20210309
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. F
- rances of Rome falls during Lent it will ordinarily be celebrated only as 
- a commemoration during the mass of Tuesday in the third week of Lent.\n\nM
- ore information about the Feast of St. Frances of Rome:\n• https://en.wi
- kipedia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/0620
- 5c.htm\n\nMore information about Lent:\n• https://fisheaters.com/customs
- lent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadve
- nt.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Frances of Rome falls during Lent it wi
+ ll ordinarily be celebrated only as a commemoration during the mass of Tue
+ sday in the third week of Lent.  The liturgical color today is violet.\n\n
+ More information about the Feast of St. Frances of Rome:\n• https://en.w
+ ikipedia.org/wiki/Frances_of_Rome\n• http://www.newadvent.org/cathen/062
+ 05c.htm\n\nMore information about Lent:\n• https://fisheaters.com/custom
+ slent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.newadv
+ ent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forty Martyrs
 DTSTART;VALUE=DATE:20210310
-DESCRIPTION:The liturgical color today is red.  Since the Feast of the For
- ty Martyrs falls during Lent it will ordinarily be celebrated only as a co
- mmemoration during the mass of Wednesday in the third week of Lent.\n\nMor
- e information about the Feast of the Forty Martyrs:\n• https://en.wikipe
- dia.org/wiki/Forty_Martyrs_of_Sebaste\n• http://www.newadvent.org/cathen
- /06153a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cu
- stomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.ne
- wadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of the Forty Martyrs falls during Lent it will
+  ordinarily be celebrated only as a commemoration during the mass of Wedne
+ sday in the third week of Lent.  The liturgical color today is violet.\n\n
+ More information about the Feast of the Forty Martyrs:\n• https://en.wik
+ ipedia.org/wiki/Forty_Martyrs_of_Sebaste\n• http://www.newadvent.org/cat
+ hen/06153a.htm\n\nMore information about Lent:\n• https://fisheaters.com
+ /customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www
+ .newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pope Gregory the Great
 DTSTART;VALUE=DATE:20210312
-DESCRIPTION:The liturgical color today is white.  Since the Feast of Pope 
- Gregory the Great falls during Lent it will ordinarily be celebrated only 
- as a commemoration during the mass of Friday in the third week of Lent.\n\
- nMore information about the Feast of Pope Gregory the Great:\n• https://
- en.wikipedia.org/wiki/Pope_Gregory_I\n• http://www.newadvent.org/cathen/
- 06780a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cus
- tomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.new
- advent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of Pope Gregory the Great falls during Lent it
+  will ordinarily be celebrated only as a commemoration during the mass of 
+ Friday in the third week of Lent.  The liturgical color today is violet.\n
+ \nMore information about the Feast of Pope Gregory the Great:\n• https:/
+ /en.wikipedia.org/wiki/Pope_Gregory_I\n• http://www.newadvent.org/cathen
+ /06780a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cu
+ stomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.ne
+ wadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laetare Sunday
@@ -15959,27 +15959,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Patrick
 DTSTART;VALUE=DATE:20210317
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. P
- atrick falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Wednesday in the fourth week of Lent.\n\nMore i
- nformation about the Feast of St. Patrick:\n• https://fisheaters.com/cus
- tomslent4.html\n• https://en.wikipedia.org/wiki/Saint_Patrick\n• https
- ://en.wikipedia.org/wiki/Saint_Patrick%27s_Day\n• http://www.newadvent.o
- rg/cathen/11554a.htm\n\nMore information about Lent:\n• https://fisheate
- rs.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http
- ://www.newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Patrick falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Wednesday i
+ n the fourth week of Lent.  The liturgical color today is violet.\n\nMore 
+ information about the Feast of St. Patrick:\n• https://fisheaters.com/cu
+ stomslent4.html\n• https://en.wikipedia.org/wiki/Saint_Patrick\n• http
+ s://en.wikipedia.org/wiki/Saint_Patrick%27s_Day\n• http://www.newadvent.
+ org/cathen/11554a.htm\n\nMore information about Lent:\n• https://fisheat
+ ers.com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• htt
+ p://www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Cyril of Jerusalem
 DTSTART;VALUE=DATE:20210318
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. C
- yril of Jerusalem falls during Lent it will ordinarily be celebrated only 
- as a commemoration during the mass of Thursday in the fourth week of Lent.
- \n\nMore information about the Feast of St. Cyril of Jerusalem:\n• https
- ://en.wikipedia.org/wiki/Cyril_of_Jerusalem\n• http://www.newadvent.org/
- cathen/04595b.htm\n\nMore information about Lent:\n• https://fisheaters.
- com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://
- www.newadvent.org/cathen/09152a.htm
+DESCRIPTION:Since the Feast of St. Cyril of Jerusalem falls during Lent it
+  will ordinarily be celebrated only as a commemoration during the mass of 
+ Thursday in the fourth week of Lent.  The liturgical color today is violet
+ .\n\nMore information about the Feast of St. Cyril of Jerusalem:\n• http
+ s://en.wikipedia.org/wiki/Cyril_of_Jerusalem\n• http://www.newadvent.org
+ /cathen/04595b.htm\n\nMore information about Lent:\n• https://fisheaters
+ .com/customslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http:/
+ /www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Joseph
@@ -16015,21 +16015,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Gabriel
 DTSTART;VALUE=DATE:20210324
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. G
- abriel falls during Lent it will ordinarily be celebrated only as a commem
- oration during the mass of Wednesday in Passion week.\n\nMore information 
- about the Feast of St. Gabriel:\n• https://en.wikipedia.org/wiki/Gabriel
- \n• http://www.newadvent.org/cathen/06330a.htm\n\nMore information about
-  Passiontide:\n• https://fisheaters.com/customslent8.html\n• https://e
- n.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/cathen/1153
- 5b.htm
+DESCRIPTION:Since the Feast of St. Gabriel falls during Lent it will ordin
+ arily be celebrated only as a commemoration during the mass of Wednesday i
+ n Passion week.  The liturgical color today is violet.\n\nMore information
+  about the Feast of St. Gabriel:\n• https://en.wikipedia.org/wiki/Gabrie
+ l\n• http://www.newadvent.org/cathen/06330a.htm\n\nMore information abou
+ t Passiontide:\n• https://fisheaters.com/customslent8.html\n• https://
+ en.wikipedia.org/wiki/Passiontide\n• http://www.newadvent.org/cathen/115
+ 35b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Seven Sorrows
 DTSTART;VALUE=DATE:20210326
-DESCRIPTION:The liturgical color today is violet.  Since the Feast of the 
- Seven Sorrows falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Friday in Passion week.\n\nMore informat
+DESCRIPTION:Since the Feast of the Seven Sorrows falls during Lent it will
+  ordinarily be celebrated only as a commemoration during the mass of Frida
+ y in Passion week.  The liturgical color today is violet.\n\nMore informat
  ion about the Feast of the Seven Sorrows:\n• https://fisheaters.com/cust
  omslent10.html\n• https://en.wikipedia.org/wiki/Friday_of_Sorrows\n• h
  ttps://en.wikipedia.org/wiki/Our_Lady_of_Sorrows\n• http://www.newadvent
@@ -16040,14 +16040,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John Damascene
 DTSTART;VALUE=DATE:20210327
-DESCRIPTION:The liturgical color today is white.  Since the Feast of St. J
- ohn Damascene falls during Lent it will ordinarily be celebrated only as a
-  commemoration during the mass of Saturday in Passion week.\n\nMore inform
- ation about the Feast of St. John Damascene:\n• https://en.wikipedia.org
- /wiki/John_of_Damascus\n• http://www.newadvent.org/cathen/08459b.htm\n\n
- More information about Passiontide:\n• https://fisheaters.com/customslen
- t8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.new
- advent.org/cathen/11535b.htm
+DESCRIPTION:Since the Feast of St. John Damascene falls during Lent it wil
+ l ordinarily be celebrated only as a commemoration during the mass of Satu
+ rday in Passion week.  The liturgical color today is violet.\n\nMore infor
+ mation about the Feast of St. John Damascene:\n• https://en.wikipedia.or
+ g/wiki/John_of_Damascus\n• http://www.newadvent.org/cathen/08459b.htm\n\
+ nMore information about Passiontide:\n• https://fisheaters.com/customsle
+ nt8.html\n• https://en.wikipedia.org/wiki/Passiontide\n• http://www.ne
+ wadvent.org/cathen/11535b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:› St. John Capistrano
