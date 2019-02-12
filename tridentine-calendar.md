@@ -10,9 +10,9 @@ If you use any electronic calendar application (Google Calendar, iCalendar, Yaho
 etc.), you can subscribe to the public calendar below to add feast dates to your calendar.  This
 calendar was marked using the 1962 Roman Catholic rubrics.
 
-* *Google Calendar, Yahoo Calendar, and other web-based calendar users: [click here to
+* *Google Calendar, Yahoo Calendar, and other web-based calendar users: [use this link to
 subscribe.](webcal://joe-antognini.github.io/assets/ical/html_tridentine_calendar.ics)*
-* *Apple users: [click here to
+* *Apple users: [use this link to
 subscribe.](webcal://joe-antognini.github.io/assets/ical/tridentine_calendar.ics)*
 
 Each feast comes with links to additional information about the feast, saint (if applicable), and
