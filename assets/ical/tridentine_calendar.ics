@@ -1105,6 +1105,17 @@ DESCRIPTION:The Feast of St. Gabriel is a Class III feast.  Since the Feas
  http://www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20170325
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• https://fisheaters.com/customslent
+ 6.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Annunciation\n• h
+ ttps://en.wikipedia.org/wiki/Lady_Day\n• http://www.newadvent.org/cathen
+ /01542a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cu
+ stomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.ne
+ wadvent.org/cathen/09152a.htm
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laetare Sunday
 DTSTART;VALUE=DATE:20170326
 DESCRIPTION:Laetare Sunday is a Class I feast.  The liturgical color is ro
@@ -5020,6 +5031,17 @@ DESCRIPTION:Quasimodo Sunday is a Class I feast.  The liturgical color is
  n• http://www.newadvent.org/cathen/11516a.htm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20180409
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• https://fisheaters.com/customslent
+ 6.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Annunciation\n• h
+ ttps://en.wikipedia.org/wiki/Lady_Day\n• http://www.newadvent.org/cathen
+ /01542a.htm\n\nMore information about Eastertide:\n• https://fisheaters.
+ com/customseastertide1.html\n• http://www.newadvent.org/cathen/11516a.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pope Leo the Great
 DTSTART;VALUE=DATE:20180411
 DESCRIPTION:The Feast of Pope Leo the Great is a Class III feast.  The lit
@@ -8494,6 +8516,17 @@ DESCRIPTION:This year the Feast of St. Gabriel is outranked by the Third S
   http://www.newadvent.org/cathen/06330a.htm\n\nMore information about Lent
  :\n• https://fisheaters.com/customslent1.html\n• https://en.wikipedia.
  org/wiki/Lent\n• http://www.newadvent.org/cathen/09152a.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20190325
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• https://fisheaters.com/customslent
+ 6.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Annunciation\n• h
+ ttps://en.wikipedia.org/wiki/Lady_Day\n• http://www.newadvent.org/cathen
+ /01542a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cu
+ stomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.ne
+ wadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John Damascene
@@ -12210,6 +12243,17 @@ DESCRIPTION:The Feast of St. Gabriel is a Class III feast.  Since the Feas
  • http://www.newadvent.org/cathen/09152a.htm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20200325
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• https://fisheaters.com/customslent
+ 6.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Annunciation\n• h
+ ttps://en.wikipedia.org/wiki/Lady_Day\n• http://www.newadvent.org/cathen
+ /01542a.htm\n\nMore information about Lent:\n• https://fisheaters.com/cu
+ stomslent1.html\n• https://en.wikipedia.org/wiki/Lent\n• http://www.ne
+ wadvent.org/cathen/09152a.htm
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:St. John Damascene
 DTSTART;VALUE=DATE:20200327
 DESCRIPTION:The Feast of St. John Damascene is a Class III feast.  Since t
@@ -15917,6 +15961,17 @@ DESCRIPTION:The Feast of St. Gabriel is a Class III feast.  Since the Feas
  cathen/06330a.htm\n\nMore information about Passiontide:\n• https://fish
  eaters.com/customslent8.html\n• https://en.wikipedia.org/wiki/Passiontid
  e\n• http://www.newadvent.org/cathen/11535b.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20210325
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• https://fisheaters.com/customslent
+ 6.html\n• https://en.wikipedia.org/wiki/Feast_of_the_Annunciation\n• h
+ ttps://en.wikipedia.org/wiki/Lady_Day\n• http://www.newadvent.org/cathen
+ /01542a.htm\n\nMore information about Passiontide:\n• https://fisheaters
+ .com/customslent8.html\n• https://en.wikipedia.org/wiki/Passiontide\n•
+  http://www.newadvent.org/cathen/11535b.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Seven Sorrows

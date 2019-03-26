@@ -1387,6 +1387,21 @@ DESCRIPTION:The Feast of St. Gabriel is a Class III feast.  Since the Feas
  tp://www.newadvent.org/cathen/09152a.htm>Lent (New Advent)</a>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20170325
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• <a href=https://fisheaters.com/cus
+ tomslent6.html>Lady Day (Fish Eaters)</a>\n• <a href=https://en.wikipedi
+ a.org/wiki/Feast_of_the_Annunciation>Feast of the Annunciation (Wikipedia)
+ </a>\n• <a href=https://en.wikipedia.org/wiki/Lady_Day>Lady Day (Wikiped
+ ia)</a>\n• <a href=http://www.newadvent.org/cathen/01542a.htm>Feast of t
+ he Annunciation (New Advent)</a>\n\nMore information about Lent:\n• <a h
+ ref=https://fisheaters.com/customslent1.html>Lent Overview (Fish Eaters)</
+ a>\n• <a href=https://en.wikipedia.org/wiki/Lent>Lent (Wikipedia)</a>\n
+ • <a href=http://www.newadvent.org/cathen/09152a.htm>Lent (New Advent)</
+ a>
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laetare Sunday
 DTSTART;VALUE=DATE:20170326
 DESCRIPTION:Laetare Sunday is a Class I feast.  The liturgical color is ro
@@ -6197,6 +6212,20 @@ DESCRIPTION:Quasimodo Sunday is a Class I feast.  The liturgical color is
  chal Tide (New Advent)</a>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20180409
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• <a href=https://fisheaters.com/cus
+ tomslent6.html>Lady Day (Fish Eaters)</a>\n• <a href=https://en.wikipedi
+ a.org/wiki/Feast_of_the_Annunciation>Feast of the Annunciation (Wikipedia)
+ </a>\n• <a href=https://en.wikipedia.org/wiki/Lady_Day>Lady Day (Wikiped
+ ia)</a>\n• <a href=http://www.newadvent.org/cathen/01542a.htm>Feast of t
+ he Annunciation (New Advent)</a>\n\nMore information about Eastertide:\n
+ • <a href=https://fisheaters.com/customseastertide1.html>Eastertide Over
+ view (Fish Eaters)</a>\n• <a href=http://www.newadvent.org/cathen/11516a
+ .htm>Paschal Tide (New Advent)</a>
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pope Leo the Great
 DTSTART;VALUE=DATE:20180411
 DESCRIPTION:The Feast of Pope Leo the Great is a Class III feast.  The lit
@@ -10442,6 +10471,21 @@ DESCRIPTION:This year the Feast of St. Gabriel is outranked by the Third S
  aters)</a>\n• <a href=https://en.wikipedia.org/wiki/Lent>Lent (Wikipedia
  )</a>\n• <a href=http://www.newadvent.org/cathen/09152a.htm>Lent (New Ad
  vent)</a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20190325
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• <a href=https://fisheaters.com/cus
+ tomslent6.html>Lady Day (Fish Eaters)</a>\n• <a href=https://en.wikipedi
+ a.org/wiki/Feast_of_the_Annunciation>Feast of the Annunciation (Wikipedia)
+ </a>\n• <a href=https://en.wikipedia.org/wiki/Lady_Day>Lady Day (Wikiped
+ ia)</a>\n• <a href=http://www.newadvent.org/cathen/01542a.htm>Feast of t
+ he Annunciation (New Advent)</a>\n\nMore information about Lent:\n• <a h
+ ref=https://fisheaters.com/customslent1.html>Lent Overview (Fish Eaters)</
+ a>\n• <a href=https://en.wikipedia.org/wiki/Lent>Lent (Wikipedia)</a>\n
+ • <a href=http://www.newadvent.org/cathen/09152a.htm>Lent (New Advent)</
+ a>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John Damascene
@@ -14984,6 +15028,21 @@ DESCRIPTION:The Feast of St. Gabriel is a Class III feast.  Since the Feas
  /fisheaters.com/customslent1.html>Lent Overview (Fish Eaters)</a>\n• <a 
  href=https://en.wikipedia.org/wiki/Lent>Lent (Wikipedia)</a>\n• <a href=
  http://www.newadvent.org/cathen/09152a.htm>Lent (New Advent)</a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20200325
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• <a href=https://fisheaters.com/cus
+ tomslent6.html>Lady Day (Fish Eaters)</a>\n• <a href=https://en.wikipedi
+ a.org/wiki/Feast_of_the_Annunciation>Feast of the Annunciation (Wikipedia)
+ </a>\n• <a href=https://en.wikipedia.org/wiki/Lady_Day>Lady Day (Wikiped
+ ia)</a>\n• <a href=http://www.newadvent.org/cathen/01542a.htm>Feast of t
+ he Annunciation (New Advent)</a>\n\nMore information about Lent:\n• <a h
+ ref=https://fisheaters.com/customslent1.html>Lent Overview (Fish Eaters)</
+ a>\n• <a href=https://en.wikipedia.org/wiki/Lent>Lent (Wikipedia)</a>\n
+ • <a href=http://www.newadvent.org/cathen/09152a.htm>Lent (New Advent)</
+ a>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. John Damascene
@@ -19533,6 +19592,21 @@ DESCRIPTION:The Feast of St. Gabriel is a Class III feast.  Since the Feas
  =https://en.wikipedia.org/wiki/Passiontide>Passiontide (Wikipedia)</a>\n
  • <a href=http://www.newadvent.org/cathen/11535b.htm>Passiontide (New Ad
  vent)</a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady Day
+DTSTART;VALUE=DATE:20210325
+DESCRIPTION:Lady Day is a Class I feast.  The liturgical color is white.\n
+ \nMore information about Lady Day:\n• <a href=https://fisheaters.com/cus
+ tomslent6.html>Lady Day (Fish Eaters)</a>\n• <a href=https://en.wikipedi
+ a.org/wiki/Feast_of_the_Annunciation>Feast of the Annunciation (Wikipedia)
+ </a>\n• <a href=https://en.wikipedia.org/wiki/Lady_Day>Lady Day (Wikiped
+ ia)</a>\n• <a href=http://www.newadvent.org/cathen/01542a.htm>Feast of t
+ he Annunciation (New Advent)</a>\n\nMore information about Passiontide:\n
+ • <a href=https://fisheaters.com/customslent8.html>Passiontide (Fish Eat
+ ers)</a>\n• <a href=https://en.wikipedia.org/wiki/Passiontide>Passiontid
+ e (Wikipedia)</a>\n• <a href=http://www.newadvent.org/cathen/11535b.htm>
+ Passiontide (New Advent)</a>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Seven Sorrows
