@@ -54,7 +54,37 @@ believe most candidates had a second phone screen that focused on coding, but I
 had previously received an offer from Google for a SWE role so they may have
 waived that.
 
+The phone screen went well and I was selected for an onsite interview in late
+February.  During the onsite we were given a tour of Google Brain (they had some
+robots running around, which made it especially cool!), and got to see a few
+short presentations by Brain Residents from the previous cohort about their
+research, but of course the reason we were all there was for the interviews.
+The interview had two components: a machine learning interview and a programming
+interview.  I thought that the programming interview went okay, though not
+great, but I thought that I had completely bombed the machine learning
+interview.  When I got home I was happy that I had gotten as far along in the
+interview process as I did, but was fully prepared to receive a rejection.  But
+to my surprise about a month later I heard that I had been accepted!
+
 ## Orientation
+
+There ended up being about 30 AI residents in my cohort.  As AI Residents we
+were technically "fixed-term full time employees" (so, not contractors or
+interns).  As such we went through the Google's normal two-day employee
+orientation.  After this we had a separate orientation specific for AI residents
+that lasted about two week.  Each of us got an "orientation mentor" who showed
+us the ropes about how to do basic things within Google Brain and was someone we
+to whom we could ask questions.  (There were varying degrees of helpfulness from
+the orientation mentors.  My mentor, Patrick Nguyen was great, but I think some
+residents never saw their orientation mentor at all.)  We also went through a
+crash course in deep learning taught by Chris Olah.
+
+During this time we also chose a topic for a "mini-project" that we would carry
+out to practice working with Tensorflow and Google's infrastructure.  In my case
+I decided to train a model to generate captions for New Yorker cartoons.  It
+turned out that someone at Google Brain (Chris Shallue) had already done a
+project like this, so some code was already available and my plan was to add
+some more data to the training set to see if the results improved.
 
 ## Research
 
