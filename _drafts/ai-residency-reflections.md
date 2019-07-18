@@ -71,13 +71,13 @@ to my surprise about a month later I heard that I had been accepted!
 There ended up being about 30 AI residents in my cohort.  As AI Residents we
 were technically "fixed-term full time employees" (so, not contractors or
 interns).  As such we went through the Google's normal two-day employee
-orientation.  After this we had a separate orientation specific for AI residents
-that lasted about two week.  Each of us got an "orientation mentor" who showed
-us the ropes about how to do basic things within Google Brain and was someone we
-to whom we could ask questions.  (There were varying degrees of helpfulness from
-the orientation mentors.  My mentor, Patrick Nguyen was great, but I think some
-residents never saw their orientation mentor at all.)  We also went through a
-crash course in deep learning taught by Chris Olah.
+orientation in mid-July.  After this we had a separate orientation specific for
+AI residents that lasted about two week.  Each of us got an "orientation mentor"
+who showed us the ropes about how to do basic things within Google Brain and was
+someone we to whom we could ask questions.  (There were varying degrees of
+helpfulness from the orientation mentors.  My mentor, Patrick Nguyen was great,
+but I think some residents never saw their orientation mentor at all.)  We also
+went through a crash course in deep learning taught by Chris Olah.
 
 During this time we also chose a topic for a "mini-project" that we would carry
 out to practice working with Tensorflow and Google's infrastructure.  In my case
@@ -86,9 +86,52 @@ turned out that someone at Google Brain (Chris Shallue) had already done a
 project like this, so some code was already available and my plan was to add
 some more data to the training set to see if the results improved.
 
+Sadly, the model I trained didn't really learn to make clever New Yorker cartoon
+captions (though perhaps that was asking a bit much of it given that there are
+only 80,000 or so New Yorker cartoons in existence).  It really just ended up
+learning that a fine start to nearly any New Yorker cartoon is "I'm sorry sir,
+but..."  Any funny captions were purely by coincidence.  But there wasn't really
+enough time in two weeks to do much experimentation, especially with the other
+orientation activities going on.
+
+Towards the end of our orientation we went to a series of presentations to help
+us decide what research projects to embark on during the residency.  Research
+scientists would give us a 5 minute pitch about different projects they wanted a
+resident to work on.  After a few days of presentations (and over a hundred
+research ideas!) we had some time to go over the different projects and talk to
+the people we'd potentially work with before deciding on a first project.
+
 ## Research
 
+After about three or four weeks our schedule freed up considerably so that we
+could spend most of our time on research.  We had been encouraged to choose only
+one research project, but it was really challenging to limit oneself to just
+one, but I ended up choosing two.  I've also personally found that having two
+projects going simultaneously is helpful because you can usually make progress
+on one when the other has stalled for a little bit (or you're just sick of it).
+
 ### Audio textures
+
+The first project I chose was to generate audio textures with Matt Hoffman and
+Ron Weiss.  The idea was to take a short clip, say 10 seconds, of some
+"textured" audio like a crowded cafe or a babbling brook, and then generate a
+new audio clip which sounds similar to the original.  The project seemed fairly
+straightforward since [Gatys et al. (2015)](http://arxiv.org/abs/1505.07376) had
+shown that the features of a deep neural network could be used to generate image
+textures that were far
+more sophisticated than anything that had been done previously.
+There had been some earlier work done in audio texture synthesis by , but it had
+predated the recent advances in deep learning and used a set of hand-crafted
+features.  It seemed natural enough that we would be able to extend the neural texture synthesis
+technique to audio and would similarly get much more sophisticated textures.
+
+As I embarked on this project I started doing some more background reading and
+pretty quickly discovered that TODO had written up a 
+
+I was able to reproduce [Gatys et al. (2015)](1) and TODO's work within a couple
+of weeks, but I wasn't particularly happy with the results on certain kinds of
+textures.  In particular bells with long, sustained tones did not sound very
+good, nor did any textures with rhythmic content.
 
 ### Batch size
 
