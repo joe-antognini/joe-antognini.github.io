@@ -116,20 +116,21 @@ The first project I chose was to generate audio textures with Matt Hoffman and
 Ron Weiss.  The idea was to take a short clip, say 10 seconds, of some
 "textured" audio like a crowded cafe or a babbling brook, and then generate a
 new audio clip which sounds similar to the original.  The project seemed fairly
-straightforward since [Gatys et al. (2015)](http://arxiv.org/abs/1505.07376) had
-shown that the features of a deep neural network could be used to generate image
-textures that were far
-more sophisticated than anything that had been done previously.
-There had been some earlier work done in audio texture synthesis by , but it had
-predated the recent advances in deep learning and used a set of hand-crafted
-features.  It seemed natural enough that we would be able to extend the neural texture synthesis
+straightforward since [Gatys et al. (2015)][1] had shown that the features of a
+deep neural network could be used to generate image textures that were far more
+sophisticated than anything that had been done previously.  There had been some
+earlier work done in audio texture synthesis by [McDecmott & Simoncelli
+(2011)][2], but it had predated the recent
+advances in deep learning and used a complicated set of hand-crafted features.  It seemed
+natural enough that we would be able to extend the neural texture synthesis
 technique to audio and would similarly get much more sophisticated textures.
 
 As I embarked on this project I started doing some more background reading and
-pretty quickly discovered that TODO had written up a 
-
-I was able to reproduce [Gatys et al. (2015)](1) and TODO's work within a couple
-of weeks, but I wasn't particularly happy with the results on certain kinds of
+pretty quickly discovered that Dmitry Ulyanov and Vadim Lebedev had written up a
+really cool [blog post][3] that extended the neural texture synthesis technique
+to audio.  I was able to reproduce the reults from [Gatys et al. (2015)](1) on
+image textures and Ulyanov & Lebedev's work on audio textures within a week or
+two, but I wasn't particularly happy with the results on certain kinds of
 textures.  In particular bells with long, sustained tones did not sound very
 good, nor did any textures with rhythmic content.
 
@@ -138,3 +139,9 @@ good, nor did any textures with rhythmic content.
 ### PCA of random walks
 
 ## Coming to an end
+
+[1]: http://arxiv.org/abs/1505.07376
+
+[2]: https://www.sciencedirect.com/science/article/pii/S0896627311005629
+
+[3]: https://dmitryulyanov.github.io/audio-texture-synthesis-and-style-transfer/
