@@ -10,9 +10,10 @@ image:
 About a year ago I finished up a year of doing machine learning research at
 Google as a Google AI Resident.  (Technically when I started I was a Google
 Brain Resident, but midway through the powers that be decided to rebrand the
-program.)  I was in the second cohort so the program as a whole was still having
-a few teething issues, but it was nevertheless an extraordinarily valuable
-experience.
+program and I became a Google AI Resident.)  I was in the second cohort so the
+program as a whole was still having a few teething issues, but it was
+nevertheless an extraordinarily valuable experience.  This is a (fairly lengthy)
+blog post about my time there.
 
 ## Application and interview
 
@@ -120,10 +121,10 @@ straightforward since [Gatys et al. (2015)][1] had shown that the features of a
 deep neural network could be used to generate image textures that were far more
 sophisticated than anything that had been done previously.  There had been some
 earlier work done in audio texture synthesis by [McDecmott & Simoncelli
-(2011)][2], but it had predated the recent
-advances in deep learning and used a complicated set of hand-crafted features.  It seemed
-natural enough that we would be able to extend the neural texture synthesis
-technique to audio and would similarly get much more sophisticated textures.
+(2011)][2], but it had predated the recent advances in deep learning and used a
+complicated set of hand-crafted features.  It seemed natural enough that we
+would be able to extend the neural texture synthesis technique to audio and
+would similarly get much more sophisticated textures.
 
 As I embarked on this project I started doing some more background reading and
 pretty quickly discovered that Dmitry Ulyanov and Vadim Lebedev had written up a
@@ -134,9 +135,199 @@ two, but I wasn't particularly happy with the results on certain kinds of
 textures.  In particular bells with long, sustained tones did not sound very
 good, nor did any textures with rhythmic content.
 
+Given the current state of the art, I figured there was enough room for
+improvement to make pursuing this project worthwhile, so I started to experiment
+with some different ways of getting the harder textures to sound good.  I had
+some early successes here by combining a few known techniques in the literature
+for image texture synthesis, such as using a set of convolutional filters with
+varying widths (a technique developed by [Ustyuzhaninov et al. (2016)][4]).
+This produced much higher quality audio of bells.  One of my mentors pointed me
+to a paper by [Sendik & Cohen-Or (2017)][5], which had used the autocorrelation
+function as a feature that allowed them to produce textures with regular
+patterns like a brick wall.  I found that I was able to use this feature to
+produce audio textures with rhythm like a person tapping.  By the end of October
+I was pretty happy with the quality of the textures that were getting generated.
+
+#### A diversion into spectrogram inversion
+
+As I was going down this path I started to think more deeply about the question
+of how to invert a spectrogram.  It is fairly common in the audio world to work
+with spectrograms rather than raw audio because it's much more compact and a
+representation and is much closer to how our brains actually interpret an
+audio signal.  The difficulty is that if your problem is generative in nature,
+it's natural to take advantage of the power of that representation and generate
+a spectrogram, but you'll ultimately need to somehow go from that spectrogram to
+raw audio so you can listen to the results.  The problem here is that the
+spectrogram only considers the *magnitude* of the STFT of your signal --- all
+the phase inforamtion is thrown away.  In principle this isn't actually a
+problem because so long as the hop size of your STFT is less than or equal to
+50% of your window size, there's enough redundant information in the spectrogram
+to perfectly reconstruct the original audio signal (modulo some global phase
+difference).  But in practice, finding that audio signal is too difficult.
+Moreover, if you're using some ML algorithm to  *generate* a spectrogram,
+there's no guarantee that *any* audio signal actually corresponds to your
+spectrogram.
+
+For the past 35 years, the standard technique for inverting a spectrogram has
+been the [Griffin-Lim algorithm][6].  The idea behind the Griffin-Lim algorithm
+is to start with random phases in each of the STFT bins, and then go back and
+forth between spectrogram and audio, updating the phases so that the spectrogram
+of the resulting audio more closely corresponds to the original spectrogram.
+The result will generally sound okay, but will contain audible artifacts.
+Moreover Griffin-Lim is pretty slow, usually requiring a few hundred iterations
+for a solution to converge.  For my ten second audio clips that would take a few
+minutes to go from spectrogram to audio.  There have been a few variants on the
+Griffin-Lim algorithm over the years (mostly aimed at making it faster), but
+there haven't really been any qualitative improvements in the resulting audio.
+
+I thought that deep learning could provide a way to invert spectrograms with
+much higher quality than Griffin-Lim.  I certainly wasn't the only person
+thinking along these lines!  At the time Jonthan Shen was working on [Tacotron
+2][7] and got really good results for text-to-speech for the Google Assistant
+voice by conditioning Wavenet on a mel spectrogram.  I was curious, though, if
+this technique could be made more general.  What if, instead of synthesizing a
+single speaker's voice, we could produce *any* audio by conditinioning Wavenet
+on its spectrogram?
+
+I ended up spending about two months following this line of thought,
+unfortunately without much success.  My idea was to use [AudioSet][8] as a
+dataset of "general sounds" and to try to train Wavenet to reproduce those
+sounds by conditioning it on the spectrogram of those sounds.  In the spirit of
+my original project of audio texture synthesis, I also tried to train Wavenet to
+generate sounds from AudioSet unconditionally with the idea here being that you
+could give this Wavenet some audio texture and have it extend the texture
+indefinitely.  Sadly the resulting audio was very low quality (there was always
+a pretty loud buzz that I wasn't able to get rid of), and synthesizing audio
+from Wavenet was painfully slow, which made rapid iteration impossible.  My
+mentors and I even mused a little bit about going further afield from the
+original project by looking into whether we could speed up Wavenet synthesis,
+but dropped the idea after we heard that a team at Deepmind was about to release
+[Parallel WaveNet][9], which did just that.
+
+While I ended up learning quite a bit about deep learning for audio from this
+diversion, those two months ended up wasted from a performance review standpoint
+since I couldn't point to any artifacts (Googler-lingo for a paper,
+presentation, codebase, or some other kind of document) that resulted from that
+work.  In retrospect, trying to get Wavenet to learn all of AudioSet
+unconditionally was probably asking a bit much of it given the diversity of
+audio (and audio quality!) in that dataset.  I'm still of the opinion, though,
+that with more work I could have gotten some variant of Wavenet working that
+would invert general spectrograms.  But a year is not a long time and I had to
+prioritize the work I wanted to do for the rest of the residency.  Taking a risk
+for a few months was fine, but given that this gamble had failed I had to
+retreat and work on something safer in the remaining time.
+
+#### Writing the paper
+
+By this point it was mid-December and the submission deadline for ICML was
+coming up in early February.  We wanted to have some tangible results from this
+project, so we decided to prepare a submission.  From a career perspective, this
+was also something of a necessity for me since the most prestigious publishing
+venues in machine learning are conferences.  Due to the timing of the conference
+deadlines, ICML was the only major conference for which I would get a decision
+before the end of the residency (which I could then point to in order to try to
+get converted to a permanent position).
+
+The main shortcoming in the audio textures that I was able to generate at this
+point was that there wasn't a lot of diversity in the results.  I tried
+addressing this by adding a diversity term to the loss from [Sendik & Cohen-Or
+(2017)][5] that would penalize the algorithm for producing a texture that was
+too similar to the original, but it would get around this by reproducing the
+original exactly, but shifted over in time by a few seconds.  I ended up solving
+this issue by changing the loss term so that the algorithm was penalized for
+reproducing something too close to the original shifted by *any* amount of time.
+
+We felt that the quality of the audio textures was good enough at this point to
+start writing up an ICML submission.  The hope was that by combining a scattered
+set of techniques for texture synthesis in the literature (e.g., multiple
+receptive field sizes and an autocorrelation term), plus developing an improved
+diversity term, along with substantial quantitative and qualitative analysis of
+the results, we would have a paper that would be sufficiently interesting for
+ICML.  The reviewers ended up giving us generally positive reviews about the
+paper and the quality of the audio textures, but as expected the main criticism
+was that the work just felt too incremental for ICML, and honestly I think they
+were right.  The paper was rejected, so we incorporated some of the reviewers'
+suggestions and later submitted it to TASLP, where it was again rejected for
+similar reasons.  After that we submitted the paper to ICASSP 2019, where it was
+[finally accepted][10] (though at about half the original length and without most of
+the analysis).  (The original, full-length paper can be found [here][11].)
+
 ### Batch size
 
+Concurrent to my work on the audio textures project I also started on a project
+to study the effect of batch size on training time.  There had been some early
+results in the literature arguing that neural networks trained with larger batch
+sizes had generalized worse, but other researchers had argued that you could
+generally achieve the same performance by increasing the batch size so long as
+you also increased the learning rate.  The goal of this project was to do a
+thorough and rigorous set of experiments on a wide variety of tasks and
+architectures to determine what the relationship was between batch size and
+training time and generalization, controling for hyperparameters as much as
+possible.  George Dahl conceived of and managed the project, and he recruited
+Jaehoon Lee and myself to actually carry out the experiments.
+
+I liked this project from the start because I was (and still am) of the opinion
+that the machine learning field has too few systematic studies, and as a
+consequence there is a great deal of cargo cult behavior.  I also thought that
+it wouldn't take a huge amount of time --- how hard could training a few models
+and varying the batch size be?  But as we began it became clear that this was
+much more technically complicated than we originally anticipated.
+
+Our original idea was to use the [`tensor2tensor`][12] library for the project
+since they had implemented a variety of models that could train on a variety of
+different tasks like image classification and neural translation.
+Unfortunately, for this project we needed absolute control over exactly how many
+examples went into each training step and on the language models this turned out
+to be very difficult in `tensor2tensor2`.  Around this time George had recruited
+Chris Shallue to help us out as a technical lead.  We tried working with
+`tensor2tensor` for a bit, but soon decided it would be more efficient to write
+our experiments from scratch.  Chris built an experimental framework that used
+[Vizier][13] to manage the experiments we ran, Jaehoon worked on the
+language model experiments, and I was tasked with running the image
+classification experiments.
+
+During this project I encountered the most difficult bug I've had to deal with
+in my career.  I had implemented ResNet-50 for the ImageNet task, and it was
+known that with a certain set of hyperparameters, the model should obtain an
+accuracy of just over 75%.  Yet I consistently saw that I was getting just over
+74%, about 1% less than I should.  I spent about a week debugging this on my
+own, but made little progress because the model took about 8 hours to train even
+on a TPU.
+
+Ultimately I ended up spending a few days with Jaehoon and Chris where we went
+layer by layer and compared the network output with a reference implementation.
+Mysteriously, every layer matched and the overall output was the same as well.
+Moreover, every contribution to the loss appeared to be identical as well,
+although the overall loss was slightly different.  After more digging Chris
+discovered that weight decay was getting applied to every layer except for the
+very last softmax layer because the softmax layer was applied in a separate
+module that was common to our codebase.  The weight decay on that one layer
+turned out to be key, and was the difference between 74% accuracy and 75%
+accuracy.
+
+Once that bug was fixed the rest of my contribution to the project was mostly
+running and organizing a large number of image classification experiments.  For
+every batch size I would train $\sim$100 models with a variety of different
+learning rates and momenta.  Building the infrastructure for this project took
+until about February, and the experiments took another four months or so to run.
+(This was a computationally heavy project even by Google's standards.)  By the
+time I left the residency we had just about collected all our results and had
+decided to submit to [JMLR][14] since there were enough results that it would be
+too awkward to try to fit them all in a conference paper.  Unfortunately since I
+was outside of Google when the writing began I didn't get to be one of the first
+authors on the paper, which was a bit of a bummer.  But I am very happy with the
+quality of the results.  It was one of those projects that could really have
+only been done at Google and I'm glad I got to be a part of it.  I am also very
+grateful I got to work with Chris on the project since I learned an enormous
+amount about how to design an architecture for a complicated machine learning
+problem.
+
 ### PCA of random walks
+
+After I had submitted my audio textures paper to ICML I had more free time on my
+hands.  I had been following along with some of the work trying to apply
+techniques from statistical physics to understand neural network training, but
+hadn't had the opportunity to do any research in that vein myself.
 
 ## Coming to an end
 
@@ -145,3 +336,25 @@ good, nor did any textures with rhythmic content.
 [2]: https://www.sciencedirect.com/science/article/pii/S0896627311005629
 
 [3]: https://dmitryulyanov.github.io/audio-texture-synthesis-and-style-transfer/
+
+[4]: https://arxiv.org/abs/1606.00021
+
+[5]: https://www.cs.siue.edu/~wwhite/CS482/SIGGRAPHPapers/a161-sendik.pdf
+
+[6]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.306.7858&rep=rep1&type=pdf
+
+[7]: https://google.github.io/tacotron/publications/tacotron2/index.html
+
+[8]: https://research.google.com/audioset/
+
+[9]: https://arxiv.org/abs/1711.10433
+
+[10]: https://ieeexplore.ieee.org/abstract/document/8682598
+
+[11]: https://arxiv.org/abs/1806.08002
+
+[12]: https://github.com/tensorflow/tensor2tensor
+
+[13]: https://ai.google/research/pubs/pub46180
+
+[14]: http://jmlr.org/
