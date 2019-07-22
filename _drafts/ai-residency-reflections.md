@@ -411,7 +411,34 @@ restrict myself to the parameters in a single layer in the initial submission
 able to fix the bug and got a beautiful set of Lissajous curves for the entire
 parameter set of ResNet-50 which made it into the final version of the paper.
 
+Ultimately this paper was accepted to NeurIPS 2018.  By the time the conference
+came around the residency was over and I had left Google so I had to pay my own
+way to present the paper.  But it was worth it to talk to yet more people about
+random walks and catch up with the other residents.
+
 ## Coming to an end
+
+The question of what to do with us after the residency ended seemed to be the
+part that Google had thought through least.  Officially, the story was that once
+the residency was over that was it and you'd leave Google.  Unoffiically,
+however, the people running the program were expecting most of
+us to convert to full time positions at Google once the residency ended.  This
+tension between the official and unofficial version made things difficult
+because it was unclear what the real requirements for conversion were.  The stated
+requirements of the program were pretty minimal --- you just had to do machine
+learning research for a year.  There was no expectation of publication or any
+real results.  But it was obvious that if you produced no publications in a year
+you would not be able to convert.
+
+Some of the residents had some background in machine learning research and so
+already had a publication record they could point to in support of their
+conversion process, and they generally were able to convert to research
+scientist positions.  Others like myself were coming from other fields and so we
+didn't have an ML publication record yet.  Since the residency was only a year
+long, most of us had a few papers which had been submitted to different venues,
+but due to the timing of the conference submission processes, it was hard to
+have more than one accepted paper by the end of the residency (I didn't have
+any).  
 
 [1]: http://arxiv.org/abs/1505.07376
 
