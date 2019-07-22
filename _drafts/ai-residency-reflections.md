@@ -20,7 +20,7 @@ blog post about my time there.
 I think I first heard about the Google Brain Residency from one of Jeff Dean's
 tweets and decided to apply almost on a whim.  The cover letter was probably the
 most important part of the application.  I treated it almost like a short
-reesarch proposal, starting with some unifying threads in my past work and
+research proposal, starting with some unifying threads in my past work and
 explaining how they were motivating the questions I wanted to answer at Google
 (and why Google would be a great place to try to solve those problems).  In my
 case I had been working at a company called [Persyst](https://www.persyst.com)
@@ -31,7 +31,7 @@ is characteristic of epilepsy and could confuse the other classifiers.
 
 As I was trying to build a system that would work even in conditions that it
 hadn't been trained on I was thinking more generally about the problem of how to
-determine if a neural network has seen something similar to a given data pointor
+determine if a neural network has seen something similar to a given data point
 if it's wildly different form anything it's seen before.  This is distinct from
 (though related to) the problem of calibrating the uncertainty of a neural
 network.  As an illustration, imagine a NN that was trained to classify
@@ -129,7 +129,7 @@ would similarly get much more sophisticated textures.
 As I embarked on this project I started doing some more background reading and
 pretty quickly discovered that Dmitry Ulyanov and Vadim Lebedev had written up a
 really cool [blog post][3] that extended the neural texture synthesis technique
-to audio.  I was able to reproduce the reults from [Gatys et al. (2015)](1) on
+to audio.  I was able to reproduce the results from [Gatys et al. (2015)](1) on
 image textures and Ulyanov & Lebedev's work on audio textures within a week or
 two, but I wasn't particularly happy with the results on certain kinds of
 textures.  In particular bells with long, sustained tones did not sound very
@@ -159,7 +159,7 @@ it's natural to take advantage of the power of that representation and generate
 a spectrogram, but you'll ultimately need to somehow go from that spectrogram to
 raw audio so you can listen to the results.  The problem here is that the
 spectrogram only considers the *magnitude* of the STFT of your signal --- all
-the phase inforamtion is thrown away.  In principle this isn't actually a
+the phase information is thrown away.  In principle this isn't actually a
 problem because so long as the hop size of your STFT is less than or equal to
 50% of your window size, there's enough redundant information in the spectrogram
 to perfectly reconstruct the original audio signal (modulo some global phase
@@ -182,11 +182,11 @@ there haven't really been any qualitative improvements in the resulting audio.
 
 I thought that deep learning could provide a way to invert spectrograms with
 much higher quality than Griffin-Lim.  I certainly wasn't the only person
-thinking along these lines!  At the time Jonthan Shen was working on [Tacotron
+thinking along these lines!  At the time Jonathan Shen was working on [Tacotron
 2][7] and got really good results for text-to-speech for the Google Assistant
 voice by conditioning Wavenet on a mel spectrogram.  I was curious, though, if
 this technique could be made more general.  What if, instead of synthesizing a
-single speaker's voice, we could produce *any* audio by conditinioning Wavenet
+single speaker's voice, we could produce *any* audio by conditionning Wavenet
 on its spectrogram?
 
 I ended up spending about two months following this line of thought,
@@ -262,7 +262,7 @@ generally achieve the same performance by increasing the batch size so long as
 you also increased the learning rate.  The goal of this project was to do a
 thorough and rigorous set of experiments on a wide variety of tasks and
 architectures to determine what the relationship was between batch size and
-training time and generalization, controling for hyperparameters as much as
+training time and generalization, controlling for hyperparameters as much as
 possible.  George Dahl conceived of and managed the project, and he recruited
 Jaehoon Lee and myself to actually carry out the experiments.
 
@@ -327,7 +327,89 @@ problem.
 After I had submitted my audio textures paper to ICML I had more free time on my
 hands.  I had been following along with some of the work trying to apply
 techniques from statistical physics to understand neural network training, but
-hadn't had the opportunity to do any research in that vein myself.
+hadn't had the opportunity to do any research in that vein myself.  I'm not
+exactly sure how I got onto this subject, but as I was looking through some of
+this research I started playing around with random walks as a model for neural
+network training.  While it might sound a little crazy to take the training
+process which is very much *not* a random walk, and approximate it by something
+that simple, there is a substantial stochastic component to neural network
+training since the batch sizes we train with are generally very small relative
+to the overall dataset size.
+
+As I was playing around with high dimensional random walks I somehow noticed
+that when you apply PCA, you end up getting very smooth curves.  Not only are
+these figures smooth, they are completely regular.  I generated a dozen random
+walks and obtained identical curves after doing PCA every time (modulo an
+overall sign flip sometimes).  I thought this was very strange and started to
+spend a lot of time trying to understand exactly what was going on, perhaps a
+bit obsessively.
+
+When I had first seen these curves they immediately looked like Lissajous curves
+to me, so I spent a little while trying to fit them, and experimenting with
+different parameters to see if I could find the functional form of the curves I
+was creating.  After a little bit I realized that everything was quite simple if
+I replaced the sines in the Lissajous curve definition with cosines.
+
+I also started to do a lot of background reading about random walks and quickly
+discovered an amazing paper by [Moore et al.][15].  They analyzed a random walk
+in the limit of infinite dimensions and showed that when you applied PCA, about
+60% of the explained variance is in the first PCA component, and 80% is in the
+first two!  This was simply mind blowing to me.  I compared the distribution of
+variances that they predicted with what I saw and found that it matched exactly.
+But they didn't show that the projection of the random walk onto the PCA
+components produced a Lissajous curve.  In fact, as I went through the
+literature, it seemed that no one had observed this fact.  [One paper][16] had
+noticed that they got Lissajous curves when they applied PCA to their dataset,
+but no one had made the connection between random walks and Lissajous curves.
+
+I went through Moore et al.'s analysis step by step to see if I could extend it
+to show why the projection of the walk onto the PCA basis would always be a
+Lissajous curve.  I was simultaneously talking about random walks to anyone who
+would listen (except my manager since this was not an "approved" topic).
+Fortunately one of the people who was willing to listen to me was Jascha
+Sohl-Dickstein, and he pointed out to me the relationship between the matrices I
+was working with and circulant matrices, and how the eigenvectors of circulant
+matrices are Fourier modes.  This it turned out to be a key insight.  With a few
+weeks of effort I was able to work out a derivation that showed that the
+projection of a high dimensional random walk onto the PCA components would be a
+Lissajous curve.
+
+During this time I was continuing to do more background reading and had found
+that a [number][17] [of][18] [authors][19] had tried to visualize neural network
+training by performing PCA on the model's parameters over the course of
+training.  In every case they had obtained a smooth, parabolic curve.  I had
+been staring at Lissajous curves for long enough now that I realized that this
+is exactly what you would get from a random walk.  I trained a small neural
+network on MNIST and projected the weight trajectory onto all pairs of PCA
+components up to the fifth and found that every combination was exactly the same
+Lissajous curve one would expect from a random walk.
+
+By now it was late April and I was spending almost every spare moment on random
+walks.  The NeurIPS deadline was in just a few weeks, and I figured I
+had nothing to lose by trying to collect these results into a submission.  I
+felt that it had a reasonable chance of acceptance since there was a new
+theoretical result, it explained some results in a recent trend of
+visualization, and, if I could get it done in time, there would be some good
+computational experiments to verify the connection with neural networks.
+
+In the last couple of weeks I tried scaling up the neural network experiments to
+ResNet-50 trained on ImageNet.  Conveniently I had already implemented this
+network for the batch size project so the main difficulty was getting all the
+parameters out over the course of training.  The network trained for 150,000
+steps and it had millions of parameters so it was going to a nightmare to try to
+store absolutely everything (not so much because of the storage space, but
+writing to disk on every step would slow down training enormously).  I decided
+to break up training into 1500 steps at the beginning, middle and end of
+training to make things a little more reasonable.  Even then, performing PCA on
+the full set of parameters was prohibitive.  I realized, though, that I could
+take advantage of the Johnson-Lindenstrauss lemma and randomly project the
+parameters down into a lower dimensional space, but still preserve the
+structure.  Unfortunately, due a bug in my random projection code I wasn't able
+to get results on the entire set of parameters for ResNet-50, so I had to
+restrict myself to the parameters in a single layer in the initial submission
+(which also produced a Lissajous curve).  But after submitting the paper I was
+able to fix the bug and got a beautiful set of Lissajous curves for the entire
+parameter set of ResNet-50 which made it into the final version of the paper.
 
 ## Coming to an end
 
@@ -358,3 +440,13 @@ hadn't had the opportunity to do any research in that vein myself.
 [13]: https://ai.google/research/pubs/pub46180
 
 [14]: http://jmlr.org/
+
+[15]: https://www.sciencedirect.com/science/article/pii/S002251931830136X
+
+[16]: http://stephenslab.uchicago.edu/assets/papers/Novembre2008b.pdf
+
+[17]: https://icmlviz.github.io/icmlviz2016/assets/papers/24.pdf
+
+[18]: https://arxiv.org/abs/1602.07320
+
+[19]: https://arxiv.org/abs/1712.09913
