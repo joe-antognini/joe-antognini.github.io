@@ -421,14 +421,14 @@ random walks and catch up with the other residents.
 The question of what to do with us after the residency ended seemed to be the
 part that Google had thought through least.  Officially, the story was that once
 the residency was over that was it and you'd leave Google.  Unoffiically,
-however, the people running the program were expecting most of
-us to convert to full time positions at Google once the residency ended.  This
-tension between the official and unofficial version made things difficult
-because it was unclear what the real requirements for conversion were.  The stated
-requirements of the program were pretty minimal --- you just had to do machine
-learning research for a year.  There was no expectation of publication or any
-real results.  But it was obvious that if you produced no publications in a year
-you would not be able to convert.
+however, the people running the program were expecting most of us to convert to
+full time positions at Google once the residency ended.  This tension between
+the official and unofficial version made things difficult because it was unclear
+what the real requirements for conversion were.  The stated requirements of the
+program were pretty minimal --- you just had to do machine learning research for
+a year.  There was no expectation of publication or any real results.  But it
+was obvious that if you produced no publications in a year you would not be able
+to convert.
 
 Some of the residents had some background in machine learning research and so
 already had a publication record they could point to in support of their
@@ -439,6 +439,28 @@ long, most of us had a few papers which had been submitted to different venues,
 but due to the timing of the conference submission processes, it was hard to
 have more than one accepted paper by the end of the residency (I didn't have
 any).  
+
+For those of us who were coming to machine learning from another field and
+didn't have a publication record, the recommendation was generally to extend the
+residency for another year before trying to apply for a research scientist
+position.  Another alternative was to apply for a research software engineer
+position (more commonly called rSWEs).  Within Google Brain projects are
+normally conceived of by research scientists and rSWEs will move between
+different projects to actually implement the experiments when they require more
+infrastructure.  In practice rSWEs within Google Brain had a lot of freedom to
+work on research projects that they found interesting.  I wasn't especially keen
+on extending the residency mostly for salary reasons.  (Residents have a base
+salary that's comparable to an equivalent software engineer at Google, but they
+don't get any of the stock that makes up a substantial component of a normal
+Googler's total compensation.)  I had written a fair
+amount of code for the batch size project, so I decided to apply for an rSWE
+position.  Similar to a college campus, people will often put up flyers in
+prominant locations advertising events and sometimes open positions.  From one
+of these flyers I found out .
+
+As I was going
+through this process I was applying to a number of jobs external to Google as
+well.
 
 [1]: http://arxiv.org/abs/1505.07376
 
