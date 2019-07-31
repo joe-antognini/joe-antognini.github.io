@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections on the Google AI Residency One Year On
-date: 2019-07-15
+date: 2019-07-31
 categories: personal
 image:
   feature: constellations3.jpg
@@ -10,10 +10,10 @@ image:
 About a year ago I finished up a year of doing machine learning research at
 Google as a Google AI Resident.  (Technically when I started I was a Google
 Brain Resident, but midway through the powers that be decided to rebrand the
-program and I became a Google AI Resident.)  I was in the second cohort so the
-program as a whole was still having a few teething issues, but it was
-nevertheless an extraordinarily valuable experience.  This is a (fairly lengthy)
-blog post about my time there.
+program and I was supposed to refer to myself as a Google AI Resident.)  I was
+in the second cohort so the program as a whole was still having a few teething
+issues, but it was nevertheless an extraordinarily valuable experience.  This is
+a (fairly lengthy) blog post about my time there.
 
 ## Application and interview
 
@@ -46,7 +46,10 @@ more like a 1 than a 0 and so will classify it accordingly with high
 probability.  Adversarial examples are the extreme limit of this
 out-of-distribution problem where you manage to construct an example which
 perceptually belongs to one class, but the NN classifies in another with high
-confidence.
+confidence.  I wasn't exactly sure how to go about solving this problem (it's a
+hard problem!), but it was one of the things I was thinking of at the time.  (In
+the end my research turned out to be on completely different topics, though I'm
+still interested in this problem.)
 
 I was fortunate to then be selected for a phone screen where I was interviewed
 by Kevin Murphy.  The phone screen mostly focused on the machine learning work
@@ -69,7 +72,7 @@ There ended up being about 30 AI residents in my cohort.  As AI Residents we
 were technically "fixed-term full time employees" (so, not contractors or
 interns).  As such in mid-July we went through the Google's normal two-day
 employee orientation.  After this we had a separate orientation specific for AI
-residents that lasted about two week.  Each of us got an "orientation mentor"
+residents that lasted about two weeks.  Each of us got an "orientation mentor"
 who showed us the ropes about how to do basic things within Google Brain.
 (There were varying degrees of helpfulness from the orientation mentors.  My
 mentor, Patrick Nguyen was great, but I think some residents never saw their
@@ -77,11 +80,11 @@ orientation mentor at all.)  We also went through a crash course in deep
 learning taught by Chris Olah.
 
 During this time we also chose a topic for a "mini-project" that we would do to
-practice working with Tensorflow and Google's infrastructure.  In my case I
-decided to train a model to generate captions for New Yorker cartoons.  It
-turned out that someone at Google Brain (Chris Shallue) had already done a
-project like this, so some code was already available and my plan was to add
-some more data to the training set to see if the results improved.
+get familiar with Tensorflow and Google's infrastructure.  In my case I decided
+to train a model to generate captions for New Yorker cartoons.  It turned out
+that someone at Google Brain (Chris Shallue) had already done a project like
+this, so some code was already available and my plan was to add some more data
+to the training set to see if the results improved.
 
 Sadly, the model I trained didn't really learn to make clever New Yorker cartoon
 captions, though perhaps that was asking a bit much of it given that there are
@@ -92,7 +95,7 @@ wasn't really enough time in two weeks to do much experimentation, especially
 with the other orientation activities going on.
 
 Towards the end of our orientation we went to a series of presentations to help
-us decide what research projects to embark on during the residency.  Research
+us decide which research projects to embark on during the residency.  Research
 scientists would give us a 5 minute pitch about different projects they wanted a
 resident to work on.  After a few days of presentations (and over a hundred
 research ideas!) we had some time to go over the different projects and talk to
@@ -102,10 +105,10 @@ the people we'd potentially work with before deciding on a first project.
 
 After about three or four weeks our schedule freed up considerably so that we
 could spend most of our time on research.  We had been encouraged to choose only
-one research project, but it was really challenging to limit oneself to just
-one and I ended up choosing two.  I've also personally found that having two
-projects going simultaneously is helpful because you can usually make progress
-on one when the other has stalled for a little bit (or you're just sick of it).
+one research project, but it was really challenging to limit oneself to just one
+and I ended up choosing two.  I've personally found that having two projects
+going simultaneously is helpful because you can usually make progress on one
+when the other has stalled for a little bit (or you're just sick of it).
 
 ### Audio textures
 
@@ -231,19 +234,19 @@ ended up solving this issue by changing the loss term so that the algorithm was
 penalized for reproducing something too close to the original shifted by *any*
 amount of time.
 
-We felt that the quality of the audio textures was good enough at this point to
-start writing up an ICML submission.  The hope was that by combining a scattered
-set of techniques for texture synthesis in the literature (e.g., multiple
-receptive field sizes and an autocorrelation term), plus developing an improved
-diversity term, along with substantial quantitative and qualitative analysis of
-the results, we would have a paper that would be sufficiently interesting for
-ICML.  The reviewers ended up giving us generally positive reviews about the
-paper and the quality of the audio textures, but as expected the main criticism
-was that the work just felt too incremental for ICML.  And honestly I think they
-were right.  The paper was rejected, so we incorporated some of the reviewers'
+We felt that the quality of the audio textures was good enough by now to start
+writing up an ICML submission.  The hope was that by combining a scattered set
+of techniques for texture synthesis in the literature (e.g., multiple receptive
+field sizes and an autocorrelation term), plus developing an improved diversity
+term, along with substantial quantitative and qualitative analysis of the
+results, we would have a paper that would be sufficiently interesting for ICML.
+The reviewers ended up giving us generally positive reviews about the paper and
+the quality of the audio textures, but as expected the main criticism was that
+the work just felt too incremental for ICML.  And honestly I think they were
+right.  The paper was rejected, so we incorporated some of the reviewers'
 suggestions and later submitted it to TASLP, where it was again rejected for
 similar reasons.  After that we submitted the paper to ICASSP 2019, where it was
-[finally accepted][10] though at about half the original length and without
+[finally accepted][10], though at about half the original length and without
 most of the analysis.  (The original, full-length paper can be found
 [here][11].)
 
@@ -254,10 +257,10 @@ to study the effect of batch size on training time.  There had been some papers
 in the literature arguing that neural networks trained with larger batch sizes
 generalize worse, but other researchers had argued that you could generally
 achieve the same performance by increasing the batch size so long as you also
-increased the learning rate.  The goal of this project was to do a thorough and
-rigorous set of experiments on a wide variety of tasks and architectures to
-determine what the relationship really was between batch size, training time,
-and generalization, controlling for hyperparameters as much as possible.  George
+increased the learning rate.  The goal of this project was to do a thorough set
+of experiments on a wide variety of tasks and architectures to determine what
+the relationship really was between batch size, training time, and
+generalization, controlling for hyperparameters as much as possible.  George
 Dahl conceived of and managed the project, and he recruited Jaehoon Lee and
 myself to actually carry out the experiments.
 
@@ -292,13 +295,12 @@ on a TPU.
 Ultimately I ended up spending a few days with Jaehoon and Chris where we went
 layer by layer and compared the network output with a reference implementation.
 Mysteriously, every layer matched and the overall output was the same as well.
-Moreover, every contribution to the loss appeared to be identical as well,
+Moreover, every contribution to the loss we could find was identical as well,
 although the overall loss was slightly different.  After more digging Chris
 discovered that weight decay was getting applied to every layer except for the
 very last softmax layer because the softmax layer was applied in a separate
-module that was common to our codebase.  The weight decay on that one layer
-turned out to be key, and was the difference between 74% accuracy and 75%
-accuracy.
+module.  The weight decay on that one layer turned out to be key, and was the
+difference between 74% accuracy and 75% accuracy.
 
 Once that bug was fixed the rest of my contribution to the project was mostly
 running and organizing a large number of image classification experiments.  For
@@ -340,16 +342,16 @@ of time trying to understand exactly what was going on, perhaps a bit
 obsessively.
 
 When I had first seen these curves they immediately looked like Lissajous curves
-to me, so I spent a little while trying to fit them, and experimenting with
-different parameters to see if I could find the functional form of the curves I
-was creating.  After a little bit I realized that everything was quite simple if
-I replaced the sines in the Lissajous curve definition with cosines.
+to me, so I spent a little while trying to fit them to see if I could find the
+functional form of the curves.  After a little bit I realized that everything
+was quite simple if I replaced the sines in the Lissajous curve definition with
+cosines.
 
 I also started to do a lot of background reading about random walks and quickly
-discovered an amazing paper by [Moore et al.][15].  They analyzed a random walk
-in the limit of infinite dimensions and showed that when you applied PCA, about
-60% of the explained variance is in the first PCA component, and 80% is in the
-first two!  This was simply mind blowing to me.  I compared the distribution of
+discovered an amazing paper by [Moore et al. (2018)][15].  They analyzed a
+random walk in the limit of infinite dimensions and showed that when you applied
+PCA, about 60% of the explained variance is in the first PCA component, and 80%
+is in the first two!  This blew my mind.  I compared the distribution of
 variances that they predicted with what I saw and found that it matched exactly.
 But they didn't show that the projection of the random walk onto the PCA
 components produced a Lissajous curve.  In fact, as I went through the
@@ -360,12 +362,11 @@ but no one had made the connection between random walks and Lissajous curves.
 I went through Moore et al.'s analysis step by step to see if I could extend it
 to show why the projection of the walk onto the PCA basis would always be a
 Lissajous curve.  I was simultaneously talking about random walks to anyone who
-would listen (except my manager since this was not an "approved" topic).
-Fortunately one of the people who was willing to listen to me was Jascha
-Sohl-Dickstein, and he pointed out to me that the matrices I was working with
-were close to being circulant matrices, and how the eigenvectors of circulant
-matrices are Fourier modes.  This it turned out to be a key insight.  With a few
-weeks of effort I was able to work out a derivation that showed that the
+would listen.  Fortunately one of the people who was willing to listen to me was
+Jascha Sohl-Dickstein, and he pointed out to me that the matrices I was working
+with were close to being circulant matrices, and that the eigenvectors of
+circulant matrices are Fourier modes.  This it turned out to be a key insight.
+With some more effort I was able to work out a derivation that showed that the
 projection of a high dimensional random walk onto the PCA components would be a
 Lissajous curve.
 
@@ -398,7 +399,7 @@ to break up training into 1500 steps at the beginning, middle and end of
 training to make things a little more reasonable.  Even then, performing PCA on
 the full set of parameters was prohibitive.  I realized, though, that I could
 take advantage of the [Johnson-Lindenstrauss lemma][22] and randomly project the
-parameters down into a lower dimensional space, but still preserve the
+parameters down onto a lower dimensional space, but still preserve the
 structure.  Unfortunately, due a bug in my random projection code I wasn't able
 to get results on the entire set of parameters for ResNet-50, so I had to
 restrict myself to the parameters in a single layer in the initial submission
@@ -466,45 +467,44 @@ I was simultaneously applying for a number of jobs outside of Google.  We
 quickly learned that it was wise to look outside of Google even if your goal was
 to remain at Google.  Google will be content to have you simply extend the
 residency, so sometimes you have to force their hand with an offer letter from
-another company.  As I was going through this process I was applying to a number
-of jobs outside of of Google.  Having the magic dust of the Google name on your
-resume definitely helps you to get noticed, but it's no guarantee!  I think I
-only heard back at all from maybe a quarter of the jobs I applied to.  I also
-reached out to the CEO of a startup called [Whisper][21] whom I had met earlier
-in the residency.  Back in September, he had contacted me through a mutual
-friend and pitched me his idea of using deep learning to do noise reduction in
-hearing aids.  It was a great idea with a lot of potential, but I had only been
-at Google for two months at the time, so I demurred.  But now that the residency
-was coming to an end, I reached out to him to see how the startup was going and
-asked if they were still looking for ML engineers.  They were, so I interviewed
-with them and a few days later I got an offer.
+another company.  Fortunately, having the magic dust of the Google name on your
+resume definitely helps you to get noticed by recruiters, but it's no guarantee
+of a job!  I think I only heard back at all from maybe a quarter of the jobs I
+applied to.  I also reached out to the CEO of a startup called [Whisper][21]
+whom I had met earlier in the residency.  Back in September, he had contacted me
+through a mutual friend and pitched me his idea of using deep learning to do
+noise reduction in hearing aids.  It was a great idea with a lot of potential,
+but I had only been at Google for two months at the time, so I demurred.  But
+now that the residency was coming to an end, I reached out to him to see how the
+startup was going and asked if they were still looking for ML engineers.  They
+were, so I interviewed with them and a few days later I got an offer.
 
 This offer put me in a bit of an awkward position with respect to my ongoing
 application with Google.  I knew that it would be at least a month before they
-made a decision, so I had to decide whether to accept the offer or decline and
-hope that I got an offer from Google and continue to pursue applications at
-other large companies.  Because of the timing of my interviews I wasn't able to
-leverage multiple offers against each other, although I don't think that would
-have been a huge help in my situation since an offer from Google is not really
-comparable to a startup offer.  The startup will say that, well, of course we
-can't meet Google's base salary, but look at how much your stock options will be
-worth when we're a billion dollar company! and Google will easily beat the
-startup's base salary and will value the stock options at exactly $0.
-Ultimately I ended up deciding to work for the startup (and I'm still there a
-year later).  I figured that good startup ideas come along rarely enough that it
-was worth taking a gamble.  If things don't work out at the startup the Googles
-of the world will always be hiring in the future.
+made a decision, so I had to decide whether to accept the startup offer or
+decline and hope that I got an offer from Google and continue to pursue
+applications at other large companies.  Because of the timing of my interviews I
+wasn't able to leverage multiple offers against each other, although I don't
+think that would have been a huge help in my situation since an offer from
+Google is not really comparable to a startup offer.  The startup will say that,
+well, of course we can't meet Google's base salary, but look at how much your
+stock options will be worth when we're a billion dollar company! and Google will
+easily beat the startup's base salary and will value the stock options at
+exactly $0.  Ultimately I ended up deciding to work for the startup (and I'm
+still here a year later).  I figured that good startup ideas come along rarely
+enough that it was worth taking a gamble.  If things don't work out at the
+startup the Googles of the world will always be hiring in the future.
 
 One crucial mistake I made after I signed the startup's offer letter was to tell
 my manager.  I wanted to withdraw my application for the rSWE position at Google
 so that the project manager for the job I was applying to could move on to other
 candidates.  But she told me that by signing an offer letter for another company
 I could be terminated and forfeit the bonus you get at the end of the program.
-Fortunately a few days later she said she had discussed with some higher ups and
-said that I could keep the completion bonus (although I learned a few months
-later that I had to pay back a portion of my signing bonus).  I was a bit tired
-of Google's antics by now and decided to leave the residency a few weeks early
-and get a head start at Whisper.
+A few days later she said she had discussed with some higher ups and said that I
+could keep the completion bonus (although I learned a few months later that I
+had to pay back a portion of my signing bonus).  I was a bit tired of Google's
+antics by now and decided to leave the residency a few weeks early and get a
+head start at Whisper.
 
 As it turned out I was the only resident to leave Google for another company.
 Most of the residents who didn't have PhDs went to grad school, and the rest
