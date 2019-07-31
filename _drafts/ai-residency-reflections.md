@@ -139,7 +139,7 @@ improvement to make pursuing this project worthwhile, so I started to experiment
 with some different ways of getting the harder textures to sound good.  I had
 some early successes here by combining a few known techniques in the literature
 for image texture synthesis, such as using a set of convolutional filters with
-varying widths (a technique developed by [Ustyuzhaninov et al. (2016)][4]).
+varying widths (a technique developed by [Ustyuzhaninov et al., 2016][4]).
 This produced much higher quality audio for bells.  Furthermore, one of my
 mentors pointed me to a paper by [Sendik & Cohen-Or (2017)][5], which had used
 the autocorrelation function as a feature that allowed them to produce textures
@@ -492,8 +492,8 @@ stock options will be worth when we're a billion dollar company! and Google will
 easily beat the startup's base salary and will value the stock options at
 exactly $0.  Ultimately I ended up deciding to work for the startup (and I'm
 still here a year later).  I figured that good startup ideas come along rarely
-enough that it was worth taking a gamble.  If things don't work out at the
-startup the Googles of the world will always be hiring in the future.
+enough that it was worth taking a gamble.  If things don't work out the Googles
+of the world will always be hiring in the future.
 
 One crucial mistake I made after I signed the startup's offer letter was to tell
 my manager.  I wanted to withdraw my application for the rSWE position at Google
@@ -509,20 +509,15 @@ head start at Whisper.
 As it turned out I was the only resident to leave Google for another company.
 Most of the residents who didn't have PhDs went to grad school, and the rest
 managed to convert to either a research scientist or rSWE position, or extended
-the residency for another year.  Although I'm not doing any fundamental ML
-research anymore (apart from some side projects), the things I learned during
-the residency were extremely helpful for my current work at Whisper.  I had been
-self-taught in ML, but there's only so much you can get by reading books and
-papers on your own.  There's unfortunately no substitute for talking with
-researchers who are at the frontier of our knowledge.  One of the really helpful
-things about being at Google was the email lists where people post interesting
-papers.  This curation and the discussion that follows on those threads is
-invaluable in learning about new developments in the field.  These days I scan
-the arXiv on my own every day and glean a little more about new research from
-Twitter, and I know that I'm missing a bunch of good papers.  But the best part
-of the program by far was getting to work alongside thirty or so extraordinarily
-talented researchers.  Everyone in the residency was both incredibly smart and
-kind and it was an honor to work and become friends with them.
+the residency for another year.  Although I'm not doing fundamental ML research
+for my day job, the things I learned during the residency were extremely helpful
+for my current work at Whisper.  I had been self-taught in ML, but there's only
+so much you can get by reading books and papers on your own.  There's no
+substitute for talking with researchers who are at the frontier of our
+knowledge.  And beyond the value of the residency for my own growth as an ML
+practitioner, the group of researchers and residents that I got to know over the
+year were among the smartest and kindest people I have met, and it was a true
+privilege to have gotten to work and become friends with them.
 
 [1]: http://arxiv.org/abs/1505.07376
 
