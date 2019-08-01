@@ -8,9 +8,9 @@ image:
 ---
 
 About a year ago I finished up a year of doing machine learning research at
-Google as a Google AI Resident.  (Technically when I started I was a Google
-Brain Resident, but midway through the powers that be decided to rebrand the
-program and I was supposed to refer to myself as a Google AI Resident.)  I was
+Google as a Google AI Resident.  Technically when I started I was a Google Brain
+Resident, but midway through the powers that be decided to rebrand the program
+and thereafter I was supposed to refer to myself as a Google AI Resident.  I was
 in the second cohort so the program as a whole was still having a few teething
 issues, but it was nevertheless an extraordinarily valuable experience.  This is
 a (fairly lengthy) blog post about my time there.
@@ -29,43 +29,42 @@ tweets and decided to apply almost on a whim.  The cover letter was probably the
 most important part of the application.  I treated it almost like a short
 research proposal, starting with some unifying threads in my past work and
 explaining how they were motivating the questions I wanted to answer at Google
-(and why Google would be a great place to try to solve those problems).  In my
+and why Google would be a great place to try to solve those problems.  In my
 case I had been working at a company called [Persyst](https://www.persyst.com)
 that does machine learning to interpret EEG data.  Most of my work there had
 been working with EKG data to robustly identify heart beats in noisy conditions.
 Heart beats can be picked up by the EEG and look very similar to a feature that
 is characteristic of epilepsy and could confuse the other classifiers.
 
-I was trying to build a system that would be robust to conditions that it hadn't
-been trained on, and I started thinking more generally about the problem of how
-to determine if a data point is similar to things a neural network has seen
-before, or if it's wildly different.  This is distinct from (though related to)
-the problem of calibrating the uncertainty of a neural network.  As an
-illustration, imagine a NN that was trained to classify handwritten 1s and 0s.
-If you give the NN a very narrow 0, it will return a confidence of around 0.5.
-But if you provide the NN with white noise then it will still probably return a
-confidence of 0.5 even though this example is quite different than a narrow 0.
-Unfortunately just rejecting anything that's classified with a confidence close
-to 0.5 isn't good enough because there's also out-of-distribution data that the
-NN will classify into one or the other classes with high confidence.  If you
-give the NN the letter "t", for example, it will probably think that looks much
-more like a 1 than a 0 and so will classify it accordingly with high
-probability.  Adversarial examples are the extreme limit of this
-out-of-distribution problem where you manage to construct an example which
-perceptually belongs to one class, but the NN classifies in another with high
-confidence.  I wasn't exactly sure how to go about solving this problem (it's a
-hard problem!), but it was one of the things I was thinking of at the time.  (In
-the end my research turned out to be on completely different topics, though I'm
-still interested in this problem.)
+I was trying to build a system that would be robust to novel conditions and I
+started thinking more generally about the problem of how to determine if a data
+point is similar to things a neural network (NN) has seen before, or if it's
+wildly different.  This is distinct from (though related to) the problem of
+calibrating the uncertainty of a NN.  As an illustration, imagine a NN that was
+trained to classify handwritten 1s and 0s.  If you give the NN a very narrow 0,
+it will return a confidence of around 0.5.  But if you provide the NN with white
+noise then it will still probably return a confidence of 0.5 even though this
+example is quite different than a narrow 0.  Unfortunately just rejecting
+anything that's classified with a confidence close to 0.5 isn't good enough
+because you can easily come up with unusual data that the NN will classify into
+one or the other classes with high confidence.  If you give the NN the letter
+"t", for example, it will probably think that looks much more like a 1 than a 0
+and so will classify it accordingly with high probability.  Adversarial examples
+are the extreme limit of this out-of-distribution problem where you manage to
+construct an example which perceptually belongs to one class, but the NN
+classifies in another with high confidence.  I wasn't exactly sure how to go
+about solving this problem (it's hard!), but it was one of the things I was
+thinking of at the time.  In the end my research at Google Brain turned out to
+be on completely different topics though I'm still interested in this problem.
 
-I was fortunate to then be selected for a phone screen where I was interviewed
-by Kevin Murphy.  The phone screen mostly focused on the machine learning work
-that I had done and delved a little bit into what I wanted to do at Google.  The
+I was fortunate to be selected for a phone screen where I was interviewed by
+Kevin Murphy.  The phone screen mostly focused on the machine learning work that
+I had done and delved a little bit into what I wanted to do at Google.  The
 phone screen went well and I was selected for an onsite interview in late
 February.  During the onsite we were given a tour of Google Brain (they had some
 robots running around, which made it especially cool!), and got to see a few
 short presentations by Brain Residents from the previous cohort about their
-research, but of course the reason we were all there was for the interviews.
+research.  But of course the reason we were all there was for the interviews.
 The interview had two components: a machine learning interview and a programming
 interview.  I thought that the programming interview went okay, though not
 great, but I thought that I had completely bombed the machine learning
@@ -79,19 +78,19 @@ There ended up being about 30 AI residents in my cohort.  As AI Residents we
 were technically "fixed-term full time employees" (so, not contractors or
 interns).  As such in mid-July we went through the Google's normal two-day
 employee orientation.  After this we had a separate orientation specific for AI
-residents that lasted about two weeks.  Each of us got an "orientation mentor"
+residents that lasted about three weeks.  Each of us got an "orientation mentor"
 who showed us the ropes about how to do basic things within Google Brain.
 (There were varying degrees of helpfulness from the orientation mentors.  My
-mentor, Patrick Nguyen was great, but I think some residents never saw their
-orientation mentor at all.)  We also went through a crash course in deep
-learning taught by Chris Olah.
+mentor, Patrick Nguyen, was great, but I think some residents never saw their
+orientation mentor at all.)  Chris Olah also taught a crash course in deep
+learning for us.
 
-During this time we also chose a topic for a "mini-project" that we would do to
-get familiar with Tensorflow and Google's infrastructure.  In my case I decided
-to train a model to generate captions for New Yorker cartoons.  It turned out
-that someone at Google Brain (Chris Shallue) had already done a project like
-this, so some code was already available and my plan was to add some more data
-to the training set to see if the results improved.
+During this time we chose a topic for a "mini-project" that we would do to get
+familiar with Tensorflow and Google's infrastructure.  In my case I decided to
+train a model to generate captions for New Yorker cartoons.  It turned out that
+someone at Google Brain (Chris Shallue) had already done a project like this, so
+some code was already available.  My plan was to add some more data to the
+training set to see if the results improved.
 
 Sadly, the model I trained didn't really learn to make clever New Yorker cartoon
 captions, though perhaps that was asking a bit much of it given that there are
@@ -101,12 +100,13 @@ but..."  Any amusing captions it produced was purely by coincidence.  But there
 wasn't really enough time in two weeks to do much experimentation, especially
 with the other orientation activities going on.
 
-Towards the end of our orientation we went to a series of presentations to help
+Towards the end of our orientation we attended a series of presentations to help
 us decide which research projects to embark on during the residency.  Research
-scientists would give us a 5 minute pitch about different projects they wanted a
-resident to work on.  After a few days of presentations (and over a hundred
-research ideas!) we had some time to go over the different projects and talk to
-the people we'd potentially work with before deciding on a first project.
+scientists would give us a five minute pitch about different projects they
+wanted a resident to work on.  After a few days of presentations (and over a
+hundred research ideas!) we had some time to go over the different projects and
+talk to the people we'd potentially work with before deciding on a first
+project.
 
 ## Research
 
@@ -133,9 +133,9 @@ would be able to extend the neural texture synthesis technique to audio and
 would similarly get much more sophisticated textures.
 
 As I embarked on this project I started doing some more background reading and
-pretty quickly discovered that Dmitry Ulyanov and Vadim Lebedev had written up a
-really cool [blog post][3] that extended the neural texture synthesis technique
-to audio.  I was able to reproduce the results from [Gatys et al. (2015)](1) on
+quickly discovered that Dmitry Ulyanov and Vadim Lebedev had written up a really
+cool [blog post][3] that extended the neural texture synthesis technique to
+audio.  I was able to reproduce the results from [Gatys et al. (2015)](1) on
 image textures and Ulyanov & Lebedev's work on audio textures within a week or
 two, but I wasn't particularly happy with the results on certain kinds of
 textures.  In particular bells with long, sustained tones did not sound very
@@ -187,25 +187,25 @@ Moreover, if you're using some ML algorithm to *generate* a spectrogram, there's
 no guarantee that *any* audio signal actually corresponds to your spectrogram.
 
 For the past 35 years, the standard technique for inverting a spectrogram has
-been the [Griffin-Lim algorithm][6].  The idea behind the Griffin-Lim algorithm
-is to start with random phases in each of the STFT bins, and then go back and
-forth between spectrogram and audio, updating the phases so that the spectrogram
-of the resulting audio more closely corresponds to the original spectrogram.
-The result will generally sound okay, but will contain audible artifacts.
-Moreover Griffin-Lim is pretty slow, usually requiring a few hundred iterations
-for a solution to converge.  For my ten second audio clips that would take a few
-minutes to go from spectrogram to audio.  There have been a few variants on the
-Griffin-Lim algorithm over the years (mostly aimed at making it faster), but
-there haven't really been any qualitative improvements in the resulting audio.
+been the [Griffin-Lim algorithm][6].  The idea is to start with random phases in
+each of the STFT bins, and then go back and forth between spectrogram and audio,
+updating the phases so that the spectrogram of the resulting audio more closely
+corresponds to the original spectrogram.  The result will generally sound okay,
+but will contain audible artifacts.  Moreover Griffin-Lim is pretty slow,
+usually requiring a few hundred iterations for a solution to converge.  For my
+ten second audio clips that would take a few minutes to go from spectrogram to
+audio.  There have been a few variants on the Griffin-Lim algorithm over the
+years (mostly aimed at making it faster), but there haven't really been any
+qualitative improvements in the resulting audio.
 
 I thought that deep learning could provide a way to invert spectrograms with
-much higher quality than Griffin-Lim.  I certainly wasn't the only person
-thinking along these lines!  At the time Jonathan Shen was working on [Tacotron
-2][7] and got really good results for text-to-speech for the Google Assistant
-voice by conditioning Wavenet on a mel spectrogram.  I was curious, though, if
-this technique could be made more general.  What if, instead of synthesizing a
-single speaker's voice, we could produce *any* audio by conditioning Wavenet
-on its spectrogram?
+much higher quality.  And I certainly wasn't the only person thinking along
+these lines!  At the time Jonathan Shen was working on [Tacotron 2][7] and got
+really good results for text-to-speech for the Google Assistant voice by
+conditioning Wavenet on a mel spectrogram.  I was curious, though, if this
+technique could be made more general.  What if, instead of synthesizing a single
+speaker's voice, we could produce *any* audio by conditioning Wavenet on its
+spectrogram?
 
 I ended up spending about two months following this line of thought,
 unfortunately without much success.  My idea was to use [AudioSet][8] as a
@@ -248,7 +248,7 @@ The main shortcoming in the audio textures that I was able to generate at this
 point was that there wasn't a lot of diversity in the results.  I tried
 addressing this by adding a diversity term to the loss from [Sendik & Cohen-Or
 (2017)][5] that would penalize the algorithm for producing a texture that was
-too similar to the original, but the algorithm would sneakily get around this by
+too similar to the original, but the algorithm would sneak around this by
 reproducing the original exactly, but shifted over in time by a few seconds.  I
 ended up solving this issue by changing the loss term so that the algorithm was
 penalized for reproducing something too close to the original shifted by *any*
@@ -257,39 +257,39 @@ amount of time.
 We felt that the quality of the audio textures was good enough by now to start
 writing up an ICML submission.  The hope was that by combining a scattered set
 of techniques for texture synthesis in the literature (e.g., multiple receptive
-field sizes and an autocorrelation term), plus developing an improved diversity
-term, along with substantial quantitative and qualitative analysis of the
-results, we would have a paper that would be sufficiently interesting for ICML.
-The reviewers ended up giving us generally positive reviews about the paper and
-the quality of the audio textures, but as expected the main criticism was that
-the work just felt too incremental for ICML.  And honestly I think they were
-right.  The paper was rejected, so we incorporated some of the reviewers'
-suggestions and later submitted it to TASLP, where it was again rejected for
-similar reasons.  After that we submitted the paper to ICASSP 2019, where it was
-[finally accepted][10], though at about half the original length and without
-most of the analysis.  (The original, full-length paper can be found
-[here][11].)
+field sizes, random filters, an autocorrelation term), plus developing an
+improved diversity term, along with substantial quantitative and qualitative
+analysis of the results, we would have a paper that would be sufficiently
+interesting for ICML.  The reviewers ended up giving us generally positive
+reviews about the paper and the quality of the audio textures, but as expected
+the main criticism was that the work just felt too incremental for ICML.  And
+honestly I think they were right.  The paper was rejected, so we incorporated
+some of the reviewers' suggestions and later submitted it to TASLP, where it was
+again rejected for similar reasons.  After that we submitted the paper to ICASSP
+2019, where it was [finally accepted][10], though at about half the original
+length and without most of the analysis.  (The original, full-length paper can
+be found [here][11].)
 
 ### Batch size
 
 Concurrent to my work on the audio textures project I also started on a project
 to study the effect of batch size on training time.  There had been some papers
 in the literature arguing that neural networks trained with larger batch sizes
-generalize worse, but other researchers had argued that you could generally
-achieve the same performance by increasing the batch size so long as you also
-increased the learning rate.  The goal of this project was to do a thorough set
-of experiments on a wide variety of tasks and architectures to determine what
-the relationship really was between batch size, training time, and
-generalization, controlling for hyperparameters as much as possible.  George
-Dahl conceived of and managed the project, and he recruited Jaehoon Lee and
-myself to actually carry out the experiments.
+generalize worse, but other researchers had argued that you could achieve the
+same performance by increasing the batch size so long as you also increased the
+learning rate.  The goal of this project was to do a thorough set of experiments
+on a wide variety of tasks and architectures to determine what the relationship
+really was between batch size, training time, and generalization, controlling
+for hyperparameters as much as possible.  George Dahl conceived of and managed
+the project, and he recruited Jaehoon Lee and myself to actually carry out the
+experiments.
 
 I liked this project from the start because I was (and still am) of the opinion
 that the machine learning field has too few systematic studies, and as a
-consequence there is a great deal of cargo culting.  I also thought that it
-wouldn't take a huge amount of time --- how hard could training a few models and
-varying the batch size be?  But as we began it became clear that this was much
-more technically complicated than we originally anticipated.
+consequence there is a lot of cargo culting.  I also thought that it wouldn't
+take a huge amount of time --- how hard could training a few models and varying
+the batch size be?  But as we began it became clear that this was much more
+technically complicated than we originally anticipated.
 
 Our original idea was to use the [`tensor2tensor`][12] library for the project
 since they had implemented a variety of models that could train on a variety of
@@ -308,9 +308,9 @@ During this project I encountered the most difficult bug I've had to deal with
 in my career.  I had implemented ResNet-50 for the ImageNet task, and it was
 known that with a certain set of hyperparameters, the model should obtain an
 accuracy of just over 75%.  Yet I consistently saw that I was getting just over
-74%, about 1% less than I should.  I spent about a week debugging this on my
-own, but made little progress because the model took about 8 hours to train even
-on a TPU.
+74%, about 1% less than I should.  I spent about a week debugging this on and
+off on my own, but made little progress because the model took about 8 hours to
+train even on a TPU.
 
 Ultimately I ended up spending a few days with Jaehoon and Chris where we went
 layer by layer and compared the network output with a reference implementation.
@@ -319,7 +319,7 @@ Moreover, every contribution to the loss we could find was identical as well,
 although the overall loss was slightly different.  After more digging Chris
 discovered that weight decay was getting applied to every layer except for the
 very last softmax layer because the softmax layer was applied in a separate
-module.  The weight decay on that one layer turned out to be key, and was the
+module.  The weight decay on that single layer turned out to be key and was the
 difference between 74% accuracy and 75% accuracy.
 
 Once that bug was fixed the rest of my contribution to the project was mostly
@@ -344,14 +344,13 @@ problem.
 After I had submitted my audio textures paper to ICML I had more free time on my
 hands.  I had been following along with some of the work trying to apply
 techniques from statistical physics to understand neural network training, but
-hadn't had the opportunity to do any research in that vein myself.  I'm not
+hadn't had the opportunity to do any research along those lines myself.  I'm not
 exactly sure how I got onto this subject, but as I was looking through some of
 this research I started playing around with random walks as a model for neural
 network training.  While it might sound a little crazy to take the training
-process which is very much *not* a random walk, and approximate it with
-something so simple, there is a substantial stochastic component to neural
-network training since the batch sizes we train with are generally very small
-relative to the overall dataset size.
+process which is very much *not* a random walk and approximate it with something
+so simple, there is a substantial stochastic component to neural network
+training.
 
 As I was playing around with high dimensional random walks I somehow noticed
 that when you apply PCA, you end up getting very smooth curves.  Not only are
@@ -365,7 +364,7 @@ obsessively.
   include image
   name="rw_tableau.png"
   caption="PCA projections of high dimensional random walks are Lissajous
-    curves."
+    curves!"
 %}
 
 When I had first seen these curves they immediately looked like Lissajous curves
@@ -374,17 +373,17 @@ functional form of the curves.  After a little bit I realized that everything
 was quite simple if I replaced the sines in the Lissajous curve definition with
 cosines.
 
-I also started to do a lot of background reading about random walks and quickly
-discovered an amazing paper by [Moore et al. (2018)][15].  They analyzed a
-random walk in the limit of infinite dimensions and showed that when you applied
-PCA, about 60% of the explained variance is in the first PCA component, and 80%
-is in the first two!  This blew my mind.  I compared the distribution of
+I also started to do a bunch of background reading about random walks and
+quickly discovered an amazing paper by [Moore et al. (2018)][15].  They analyzed
+a random walk in the limit of infinite dimensions and showed that when you
+applied PCA, about 60% of the explained variance is in the first PCA component,
+and 80% is in the first two!  This blew my mind.  I compared the distribution of
 variances that they predicted with what I saw and found that it matched exactly.
-But they didn't show that the projection of the random walk onto the PCA
-components produced a Lissajous curve.  In fact, as I went through the
-literature, it seemed that no one had observed this fact.  [One paper][16] had
-noticed that they got Lissajous curves when they applied PCA to their dataset,
-but no one had made the connection between random walks and Lissajous curves.
+But they didn't look at what the random walk looks like when projected onto PCA
+components.  In fact, as I went through the literature, it seemed that no one
+had looked at this.  [One paper][16] had noticed that they got Lissajous curves
+when they applied PCA to their dataset, but no one had made the connection
+to random walks.
 
 I went through Moore et al.'s analysis step by step to see if I could extend it
 to show why the projection of the walk onto the PCA basis would always be a
@@ -443,7 +442,7 @@ people about random walks and catch up with the other residents.
 
 The question of what to do with us after the residency ended seemed to be the
 part that Google had thought through least.  Officially, the story was that once
-the residency was over that was it and you'd leave Google.  Unofficially,
+the residency was over that was that and you'd leave Google.  Unofficially,
 however, the people running the program were expecting most of us to convert to
 full time positions at Google once the residency ended.  This tension between
 the official and unofficial version made things difficult because it was unclear
@@ -456,71 +455,75 @@ to convert.
 Some of the residents had a background in machine learning research and so
 already had a publication record they could point to in support of their
 conversion process.  They also tended to have some projects in the works when
-they started and were able to get out publications earlier in the program.  They
-were generally able to convert to research scientist positions.  Others like
-myself were coming from other fields and so we didn't have an ML publication
-record yet.  Since the residency was only a year long, most of us had a few
-papers which had been submitted to different venues, but due to the timing of
-the conference submission processes, it was hard to have more than one accepted
-paper by the end of the residency.  (And because my audio textures paper had
-been rejected from ICML I didn't have any).  
+they started and were able to get out publications earlier in the program which
+made it easier for them to convert to research scientist positions at the end of
+the year.  Others like myself were coming from other fields and so we didn't
+have an ML publication record yet.  Since the residency was only a year long,
+most of us had a few papers which had been submitted to different venues, but
+due to the timing of the conference submission processes, it was hard to have
+more than one accepted paper by the end of the residency.  (And because my audio
+textures paper had been rejected from ICML I didn't have any).  
 
-The recommendation for those of us who were new to ML was generally to extend the
-residency for another year before trying to apply for a research scientist
-position.  Another alternative was to apply for a research software engineer
-position (called rSWEs in the Googler lingo).  Within Google Brain projects are
-normally conceived of by research scientists and rSWEs will move between
-different projects to implement the experiments when they require more
-infrastructure.  In practice rSWEs within Google Brain have a lot of freedom to
-work on research projects that they find interesting.  I wasn't especially keen
-on extending the residency, mostly for salary reasons.  (Residents have a base
-salary that's somewhat comparable to an equivalent software engineer at Google,
-but they don't get any of the stock that makes up a substantial component of a
-normal Googler's total compensation.)  I had written a fair amount of code for
-the batch size project, so I decided to apply for an rSWE position.  Like at a
-college campus, people at Google will often put up flyers in prominent locations
-advertising events and open positions.  From one of these flyers I learned of an
-interesting new project to apply ML to meteorological data.  The project was
-going to use a new, untapped data source and I felt I'd be well suited for it
-given my background in physics.  There was a pretty clear use case for an
-associated product (always helpful for performance reviews at Google), and the
-project was just getting started, so it would be easy to make significant
-contributions.  I talked to the engineer who was organizing the project and he
-thought I was a good fit, so I formally applied for the position.  As a resident
-I only had to do two interviews rather than the usual five since I could point
-to my performance reviews in my conversion packet.
+The recommendation for those of us who didn't have many publications yet was
+generally to extend the residency for another year before trying to apply for a
+research scientist position.  Another alternative was to apply for a research
+software engineer position (called rSWEs in the Googler lingo).  Within Google
+Brain projects are normally conceived of by research scientists and rSWEs will
+move between different projects to implement the experiments when they require
+more infrastructure.  In practice rSWEs within Google Brain have a lot of
+freedom to work on research projects that they find interesting.  I wasn't
+especially keen on extending the residency, mostly for salary reasons.
+(Residents have a base salary that's somewhat comparable to a SWE of an
+equivalent level at Google, but they don't get any of the stock or profit
+sharing that makes up a substantial component of a normal Googler's total
+compensation.)  I had written a fair amount of code for the batch size project,
+so I decided to apply for an rSWE position.
+
+People at Google will often put up flyers in prominent locations advertising
+events and open positions.  From one of these flyers I learned of an interesting
+new project to apply ML to meteorological data.  The project was going to use a
+new, untapped data source and I felt I'd be well suited for it given my
+background in physics.  There was a pretty clear use case for an associated
+product (always helpful for performance reviews at Google), and the project was
+just getting started, so it would be easy to make significant contributions.  I
+talked to the engineer who was organizing the project and he thought I was a
+good fit, so I formally applied for the position.  As a resident I only had to
+do two interviews rather than the usual five since I could point to my
+performance reviews in my conversion packet.
 
 I was simultaneously applying for a number of jobs outside of Google.  We
 quickly learned that it was wise to look outside of Google even if your goal was
-to remain at Google.  Google will be content to have you simply extend the
-residency, so sometimes you have to force their hand with an offer letter from
-another company.  Fortunately, having the magic dust of the Google name on your
-resume definitely helps you to get noticed by recruiters, but it's no guarantee
-of a job!  I think I only heard back at all from maybe a quarter of the jobs I
-applied to.  I also reached out to the CEO of a startup called [Whisper][21]
-whom I had met earlier in the residency.  Back in September, he had contacted me
-through a mutual friend and pitched me his idea of using deep learning to do
-noise reduction in hearing aids.  It was a great idea with a lot of potential,
-but I had only been at Google for two months at the time, so I demurred.  But
-now that the residency was coming to an end, I reached out to him to see how the
-startup was going and asked if they were still looking for ML engineers.  They
-were, so I interviewed with them and a few days later I got an offer.
+to remain at Google.  Google will be content to string you along and extend the
+residency as long as possible, so sometimes you have to force their hand with an
+offer letter from another company.  Fortunately, having the magic dust of the
+Google name on your resume definitely helps you to get noticed by recruiters,
+but it's no guarantee of a job!  I think I only heard back at all from maybe a
+quarter of the jobs I applied to.  I also reached out to the CEO of a startup
+called [Whisper][21] whom I had met earlier in the residency.  Back in
+September, he had contacted me through a mutual friend and pitched me his idea
+of using deep learning to do noise reduction in hearing aids.  It was a great
+idea with a lot of potential, but I had only been at Google for two months at
+the time, so I demurred.  But now that the residency was coming to an end, I
+reached out to him to see how the startup was going and asked if they were still
+looking for ML engineers.  They were, so I interviewed with them and a few days
+later I got an offer.
 
 This offer put me in a bit of an awkward position with respect to my ongoing
 application with Google.  I knew that it would be at least a month before they
 made a decision, so I had to decide whether to accept the startup offer or
 decline and hope that I got an offer from Google and continue to pursue
-applications at other large companies.  Because of the timing of my interviews I
-wasn't able to leverage multiple offers against each other, although I don't
-think that would have been a huge help in my situation since an offer from
-Google is not really comparable to a startup offer.  The startup will say that,
-well, of course we can't meet Google's base salary, but look at how much your
-stock options will be worth when we're a billion dollar company! and Google will
-easily beat the startup's base salary and will value the stock options at
-exactly $0.  Ultimately I ended up deciding to work for the startup (and I'm
-still here a year later).  I figured that good startup ideas come along rarely
-enough that it was worth taking a gamble.  If things don't work out the Googles
-of the world will always be hiring in the future.
+applications at other big companies.  Because of the timing of my interviews I
+wasn't able to leverage any offers against any others like some of the other
+residents, although I don't think that would have been a huge help in my
+situation since an offer from Google is not really comparable to a startup
+offer.  The startup will say that, well, of course we can't meet Google's base
+salary, but look at how much your stock options will be worth when we're a
+billion dollar company! and Google will easily beat the startup's base salary
+and will value the stock options at exactly $0.  Ultimately I ended up deciding
+to work for the startup (and I'm still here a year later).  I figured that good
+startup ideas come along rarely enough that it was worth taking a gamble.  If
+things don't work out the Googles of the world will always be hiring in the
+future.
 
 One crucial mistake I made after I signed the startup's offer letter was to tell
 my manager.  I wanted to withdraw my application for the rSWE position at Google
@@ -535,16 +538,16 @@ start at Whisper.
 
 As it turned out I was the only resident to leave Google for another company.
 Most of the residents who didn't have PhDs went to grad school, and the rest
-managed to convert to either a research scientist or rSWE position, or extended
-the residency for another year.  Although I'm not doing fundamental ML research
-for my day job, the things I learned during the residency were extremely helpful
-for my current work at Whisper.  I had been self-taught in ML, but there's only
-so much you can get by reading books and papers on your own.  There's no
-substitute for talking with researchers who are at the frontier of our
-knowledge.  And beyond the value the residency had for my own growth as an ML
-practitioner, the group of researchers and residents that I got to know over the
-year were among the smartest and kindest people I have met, and it was a true
-privilege to have worked and become friends with them.
+either extended the residency for another year or converted to a research
+scientist or rSWE position.  Although I'm not doing fundamental ML research for
+my day job anymore, the things I learned during the residency were extremely
+helpful for my current work at Whisper.  I had been self-taught in ML, but
+there's only so much you can get by reading books and papers on your own.
+There's no substitute for talking with researchers who are at the frontier of
+our knowledge.  And beyond the value the residency had for my own growth as an
+ML practitioner, the group of researchers and residents that I got to know over
+the year were among the smartest and kindest people I have met, and it was a
+true privilege to have worked and become friends with them.
 
 {%
   include image
