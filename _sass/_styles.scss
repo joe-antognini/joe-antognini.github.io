@@ -502,8 +502,8 @@ header.site-header nav {
         
         figcaption {
             font-size: $fs5;
-            font-family: $sans;
-            font-weight: bold;
+            font-family: $serif;
+            // font-weight: bold;
             /*text-transform: uppercase;*/
             color: lighten($black, 15%);
             text-align: center;

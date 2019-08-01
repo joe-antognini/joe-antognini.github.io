@@ -15,6 +15,13 @@ in the second cohort so the program as a whole was still having a few teething
 issues, but it was nevertheless an extraordinarily valuable experience.  This is
 a (fairly lengthy) blog post about my time there.
 
+{%
+  include image
+  name="google_view.jpg"
+  caption="The view from Google's San Francisco office where I did most of my
+    writing."
+%}
+
 ## Application and interview
 
 I think I first heard about the Google Brain Residency from one of Jeff Dean's
@@ -147,6 +154,19 @@ with regular patterns like a brick wall.  I found that I was able to use this
 feature to produce audio textures with rhythm like a person tapping.  By the end
 of October I was pretty happy with the quality of the textures that were getting
 generated.
+
+{%
+  include image
+  name="Railroad_crossing.png"
+  caption="A synthesized railroad crossing."
+%}
+
+<center>
+  <audio controls="">
+    <source src="/assets/posts/ai-residency-reflections/Railroad_crossing.ogg" />
+    <source src="/assets/posts/ai-residency-reflections/Railroad_crossing.mp3" />
+  </audio>
+</center>
 
 #### A diversion into spectrogram inversion
 
@@ -341,6 +361,13 @@ overall sign flip).  I thought this was very strange and started to spend a lot
 of time trying to understand exactly what was going on, perhaps a bit
 obsessively.
 
+{%
+  include image
+  name="rw_tableau.png"
+  caption="PCA projections of high dimensional random walks are Lissajous
+    curves."
+%}
+
 When I had first seen these curves they immediately looked like Lissajous curves
 to me, so I spent a little while trying to fit them to see if I could find the
 functional form of the curves.  After a little bit I realized that everything
@@ -503,8 +530,8 @@ I could be terminated and forfeit the bonus you get at the end of the program.
 A few days later she said she had discussed with some higher ups and said that I
 could keep the completion bonus (although I learned a few months later that I
 had to pay back a portion of my signing bonus).  I was a bit tired of Google's
-antics by now and decided to leave the residency a few weeks early and get a
-head start at Whisper.
+antics by now and decided to leave the residency two weeks early and get a head
+start at Whisper.
 
 As it turned out I was the only resident to leave Google for another company.
 Most of the residents who didn't have PhDs went to grad school, and the rest
@@ -514,10 +541,16 @@ for my day job, the things I learned during the residency were extremely helpful
 for my current work at Whisper.  I had been self-taught in ML, but there's only
 so much you can get by reading books and papers on your own.  There's no
 substitute for talking with researchers who are at the frontier of our
-knowledge.  And beyond the value of the residency for my own growth as an ML
+knowledge.  And beyond the value the residency had for my own growth as an ML
 practitioner, the group of researchers and residents that I got to know over the
 year were among the smartest and kindest people I have met, and it was a true
-privilege to have gotten to work and become friends with them.
+privilege to have worked and become friends with them.
+
+{%
+  include image
+  name="monterey_ride.jpg"
+  caption="Taking a break during a bike from Saratoga to Monterey."
+%}
 
 [1]: http://arxiv.org/abs/1505.07376
 
