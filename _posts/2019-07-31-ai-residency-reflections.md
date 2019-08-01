@@ -552,7 +552,7 @@ true privilege to have worked and become friends with them.
 {%
   include image
   name="monterey_ride.jpg"
-  caption="Taking a break during a bike from Saratoga to Monterey."
+  caption="Taking a break during a bike ride from Saratoga to Monterey."
 %}
 
 [1]: http://arxiv.org/abs/1505.07376
