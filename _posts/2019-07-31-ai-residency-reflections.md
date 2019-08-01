@@ -18,8 +18,8 @@ a (fairly lengthy) blog post about my time there.
 {%
   include image
   name="google_view.jpg"
-  caption="The view from Google's San Francisco office where I did most of my
-    writing."
+  caption="The view from Google's San Francisco office and a lovely place to
+    write."
 %}
 
 ## Application and interview
@@ -552,7 +552,7 @@ true privilege to have worked and become friends with them.
 {%
   include image
   name="monterey_ride.jpg"
-  caption="Taking a break during a bike ride from Saratoga to Monterey."
+  caption="Preparing for a bike ride from Saratoga to Monterey."
 %}
 
 [1]: http://arxiv.org/abs/1505.07376
