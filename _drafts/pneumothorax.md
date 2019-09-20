@@ -79,6 +79,8 @@ I was a little surprised that a doctor would have to call 911 for a medical
 emergency given that I was already in a hospital!  But evidently in my condition
 I needed to go to the emergency room.
 
+## So what is a spontaneous pneumothorax?
+
 ## Emergency room
 
 ## Surgery
