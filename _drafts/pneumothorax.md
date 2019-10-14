@@ -82,7 +82,7 @@ I needed to go to the emergency room.
 
 ### So what is a spontaneous pneumothorax, anyway?
 
-Before getting into more details about my experience it would be useful to go
+Before getting into more details about my experience I should go
 into a little more detail about what exactly a spontaneous pneumothorax is.  I
 didn't get all this information until a few days later, but I got some of it in
 the emergency room so now is as good a time as any for a short primer on the
@@ -127,17 +127,17 @@ lung collapsed, so I could still breathe, albeit shallowly.  But if one lung
 completely collapses, it's only a matter of time before it causes the other lung
 to collapse as well.  Once both lungs collapse you can't breathe at all and will
 quickly die if left untreated.  Another danger is that the collapsed lung can
-impinge upon the heart or aorta and lead to cardiac arrest.  So if you have a ,
-really, get treated right away.
+impinge upon the heart or aorta and lead to cardiac arrest.  So if you have
+trouble breathing, really, get treated right away.
 
-Fortunately the immediate treatment is simple --- the nurse will insert a tube
-into your chest, attach it to a suction pump, and pump the air out of your chest
-cavity.  With the air out of your chest cavity, the pressure differential
-between the lung and the chest cavity is restored, your lung will expand
-normally when your diaphragm contracts, and you can breathe normally again.  In
-many cases this is all that is required.  If the suction is kept on for a while
-to ensure the lung stays expanded, the lung will often heal itself and stay
-inflated once the chest tube is removed (at least for a while).
+Fortunately the immediate treatment for a pneumothorax is simple --- the nurse
+will insert a tube into your chest, attach it to a suction pump, and pump the
+air out of your chest cavity.  With the air out of your chest cavity, the
+pressure differential between the lung and the chest cavity is restored, your
+lung will expand normally when your diaphragm contracts, and you can breathe
+normally again.  In many cases this is all that is required.  If the suction is
+kept on for a while to ensure the lung stays expanded, the lung will often heal
+itself and stay inflated once the chest tube is removed (at least for a while).
 
 ## Emergency room
 
@@ -168,23 +168,23 @@ three times so I could catch my breath as my lung expanded.
 
 ## Surgery
 
-The usual treatment for a spontaneous pneumothorax is to use a chest tube to
-reinflate the lung, and then wait a while to see if the lung can heal itself.
-So, I was wheeled to a hospital room, and every now and again a nurse would
-disconnect my chest tube from suction, and then they'd wait a few hours and take
-a chest X-ray to see if my lung would stay up on its own.  They did this for
-three days, but every time I was taken off suction my lung collapsed again.
-(This was probably exacerbated by the fact that my lunge had completely
+Once a chest tube is in and the lung is reinflated, the usual treatment for a
+spontaneous pneumothorax is to just wait a while to see if the lung can heal
+itself.  So, I was wheeled to a hospital room, and every now and again a nurse
+would disconnect my chest tube from suction, and then they'd wait a few hours
+and take a chest X-ray to see if my lung would stay up on its own.  They did
+this for three days, but every time I was taken off suction my lung collapsed
+again.  (This was probably exacerbated by the fact that my lunge had completely
 collapsed.  If I had gone to the emergency room immediately the chest tube may
 have been enough.)
 
 In some ways the fact that my lung kept collapsing may have been a good thing,
-because it meant that I was eligible for a pleurodesis.  While it's nice if
-your lung heals itself, the odds that it will happen again are about 80%.  A
-pleurodesis, however, provides a more permanent solution.
+because it meant that I was eligible for a pleurodesis.  While it's nice if your
+lung heals itself, the odds that you'll get another spontaneous pneumothorax are
+about 80%.  A pleurodesis, however, provides a more permanent solution.
 
-That said, the pleurodesis is not a pretty surgery.  My surgeon put it very
-diplomatically by saying that "it is a procedure that is not without pani."  The
+That said, the pleurodesis is not a fun surgery.  My surgeon put it quite
+diplomatically by saying that "it is a procedure that is not without pain."  The
 pleurodesis is typically preceded by a "blebectomy", where the surgeon removes
 the portion of the lung with the ruptured bleb (and possibly other blebs in the
 area).  The lung is then stapled shut with a titanium surgical staple.  After
@@ -201,26 +201,36 @@ scar.  The idea behind this procedure is that this scar tissue will then grow
 between the lung and the chest wall.  This way if another bleb ruptures, the
 scar tissue can keep the rest of the lung up.
 
-In the past this procedure was a little more gruesome beacuse the surgeon would
+In the past this procedure was a little more gruesome because the surgeon would
 have to pry apart two ribs to get to the lung.  Thankfully these days the
-surgery is much less invasive; in my case I had four small incisions, three on
-my left side, and one on my back, each one about three-quarters of an inch long.
-The surgeon then sticks a robotic snake through these incisions to perform the
-surgery.  
+surgery is much less invasive; in my case I had five small incisions, three
+midway down my left side, one just under my armpit, and one on my back, each one
+about three-quarters of an inch long.  The surgeon then sticks a robotic snake
+through these incisions to perform the surgery.
 
-to Nevertheless, thoracic surgery of any kind is no joke.  The body keeps a lot of
+Nevertheless, thoracic surgery of any kind is no joke.  The body keeps a lot of
 its important parts there, so while there are risks associated with any surgery,
-there are more risks associated with .
-
-
-Twice a day I would
-get a chest X-ray to check on the status of my lung.
-
+there are more risks associated with thoracic surgery than usual.
 
 ### The downsides of pleurodesis
 
-So why don't the doctors just perform a pleurodesis on both while they're at it?
+For an otherwise healthy adult, a pleurodesis is a relatively safe procedure.
+In the words of my surgeon, "there are no home runs, but on a scale of 1 to 10,
+a pleurodesis is a 1."  Given that there is a 20% chance that an individual who
+has had a spontaneous pneumothorax on one lung will have a spontaneous
+pneumothorax on the other, why don't the doctors just perform a pleurodesis on
+both lungs while they're at it?
 
+The first reason is that although the surgery is relatively safe, it's still
+extremely painful.  After the surgery I wasn't able to sleep on my left side for
+about three months, and I still have pain today if I sleep on that side for too
+long.  Being able to lie down on my right side made my recovery much easier.
+
+The other reason is that if you need to have lung surgery later in life (say,
+you develop lung cancer), the pleurodesis makes those future surgeries much more
+dangerous.  The scar tissue that is keeping the lung up makes it very difficult
+for the surgeon to isolate the part of the lung they want to operate on and so
+any surgery becomes a much more delicate procedure.
 
 ### A digression in support of opioids
 
