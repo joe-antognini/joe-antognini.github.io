@@ -62,11 +62,11 @@ that serious, that I was going to go in to work after my appointment.)  After a
 few minutes my doctor came back and said, "So... we're going to call 911."  She
 told me that my left lung had collapsed, and then a few minutes later introduced
 me to the emergeency doctor and two SFFD paramedics who were going to take me to
-the emergency room by ambulance.  The paramedics had brought
-a guerney with them, but I told them I felt well enough to walk down to the
-ambulance (after all, I had just walked to get my X-ray!), but they told me that
-under no circumstances was I going to walk myself.  I told them that under no
-circumstances was I going to lay down in the guerney because it would be
+the emergency room at a hospital across town by ambulance.  The paramedics had
+brought a guerney with them, but I told them I felt well enough to walk down to
+the ambulance (after all, I had just walked to get my X-ray!), but they told me
+that under no circumstances was I going to walk myself.  I told them that under
+no circumstances was I going to lay down in the guerney because it would be
 incredibly painful, but fortunately it was fancy enough to transform into an
 upright seated position and they wheeled me out into the ambulance that way..
 
@@ -74,11 +74,10 @@ The ambulance ride itself was fairly uneventful.  I had never been in an
 ambulance before so I made some small talk with the paramedics in the back with
 me, and tried to ignore my heart rate approaching 130 bpm.  Although my
 condition was serious, it evidently wasn't serious enough to warrent turning on
-the sirens.
-
-I was a little surprised that a doctor would have to call 911 for a medical
-emergency given that I was already in a hospital!  But evidently in my condition
-I needed to go to the emergency room.
+the sirens.  I do remember, however, that as we pulled in to the hospital there
+was a pretty big bump as we drove onto the driveway to the emergency room and I
+remember thinking how that bump must have added some unnecessary pain to a lot
+of people who were already in serious pain.
 
 ### So what is a spontaneous pneumothorax, anyway?
 
@@ -180,8 +179,9 @@ have been enough.)
 
 In some ways the fact that my lung kept collapsing may have been a good thing,
 because it meant that I was eligible for a pleurodesis.  While it's nice if your
-lung heals itself, the odds that you'll get another spontaneous pneumothorax are
-about 80%.  A pleurodesis, however, provides a more permanent solution.
+lung heals itself, if you've had a spontaneous pneumothorax, the odds that the
+lung will collapse again are about 80%.  A pleurodesis, however, provides a more
+permanent solution.
 
 That said, the pleurodesis is not a fun surgery.  My surgeon put it quite
 diplomatically by saying that "it is a procedure that is not without pain."  The
@@ -237,25 +237,54 @@ any surgery becomes a much more delicate procedure.
 One of the things that happens to you when you have a spontaneous pneumothorax
 is that you take a lot of opioids.  Over the course of my recovery I became
 quite familiar with the different kinds and their effects: morphine, oxycontin,
-diluadid, fentanyl, percocet.  I had them all.
+norco, diluadid, fentanyl, percocet.  I had them all.
 
-
-The really interesting thing about the opioids was that they didn't actually
+The surprising thing to me about the opioids was that they didn't actually
 noticeably reduce my pain.  I suppose the surgery was so painful that I would
 have had to have been drugged out of my mind to completely eliminate the pain.
-But, the opioids doubled the volume of air I was able to breathe.
+Nevertheless, opioids were a critical part of my recovery because even though I
+was still in a lot of pain, they actually *doubled* the volume of air I was able
+to breathe.
 
-If you have a lung operation (or actually lots of other kinds of operations
-these days), the hospital will give you a little plastic device to keep called
-an incentive spirometer.  The incentive spirometer consists of a graduated
-cylinder with a floating disk and a tube attached.  By breathing into the
-spirometer, you can measure how much air you haev inhaled.  Before receiving a
-dose of opioids, I would only be able to breathe about 750 mL of air,  But after
-my next dose kicked in I would be breathing 1500 mL.  After the does had worn
-off Four hours later I would be back to breathing 750 mL with each breath.  For
-context, an avearge adult male can breathe around 4000 mL.  (I never had need to
-use a spirometer before my pneumothorax, so I unfortunately don't know what my
-personal baseline was before my lung collapsed.)
+This turns out to be critical for the recovery process.  The idea of the
+pleurodesis is that the surgeon thoroughly scars the lung and then the scar
+tissue grows betnween the lung and the chest wall to hold the lung up the next
+time a collapse happens.  But in order to get the scar tissue to grow to the
+chest wall the lung needs to be pressed up against the chest wall, which means
+that taking in deep breaths is crucial.  As you might imagine, having your lung
+scrubbed with steel wool and scarred with doxycycline does not exactly make it
+easy to take deep breaths.  Nevertheless, after the surgery I was told to
+breathe as deeply as I could every six minutes.
+
+To help you out with this, the hospital will give you a little plastic device to
+keep called an incentive spirometer.  The incentive spirometer is a graduated
+cylinder with a floating disk and a tube attached.  By breathing into it you can
+measure how much air you can inhale.  I noticed that before receiving a dose of
+opioids, I would only be able to breathe about 750 mL of air,  But after my next
+dose kicked in I would be breathing 1500 mL.  After the does had worn off four
+hours later I would be back to breathing 750 mL.  For context, an avearge adult
+male can breathe around 4000 mL.  (I never had need to use a spirometer before
+my pneumothorax, so I unfortunately don't know what my personal baseline was
+before my lung collapsed.)
+
+Without opioids I would not have been able to breathe as deeply as I needed to
+to successfully recover from the surgery.  Even still, I wouldn't be able to
+breathe very deeply in the last hour before the next four hour dose.  Sometimes
+the hospital would give me Tylenol to help tide me over between doses, but I
+never noticed the Tylenol making any difference.
+
+Interestingly, there is one class of medications that would have be extremely
+effective at relieving my pain: NSAIDs like Ibuprofin, Advil, and Motrin.
+NSAIDs are quite good at reducing inflammation and the pleurodesis .
+Unfortunately that is counter-productive in this case.  In a pleurodesis we
+*want* inflammation!  Inflaming the tissue is the whole point so that we can
+grow scar tissue!  So NSAIDs are great at relieving the pain from a pleurodesis,
+but defeat the entire purpose of the operation, so you're not allowed to have
+them for several weeks after this surgery.
+
+Of the opioids I was given Norco was by far the best.  Percocet was not too bad,
+but not as effective for me as Norco was.  The worst was Diluadid.  I was given
+that once and it made me nauseous to the point of vomiting.
 
 ## Recovery
 
