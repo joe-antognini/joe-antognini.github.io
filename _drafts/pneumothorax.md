@@ -121,8 +121,8 @@ and into the chest cavity; the lung won't inflate (or at least it won't inflate
 as much).  This picture is a bit simplified, however, because sometimes a bleb
 can pop and there can be a partial collapse, but it can resolve itself.
 
-A pneumothorax can be a very dangerous event.  I was lucky because only a single
-lung collapsed, so I could still breathe, albeit shallowly.  But if one lung
+A pneumothorax is very dangerous.  I was lucky because only a single lung
+collapsed, so I could still breathe, albeit shallowly.  But if one lung
 completely collapses, it's only a matter of time before it causes the other lung
 to collapse as well.  Once both lungs collapse you can't breathe at all and will
 quickly die if left untreated.  Another danger is that the collapsed lung can
@@ -162,8 +162,8 @@ uncomfortably.  Although the point of the chest tube is to get your lung
 inflated so you can breathe again, when they turned the suction I had an
 overwhelming sensation of being unable to breathe at all.  Even when the nurses
 put the suction on the lowest setting, I felt like a fish pulled out of water.
-It was so uncomfortable (even if not exactly painful), that I think they stopped
-three times so I could catch my breath as my lung expanded.  
+It was so uncomfortable (even if not exactly painful), that they stopped three
+times so I could catch my breath as my lung expanded.  
 
 ## Surgery
 
@@ -173,9 +173,9 @@ itself.  So, I was wheeled to a hospital room, and every now and again a nurse
 would disconnect my chest tube from suction, and then they'd wait a few hours
 and take a chest X-ray to see if my lung would stay up on its own.  They did
 this for three days, but every time I was taken off suction my lung collapsed
-again.  (This was probably exacerbated by the fact that my lunge had completely
+again.  This was probably exacerbated by the fact that my lunge had completely
 collapsed.  If I had gone to the emergency room immediately the chest tube may
-have been enough.)
+have been enough.
 
 In some ways the fact that my lung kept collapsing may have been a good thing,
 because it meant that I was eligible for a pleurodesis.  While it's nice if your
@@ -274,17 +274,57 @@ the hospital would give me Tylenol to help tide me over between doses, but I
 never noticed the Tylenol making any difference.
 
 Interestingly, there is one class of medications that would have be extremely
-effective at relieving my pain: NSAIDs like Ibuprofin, Advil, and Motrin.
-NSAIDs are quite good at reducing inflammation and the pleurodesis .
-Unfortunately that is counter-productive in this case.  In a pleurodesis we
-*want* inflammation!  Inflaming the tissue is the whole point so that we can
-grow scar tissue!  So NSAIDs are great at relieving the pain from a pleurodesis,
-but defeat the entire purpose of the operation, so you're not allowed to have
-them for several weeks after this surgery.
+effective at relieving my pain: NSAIDs like Ibuprofin, Advil, and Motrin.  As
+the full name implies NSAIDs (nonsteroidal anti-inflammatory drugs) are quite
+good at reducing inflammation.  Unfortunately that is counter-productive in this
+case.  In a pleurodesis we *want* inflammation!  Inflaming the tissue is the
+whole point so that we can grow scar tissue!  So NSAIDs are great at relieving
+the pain from a pleurodesis, but defeat the entire purpose of the operation, so
+you're not allowed to have them for several weeks after this surgery.
 
 Of the opioids I was given Norco was by far the best.  Percocet was not too bad,
-but not as effective for me as Norco was.  The worst was Diluadid.  I was given
-that once and it made me nauseous to the point of vomiting.
+but not as effective for me as Norco was.  The worst was Diluadid, which I was
+given once and made me nauseous to the point of vomiting.
+
+## After the surgery
+
+Going into surgery I had one tube sticking out of my chest, but when I woke up
+I discovered I now had two.  This second tube was a little grosser than the
+first because it was a drainage tube.  Instead of sticking out of the front of
+my chest, it was sticking out from my left side.  It was about two feet long and
+had a little bulb at the end to collect blood and other fluids.
+
+As before, the first tube was providing suction to keep my lung up while the
+scar tisuse began to form.  This tube passed through a little box with some sort
+of a water lock in it.  Since blood would make its way through the first tube,
+the box would collect the excess fluid so it didn't get sucked into the
+hospital's network of peunmatic tubes.  Additionally the water lock would bubble
+when air was being sucked out of my chest.  After the surgery, the hope was that
+the suction box would stop bubbling because the ruptured bleb would have been
+removed and the hole in my lung would have been stapled up.  Sadly, one day
+later as I was laying the hospital bed down to go to sleep I heard the bubbling
+start again.  I didn't realize it at the time, but it is apparently fairly
+common for the leak to continue a little while after the surgery since it takes
+a day or two for the stapled seam to heal and become airtight.  Fortunately, by
+morning the bubbling had stopped.  One of the residents took me off of suction
+and we waited a few hours, took an X-ray, and verified that the lung was staying
+up.
+
+(Incidentally I had a *lot* of chest X-rays over my week in the hospital,
+probably somewhere around 20.  I quickly learned that I have "long lungs" and a
+normal X-ray wouldn't catch the bottoms of my lungs.  If I forgot to tell the
+technician they'd have to redo the X-ray.  One of the technicians joked that
+after I was done with all this I would glow in the dark.  I looked up the
+radiation dosage from a chest X-ray, and fortuantely it takes on the order of
+25,000 chest X-rays before you have a substantially increased chance of cancer.
+By comparison, it only takes 25 CAT scans.)
+
+At this point I could be discharged from the hospital and go home.  Before I
+could go they had to remove the chest tube that had been providing suction.  One
+of the residents told me to take a deep breath, hunker down, and hum as loudly
+as I could and then he yanked it out.  Once it was out I was sent on my way,
+although I still had the drainage tube sticking out of my side.  That was to be
+removed a week later.
 
 ## Recovery
 
