@@ -286,7 +286,7 @@ Of the opioids I was given Norco was by far the best.  Percocet was not too bad,
 but not as effective for me as Norco was.  The worst was Diluadid, which I was
 given once and made me nauseous to the point of vomiting.
 
-## After the surgery
+## After surgery
 
 Going into surgery I had one tube sticking out of my chest, but when I woke up
 I discovered I now had two.  This second tube was a little grosser than the
@@ -322,11 +322,20 @@ By comparison, it only takes 25 CAT scans.)
 At this point I could be discharged from the hospital and go home.  Before I
 could go they had to remove the chest tube that had been providing suction.  One
 of the residents told me to take a deep breath, hunker down, and hum as loudly
-as I could and then he yanked it out.  Once it was out I was sent on my way,
-although I still had the drainage tube sticking out of my side.  That was to be
-removed a week later.
+as I could and then he yanked it out.  (This was essentially performing a
+Valsalva manuveur.)  Once it was out I was sent on my way, although I still had
+the drainage tube sticking out of my side.  That was to be removed a week later.
 
 ## Recovery
+
+* Removing the drainage tube
+* Sleeping
+* Referred pain
+* Carrying heavy objects
+* Pleural friction rub
+* Clutching rib during coughing and sneezing
+* Going back to work
+* Trachea feeling offset
 
 Today I can easily breathe over 3000 mL on my spirometer, and 
 
