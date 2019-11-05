@@ -328,6 +328,32 @@ the drainage tube sticking out of my side.  That was to be removed a week later.
 
 ## Recovery
 
+The week that I had my drainage tube after surgery was quite painful.  I didn't
+know it at the time, but the tube wraps through the chest cavity and is perhaps
+a foot and a half long.  The tube rubs against parts of the body that normally
+not have plastic tubes rubbing against them, so it creates pain, but the brain
+doesn't know how to correctly interpret the pain.  This produces a sensation of
+upper back pain in very specific spots, known as "referred pain".  During this
+time it was too painful to lie down so my wife and I created an enormous mound
+of pillows on the bed so I could sleep sitting up.
+
+A week later I went back to the hospital to have the drainage tube removed.  As
+with the other chest tube, I had to take a deep breath in and hunker down while
+the resident yanked the tube out of me.  The drainage tube was longer than the
+original chest tube and I think some scar tissue had started to grow around it,
+so removing it was the most painful part of the entire ordeal.
+
+Once all the tubes were out of my body I felt much better.  I still couldn't lie
+down, but I at least didn't have terrible back pain anymore.  My tube was
+removed on a Friday so I went back to work on the following Monday.  I was out
+for a total of two weeks, one in the hospital, and one recovering at home.  I
+was instructed not to carry anything heavier than five pounds for the six weeks
+after my surgery.
+
+The recovery process was fairly slow.
+
+
+
 * Removing the drainage tube
 * Sleeping
 * Referred pain
@@ -338,6 +364,7 @@ the drainage tube sticking out of my side.  That was to be removed a week later.
 * Trachea feeling offset
 * Persistent cough
 * Spasms in chest
+* Paranoia
 
 Today I can easily breathe over 3000 mL on my spirometer, and 
 
