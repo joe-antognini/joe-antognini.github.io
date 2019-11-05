@@ -337,6 +337,7 @@ the drainage tube sticking out of my side.  That was to be removed a week later.
 * Going back to work
 * Trachea feeling offset
 * Persistent cough
+* Spasms in chest
 
 Today I can easily breathe over 3000 mL on my spirometer, and 
 
