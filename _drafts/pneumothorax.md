@@ -336,6 +336,7 @@ the drainage tube sticking out of my side.  That was to be removed a week later.
 * Clutching rib during coughing and sneezing
 * Going back to work
 * Trachea feeling offset
+* Persistent cough
 
 Today I can easily breathe over 3000 mL on my spirometer, and 
 
