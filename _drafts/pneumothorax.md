@@ -341,7 +341,7 @@ A week later I went back to the hospital to have the drainage tube removed.  As
 with the other chest tube, I had to take a deep breath in and hunker down while
 the resident yanked the tube out of me.  The drainage tube was longer than the
 original chest tube and I think some scar tissue had started to grow around it,
-so removing it was the most painful part of the entire ordeal.
+so removing it was easily the worst pain in the entire ordeal.
 
 Once all the tubes were out of my body I felt much better.  I still couldn't lie
 down, but I at least didn't have terrible back pain anymore.  My tube was
@@ -358,6 +358,7 @@ The recovery process was fairly slow.
 * Sleeping
 * Referred pain
 * Carrying heavy objects
+* Bandages used
 * Pleural friction rub
 * Clutching rib during coughing and sneezing
 * Going back to work
