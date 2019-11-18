@@ -28,7 +28,7 @@ sentence.  I didn't really feel like moving very much, but apart from that and
 the fact that I couldn't take a full breath, I felt fine.  Nevertheless, that
 evening I made a doctor's appointment.  Fortunately there was an opening early
 the next morning.  *Note: If you have symptoms where you're having trouble
-breathing and can't take a full breath, don't do what I did.  Go straight to the
+breathing and can't take a full breath, don't do what I did!  Go straight to the
 emergency room!* 
 
 By nighttime I was starting to feel pretty crappy.  It was too painful to lay on
@@ -328,14 +328,14 @@ the drainage tube sticking out of my side.  That was to be removed a week later.
 
 ## Recovery
 
-The week that I had my drainage tube after surgery was quite painful.  I didn't
-know it at the time, but the tube wraps through the chest cavity and is perhaps
-a foot and a half long.  The tube rubs against parts of the body that normally
-not have plastic tubes rubbing against them, so it creates pain, but the brain
-doesn't know how to correctly interpret the pain.  This produces a sensation of
-upper back pain in very specific spots, known as "referred pain".  During this
-time it was too painful to lie down so my wife and I created an enormous mound
-of pillows on the bed so I could sleep sitting up.
+The week that I had my drainage tube in was quite painful.  I didn't know it at
+the time, but the tube wraps through the chest cavity and is perhaps a foot and
+a half long.  The tube rubs against parts of the body that normally not have
+plastic tubes rubbing against them, so it creates pain, but the brain doesn't
+know how to correctly interpret the pain.  This produces a sensation of upper
+back pain in very specific spots, known as "referred pain".  During this time it
+was too painful to lie down so my wife and I created an enormous mound of
+pillows on the bed so I could sleep sitting up.
 
 A week later I went back to the hospital to have the drainage tube removed.  As
 with the other chest tube, I had to take a deep breath in and hunker down while
@@ -350,26 +350,58 @@ for a total of two weeks, one in the hospital, and one recovering at home.  I
 was instructed not to carry anything heavier than five pounds for the six weeks
 after my surgery.
 
-The recovery process was fairly slow.
+The recovery process was slow.  It took about two months before I could sleep
+lying down and about five months before I could lie down on my left side.  The
+recovery period also came with a tremendous number of strange, new sensations
+which I will catalog in some detail here for the benefit of anyone reading this
+who has recently undergone a pleurodesis and is wondering if what they're
+feeling is normal.
 
+The oddest sensation is what is called "pleural friction rub."  It was most
+prominent when I would lie down and it sort of felt like a tugging in my chest
+cavity as I breathed.  Imagine the feeling of stepping on freshly fallen snow,
+but that feeling is inside your body as you breathe.  Pleural friction rub
+occurs because the lung tissue is inflamed and has lost the natural lubrication
+that allows it slide along the chest wall.  Consequently, when you breathe, the
+lung tissue catches as it slides along.  Pleural friction rub is temporary,
+however, and it went away for me after about three months.
 
+Miraculously, I think I went more than six weeks without sneezing.  Had I
+sneezed I think my lung would have collapsed all over again!  (Well, it
+*probably* wouldn't have, but it sure felt like it would have!)  I became really
+quite good at catching myself before I went into a sneeze and suppressing it.
+Even a very small cough felt like I was blowing out a rib.  For anyone who is
+currently recovering from a pleurodesis, a trick I learned was to tighly clutch
+the area with the incision before coughing or sneezing.  That dramatically
+reduced the pain.
 
-* Removing the drainage tube
-* Sleeping
-* Referred pain
-* Carrying heavy objects
-* Bandages used
-* Pleural friction rub
-* Clutching rib during coughing and sneezing
-* Going back to work
-* Trachea feeling offset
-* Persistent cough
-* Spasms in chest
-* Paranoia
+The recovery was also accompanied by a lot of chest pain.  Pleurodesis can do a
+lot of nerve damage within the chest.  The nerve roots will grow back to some
+extent, but they do so slowly and painfully, so for many months after surgery I
+felt throbbing pains in various parts of my chest.  Numbness is also a common
+outcome and parts of my left side and chest are now numb, although the affected
+areas have slowly shrunk over time.  I also frequently experience muscle spasms
+in my chest which I assume is also due to the nerve damage.
 
-Today I can easily breathe over 3000 mL on my spirometer, and 
+The final, strange sensation that I'll document here is a sort of pressure on
+the side of my trachea for two weeks about six months after the surgery.  It
+almost felt as though my trachea had been slightly displaced to one side.  A
+tracheal deviation can actually occur during a spontaneous pneumothorax (when I
+first went to the doctor for my pneumothorax she checked to make sure my trachea
+was still centered), but once the underlying pneumothorax has been cured, the
+deviation should go away.  (The trachea actually isn't connected to anything in
+the throat but just sort of floats in place on top of the lungs.)  I was also
+told that the intubation during surgery is pretty severe and can cause throat
+irritation, but that it should go away after a few weeks.  So I'm still not
+exactly sure what caused this sensation, but other people who have experienced a
+spontaneous pneumothorax have told me that they have felt the same thing.  I
+wonder if maybe there can occasionally be a small leak which works its way up to
+the throat and produces a pressure differential.  But that is just speculation.
 
-As I type the last bit of this post out I'm currently on an airplane somewhere
+Gradually life has gotten more or less back to normal.
+Today I can easily breathe over 3000 mL on my spirometer (twice as much as I was
+breathing after surgery with pain medication, and four times more without), and 
+as I type the last bit of this post out I'm currently on an airplane somewhere
 over the middle of Greenland, flying back to San Francisco from England.  One of
 the more delicate questions in recovering from a spontaneous pneumothorax is
 when you can fly again.  Even in a pressurized cabin, the air pressure during a
@@ -385,3 +417,22 @@ the way to Interspeech a month ago (so, nine months after the pleurodesis) and
 felt a little bit of tightness in my chest for the first hour of the flight, but
 it may have been imagined.  On my flight back I didn't experience any pain at
 all.
+
+I still have trouble sleeping for an extended period of time on my left side,
+and the chest numbness, pain, and spasms are still present, though reduced.  In
+principle I should be able to do any physical activity that I could do before,
+with the exception of scuba diving and skydiving.  
+
+* Removing the drainage tube
+* Sleeping
+* Referred pain
+* Carrying heavy objects
+* Bandages used
+* Pleural friction rub
+* Clutching rib during coughing and sneezing
+* Going back to work
+* Trachea feeling offset
+* Persistent cough
+* Spasms in chest
+* Paranoia
+
