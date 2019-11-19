@@ -61,19 +61,19 @@ delusion, maybe born out of hopefulness that my condition wasn't actually all
 that serious, that I was going to go in to work after my appointment.)  After a
 few minutes my doctor came back and said, "So... we're going to call 911."  She
 told me that my left lung had collapsed, and then a few minutes later introduced
-me to the emergeency doctor and two SFFD paramedics who were going to take me to
+me to the emergency doctor and two SFFD paramedics who were going to take me to
 the emergency room at a hospital across town by ambulance.  The paramedics had
-brought a guerney with them, but I told them I felt well enough to walk down to
+brought a gurney with them, but I told them I felt well enough to walk down to
 the ambulance (after all, I had just walked to get my X-ray!), but they told me
 that under no circumstances was I going to walk myself.  I told them that under
-no circumstances was I going to lay down in the guerney because it would be
+no circumstances was I going to lay down in the gurney because it would be
 incredibly painful, but fortunately it was fancy enough to transform into an
 upright seated position and they wheeled me out into the ambulance that way..
 
 The ambulance ride itself was fairly uneventful.  I had never been in an
 ambulance before so I made some small talk with the paramedics in the back with
 me, and tried to ignore my heart rate approaching 130 bpm.  Although my
-condition was serious, it evidently wasn't serious enough to warrent turning on
+condition was serious, it evidently wasn't serious enough to warrant turning on
 the sirens.  I do remember, however, that as we pulled in to the hospital there
 was a pretty big bump as we drove onto the driveway to the emergency room and I
 remember thinking how that bump must have added some unnecessary pain to a lot
@@ -110,7 +110,7 @@ likely to rupture, but I don't think there's any concrete evidence to support
 that speculation.
 
 So how does the spontaneous pneumothorax actually happen?  It turns out that the
-lung can sometimes have little bliser-like bubbles on them called blebs.  Based
+lung can sometimes have little blister-like bubbles on them called blebs.  Based
 on autopsies, blebs seem to be somewhat common and tend to form towards the top
 of the lung.  In rare cases (like mine), the bleb can pop, and then air leaks
 from the lung into the chest cavity.  Once air starts to leak into the chest
@@ -236,8 +236,8 @@ any surgery becomes a much more delicate procedure.
 
 One of the things that happens to you when you have a spontaneous pneumothorax
 is that you take a lot of opioids.  Over the course of my recovery I became
-quite familiar with the different kinds and their effects: morphine, oxycontin,
-norco, diluadid, fentanyl, percocet.  I had them all.
+quite familiar with the different kinds and their effects: morphine, Oxycontin,
+Norco, Diluadid, fentanyl, Percocet.  I had them all.
 
 The surprising thing to me about the opioids was that they didn't actually
 noticeably reduce my pain.  I suppose the surgery was so painful that I would
@@ -248,7 +248,7 @@ to breathe.
 
 This turns out to be critical for the recovery process.  The idea of the
 pleurodesis is that the surgeon thoroughly scars the lung and then the scar
-tissue grows betnween the lung and the chest wall to hold the lung up the next
+tissue grows between the lung and the chest wall to hold the lung up the next
 time a collapse happens.  But in order to get the scar tissue to grow to the
 chest wall the lung needs to be pressed up against the chest wall, which means
 that taking in deep breaths is crucial.  As you might imagine, having your lung
@@ -262,7 +262,7 @@ cylinder with a floating disk and a tube attached.  By breathing into it you can
 measure how much air you can inhale.  I noticed that before receiving a dose of
 opioids, I would only be able to breathe about 750 mL of air,  But after my next
 dose kicked in I would be breathing 1500 mL.  After the does had worn off four
-hours later I would be back to breathing 750 mL.  For context, an avearge adult
+hours later I would be back to breathing 750 mL.  For context, an average adult
 male can breathe around 4000 mL.  (I never had need to use a spirometer before
 my pneumothorax, so I unfortunately don't know what my personal baseline was
 before my lung collapsed.)
@@ -295,10 +295,10 @@ my chest, it was sticking out from my left side.  It was about two feet long and
 had a little bulb at the end to collect blood and other fluids.
 
 As before, the first tube was providing suction to keep my lung up while the
-scar tisuse began to form.  This tube passed through a little box with some sort
+scar tissue began to form.  This tube passed through a little box with some sort
 of a water lock in it.  Since blood would make its way through the first tube,
 the box would collect the excess fluid so it didn't get sucked into the
-hospital's network of peunmatic tubes.  Additionally the water lock would bubble
+hospital's network of pneumatic tubes.  Additionally the water lock would bubble
 when air was being sucked out of my chest.  After the surgery, the hope was that
 the suction box would stop bubbling because the ruptured bleb would have been
 removed and the hole in my lung would have been stapled up.  Sadly, one day
@@ -315,7 +315,7 @@ probably somewhere around 20.  I quickly learned that I have "long lungs" and a
 normal X-ray wouldn't catch the bottoms of my lungs.  If I forgot to tell the
 technician they'd have to redo the X-ray.  One of the technicians joked that
 after I was done with all this I would glow in the dark.  I looked up the
-radiation dosage from a chest X-ray, and fortuantely it takes on the order of
+radiation dosage from a chest X-ray, and fortunately it takes on the order of
 25,000 chest X-rays before you have a substantially increased chance of cancer.
 By comparison, it only takes 25 CAT scans.)
 
@@ -323,7 +323,7 @@ At this point I could be discharged from the hospital and go home.  Before I
 could go they had to remove the chest tube that had been providing suction.  One
 of the residents told me to take a deep breath, hunker down, and hum as loudly
 as I could and then he yanked it out.  (This was essentially performing a
-Valsalva manuveur.)  Once it was out I was sent on my way, although I still had
+Valsalva maneuver.)  Once it was out I was sent on my way, although I still had
 the drainage tube sticking out of my side.  That was to be removed a week later.
 
 ## Recovery
@@ -395,44 +395,41 @@ told that the intubation during surgery is pretty severe and can cause throat
 irritation, but that it should go away after a few weeks.  So I'm still not
 exactly sure what caused this sensation, but other people who have experienced a
 spontaneous pneumothorax have told me that they have felt the same thing.  I
-wonder if maybe there can occasionally be a small leak which works its way up to
-the throat and produces a pressure differential.  But that is just speculation.
+wonder if maybe there can occasionally be a small leak that shifts the lungs
+just enough to put a little pressure on one side of the trachea.  But that is
+just speculation.
 
-Gradually life has gotten more or less back to normal.
-Today I can easily breathe over 3000 mL on my spirometer (twice as much as I was
-breathing after surgery with pain medication, and four times more without), and 
-as I type the last bit of this post out I'm currently on an airplane somewhere
-over the middle of Greenland, flying back to San Francisco from England.  One of
-the more delicate questions in recovering from a spontaneous pneumothorax is
-when you can fly again.  Even in a pressurized cabin, the air pressure during a
-flight is much lower than normal atmospheric pressure (perhaps 75% or so), and
-the change happens quickly --- all reicpes for a reccurence.  In the past
-doctors were fairly conservative and recommended waiting six months to a year
-before flying again.  But my doctor told me that these days after a pleurodesis
-the chance of having a recurrence during an airplane flight is minimal.  I don't
-think he gave me a fixed time when it would be safe, but he said that after
-two or three months flying would be perfectly fine.  In my case, it has now been
-around ten months since my spontaneous pneumothorax.  I first flew to Rome on
-the way to Interspeech a month ago (so, nine months after the pleurodesis) and
-felt a little bit of tightness in my chest for the first hour of the flight, but
-it may have been imagined.  On my flight back I didn't experience any pain at
-all.
+Gradually life has gotten more or less back to normal.  Today I can easily
+breathe over 3000 mL on my spirometer (twice as much as I was breathing after
+surgery with pain medication, and four times more without), and as I type the
+last bit of this post out I'm currently on an airplane somewhere over the middle
+of Greenland, flying back to San Francisco from England.  One of the more
+delicate questions in recovering from a spontaneous pneumothorax is when you can
+fly again.  Even in a pressurized cabin, the air pressure during a flight is
+much lower than normal atmospheric pressure (perhaps 75% or so), and the change
+happens quickly --- all reicpes for a reccurence.  In the past doctors were
+fairly conservative and recommended waiting six months to a year before flying
+again.  But my doctor told me that these days after a pleurodesis the chance of
+having a recurrence during an airplane flight is minimal.  I don't think he gave
+me a fixed time when it would be safe, but he said that after two or three
+months flying would be perfectly fine.  In my case, it has now been around ten
+months since my spontaneous pneumothorax.  I first flew to Rome on the way to
+Interspeech a month ago (so, nine months after the pleurodesis) and felt a
+little bit of tightness in my chest for the first hour of the flight, but it may
+have been imagined.  On my flight back I didn't experience any pain at all.
 
 I still have trouble sleeping for an extended period of time on my left side,
 and the chest numbness, pain, and spasms are still present, though reduced.  In
 principle I should be able to do any physical activity that I could do before,
-with the exception of scuba diving and skydiving.  
+with the exception of scuba diving and skydiving (too big a pressure change).  I
+do, however, have the feeling that if I were to do a heavy deadlift I might
+cause another bleb to pop or rip some scar tissue, or something.  But I do know
+that other people who have had a spontaneous pneumothorax have been able to
+weightlift.
 
-* Removing the drainage tube
-* Sleeping
-* Referred pain
-* Carrying heavy objects
-* Bandages used
-* Pleural friction rub
-* Clutching rib during coughing and sneezing
-* Going back to work
-* Trachea feeling offset
-* Persistent cough
-* Spasms in chest
-* Paranoia
-
+So, for anyone reading this who is currently recovering from a pleurodesis, know
+that, despite my complaining, you will get better and life will go back to
+normal!  Or 98% normal, anyway.  There is still a 20% chance that this will
+happen all over again on my right lung, but having gone through it once I think
+the second time will be easier now that I know what's coming.  But hopefully it
+won't come at all!
