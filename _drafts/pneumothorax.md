@@ -145,6 +145,13 @@ the hospital I changed into a hospital gown, was transferred to a bed (which
 thankfully could be adjusted into an almost-sitting position), and was given an
 oxygen mask.
 
+{%
+  include image
+  name="er.jpg"
+  caption="Just after getting my (first) chest tube in the emergency room and on
+  a wee bit of morphine."
+%}
+
 While I was in the ambulance I had texted my wife that I was on my way to the
 emergency room.  She was working at Google at the time and fortunately was able
 to take advantage of their emergency ride program to get a ride from Mountain
@@ -319,12 +326,25 @@ radiation dosage from a chest X-ray, and fortunately it takes on the order of
 25,000 chest X-rays before you have a substantially increased chance of cancer.
 By comparison, it only takes 25 CAT scans.)
 
+{%
+  include image
+  name="lung_extensions.png"
+  caption="Well, maybe not quite that long...."
+%}
+
 At this point I could be discharged from the hospital and go home.  Before I
 could go they had to remove the chest tube that had been providing suction.  One
 of the residents told me to take a deep breath, hunker down, and hum as loudly
 as I could and then he yanked it out.  (This was essentially performing a
 Valsalva maneuver.)  Once it was out I was sent on my way, although I still had
 the drainage tube sticking out of my side.  That was to be removed a week later.
+
+{%
+  include image
+  name="xray_logo.jpg"
+  caption="The logo on the X-ray machine looked suspiciously similar to
+  Deepmind's...."
+%}
 
 ## Recovery
 
