@@ -313,12 +313,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Thomas Becket
 DTSTART;VALUE=DATE:20171229
-DESCRIPTION:The Feast of St. Thomas Becket is a Class I feast. The liturgi
- cal color is red.\n\nMore information about the Feast of St. Thomas Becket
- :\n• https://fisheaters.com/customschristmasx.html\n• https://en.wikip
- edia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.ht
- m\n\nMore information about Christmastide:\n• https://fisheaters.com/cus
- tomschristmas1.html
+DESCRIPTION:The Feast of St. Thomas Becket is a Class II feast. The liturg
+ ical color is red.\n\nMore information about the Feast of St. Thomas Becke
+ t:\n• https://fisheaters.com/customschristmasx.html\n• https://en.wiki
+ pedia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.h
+ tm\n\nMore information about Christmastide:\n• https://fisheaters.com/cu
+ stomschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday within the Octave of Christmas
@@ -365,11 +365,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;VALUE=DATE:20180105
-DESCRIPTION:The Twelfth Night is a Class I feast. The liturgical color is 
- white.\n\nMore information about the Twelfth Night:\n• https://fisheater
- s.com/epiphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(h
- oliday)\n\nMore information about Christmastide:\n• https://fisheaters.c
- om/customschristmas1.html
+DESCRIPTION:Twelfth Night is a Class I feast. The liturgical color is whit
+ e.\n\nMore information about Twelfth Night:\n• https://fisheaters.com/ep
+ iphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(holiday)\
+ n\nMore information about Christmastide:\n• https://fisheaters.com/custo
+ mschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Kings Day
@@ -4020,12 +4020,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Thomas Becket
 DTSTART;VALUE=DATE:20181229
-DESCRIPTION:The Feast of St. Thomas Becket is a Class I feast. The liturgi
- cal color is red.\n\nMore information about the Feast of St. Thomas Becket
- :\n• https://fisheaters.com/customschristmasx.html\n• https://en.wikip
- edia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.ht
- m\n\nMore information about Christmastide:\n• https://fisheaters.com/cus
- tomschristmas1.html
+DESCRIPTION:The Feast of St. Thomas Becket is a Class II feast. The liturg
+ ical color is red.\n\nMore information about the Feast of St. Thomas Becke
+ t:\n• https://fisheaters.com/customschristmasx.html\n• https://en.wiki
+ pedia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.h
+ tm\n\nMore information about Christmastide:\n• https://fisheaters.com/cu
+ stomschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday within the Octave of Christmas
@@ -4072,11 +4072,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;VALUE=DATE:20190105
-DESCRIPTION:The Twelfth Night is a Class I feast. The liturgical color is 
- white.\n\nMore information about the Twelfth Night:\n• https://fisheater
- s.com/epiphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(h
- oliday)\n\nMore information about Christmastide:\n• https://fisheaters.c
- om/customschristmas1.html
+DESCRIPTION:Twelfth Night is a Class I feast. The liturgical color is whit
+ e.\n\nMore information about Twelfth Night:\n• https://fisheaters.com/ep
+ iphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(holiday)\
+ n\nMore information about Christmastide:\n• https://fisheaters.com/custo
+ mschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Kings Day
@@ -7734,23 +7734,23 @@ DESCRIPTION:Childermas is a Class II feast. The liturgical color is red.\n
   Christmastide:\n• https://fisheaters.com/customschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Thomas Becket
+SUMMARY:Sunday within the Octave of Christmas
 DTSTART;VALUE=DATE:20191229
-DESCRIPTION:The Feast of St. Thomas Becket is a Class I feast. The liturgi
- cal color is red.\n\nMore information about the Feast of St. Thomas Becket
- :\n• https://fisheaters.com/customschristmasx.html\n• https://en.wikip
- edia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.ht
- m\n\nMore information about Christmastide:\n• https://fisheaters.com/cus
- tomschristmas1.html
+DESCRIPTION:Sunday within the Octave of Christmas is a Class II feast. The
+  liturgical color is white.\n\nMore information about Sunday within the Oc
+ tave of Christmas:\n• https://en.wikipedia.org/wiki/Sunday_within_the_Oc
+ tave_of_Christmas\n\nMore information about Christmastide:\n• https://fi
+ sheaters.com/customschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:› Sunday within the Octave of Christmas
+SUMMARY:› St. Thomas Becket
 DTSTART;VALUE=DATE:20191229
-DESCRIPTION:This year Sunday within the Octave of Christmas is outranked b
- y the Feast of St. Thomas Becket. This feast is a Class II feast.\n\nMore 
- information about Sunday within the Octave of Christmas:\n• https://en.w
- ikipedia.org/wiki/Sunday_within_the_Octave_of_Christmas\n\nMore informatio
- n about Christmastide:\n• https://fisheaters.com/customschristmas1.html
+DESCRIPTION:This year the Feast of St. Thomas Becket is outranked by Sunda
+ y within the Octave of Christmas. This feast is a Class II feast.\n\nMore 
+ information about the Feast of St. Thomas Becket:\n• https://fisheaters.
+ com/customschristmasx.html\n• https://en.wikipedia.org/wiki/Thomas_Becke
+ t\n• http://www.newadvent.org/cathen/14676a.htm\n\nMore information abou
+ t Christmastide:\n• https://fisheaters.com/customschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pope Sylvester I
@@ -7777,23 +7777,23 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;VALUE=DATE:20200105
-DESCRIPTION:The Twelfth Night is a Class I feast. The liturgical color is 
- white.\n\nMore information about the Twelfth Night:\n• https://fisheater
- s.com/epiphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(h
- oliday)\n\nMore information about Christmastide:\n• https://fisheaters.c
- om/customschristmas1.html
+DESCRIPTION:Twelfth Night is a Class I feast. The liturgical color is whit
+ e.\n\nMore information about Twelfth Night:\n• https://fisheaters.com/ep
+ iphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(holiday)\
+ n\nMore information about Christmastide:\n• https://fisheaters.com/custo
+ mschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:› The Holy Name
 DTSTART;VALUE=DATE:20200105
-DESCRIPTION:This year the Feast of the Holy Name is outranked by the Twelf
- th Night. This feast is a Class II feast.\n\nMore information about the Fe
- ast of the Holy Name:\n• https://fisheaters.com/customschristmas1.html\n
- • https://fisheaters.com/customschristmas7a.html\n• https://en.wikiped
- ia.org/wiki/Feast_of_the_Holy_Name_of_Jesus\n• http://www.newadvent.org/
- cathen/07420a.htm\n• http://www.newadvent.org/cathen/07421a.htm\n\nMore 
- information about Christmastide:\n• https://fisheaters.com/customschrist
- mas1.html
+DESCRIPTION:This year the Feast of the Holy Name is outranked by Twelfth N
+ ight. This feast is a Class II feast.\n\nMore information about the Feast 
+ of the Holy Name:\n• https://fisheaters.com/customschristmas1.html\n• 
+ https://fisheaters.com/customschristmas7a.html\n• https://en.wikipedia.o
+ rg/wiki/Feast_of_the_Holy_Name_of_Jesus\n• http://www.newadvent.org/cath
+ en/07420a.htm\n• http://www.newadvent.org/cathen/07421a.htm\n\nMore info
+ rmation about Christmastide:\n• https://fisheaters.com/customschristmas1
+ .html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Kings Day
@@ -11455,12 +11455,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Thomas Becket
 DTSTART;VALUE=DATE:20201229
-DESCRIPTION:The Feast of St. Thomas Becket is a Class I feast. The liturgi
- cal color is red.\n\nMore information about the Feast of St. Thomas Becket
- :\n• https://fisheaters.com/customschristmasx.html\n• https://en.wikip
- edia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.ht
- m\n\nMore information about Christmastide:\n• https://fisheaters.com/cus
- tomschristmas1.html
+DESCRIPTION:The Feast of St. Thomas Becket is a Class II feast. The liturg
+ ical color is red.\n\nMore information about the Feast of St. Thomas Becke
+ t:\n• https://fisheaters.com/customschristmasx.html\n• https://en.wiki
+ pedia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.h
+ tm\n\nMore information about Christmastide:\n• https://fisheaters.com/cu
+ stomschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pope Sylvester I
@@ -11498,11 +11498,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;VALUE=DATE:20210105
-DESCRIPTION:The Twelfth Night is a Class I feast. The liturgical color is 
- white.\n\nMore information about the Twelfth Night:\n• https://fisheater
- s.com/epiphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(h
- oliday)\n\nMore information about Christmastide:\n• https://fisheaters.c
- om/customschristmas1.html
+DESCRIPTION:Twelfth Night is a Class I feast. The liturgical color is whit
+ e.\n\nMore information about Twelfth Night:\n• https://fisheaters.com/ep
+ iphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(holiday)\
+ n\nMore information about Christmastide:\n• https://fisheaters.com/custo
+ mschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Kings Day
@@ -15161,12 +15161,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Thomas Becket
 DTSTART;VALUE=DATE:20211229
-DESCRIPTION:The Feast of St. Thomas Becket is a Class I feast. The liturgi
- cal color is red.\n\nMore information about the Feast of St. Thomas Becket
- :\n• https://fisheaters.com/customschristmasx.html\n• https://en.wikip
- edia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.ht
- m\n\nMore information about Christmastide:\n• https://fisheaters.com/cus
- tomschristmas1.html
+DESCRIPTION:The Feast of St. Thomas Becket is a Class II feast. The liturg
+ ical color is red.\n\nMore information about the Feast of St. Thomas Becke
+ t:\n• https://fisheaters.com/customschristmasx.html\n• https://en.wiki
+ pedia.org/wiki/Thomas_Becket\n• http://www.newadvent.org/cathen/14676a.h
+ tm\n\nMore information about Christmastide:\n• https://fisheaters.com/cu
+ stomschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pope Sylvester I
@@ -15204,11 +15204,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;VALUE=DATE:20220105
-DESCRIPTION:The Twelfth Night is a Class I feast. The liturgical color is 
- white.\n\nMore information about the Twelfth Night:\n• https://fisheater
- s.com/epiphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(h
- oliday)\n\nMore information about Christmastide:\n• https://fisheaters.c
- om/customschristmas1.html
+DESCRIPTION:Twelfth Night is a Class I feast. The liturgical color is whit
+ e.\n\nMore information about Twelfth Night:\n• https://fisheaters.com/ep
+ iphanyeve.html\n• https://en.wikipedia.org/wiki/Twelfth_Night_(holiday)\
+ n\nMore information about Christmastide:\n• https://fisheaters.com/custo
+ mschristmas1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Kings Day
