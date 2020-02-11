@@ -1,12 +1,11 @@
 ---
 layout: post
 title: When My Left Lung Collapsed
+date: 2020-02-10
 categories: personal
 image:
   feature: constellations3.jpg
 ---
-
-## Onset
 
 Sunday, February 10, 2019 began as a wonderful day.  I showered in the morning
 and I distinctly remember feeling well rested and all around quite good.  But as
@@ -27,9 +26,9 @@ passage to my wife, but I usually wasn't able to make it through an entire
 sentence.  I didn't really feel like moving very much, but apart from that and
 the fact that I couldn't take a full breath, I felt fine.  Nevertheless, that
 evening I made a doctor's appointment.  Fortunately there was an opening early
-the next morning.  *Note: If you have symptoms where you're having trouble
-breathing and can't take a full breath, don't do what I did!  Go straight to the
-emergency room!* 
+the next morning.  *If you have symptoms where you're having trouble breathing
+and can't take a full breath, don't do what I did!  Go straight to the emergency
+room!  Immediately!  Like right now!*
 
 By nighttime I was starting to feel pretty crappy.  It was too painful to lay on
 my back or my left side, so I went to sleep laying on my right side.  But after
@@ -37,17 +36,18 @@ a while that started to become painful, too, so I moved to the couch and slept
 for a while sitting up.  I ended up alternating between sleeping for a bit
 sitting up and going back to bed to lay on my right side.
 
-## At the doctor
+## The doctor's office
 
-The following morning I felt utterly miserable.  I somehow managed to take a
+The following morning I felt completely miserable.  I somehow managed to take a
 shower (my last for more than a week as it would turn out), but it was too
 painful to bend over so I had a hard time drying my legs.  With some careful
 gymnastics I managed to put on my pants, but I couldn't put my shoes on so I
-left home in my slippers instead.  I booked a Lyft and took slow, uncomfortable
-journey through the heavy San Francisco Monday morning traffic to the hospital.
+left home in my slippers instead.  I booked a Lyft and took a slow,
+uncomfortable journey through the heavy San Francisco Monday morning traffic to
+the hospital.
 
 When I arrived the nurse took my vitals and then the doctor came to see me.  I
-told her (a few words at a time) that I was having trouble taking deep breaths
+told her, a few words at a time, that I was having trouble taking deep breaths
 and had a lot of pain when I bent over or lay on my back or left side.  She
 said, "Yes, it does sound like you're having trouble breathing!"  She listened
 to my lungs and said that there was definitely an issue with my left lung and
@@ -67,8 +67,17 @@ brought a gurney with them, but I told them I felt well enough to walk down to
 the ambulance (after all, I had just walked to get my X-ray!), but they told me
 that under no circumstances was I going to walk myself.  I told them that under
 no circumstances was I going to lay down in the gurney because it would be
-incredibly painful, but fortunately they transformed it into an upright seated
-position and they wheeled me out into the ambulance that way.
+incredibly painful, but fortunately they could transform it into an upright
+seated position and they wheeled me out into the ambulance that way.
+
+{%
+  include image
+  name="xray.jpg"
+  caption="The first X-ray after my lung collapsed.  I've kept the original on
+  the left and for those not familiar with interpreting chest X-rays (as I once
+  was) I've drawn a crude outline of my lungs on the copy on the
+  right."
+%}
 
 The ambulance ride itself was fairly uneventful.  I had never been in an
 ambulance before so I made some small talk with the paramedics in the back with
@@ -79,36 +88,37 @@ ropey veins because it would make it easier to get an IV inserted.  But this was
 the one time my mom was mistaken because it took the paramedics about five tries
 before they could get the line in a vein.  Maybe it's harder to do in a moving
 vehicle!  But the paramedics were correct in saying that I was going to become a
-pincushion for the foreseeable future!
+pincushion for the foreseeable future.
 
-### So what is a spontaneous pneumothorax, anyway?
+### So what exactly is a collapsed lung?
 
 Before getting into more details about my experience I should go into a little
-more detail about what exactly a spontaneous pneumothorax is.  I didn't get all
-this information until a few days later, but I got some of it in the emergency
-room so now is as good a time as any for a short primer on the condition.
+more detail about what exactly a collapsed lung is.  I didn't get all this
+information until a few days later, but I got some of it in the emergency room
+so now is as good a time as any for a short primer on the condition.
 
-A pneumothorax is simply a medical condition where there is air in the chest
-cavity and outside the lung.  A spontaneous pneumothorax is a pneumothorax that
-happens, well, spontaneously, with no obvious reason as to what caused it.  By
-contrast a pneumothorax in general can be caused by lots of things that you
-would think would definitely give you a pneumothorax like getting stabbed in the
-chest.
+The technical term for what happened to me is that I had a "spontaneous
+pneumothorax."  A pneumothorax is simply a medical condition where there is air
+in the chest cavity and outside the lung.  A spontaneous pneumothorax is a
+pneumothorax that happens, well, spontaneously, with no obvious reason as to
+what caused it.  By contrast a pneumothorax in general can be caused by lots of
+things that you would think would definitely give you a pneumothorax.  Getting
+stabbed in the chest for instance.
 
 Spontaneous pneumothorax cases broadly tend to fall into two groups.  The first
 group consists of people with certain genetic disorders which predispose them to
 spontaneous pneumothorax.  The most common of these is Marfan's Syndrome, which
-results in unusually elastic tissue.  This elasticity seems to predispose the
-lung tissue to rupture and produce a pneumothorax.  The other group consists of
-everyone else --- people who are otherwise normal and healthy, but end up with a
-collapsed lung anyway.  Of this group, the largest demographic is thin, tall
-males between the ages of twenty and forty.  (In my particular case, while I'm
-of average height at best, I do meet the other criteria.)  From what I can tell
-it doesn't seem to be well known what predisposes this demographic to be
-susceptible to spontaneous pneumothorax.  One can speculate that being tall and
-thin tends to stretch out the lung tissue more, maybe making it thinner and more
-likely to rupture, but I don't think there's any concrete evidence to support
-that speculation.
+manifests itself in unusually elastic tissue.  This elasticity seems to
+predispose the lung tissue to rupture and produce a pneumothorax.  The other
+group consists of everyone else --- people who are otherwise normal and healthy,
+but end up with a collapsed lung anyway.  Of this group, the largest demographic
+is thin, tall males between the ages of twenty and forty.  (In my particular
+case, while I'm of average height at best, I do meet the other criteria.)  From
+what I can tell it doesn't seem to be well known what predisposes this
+demographic to be susceptible to spontaneous pneumothorax.  One can speculate
+that being tall and thin tends to stretch out the lung tissue more, maybe making
+it thinner and more likely to rupture, but I don't think there's any concrete
+evidence to support that speculation.
 
 So how does the spontaneous pneumothorax actually happen?  The lung can
 sometimes have little blister-like bubbles on them called blebs.  Based on
@@ -119,11 +129,13 @@ there's no longer a pressure differential between the lung and the rest of the
 chest.  This means that when the diaphragm contracts, the chest cavity will
 expand as normal, but this expansion will just suck air through the rupture and
 into the chest cavity; the lung won't inflate (or at least it won't inflate as
-much as it otherwise would).  This picture is a bit simplified, however, because
-sometimes a bleb can pop and there can be a partial collapse, but it can resolve
-itself.
+much as it otherwise would).  This might not necessarily be a serious problem.
+Sometimes a bleb can pop and there can be a partial collapse that eventually
+resolves itself.  If the rupture is small, it can heal before too much air leaks
+out and the remaining air on the wrong side of the rupture can slowly permeate
+back into the lung over the course of several weeks.
 
-A pneumothorax is very dangerous.  I was lucky because only a single lung
+But generally a pneumothorax is very dangerous.  I was lucky because only a single lung
 collapsed, so I could still breathe, albeit shallowly.  But if one lung
 completely collapses, it's only a matter of time before it causes the other lung
 to collapse as well.  Once both lungs collapse you can't breathe at all and will
@@ -131,9 +143,9 @@ quickly die if left untreated.  Another danger is that the collapsed lung can
 impinge upon the heart or aorta and lead to cardiac arrest.  So if you have
 trouble breathing, really, *get treated right away!*
 
-Fortunately the immediate treatment for a pneumothorax is simple --- a nurse
-will insert a tube into your chest, attach it to a suction pump, and pump the
-air out of your chest cavity.  With the suction in your chest cavity, the
+Fortunately the immediate treatment for a pneumothorax is simple --- a doctor or
+nurse will insert a tube into your chest, attach it to a suction pump, and pump
+the air out of your chest cavity.  With the suction in your chest cavity, the
 pressure differential between the lung and the chest cavity is restored, your
 lung will expand when your diaphragm contracts, and you can breathe normally
 again.  In many cases this is all that is required.  If the suction is kept on
@@ -144,8 +156,8 @@ and stay inflated once the chest tube is removed (at least for a while).
 
 The ambulance had phoned ahead to the emergency room, so as soon as I arrived at
 the hospital I changed into a hospital gown, was transferred to a bed (which
-thankfully could be adjusted into an almost-sitting position), and was given an
-oxygen mask.
+thankfully also could be adjusted into an almost-sitting position), and was
+given an oxygen mask.
 
 {%
   include image
@@ -167,7 +179,7 @@ my chest and then inserted the tube somewhere midway up the left side of my
 chest.  A lot of people complain about the pain of getting a chest tube
 inserted, but I don't remember feeling this one at all.  That changed, however,
 when they turned on the suction.  With the suction on, my lung started to
-reinflate, and I became incredibly uncomfortable.  Although the point of the
+reinflate, and it was...let's say uncomfortable.  Although the point of the
 chest tube is to get your lung inflated so you can breathe again, when they
 turned the suction I had an overwhelming sensation of being unable to breathe at
 all.  Even when the nurses put the suction on the lowest setting, I felt like a
@@ -183,11 +195,12 @@ Itself.  So, I was wheeled to a hospital room, and every now and again a nurse
 would disconnect my chest tube from suction, and then they'd wait a few hours
 and take a chest X-ray to see if my lung was staying up on its own.  They did
 this for three days, but every time I was taken off suction my lung collapsed
-again.  This was probably exacerbated by the fact that when I got treatment my
-lung was 100% collapsed.  If I had gone to the emergency room immediately after
-the start of the pneumothorax the chest tube may have been enough.
+again.  This was probably partly due to the fact that by the time I got
+treatment my lung had collapsed 100%.  If I had gone to the emergency room
+immediately after the start of the pneumothorax the chest tube may have been
+enough.
 
-In some ways the fact that my lung kept collapsing may have been a good thing,
+In some ways the fact that my lung kept collapsing may have been a blessing,
 because it meant that I was eligible for a pleurodesis.  While it's nice if your
 lung heals itself, if you've had a spontaneous pneumothorax, the odds that the
 lung will collapse again are about 80%.  A pleurodesis, however, provides a more
@@ -200,23 +213,24 @@ the lung with the ruptured bleb (and possibly other blebs in the area).  The
 lung is then stapled shut with a titanium surgical staple.  After that the
 pleurodesis begins.  The lung is first stripped of a thin lining of outer
 tissue, called the pleura.  Then the lung is scarred by scrubbing it with what
-is essentially steel wool  (this is known as mechanical pleurodesis).  Finally
-the surgeon uses a chemical to further scar the lung (this is known as chemical
+is essentially steel wool  (this is called mechanical pleurodesis).  Finally the
+surgeon uses a chemical to further scar the lung (this is known as chemical
 pleurodesis).  In my case the surgeon used doxycycline as the scarring agent,
 although this varies.  (From what I understand talc is most commonly used and is
 more potent than doxycycline.  As I explain later this has advantages and
 disadvantages.  Sometimes surgeons will also just do a mechanical pleurodesis or
-a chemical pleurodesis.)  The steel wool and doxycycline all cause the lung to
-scar.  The idea behind this procedure is that this scar tissue will then grow
-between the lung and the chest wall.  This way if another bleb ruptures, the
-scar tissue can keep the rest of the lung up.
+a chemical pleurodesis alone.)  The steel wool and doxycycline all cause the
+lung to scar.  The idea behind this procedure is that this scar tissue will then
+grow between the lung and the chest wall.  This way if (or, more probably, when)
+another bleb ruptures, the scar tissue can keep the rest of the lung up.
 
 In the past this procedure was a little more gruesome because the surgeon would
 have to pry apart two ribs to get to the lung.  Thankfully these days the
 surgery is much less invasive; in my case I had five small incisions, three
 midway down my left side, one just under my armpit, and one on my back, each one
 about three-quarters of an inch long.  The surgeon then sticks a robotic snake
-through these incisions to perform the surgery.
+through these incisions to perform the surgery.  (In the lingo this is called
+VATS --- video-assisted thorascopic surgery.)
 
 Nevertheless, thoracic surgery of any kind is no joke.  The body keeps a lot of
 its important parts there, so while there are risks associated with any surgery,
@@ -256,15 +270,15 @@ Nevertheless, opioids were a critical part of my recovery because even though I
 was still in a lot of pain, they actually *doubled* the volume of air I was able
 to breathe.
 
-This turns out to be critical for the recovery process.  The idea of the
-pleurodesis is that the surgeon thoroughly scars the lung and then the scar
+This turns out to be crucial for the recovery process.  The idea of the
+pleurodesis is that the surgeon thoroughly aggravates the lung and then scar
 tissue grows between the lung and the chest wall to hold the lung up the next
 time a collapse happens.  But in order to get the scar tissue to grow to the
-chest wall the lung needs to be pressed up against the chest wall, which means
-that taking in deep breaths is crucial.  As you might imagine, having your lung
-scrubbed with steel wool and scarred with doxycycline does not exactly make it
-easy to take deep breaths.  Nevertheless, after the surgery I was told to
-breathe as deeply as I could every six minutes.
+chest wall the lung needs to be pressed right up against the chest wall.  This
+means that taking in deep breaths is imperative.  But as you might imagine,
+having your lung scrubbed with steel wool and scarred with doxycycline does not
+exactly make it easy to breathe deep.  Nevertheless, after the surgery I was
+instructed to do breathing exercises every six minutes.
 
 To help you out with this, the hospital will give you a little plastic device to
 keep called an incentive spirometer.  The incentive spirometer is a graduated
@@ -296,8 +310,8 @@ implies NSAIDs (nonsteroidal anti-inflammatory drugs) are good at reducing
 inflammation.  Unfortunately that is counter-productive in this case.  In a
 pleurodesis we *want* inflammation!  Inflaming the tissue is the whole point so
 that we can grow lots of scar tissue!  So NSAIDs are great at relieving the pain
-from a pleurodesis, but defeat the entire purpose of the operation and you're
-not allowed to have them for several weeks after this surgery.
+from a pleurodesis, but defeat the entire purpose of the operation and for that
+reason you're not allowed to have them for several weeks after this surgery.
 
 Of the opioids I was given Norco was by far the best.  Percocet was not too bad,
 but not as effective for me as Norco was.  The worst was Diluadid, which I was
@@ -330,10 +344,10 @@ up.
 (Incidentally I had a *lot* of chest X-rays over my week in the hospital,
 probably somewhere around 20.  I quickly learned that I have "long lungs" and a
 normal X-ray wouldn't catch the bottoms of my lungs.  If I forgot to tell the
-technician they'd have to redo the X-ray.  One of the technicians joked that
-by the time they were done with me I would glow in the dark.  I looked up the
-radiation dosage from a chest X-ray, and fortunately it takes on the order of
-25,000 chest X-rays before you have a substantially increased chance of cancer.
+technician they'd have to redo the X-ray.  One of the technicians joked that by
+the time they were done with me I would glow in the dark.  Fortunately the
+radiation dosage from a chest X-ray is low enough that it takes on the order of
+25,000 chest X-rays before you have a measurably increased chance of cancer.
 By comparison, it only takes 25 CAT scans.)
 
 {%
@@ -360,12 +374,18 @@ the drainage tube sticking out of my side.  That was to be removed a week later.
 
 The week that I had my drainage tube in was quite painful.  I didn't know it at
 the time, but the tube wraps through the chest cavity and is perhaps a foot and
-a half long.  The tube rubs against parts of the body that normally not have
+a half long.  The tube rubs against parts of the body that normally do not have
 plastic tubes rubbing against them, so it creates pain, but the brain doesn't
 know how to correctly interpret the pain.  This produces a sensation of upper
 back pain in very specific spots, known as "referred pain".  During this time it
 was too painful to lie down so my wife and I created an enormous mound of
 pillows on the bed so I could sleep sitting up.
+
+{%
+  include image
+  name="pillows.jpg"
+  caption="A ridiculous pile of pillows so that I could sleep sitting up."
+%}
 
 A week later I went back to the hospital to have the drainage tube removed.  As
 with the other chest tube, I had to take a deep breath in and hunker down while
@@ -387,12 +407,6 @@ which I will catalog in some detail here for the benefit of anyone reading this
 who has recently undergone a pleurodesis and is wondering if what they're
 feeling is normal.
 
-{%
-  include image
-  name="pillows.jpg"
-  caption="A ridiculous pile of pillows so that I could sleep sitting up."
-%}
-
 The oddest sensation is what is called "pleural friction rub."  It was most
 prominent when I would lie down and it sort of felt like a tugging in my chest
 cavity as I breathed.  Imagine the feeling of stepping on freshly fallen snow,
@@ -408,7 +422,7 @@ sneezed I think my lung would have collapsed all over again!  (Well, it
 quite good at catching myself before I went into a sneeze and suppressing it.
 Even a very small cough felt like I was blowing out a rib.  But you can't go
 forever without sneezing, so for anyone who is currently recovering from a
-pleurodesis, a trick I learned was to tighly clutch the area with the incision
+pleurodesis, a trick I learned was to tightly clutch the area with the incision
 before coughing or sneezing.  That dramatically reduces the pain.
 
 The recovery was also accompanied by a lot of chest pain.  Pleurodesis can do a
@@ -437,28 +451,32 @@ just speculation.
 
 Gradually life has gotten more or less back to normal.  Today I can easily
 breathe over 3000 mL on my spirometer (twice as much as I was breathing after
-surgery with pain medication, and four times more without), and as I type the
-last bit of this post out I'm currently on an airplane somewhere over the middle
-of Greenland, flying back to San Francisco from England.  One of the more
-delicate questions in recovering from a spontaneous pneumothorax is when you can
-fly again.  Even in a pressurized cabin, the air pressure during a flight is
-much lower than normal atmospheric pressure (perhaps 75% or so), and the change
-happens quickly --- all reicpes for a reccurence.  In the past doctors were
-fairly conservative and recommended waiting six months to a year before flying
-again.  But my doctor told me that these days after a pleurodesis the chance of
-having a recurrence during an airplane flight is minimal.  I don't think he gave
-me a fixed time when it would be safe, but he said that after two or three
-months flying would be perfectly fine.  In my case, it has now been around ten
-months since my spontaneous pneumothorax.  I first flew to Rome on the way to
-Interspeech a month ago (so, nine months after the pleurodesis) and felt a
-little bit of tightness in my chest for the first hour of the flight, but it may
-have been imagined.  On my flight back I didn't experience any pain at all.
+surgery with pain medication, and four times more without), and I wrote much of
+this post on an airplane somewhere over the middle of Greenland, flying back to
+San Francisco from England.  One of the more delicate questions in recovering
+from a spontaneous pneumothorax is when you can fly again.  Even in a
+pressurized cabin, the air pressure during a flight is much lower than normal
+atmospheric pressure (perhaps 75% or so), and the change happens quickly --- all
+recipes for a recurrence.  In the past doctors were fairly conservative and
+recommended waiting six months to a year before flying again.  But my doctor
+told me that these days after a pleurodesis the chance of having a recurrence
+during an airplane flight is minimal.  I don't think he gave me a fixed time
+when it would be safe, but after three months flying would likely
+be fine.  In my case, my first flight was nine months after the pneumothorax,
+and I only felt a little chest tightness on the first flight (which may have
+been imagined).
 
 {%
   include image
   name="sf.jpg"
   caption="The view of San Francisco on my first flight after the pneumothorax."
 %}
+
+Although flying is generally okay, scuba diving is permanently out if you have
+had a spontaneous pneumothorax.  Scuba diving subjects the body to high enough
+pressures to risk rupturing another bleb.  And if your lung collapses under
+water, Boyle's law guarantees that surfacing is not going to make things any
+better.
 
 I still have trouble sleeping for an extended period of time on my left side,
 and the chest numbness, pain, and spasms are still present, though reduced.  In
@@ -471,10 +489,10 @@ weightlift.
 
 So, for anyone reading this who is currently recovering from a pleurodesis, know
 that, despite my complaining, you will get better and life will go back to
-normal!  Or 98% normal, anyway.  And there is still a 20% chance that this will
-happen all over again on my right lung, but having gone through it once I think
-the second time will be easier now that I know what's coming.  But hopefully it
-won't come at all!
+normal!  Or 98% normal, anyway.  And while there is still a 20% chance that this
+will happen all over again on my right lung, having gone through it once I think
+the second time will be easier now that I know what's coming.  But here's to
+hoping it won't come at all!
 
 {%
   include image
