@@ -304,9 +304,9 @@ breathe very deeply in the last hour before the next four hour dose.  Sometimes
 the hospital would give me Tylenol to help tide me over between doses, but I
 never noticed the Tylenol making any difference.
 
-There is another class of medications that would have be extremely effective at
-relieving my pain: NSAIDs like Ibuprofin, Advil, and Motrin.  As the full name
-implies NSAIDs (nonsteroidal anti-inflammatory drugs) are good at reducing
+There is another class of medications that would have been extremely effective
+at relieving my pain: NSAIDs like Ibuprofen, Advil, and Motrin.  As the full
+name implies NSAIDs (nonsteroidal anti-inflammatory drugs) are good at reducing
 inflammation.  Unfortunately that is counter-productive in this case.  In a
 pleurodesis we *want* inflammation!  Inflaming the tissue is the whole point so
 that we can grow lots of scar tissue!  So NSAIDs are great at relieving the pain
