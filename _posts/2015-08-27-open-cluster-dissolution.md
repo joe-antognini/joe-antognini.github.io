@@ -286,13 +286,12 @@ will depend on how much energy is in magnetic fields compared to
 gravitational potential energy.  
 
 Since the energy density in magnetic fields in the ISM is comparable to the
-thermal energy density (and pretty much every thing else, as it happens), we
-can a priori guess that in a protocluster with strong magnetic fields, the
-magnetic fields will have an order unity effect on the evolution of the
-cluster.  So, for the cluster above where we estimated that only 10% of mass
-loss was necessary to unbind the cluster, it might be more like 15% or 20%.
-The more careful analysis of Hills (1980) reveals that this guess appears to
-be correct.
+thermal energy density (and pretty much everything else, as it happens), we can
+a priori guess that in a protocluster with strong magnetic fields, the magnetic
+fields will have an order unity effect on the evolution of the cluster.  So,
+for the cluster above where we estimated that only 10% of mass loss was
+necessary to unbind the cluster, it might be more like 15% or 20%.  The more
+careful analysis of Hills (1980) reveals that this guess appears to be correct.
 
 [1]: http://adsabs.harvard.edu/abs/1980ApJ...235..986H
 [2]: https://en.wikipedia.org/wiki/Virial_theorem
