@@ -96,10 +96,118 @@ as a fraction of the population: $$\widetilde{x} \equiv x / N$$.  The
 probability of an exactly equal outcome can then be written N:
 
 $$
-p = \frac{1}{\sqrt{2 \pi} N \widetilde{\sigma}}
-    \int_{(1 + 1/N)/2}^{(1 - 1/N)/2}
-    e^{-\left(\widetilde{x} - \frac{1}{2}\right)^2 / 2 \widetilde{\sigma}^2}
+p = \frac{1}{\sqrt{2 \pi} \widetilde{\sigma}}
+    \int_{(1 - 1/N)/2}^{(1 + 1/N)/2}
+    e^{-\frac{\left(\widetilde{x} - 1/2\right)^2}{2
+    \widetilde{\sigma}^2}}
     \, d\widetilde{x}
 $$
 
-Since $$N$$ is very large, we don't in fact need to calculate this integral.  
+Since $$N$$ is very large, we don't in fact need to calculate this integral
+explicitly.  Since the probability density function does not change very much
+over the narrow range $$\left[ 1/2(1 - 1/N), 1/2(1 + 1/N) \right]$$, so we can
+approximate the probability by the value of the function at $$\widetilde{x} =
+1/2$$ times the width:
+
+$$
+p \simeq \frac{\Delta \widetilde{x}}{\sqrt{2 \pi} \widetilde{\sigma}}.
+$$
+
+And since the width is simply $$\Delta \widetilde{x} = 1 / N$$, we have
+
+$$
+p \simeq \frac{1}{\sqrt{2 \pi} N \widetilde{\sigma}}.
+$$
+
+So what is the probability of casting the decisive vote for some reasonable
+numbers for Pennsylvania?  Pennsylvania has $\sim$9 million registered voters
+for the [2020
+election](https://philadelphia.cbslocal.com/2020/10/19/pennsylvania-nears-9-million-voters-at-registration-deadline/).
+Let's furthermore assume the polling uncertainty is 4%, which is the
+[historical accuracy of polls in the general
+election](https://fivethirtyeight.com/features/the-state-of-the-polls-2019/).
+high side based on historical polling performance.)  With these numbers we
+have:
+
+$$
+p \approx 1.1 \times 10^{-6}
+$$
+
+or, slightly better than one in a million.
+
+### The expected value of a decisive vote
+
+These look like long odds!  And indeed they are.  But does this mean that we
+shouldn't bother with voting?  No!  We can't make that determination until we
+compare it with the value of casting the decisive vote relative to the cost of
+voting.
+
+So how much is casting the decisive vote worth?  It is hard to really quantify
+this.  We could ask, "How much would you be willing to pay to guarantee the
+outcome of a presidential election?"  But that is probably not the right
+metric.  The value shouldn't be determined by its value to the median voter,
+but rather by its value to society as a whole.  As a lower bound we could put
+its value at the total amount spent on campaigning.  But this still likely a
+significant underestimate since campaign spending has diminishing returns.  The
+marginal dollar spent on Biden or Trump's campaign has a very weak impact on
+the likelihood of the outcome.  We could imagine that if one could guarantee
+the outcome of an election with a certain amount of spending, donors would be
+willing to fork up quite a bit more.
+
+But since we don't know exactly how much that would be, we'll instead content
+ourselves with the total campaign spending for the 2020 presidential election,
+which is about [$11
+billion](https://www.opensecrets.org/news/2020/10/2020-election-to-near-11-billion-in-total-spending-smashing-records).
+
+The expected value of casting a vote in a hypothetical Pennsylvania that's in a
+dead heat is $$\sim$$**$12,000**.
+
+So as long as it costs you less than $12,000 to vote in this hypothetical
+scenario, you can at least go to the polls with the comfort that the expected
+value of your vote is quite high!  While the odds that you'll cast the decisive
+vote are quite low, the payoff is so high as to make it worth it.
+
+### A realistic Pennsylvania
+
+We've now found a best-case secnario where the probability is casting the
+decisive vote is maximized by assuming that the polls put Pennsylvania in a
+dead heat.  But as of this writing, Pennsylvania is not in a dead heat.
+FiveThirtyEight's polling average has Biden up by [5.6%
+points](https://projects.fivethirtyeight.com/polls/president-general/pennsylvania/)
+in Pennsylvania.  How does this affect the expected value?
+
+Let's call the polling differential $$\delta$$.  Then we have $$\widetilde{x} =
+1/2 \pm \delta / 2$$.  With this change we now have the probability of casting
+the decisive vote as
+
+$$
+p \simeq \frac{1}{\sqrt{2 \pi} N \widetilde{\sigma}} e^{-\frac{\delta^2}{8
+\widetilde{\sigma}^2}}.
+$$
+
+Plugging in our assumed values we find that the probability of casting the
+decisive vote has now gone down to $$9 \times 10^{-7}$$ with an expected value
+of $9500.
+
+### Correcting for the tipping point state
+
+So far we have simply assumed that Pennsylvania will cast the decisive vote.
+But there is no guarantee that this will happen.  As of this writing,
+FiveThirtyEight gives Pennsylvania a 30% chance of being the tipping point
+state.  So we could multiply the probabilities we found above by 30% to try to
+account for this (which would produce an expected value of about $3200).
+
+But this is not quite right.  Because it is not enough to cast a decisive vote
+in a tipping point state.  We must also cast the decisive vote in a tipping
+point state *that also casts decisive votes in the electoral college*.
+
+## Voting in California
+
+It's reasonable to conclude that voting in Pennsylvania is worth it this
+election.  But what if you live in California?  Should you vote then?
+
+## Is a third party vote wasted?
+
+
+% End with a note comparing voting to Jane Jacobs's statement about how
+% secession is an emotional decision, not a rational one.
