@@ -36,11 +36,10 @@ different political implications than an election that is won in a landslide.)
 Let's start by putting an upper bound on the probability that a single vote
 could decide a presidential election.  Since the president is elected by the
 electoral college, the voting patterns of the nation as a whole are not so
-relevant as votes within certain individual states.  At the moment
+relevant as votes within particular states.  At the moment
 [FiveThirtyEight](https://projects.fivethirtyeight.com/2020-election-forecast/)
-predicts that Pennsylvania is most likely to be the tipping-point state.  If
-the election were to come down to the votes of a single state, Pennsylvania is
-most likely to have the smallest margins.
+predicts that Pennsylvania is the most likely to cast the decisive electoral
+college vote.
 
 So let's suppose that you are a voter in Pennsylvania and the election does, in
 fact, come down to the outcome of your state.  Now what is the probability that
@@ -120,7 +119,7 @@ p \simeq \frac{1}{\sqrt{2 \pi} N \widetilde{\sigma}}.
 $$
 
 So what is the probability of casting the decisive vote for some reasonable
-numbers for Pennsylvania?  Pennsylvania has $\sim$9 million registered voters
+numbers for Pennsylvania?  Pennsylvania has $$\sim$$9 million registered voters
 for the [2020
 election](https://philadelphia.cbslocal.com/2020/10/19/pennsylvania-nears-9-million-voters-at-registration-deadline/).
 Let's furthermore assume the polling uncertainty is 4%, which is the
@@ -189,25 +188,145 @@ Plugging in our assumed values we find that the probability of casting the
 decisive vote has now gone down to $$9 \times 10^{-7}$$ with an expected value
 of $9500.
 
-### Correcting for the tipping point state
+### Correcting for the probability of being in the tipping point state
 
 So far we have simply assumed that Pennsylvania will cast the decisive vote.
 But there is no guarantee that this will happen.  As of this writing,
 FiveThirtyEight gives Pennsylvania a 30% chance of being the tipping point
-state.  So we could multiply the probabilities we found above by 30% to try to
-account for this (which would produce an expected value of about $3200).
+state.  (The tipping point state is found by arranging the states in order of
+decreasing margins for the winner of the election and then taking the state
+that pushes the winning candidate over 270 votes.  Note that if the tipping
+point state is won by a single vote, then the electoral college came down to
+the results of that state.)
 
-But this is not quite right.  Because it is not enough to cast a decisive vote
-in a tipping point state.  We must also cast the decisive vote in a tipping
-point state *that also casts decisive votes in the electoral college*.
+So we should multiply the probabilities we found above by 30% to account
+for this.  This means that a voter in Pennsylvania has a probability of $2.6
+\times 10^{-7}$ of deciding the election, which corresponds to an expected
+value of $2900.
 
 ## Voting in California
 
 It's reasonable to conclude that voting in Pennsylvania is worth it this
 election.  But what if you live in California?  Should you vote then?
 
+FiveThirtyEight doesn't explicitly provide the probability of California being
+the tipping point state, but simply puts it at less than 1%.  Let's
+nevertheless assume the probability to be 1% in order to calculate an upper
+bound.
+
+As of this writing FiveThirtyEight puts the polling differential in California
+at 29.1%.  If we naively use the same method as above but now take the number
+of registered voters to be [21
+million](https://www.sacbee.com/news/politics-government/capitol-alert/article245571555.html)
+the probability of casting a decisive vote in the presidential election is $$6
+\times 10^{-12}$$.  Even assuming the prodigious payoff of $11 billion for
+pulling off that feat, the expected value of a California vote is a mere 7¢.
+
+But how much can we trust these numbers?  We can have more confidence in the
+numbers for Pennsylvania because an outcome that is decided by a single vote
+would require a polling error of a little more than a single standard
+deviation.  But the probability of casting a decisive vote in California is so
+low because it would require nearly an outlier of nearly six standard
+deviations.  (That would be enough to even fool the notoriously conservative
+particle physics community, who consider an outlier of five standard deviations
+to be evidence of new physics.)  If the uncertainties were in fact distributed
+as a Gaussian distribution, this would result in a .  
+
+However, it is more likely that they only approximately have a Gaussian
+distribution near the mean.  But in the tails this approximation would prove
+much poorer.  In the tails the uncertainty becomes dominated by the systematic
+uncertainty of the polls, and there is no easy way to model these.  One could
+make a plausible argument that the tails are much fatter than a Gaussian would
+imply, and hence that the odds of casting a decisive vote in California are
+much higher than we calculated above (perhaps the pollsters are missing an
+especially motivated demographic this cycle).  But one could make a plausible
+argument going the other way, and the tails of the distribution are thinner
+than a Gaussian, and in fact the probability we calculated was an
+*overestimate*.  (After all, if California were really in play, one would think
+there would be some other evidence of this even if it wasn't showing up in
+polls.)
+
+The difficulty of systematic errors is that when they are potentially large,
+you have no other choice but to deeply understand where they are coming from so
+that you can correct for them.
+
 ## Is a third party vote wasted?
 
+So if your vote is (probably) not going to be decisive in California, should
+you just vote for a third party candidate you better agree with instead?
+Naturally it is *a fortiori* the case that if your vote for a major party
+candidate is unlikely to be decisive, it is vastly less likely for it to be so
+for a candidate polling at just a few percent.  But there are other thresholds
+that fall short of victory which are nevertheless valuable.  In particular a
+candidate that exceeds 5% of the national vote unlocks federal funding in the
+following election.  In 2020 this grant is [$100
+million](https://www.fec.gov/help-candidates-and-committees/understanding-public-funding-presidential-elections/presidential-spending-limits-2020/).
+
+So let's calculate the expected value of a vote for the highest polling
+third-party candidate in the 2020, Libertarian nominee Jo Jorgensen.  The
+[RealClearPolitics](https://www.realclearpolitics.com/epolls/2020/president/us/general_election_trump_vs_biden_vs_jorgensen_vs_hawkins-7225.html#polls) polling average puts Jorgensen at 1.8%.
+
+At this point we need to be a little careful with our choice of distribution.
+For polls that are close to 50% with $$\sim$$4% uncertainty, a Gaussian
+distribution is not terrible.  But this is clearly a poor distribution for a
+candidate polling in single digits because it puts substantial odds that the
+candidate will achieve negative votes!
+
+Unfortunately doing a principled derivation of the correct distribution would
+require a deep understanding of the the systematic uncertainties of these polls
+(which I certainly do not possess).  So instead in the spirit of attempting to
+obtain an order of magnitude estimate, we shall instead fly by the seat of our
+pants.  What we would like is a reasonable distribution of outcomes for
+Jorgensen that are consistent with a polling average of 1.8% and a $$\sim$$4%
+uncertainty on the major party candidates.  Let us suppose that the 4%
+uncertainty on the outcomes of the major party candidates were purely
+statistical.  If this were the case then it would correspond to some effective
+sample size $$N_{\textrm{eff}}$$ that consisted of a truly representative
+sample of voters.
+
+So what is the effective sample size?  The sample itself is drawn from a
+binomial distribution, so its standard deviation is
+$$\sqrt{N_{\textrm{eff}}p(1-p)}$$, and by the central limit theorem the
+uncertainty on an estimate of $$p$$ is then $$\sqrt{p(1-p)/N_{\textrm{eff}}}$$.
+Taking $$p \sim 1/2$$ for the major party candidates (remember this is just an
+order of magnitude estimate!) we have 
+
+$$
+\frac{1}{2 \sqrt{N_{\textrm{eff}}}} = 0.04.
+$$
+
+Solving for $$N_{\textrm{eff}}$$ gives us an effective sample size of 156,
+which we will round to 160 in the order-of-magnitude spirit.
+
+With the effective sample size in hand, we can now turn to Bayesian analysis to
+derive the distribution of outcomes for Jorgensen.
+
+To do this let's turn to Bayesian
+analysis.  Essentially we want to find $$p(f_L | \mathcal{D})$$, where $$f_L$$
+is the fraction of votes for Jorgensen and $$\mathcal{D}$$ represents the data
+that went into the polls.  From Bayes's Theorem, this probability is equal to
+
+$$
+p(f_L | \mathcal{D}) = \frac{p(\mathcal{D} | f_L) p(f_L)}{p(\mathcal{D})}.
+$$
+
+What should the prior $$p(f_L)$$ be?  For simplicity we'll use a beta
+distribution as it is the conjugate prior for a binomial distribution.  But the
+beta distribution has two hyperparameters, $$\alpha$$ and $$\beta$$ --- what
+should they be?  Choosing a prior is oftentimes subjective.  A common choice is
+to set $$\alpha = \beta = 1$$ which makes this distribution uniform and
+therefore, in some sense, minimally informative, but this is not a good prior
+in this situation.  It places the probability of Jorgensen achieving 1% of the
+popular vote the same as her achieving 99%, which seems unlikely.
+
+, which should give us an upper bound in our calculation of the
+expected value of a .  But this is *not* a good prior.  It is not reasonable 
+
+#### Measuring the effective sample size
+
+We can then treat the 
+
+where the logit is given by
 
 % End with a note comparing voting to Jane Jacobs's statement about how
 % secession is an emotional decision, not a rational one.
