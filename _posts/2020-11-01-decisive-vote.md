@@ -436,7 +436,7 @@ the grounds of an expected value calculation!
 ----
 
 A Jupyter notebook with the calculations in this post can be found
-[here](https://github.com/joe-antognini/joe-antognini.github.io/blob/master/assets/posts/voting/DecisiveVote.ipynb).
+[here](https://github.com/joe-antognini/joe-antognini.github.io/blob/master/assets/posts/decisive-vote/DecisiveVote.ipynb).
 
 ## Footnotes
 
