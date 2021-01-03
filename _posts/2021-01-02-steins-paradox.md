@@ -2,6 +2,7 @@
 layout: post
 title: Understanding Stein's paradox
 date: 2021-1-2
+description: An intuitive explanation of the James-Stein estimator.
 categories: machine-learning
 image:
   feature: constellations3.jpg
