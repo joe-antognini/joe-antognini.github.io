@@ -10,6 +10,9 @@ body {
   min-height: 100%;
   height: 100%;
   overflow-x: hidden;
+  margin-bottom: $lh; 
+  line-height: $lh; 
+  font-size: $fsp;
 }
 
 h1,h2,h3,h4,h5 {
