@@ -7,12 +7,11 @@ url: https://joe-antognini.github.io
 # Owner/author information
 owner:
   name:           Joe Antognini
-#  avatar:         avatar.png
-#  bio:            "Aesthete & Athlete"
   email:          joe.antognini@gmail.com
   github:         joe-antognini
-  location:       "San Francisco, California"
-  disqus: dynamicsinastronomy
+  location:       "Los Angeles, California"
+  disqus:         dynamicsinastronomy
+  twitter:        joe_antognini
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
@@ -30,8 +29,8 @@ defaults:
 links:
   - title: Publications
     url: /publications
-  - title: Archive
-    url: /archive
+  - title: Projects
+    url: /projects
   - title: About
     url: /about
 
