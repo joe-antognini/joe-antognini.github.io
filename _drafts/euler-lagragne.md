@@ -79,5 +79,12 @@ the method never quite left me.
 TODO:
 * A derivation of the Euler-Lagrange equation
 * Function and derivative really are independent
+* Proving Pythagoras wrong
 * Bolza problem
 * Why are solutions to the Euler-Lagrange equation nice in practice?
+* Sobolev spaces
+
+## References
+
+* https://www-users.cse.umn.edu/~jwcalder/CalculusOfVariations.pdf
+* http://people.maths.ox.ac.uk/ball/Teaching/MIGSAA2019.pdf
