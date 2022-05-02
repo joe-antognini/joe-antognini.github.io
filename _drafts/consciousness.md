@@ -253,29 +253,28 @@ consciousnesses*.
 
 And of course there's nothing special about the iron itself.  We could make the
 same argument with any system where we can map states to bits.  We could
-imagine doing the same thing with a large enough number of coin tosses or the
-locations of atoms in the air of a room.  In all cases we are forced to
-conclude that a sufficiently large system contains all possible
-consciousnesses.  So the proposition that consciousness is computation leads
-quite inextricably to a sort of panpsychism.  But even if we could stomach a
-traditional conception of panpsychism that posits that all things are conscious
-in some basic way, this goes far beyond that.  We are forced to conclude that
-large groups of atoms aren't just vaguely conscious, but they contain *all*
-consciousnesses, including our own.
+imagine doing the same thing with the locations of molecules in a [pail of
+water][19] or on the [wall of a room][20], or in a [brick][21].  In all cases
+we are forced to conclude that a sufficiently large system contains all
+possible consciousnesses.  So the proposition that consciousness is computation
+leads quite inextricably to a sort of panpsychism.  But even if we could
+stomach a traditional conception of panpsychism that posits that all things are
+conscious in some basic way, this goes far beyond that.  We are forced to
+conclude that large groups of atoms aren't just vaguely conscious, but they
+contain *all* consciousnesses, including our own.
 
-## Computers can still be conscious!
+## (Some) computers can still be conscious!
 
-Now I want to be quite clear about the position I am arguing for.  By saying
-that consciousness is not computation, I am *not* claiming that computers are
-not or never can be conscious.  We could imagine a world in which consciousness
-is, for example, produced by electric fields that fluctuate in the right
-patterns.  Perhaps, in such a world, my laptop running `consciousness.exe`
-produces the right patterns just as the neurons in the brain do, and becomes
-conscious.
+Now I want to be quite clear about this position.  By saying that consciousness
+is not computation, I am *not* claiming that computers are not or never can be
+conscious.  We could imagine a world in which consciousness is produced by
+electric fields that fluctuate in the right patterns, for example.  Perhaps, in
+such a world, my laptop running `consciousness.exe` produces the right patterns
+just as the neurons in the brain do, and becomes conscious.
 
 But in this world, consciousness is, at root, a *physical* phenomenon, not a
 purely computational phenomenon.  Computation may be necessary to produce
-consciousness, but my claim is that it cannot be sufficient.  Yes I can run
+consciousness, but it cannot be sufficient.  So in such a world I can run
 `consciousness.exe` on a digital computer and produce a conscious being, but if
 I run the same program on the "rocks in a desert" computer or the "hot iron
 bar" computer, I will not.  In this case, consciousness is then
@@ -313,10 +312,55 @@ So computer simulations can never produce the entity it is simulating since the
 relation to an external observer.  A simulation of a brain cannot produce
 consciousness any more than a simulation of the weather can produce rain.
 
+## Should this conclusion worry us?
+
+This "triviality argument" has been presented by a number of prominent
+philosophers, among them Ian Hinckfuss, John Searle, Hilary Putnam, and David
+Chalmers.  But it is worth noting that as with any philosophical argument it is
+not universally accepted.  The principal objection is that it assumes too loose
+a definition of computation.  Well *of course*, the counterargument goes, if we
+assume an expansive definition of computation, then everything becomes a
+computer.  But shouldn't this be an indication that we ought to reconsider what
+it means to be a computer?
+
+Now, a major downside of this approach is that it is much less obvious what an
+appropriate definition of a computer is.  Our original definition was that
+anything is a computer as long as we can make a mapping from physical states to
+abstract states of a Turing machine.  This definition has the virtues of being
+precise and objective.  But if we try to strengthen this definition by
+requiring, for instance, that the mapping be "simple" comes at the cost of
+precision or objectivity.  At some point some of the systems we have been
+considering stop being computers and it's not obvious where that line would be
+drawn.  Maybe the "rocks in a desert" computer is not actually a computer
+because it relies on the free will of the lone individual .
+
+But what is the alternative?  Up to now I've been promoting the "anti-realist"
+position, namely that computation is only defined in terms of its relation to
+us.  We call certain objects in this world "computers" because there is a
+convenient and reliable mapping between their physical states and the abstract
+states of a Turing machine.  Without an external observer present to call the
+object a computer, it's just a lump of matter obeying the laws of physics.
+
+This may seem inherently reasonable.  But there is a hidden danger with this
+approach.  Because surely the mind is doing some computation.  Isn't my brain
+computing something when a sequence of activations from my auditory nerve
+arrives at my brain and I determine that I am listening to a symphony of Haydn?
+But if that's so, what is the "observer" that is making the mapping from
+physical states to abstract states?  It is easy to end up making the
+[homunculus fallacy][22], in which we posit an "inner eye" of the mind that
+looks at the auditory cortex and interprets its activity as that of a computer.
+Yet surely this "inner eye" can also compute, in which case what is the
+external observer that is interpreting its activity as a computer?  Since there
+is no definition of computation without reference to an external observer, a
+system in isolation cannot compute.  Parts can compute with respect to other
+parts, but taken as a whole no computation is possible.  Unfortunately in
+arguing that consciousness is not computation, we end up struggling to imagine
+how the mind can compute anything at all. [[^11]]
+
 ## So what is consciousness then?
 
 The idea that consciousness comes from computing a particular kind of program
-is seductive because it seems to lay out a path towards understanding where
+is seductive because it lays out a clear path toward understanding where
 consciousness comes from.  If only we could write a clever enough computer
 program, we could figure it out.
 
@@ -421,10 +465,10 @@ Is it so outrageous to hope that a better understanding of what is going on
 during the wavefunction collapse might provide the missing key we need to
 understand consciousness?
 
-But I will concede that resorting to quantum mechanics (or some physics beyond
-it) is nevertheless an implausible way to explain consciousness.  The brain is a
-warm and noisy environment.  As far as we know a quantum state is just too
-delicate to be maintained in the brain for any length of time.  
+But I will concede that resorting to quantum mechanics (or some new physics
+beyond it) is nevertheless an implausible way to explain consciousness.  The
+brain is a warm and noisy environment.  As far as we know a quantum state is
+just too delicate to be maintained in the brain for any length of time.  
 
 So where does this leave us?  I suspect that for the foreseeable future we will
 be stuck with apophatic approaches to the hard problem of consciousness.  Just
@@ -512,6 +556,30 @@ computation is among the long list of things that are not consciousness.
     can you determine what the mapping is.  Nevertheless, the mapping exists,
     so you can claim that the system is computing.
 
+[^11]:
+    One risky way out, rejected by most philosophers, is epiphenomenalism.
+    This is the notion that consciousness has no causal effects on the material
+    world, but is just "along for the ride."  Our consciousness simply sits on
+    top of the brain.  Different neural activations produce different
+    sensations of consciousness, but our conscious thought never changes our
+    behavior.  Any belief we have that we are consciously making decisions is
+    an illusion --- in reality the brain is blindly chugging along, and our
+    consciousness is interpreting these neural states as the sensation of
+    making decisions.  But no conscious decision making is happening.  I will
+    admit to having some sympathy for epiphenomenalism, but it does pose
+    challenges.  When I hit my thumb with a hammer and feel pain, why do I find
+    that sensation unpleasant?  Why do I find the sensation of eating a freshly
+    picked strawberry pleasant?  If epiphenomenalism is wrong and my conscious
+    states can influence my actions there is a good explanation --- natural
+    selection has evolved the sensation of pain so that I avoid things that
+    will hurt me, and similarly it has evolved the sensation of pleasure so
+    that I seek out things that help me to survive.  But in the
+    epiphenomenalist picture there is no causal connection between the
+    conscious perception and any physical actions.  It makes no difference how
+    my consciousness perceives these things.  So why does there just so happen
+    to be a tight correspondence between the conscious perception and my
+    survival?
+    
 [1]: https://annakaharris.com/chalmers/
 
 [2]: http://www.consc.net/notes/lloyd-comments.html
@@ -547,3 +615,11 @@ computation is among the long list of things that are not consciousness.
 [17]: https://en.wikipedia.org/wiki/Biological_naturalism
 
 [18]: https://en.wikipedia.org/wiki/Split-brain
+
+[19]: https://www.jstor.org/stable/2025395
+
+[20]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1068.2142&rep=rep1&type=pdf
+
+[21]: https://www.google.com/books/edition/Representation_and_Reality/A0YJILtyCPEC?hl=en&gbpv=0
+
+[22]: https://en.wikipedia.org/wiki/Homunculus_argument
