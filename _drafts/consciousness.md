@@ -15,9 +15,11 @@ are.  In fact, some are even bolder and claim that this isn't just something
 that will happen off in the distant future, but that the age of conscious
 computers is upon us already.  David Chalmers [famously argued][2] that we must
 be open to the idea that any feedback system --- even one as simple as a
-[thermostat][1] --- is conscious, even if in a limited way.  And recently AI
+[thermostat][1] --- is conscious, even if in a limited way.  Recently AI
 researcher Ilya Sutskever [speculated][3] that today's large neural networks
-may be "slightly conscious."
+may be "slightly conscious."  And a few months later Google engineer Blake
+Lemoine was fired after [going public][23] with his concerns that the [LaMDA
+language model][24] is sentient.
 
 The idea that consciousness is fundamentally computational is admittedly
 attractive.  At the core of the philosophy of mind is what Chalmers called "the
@@ -28,36 +30,37 @@ assessment of their centuries of collective effort is that the time would have
 been better spent abiding by Hume's counsel of playing backgammon and enjoying
 the company of friends instead.
 
-But as computers developed a promising idea emerged.  It went like this:
-Perhaps the brain is like a computer and the mind is like a computer program.
-What is important, then, is not so much the specific hardware of the brain, but
-the computer program that it is running.  This idea seemed to break the
-stranglehold of the purely physical and introduce an abstract, non-physical
-entity that sits on top of the hardware, which seems to neatly correspond to
-the way that consciousness seems to sit on top of the brain. [[^7]] After
-centuries of fruitless efforts by philosophers at explaining the origin of
-consciousness, it's easy to see how those who worked with these new machines
-latched on to this revolutionary paradigm, especially as this idea began to be
-[represented][8] in [science][9] [fiction][10] and, as the decades progressed,
-science fiction evolved into reality as computers started to surpass humans in
-a [variety][11] of [tasks][12].
+But as computers developed in the 20th century, a promising idea emerged.  It
+went like this: Perhaps the brain is like a computer and the mind is like a
+computer program.  What is important, then, is not so much the specific
+hardware of the brain, but the program that the brain is running.  This idea
+seemed to break the stranglehold that purely physical matter had on
+consciousness and introduced an abstract, non-physical entity that sits on top
+of the hardware, which seems to neatly correspond to the way that consciousness
+seems to sit on top of the brain. [[^7]] After centuries of fruitless efforts
+by philosophers at explaining the origin of consciousness, it's easy to see why
+those who worked with these new machines latched on to this revolutionary
+paradigm, especially as this idea began to be [represented][8] in [science][9]
+[fiction][10] and, as the decades progressed, science fiction evolved into
+reality as computers started to surpass humans in a [variety][11] of
+[tasks][12].
 
 But we must resist the allure of this seductive idea.  The theory that
-consciousness is just a matter of running the right kind of computer program is
+consciousness is nothing but running the right kind of computer program is
 wrong. [[^8]]   Computation alone is insufficient to produce consciousness.
 
 This is, as I understand it, not a radical position among philosophers of the
 mind these days.  Back in the 1980s John Searle cast doubt on the computational
-theory of consciousness with the [Chinese Room argument][13].  Today it seems
-that most philosophers accept the validity of the Chinese Room argument.  But
-this position is not universal.  There are a number of objections to Searle's
-argument, and it certainly does not appear that the consensus among
-philosophers reflects the consensus within the tech world.  My purpose in this
-blog post is to outline another argument against the idea that consciousness
-can be reduced to computation.  This is the so-called "[triviality
-argument][16]," which is less famous than the Chinese Room argument (perhaps
-because the name is not as catchy), but which I think refutes the computational
-theory of consciousness at a more fundamental level.
+theory of consciousness with the [Chinese Room argument][13], and today it
+seems that most philosophers accept its validity.  But this position is not
+universal.  There are a number of objections to Searle's argument.  And it
+certainly does not appear that the consensus within the tech world matches the
+consensus among philosophers.  My purpose in this blog post is to outline
+another argument against the idea that consciousness can be reduced to
+computation.  This is the so-called "[triviality argument][16]," which is less
+famous than the Chinese Room argument (perhaps because the name is not as
+catchy), but which I think refutes the computational theory of consciousness at
+a more fundamental level.
 
 ## Some preliminaries
 
@@ -69,12 +72,12 @@ of consciousness practically requires a theory of consciousness itself.  To
 make matters worse, in these kinds of discussions it oftentimes gets mingled
 with related ideas like self-awareness, intelligence, and executive function.
 But in this post I am interested only in consciousness as a sort of perception
---- an awareness of being, or, more loosely, "what it feels like to be
-something."
+or sentience --- an awareness of being, or, more loosely, "what it feels like
+to be something."
 
 This aspect of consciousness is sometimes called "qualia." [[^1]]  I won't
 rehearse the classic arguments for the existence of qualia since, like
-Descartes, I regard my own qualia as an empirical fact --- indeed, perhaps the
+Descartes, I regard my own qualia as an empirical fact --- perhaps the
 only empirical fact that I can know for certain. [[^6]]  Of course given any
 position in philosophy you can find *some* philosopher who has made the case
 for it, and Daniel Dennett has made the case that [qualia does not exist][6].
@@ -110,11 +113,11 @@ physical computer can also be run on a Turing machine. [[^2]]
 
 #### What is a computer?
 
-There is then the companion question of what exactly constitutes a computer.
+There is then the follow-up question of what exactly constitutes a computer.
 Now, a Turing machine is a purely mathematical abstraction, like a circle or a
-fractal.  We can manifest things in the real world which can be well modeled by
-a circle, but the abstract idea of a circle is distinct from a drawing of a
-circle.
+fractal.  We can create or identify things in the real world which can be well
+modeled by a circle, but the abstract idea of a circle is distinct from a
+drawing of a circle.
 
 Likewise we can build an object in the real world which can model the behavior
 of the abstract Turing machine.  And, more practically, we can build devices
@@ -127,7 +130,7 @@ machine.  The Turing machine is a mathematical abstraction, whereas the
 computer is the instantiation of that abstraction in the physical world.  We
 can, for example, make a correspondence between the voltage levels in a CPU
 register with the state of the Turing machine; likewise we can make a
-correspondence between the magnetic moments of sections of the hard drive with
+correspondence between the magnetic moments of sections of a hard drive with
 the states of the Turing machine's ticker tape.
 
 #### How accurate does a computer need to be?
@@ -155,7 +158,8 @@ system and the abstract states of a Turing machine is powerful because it
 abstracts away the internal mechanics of the computer.  The computer can use
 transistors or vacuum tubes or something else entirely, and we can just focus
 just on what the abstract Turing machine is doing.  Computer scientists don't
-need to know anything about Kirchhoff's laws to determine whether $$P = NP$$.
+need to know anything about Kirchhoff's laws or semiconductor physics to
+determine whether $$P = NP$$.
 
 ## Consciousness in a field of rocks
 
@@ -165,7 +169,7 @@ made out of things other than electronics.  We can create mechanical computers
 out of [Legos][7] or [balls tumbling down a pegboard][4].  A wonderful cartoon
 from [XKCD][5] imagined an individual who finds himself in a vast desert filled
 with rocks.  To allay his boredom, he manipulates the rocks on the desert to
-produce a computer and in so doing, simulates the entire universe, instant by
+produce a computer, and in so doing, simulates the entire universe, instant by
 instant.
 
 Now, if consciousness were a consequence of pure computation, it would be
@@ -191,21 +195,21 @@ it could very well exist in a substrate which is unfamiliar to us. [[^5]]
 
 So let's follow where this argument takes us.  Rather than manipulating rocks
 in a desert, let's imagine a bar of iron heated past the Curie temperature.
-Each atom in the bar has a magnetic moment which points either up or down.  For
-simplicity, let's assume that the bar is very hot and that the magnetic moment
-of each atom is randomly flipping between up and down.  Moreover by an
-ingenious device, we have the means to observe whether the magnetic moment of
-every atom in the bar is up or down at any given time.
+Each atom in the bar has a magnetic moment which points either up or down, and
+because the bar is so hot, the magnetic moment of each atom is randomly
+flipping between up and down.  Moreover, by an ingenious device, we have the
+means to observe whether the magnetic moment of every atom in the bar is up or
+down at any given time.
 
 I want to determine if this bar of iron is conscious, so I examine its atoms to
 see if it is running the `consciousness.exe` computer program.  I designate the
 first $$P$$ atoms to be input bits, another $$N$$ atoms to be internal states
 of the Turing machine, and then another $$Q$$ atoms to be outputs.  Then I look
 at the magnetic moments of those atoms sampled at different time steps and see
-if they correspond to the inputs, outputs, and intermediate states of
-`consciousness.exe` by designating a moment pointing "up" as a 1 and a moment
-pointing "down" as a 0.  Naturally, there is no correspondence so I conclude
-that the bar of iron is not conscious.
+if they correspond to the inputs, outputs, and intermediate states of the
+corresponding Turing machine by designating a moment pointing "up" as a 1 and a
+moment pointing "down" as a 0.  Naturally, there is no correspondence so I
+conclude that the bar of iron is not conscious.
 
 Simultaneously, however, my friend Alice performs the same observation.  But
 rather than designating atoms pointing "up" as a 1 and a moment pointing down
@@ -220,7 +224,7 @@ unless it's the second atom in the bar, in which case it's a 0.  Similarly Carl
 performs the same observation, but in his encoding, an atom pointing up is a 1
 unless it's the third atom, and so on.  Eventually we get to Ada, who encodes
 an atom pointing up as a 1 unless it's the first or second in which case it's
-a 1.  Then Barbara, who encodes an atom pointing up as a 1 unless it's the first
+a 0.  Then Barbara, who encodes an atom pointing up as a 1 unless it's the first
 or third.
 
 Continuing this, we can imagine an enormous crowd of observers staring at this
@@ -255,11 +259,11 @@ imagine doing the same thing with the locations of molecules in a [pail of
 water][19] or on the [wall of a room][20], or in a [brick][21].  In all cases
 we are forced to conclude that a sufficiently large system contains all
 possible consciousnesses.  So the proposition that consciousness is computation
-leads quite inextricably to a sort of panpsychism.  But even if we could
-stomach a traditional conception of panpsychism that posits that all things are
-conscious in some primitive way, this goes far beyond that.  We are forced to
-conclude that large groups of atoms aren't just vaguely conscious, but they
-contain *all* consciousnesses, including our own.
+leads quite inevitably to an extreme panpsychism.  Even if we could stomach a
+traditional conception of panpsychism that posits that all things are conscious
+in some primitive way, this goes far beyond that.  We are forced to conclude
+that all things aren't just vaguely conscious, but they contain *all*
+consciousnesses, including our own!
 
 ## (Some) computers can still be conscious!
 
@@ -275,18 +279,21 @@ purely computational phenomenon.  Computation may be necessary to produce
 consciousness, but it cannot be sufficient.  So in such a world I can run
 `consciousness.exe` on a digital computer and produce a conscious being, but if
 I run the same program on the "rocks in a desert" computer or the "hot iron
-bar" computer, I will not.  In this case, consciousness is then
-hardware-dependent, which means that it cannot be reduced to pure computation.
-If we are to claim, for example, that a GPU executing a neural network is
-conscious, we have to explain what it is about this particular physical system
-that is generating consciousness.  We cannot invoke the pure computation alone.
+bar" computer, I will not.  In this case consciousness is hardware-dependent,
+which means that it cannot be reduced to pure computation.  If we are to claim,
+for example, that a GPU executing a neural network is conscious, we have to
+explain what it is about this particular physical equipment that is generating
+consciousness, and an argument that a neural network running on an NVIDIA GPU
+is consciouss would not necessarily extend to that same neural network running
+on an AMD GPU.  We cannot invoke the pure computation alone.
 
 ## Syntax is not semantics
 
 The argument can be reduced to its bare bones like this:
 
 1. To say that a physical system is a computer requires an external observer to
-   map the physical states of that system onto abstract states.
+   map the physical states of that system onto the abstract states of a Turing
+   machine.
 2. Consciousness does not require an external observer to exist.
 3. Therefore, consciousness cannot be reduced to computation.
 
@@ -304,11 +311,11 @@ have imposed on it.
 
 Of course it is simplest to build a computer where the high voltage states
 correspond to 1s and the low voltages states 0s or vice versa.  But there is no
-requirement to build a computer that way.  We could build a perfectly valid
-computer where the high voltage states of even valued states correspond to 1s
-and where they correspond to 0s in the odd valued states, or one where the
-mapping flips on alternate clock cycles.  The system only "computes" because of
-the way we have encoded information. [[^10]]
+requirement that we build our computers that way.  We could build a perfectly
+valid computer where the high voltage states of even valued registers
+correspond to 1s and where they correspond to 0s in the odd valued registers,
+or one where the mapping flips on every 13th clock cycle.  The system only
+"computes" because of the way we have encoded information. [[^10]]
 
 So computer simulations can never produce the entity they are simulating since
 the "simulation" is not an independent system.  It is only defined in terms of
@@ -329,36 +336,36 @@ reconsider what it means to be a computer?
 Now, a major downside of tightening our definition of a computer is that it is
 much less obvious what an appropriate definition is.  Our original definition
 was that anything is a computer as long as we can make a mapping from physical
-states to abstract states of a Turing machine.  This definition has the virtues
-of being precise and objective.  I can tell you my mapping and then you can
-look at the system and say with certainty whether or not it is computing a
+states to the abstract states of a Turing machine.  This definition has the
+virtues of being precise and objective.  I can tell you my mapping and then you
+can look at the system and say with certainty whether or not it is computing a
 given Turing machine.  But if we try to tighten this definition by requiring,
-for instance, that the mapping be "simple," then we will lose precision in the
-definition, because what constitutes a "simple" encoding?
+for instance, that the mapping be "simple," then we will lose objectivity in
+the definition, because there's no clear metric for what constitutes a simple
+encoding.
 
-But let's make sure we understand what we give up when we accept our original
-definition of a computer.  Up to now I've been promoting the "anti-realist"
-position, namely that computation is only defined in terms of its relation to
-us.  We call certain objects in this world "computers" because there is a
-convenient and reliable mapping between their physical states and the abstract
-states of a Turing machine.  Without an external observer present to call the
-object a computer, it's just a lump of matter obeying the laws of physics.
+But let's make sure we understand what we give up when we accept our original,
+expansive definition of a computer.  Up to now I've been promoting the
+"anti-realist" position, namely that computation is only defined in terms of
+its relation to us.  We call certain objects in this world "computers" because
+there is a convenient and reliable mapping between their physical states and
+the abstract states of a Turing machine.  Without an external observer present
+to call the object a computer, it's just a hunk of matter obeying the laws of
+physics.
 
-The problem is that surely the mind computes in some way.  Isn't my brain
-computing something when a sequence of activations from my auditory nerve
-arrives at my brain and I determine that I am listening to a symphony of Haydn?
-But if that's so, what is the "observer" that is making the mapping from
-physical states to abstract states?  We start to butt up against the
-[homunculus fallacy][22], in which we posit an "inner eye" of the mind that
-looks at the auditory cortex and interprets its activity as that of a computer.
-But can the "inner eye" compute?  If so, what is the external observer that is
-interpreting its activity as a computer?  Since there is no definition of
-computation without reference to an external observer, a system in isolation
-cannot compute, which suggests that a conscious being cannot compute.  Maybe
-parts of the brain can compute with respect to the mind, but no computation is
-possible in the mind taken as a whole.  Unfortunately in arguing that
-consciousness is not computation, we end up struggling to imagine how the mind
-can compute anything at all. [[^11]]
+The problem is that surely the mind computes in some way.  When I think, it
+feels like I am computing *something*.  But if that's so, what is the
+"observer" that is making the mapping from physical states to abstract states?
+We start to run into the [homunculus fallacy][22], in which we posit an "inner
+eye" of the mind that looks at the auditory cortex and interprets its activity
+as that of a computer.  But can the "inner eye" compute?  If so, what is the
+external observer that is interpreting its activity as a computer?  Since there
+is no definition of computation without reference to an external observer, a
+system in isolation cannot compute, which suggests that a conscious being
+cannot compute.  Maybe parts of the brain can compute with respect to the mind,
+but no computation is possible in the mind taken as a whole.  Unfortunately in
+arguing that consciousness is not computation, we end up struggling to imagine
+how the mind can compute anything at all. [[^11]]
 
 ## So what is consciousness then?
 
@@ -368,10 +375,10 @@ consciousness comes from.  If only we could write a clever enough computer
 program, we could figure it out.  But the triviality argument has convinced me
 that a computational theory of consciousness is not the path forward.
 
-But if consciousness is not computation, then what is it?  Of course there are
-few questions which are harder to answer, and I don't claim to have a solution.
-But there are a few properties of consciousness that we have to explain if we
-want a good theory of consciousness.
+But if consciousness is not computation, then what is it?  Of course that's the
+hard question, and I don't claim to have a solution.  But there are a few
+properties of consciousness that we have to explain if we want a good theory of
+consciousness.
 
 ### Consciousness is in the brain
 
@@ -404,55 +411,48 @@ The second important property of consciousness that any theory needs to explain
 is that consciousness is a single, cohesive experience.  My consciousness is of
 my entire self.  It is not of half of myself, nor is it of some superposition
 of you and me.  Somehow, whatever is going on in my brain to produce my
-consciousness contains my whole brain, not just a subset of it, and that it
-doesn't also include anyone else's brain.  
+consciousness contains my whole brain, not just a subset of it.  There are not
+multiple consciousnesses in my brain, it's just me in there.
 
 Some individuals with severe epilepsy have to have the corpus callosum severed.
 The corpus callosum joins the left hemisphere to the right hemisphere.  Once
 these individuals have the corpus callosum severed, they seem to exhibit [*two*
-consciousnesses][18] rather than one.
+consciousnesses][18] rather than one.  The right side of the brain seems to be
+surprised when the left side of the brain decides to raise the right arm.  But
+every time I decide to raise either of my arms, my arm goes up and it never
+goes up unless I decide to raise it.
 
 This is important because any theory of consciousness needs to account for the
 boundaries of consciousness.  Evidently consciousness includes *all* the
-neurons in the cerebral cortex.  I can't pick out the neurons in the left
-hemisphere and say that that because they form a tightly integrated network of
-neurons, they are conscious, because their connection to the right hemisphere
-causes there to be a *single* consciousness, not two which talk to each other
-via the corpus callosum.  Somehow consciousness is a *global*, non-local
-phenomenon, yet simultaneously bounded in physical space.
-
-The "consciousness is computation" argument essentially fails to account for
-this fact.  Since "a computing system" is not well defined in physical space,
-it's impossible to say where the computer ends and the rest of the world
-begins.  We are fooled by the fact that the computers we are familiar with are
-put in neat boxes.  But if our computer is just a bunch of rocks on the sand
-the limits of the "computer" are not obvious.  The "consciousness is
-computation" argument plays on our intuition that the CPU is like a brain and
-the box that the computer is in is like a skull.
+neurons in the cerebral cortex.  We might suppose that any tightly integrated
+network of neurons will become conscious.  But if that's the case then why is
+the cerebellum not conscious?  (Or, more to the point, why is it not the seat
+of consciousness given that it has so many more neurons?)  Evidently the
+topology of this network must be relevant.
 
 ### New biology or new physics?
 
 The "hard problem of consciousness" is that there appears to be what Chalmers
 has called an "explanatory gap" between a purely physical description of the
 universe and the subjective experience of qualia.  How do you go from the
-positions and motions of atoms and fields to awareness?  There seem to be no
-scientific tools available to us that bridge this gap.  But maybe the answer to
-these questions lies in currently undiscovered biological effects or even new
-physics.
+positions and motions of atoms in electromagnetic fields to awareness?  There
+seem to be no scientific tools available to us to bridge this gap.  But maybe
+the answer to these questions lies in currently undiscovered biological effects
+or even new physics.
 
 John Searle is one of the better known proponents of "[biological
 naturalism][17]" and has argued that the only reason that we can't explain
 consciousness is that we just don't know enough about the biology of the brain.
 After all, vicious philosophical debates in the past have been resolved and
 later quietly forgotten as scientists have come to a better understanding of
-biology.  In the late 1800s, for example, there were heated philosophical
-debates about whether life required a mysterious "vital force" or if it could
-be produced through ordinary physical interactions.  As biochemists learned
-more about the chemistry of life they found that it was the latter and before
-long philosophers forgot that this was even a question that had ever been
-debated.  Perhaps the same will be true of consciousness.  As we learn more
-about neurobiology, we will come to see that consciousness is just generated as
-a biological process "in the same way that the stomach produces digestion," in
+biology.  In the late 1800s there were heated philosophical debates about
+whether life required a mysterious "vital force" or if it could be produced
+through ordinary physical interactions.  As biochemists learned more about the
+chemistry of life they found that it was the latter and before long
+philosophers forgot that this was even a question that had ever been debated.
+Perhaps the same will be true of consciousness.  As we learn more about
+neurobiology, we will come to see that consciousness is just generated as a
+biological process "in the same way that the stomach produces digestion," in
 Searle's words.  Then these centuries of speculation about the "hard problem of
 consciousness" will be viewed by our descendants to be as quaint as the debates
 about vitalism.
@@ -467,25 +467,22 @@ across a finite space as a cohesive unit, much like consciousness.
 Furthermore, this idea has the advantage of providing a connection to one of
 the more mysterious features of quantum mechanics --- the collapse of the
 wavefunction.  This feature has always sat uncomfortably within the orthodox
-Copenhagen interpretation because it is not entirely clear what constitutes an
-"observation" that triggers the collapse.  Eugene Wigner among others argued
-that it is only a conscious observer who can trigger the collapse of a
+Copenhagen interpretation because it is a little vague on what constitutes an
+"observation" that triggers the collapse.  [Eugene Wigner][25], among others,
+argued that it is only a conscious observer who can trigger the collapse of a
 wavefunction.  It is an odd idea, but odder things have turned out to be true!
-Is it so outrageous to hope that a better understanding of what is going on
-during the wavefunction collapse might provide the missing key we need to
-understand consciousness?
 
-But I will concede that resorting to quantum mechanics (or some new physics
-beyond it) is nevertheless an implausible way to explain consciousness.  The
-brain is a warm and noisy environment.  As far as we know a quantum state is
-just too delicate to be maintained in the brain for any length of time.  
+But I will concede that resorting to quantum mechanics or new physics is the
+last refuge of scoundrels.  The brain is a warm and noisy environment, and as
+far as we know a quantum state is just too delicate to be maintained in the
+brain for any length of time.  
 
 So where does this leave us?  I suspect that for the foreseeable future we will
 be stuck with apophatic approaches to the hard problem of consciousness.  Just
 as it's easier to say what God is *not* rather than what God is, we may not be
 able to say much about what consciousness is, but we can at least learn
-something by saying what it is *not*.  And we can be confident in saying that
-computation is among the long list of things that are not consciousness.
+something by saying what it is *not*.  And here we can be confident in saying
+that consciousness is not computation.
 
 ----
 
@@ -618,7 +615,7 @@ computation is among the long list of things that are not consciousness.
 
 [14]: https://en.wikipedia.org/wiki/Homomorphic_encryption
 
-[15]: https://academic.oup.com/brain/article/133/3/652/277518?login=false
+[15]: https://academic.oup.com/brain/article/133/3/652/277518
 
 [16]: https://marksprevak.com/publications/triviality-arguments-about-computational-implementation-2018/
 
@@ -633,3 +630,9 @@ computation is among the long list of things that are not consciousness.
 [21]: https://www.google.com/books/edition/Representation_and_Reality/A0YJILtyCPEC?hl=en&gbpv=0
 
 [22]: https://en.wikipedia.org/wiki/Homunculus_argument
+
+[23]: https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/?variant=95d42e19c24b03e7
+
+[24]: https://blog.google/technology/ai/lamda/
+
+[25]: https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Wigner_interpretation
