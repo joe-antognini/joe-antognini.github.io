@@ -11681,19 +11681,8 @@ DESCRIPTION:Today is a commemoration. The liturgical color is green.\n\nMo
  Pentecost (Fish Eaters)</a>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Paulinus
-DTSTART;VALUE=DATE:20220622
-DESCRIPTION:The Feast of St. Paulinus is a Class III feast. The liturgical
-  color is white.\n\nMore information about the Feast of St. Paulinus:\n•
-  <a href=https://en.wikipedia.org/wiki/Paulinus_of_Nola>Paulinus of Nola (
- Wikipedia)</a>\n• <a href=http://www.newadvent.org/cathen/11585b.htm>St.
-  Paulinus\, Bishop of Nola (New Advent)</a>\n\nMore information about the 
- Time after Pentecost:\n• <a href=https://fisheaters.com/customstimeafter
- pentecost1.html>Time after Pentecost (Fish Eaters)</a>
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:St. John's Eve
-DTSTART;VALUE=DATE:20220623
+DTSTART;VALUE=DATE:20220622
 DESCRIPTION:The Feast of St. John's Eve is a Class II feast. The liturgica
  l color is violet.\n\nMore information about the Feast of St. John's Eve:\
  n• <a href=https://fisheaters.com/customstimeafterpentecost3.html>St. Jo
@@ -11706,8 +11695,20 @@ DESCRIPTION:The Feast of St. John's Eve is a Class II feast. The liturgica
  e after Pentecost (Fish Eaters)</a>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:› St. Paulinus
+DTSTART;VALUE=DATE:20220622
+DESCRIPTION:This year the Feast of St. Paulinus is outranked by the Feast 
+ of St. John's Eve. This feast is a Class III feast.\n\nMore information ab
+ out the Feast of St. Paulinus:\n• <a href=https://en.wikipedia.org/wiki/
+ Paulinus_of_Nola>Paulinus of Nola (Wikipedia)</a>\n• <a href=http://www.
+ newadvent.org/cathen/11585b.htm>St. Paulinus\, Bishop of Nola (New Advent)
+ </a>\n\nMore information about the Time after Pentecost:\n• <a href=http
+ s://fisheaters.com/customstimeafterpentecost1.html>Time after Pentecost (F
+ ish Eaters)</a>
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:St. John's Day
-DTSTART;VALUE=DATE:20220624
+DTSTART;VALUE=DATE:20220623
 DESCRIPTION:The Feast of St. John's Day is a Class I feast. The liturgical
   color is white.\n\nMore information about the Feast of St. John's Day:\n
  • <a href=https://fisheaters.com/customstimeafterpentecost3.html>St. Joh
@@ -11720,19 +11721,18 @@ DESCRIPTION:The Feast of St. John's Day is a Class I feast. The liturgical
  stomstimeafterpentecost1.html>Time after Pentecost (Fish Eaters)</a>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:› The Sacred Heart
+SUMMARY:The Sacred Heart
 DTSTART;VALUE=DATE:20220624
-DESCRIPTION:This year the Feast of the Sacred Heart is outranked by the Fe
- ast of St. John's Day. This feast is a Class I feast.\n\nMore information 
- about the Feast of the Sacred Heart:\n• <a href=https://fisheaters.com/c
- ustomstimeafterpentecost4.html>The Sacred Heart (Fish Eaters)</a>\n• <a 
- href=https://en.wikipedia.org/wiki/Feast_of_the_Sacred_Heart>Feast of the 
- Sacred Heart (Wikipedia)</a>\n• <a href=https://en.wikipedia.org/wiki/Sa
- cred_Heart>Sacred Heart (Wikipedia)</a>\n• <a href=http://www.newadvent.
- org/cathen/07163a.htm>Devotion to the Sacred Heart of Jesus (New Advent)</
- a>\n\nMore information about the Time after Pentecost:\n• <a href=https:
- //fisheaters.com/customstimeafterpentecost1.html>Time after Pentecost (Fis
- h Eaters)</a>
+DESCRIPTION:The Feast of the Sacred Heart is a Class I feast. The liturgic
+ al color is white.\n\nMore information about the Feast of the Sacred Heart
+ :\n• <a href=https://fisheaters.com/customstimeafterpentecost4.html>The 
+ Sacred Heart (Fish Eaters)</a>\n• <a href=https://en.wikipedia.org/wiki/
+ Feast_of_the_Sacred_Heart>Feast of the Sacred Heart (Wikipedia)</a>\n• <
+ a href=https://en.wikipedia.org/wiki/Sacred_Heart>Sacred Heart (Wikipedia)
+ </a>\n• <a href=http://www.newadvent.org/cathen/07163a.htm>Devotion to t
+ he Sacred Heart of Jesus (New Advent)</a>\n\nMore information about the Ti
+ me after Pentecost:\n• <a href=https://fisheaters.com/customstimeafterpe
+ ntecost1.html>Time after Pentecost (Fish Eaters)</a>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. William
