@@ -419,3 +419,4 @@ So there are
 * Levels.fyi
 * https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
 * https://www.adamconrad.dev/blog/changing-jobs-during-the-great-resignation/
+* https://eigenrobot.substack.com/p/advice-for-academic-refugees

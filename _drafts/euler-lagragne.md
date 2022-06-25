@@ -88,3 +88,6 @@ TODO:
 
 * https://www-users.cse.umn.edu/~jwcalder/CalculusOfVariations.pdf
 * http://people.maths.ox.ac.uk/ball/Teaching/MIGSAA2019.pdf
+
+Legendre transformation:
+* https://blog.jessriedel.com/2017/06/28/legendre-transform/
