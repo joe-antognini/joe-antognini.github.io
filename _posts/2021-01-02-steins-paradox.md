@@ -94,7 +94,7 @@ is
 $$
 \begin{eqnarray}
 \mathcal{R}_{x} & = & \mathbb{E} \left[ \left(x - \mu \right)^2 \right] \\
-& = & \int (x - \mu)^2 e^{-(x-\mu)^2 / 2} \, dx \\
+& = & \frac{1}{\sqrt{2\pi}} \int (x - \mu)^2 e^{-(x-\mu)^2 / 2} \, dx \\
 & = & 1.
 \end{eqnarray}
 $$
@@ -105,7 +105,7 @@ $$
 \begin{eqnarray}
 \mathcal{R}_{\textrm{dumb}} & = & \mathbb{E} \left[ \left(7 - \mu\right)^2 
 \right] \\
-& = & \int (7 - \mu)^2 e^{-(x - \mu)^2 / 2} \, dx \\
+& = & \frac{1}{\sqrt{2\pi}}\int (7 - \mu)^2 e^{-(x - \mu)^2 / 2} \, dx \\
 & = & (7 - \mu)^2.
 \end{eqnarray}
 $$
