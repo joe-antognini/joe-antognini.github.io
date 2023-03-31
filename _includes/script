@@ -1,0 +1,3 @@
+{% capture scriptPath %}{{ page.url | split: '/' | last }}/{{ include.name }}{% endcapture %}
+
+<script type="text/javascript" src="/assets/posts/{{ scriptPath }}"></script>
