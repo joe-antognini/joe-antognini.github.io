@@ -10,8 +10,8 @@ owner:
   email:          joe.antognini@gmail.com
   github:         joe-antognini
   location:       "Los Angeles, California"
-  disqus:         dynamicsinastronomy
   twitter:        joe_antognini
+  giscus_repo_id: MDEwOlJlcG9zaXRvcnkyMzI2Nzc4OQ==
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
