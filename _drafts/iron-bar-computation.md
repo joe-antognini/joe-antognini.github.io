@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Thought Experiments on the Computational Theory of Consciousness
-date: 2022-06-25
+title: Twelve Thought Experiments on the Computational Theory of Consciousness
+date: 2023-05-25
 categories: ml
 image:
   feature: constellations3.jpg
@@ -394,12 +394,67 @@ after years of searching.
 № 7 and № 9 compute, we must accept that this system computes.  We may not
 understand how the system is operating and the encoding may be complicated, but
 there is nevertheless a direct mapping between the states of the system and the
-states of a Turing machine performing the computation.
+states of a Turing machine performing the computation.  The computational
+theory of consciousness forces us to accept that this grid of rocks is
+conscious.
 
 ## Thought Experiment № 11
 
+### Alice hunts for consciousness in a grid of rocks
+
+Alice and I finally come to one last vista, also in earthquake country.  Here,
+as in our last encounter, there is a vast grid of rocks, although the
+geological resonance seems different than before.  We do not quite understand
+how it works.  Here the $$M$$ pairs of rows is exceedingly large, more than
+$$10^{15}$$.  We see the same pair of "START" buttons on the ground.  We press
+the left button and watch what the rocks do.  We cannot make any sense of it
+for a long time.  But we are persistent and after decades of study, Alice says,
+"I've figured it out!  The system is not using all $$M$$ rows.  It is only
+using a *subset* of the rows.  If we account for that and apply an XOR, the
+system was sorting a list all along!"
+
+Then we press the "START" button on the right and watch the rocks move.  Again,
+after decades of study, Alice says, "This system is computing, too!  This
+system is also using a subset of the rows, it's just a different subset this
+time."
+
+I tell her, "You're nuts!  There's no way this system is computing.  There are
+so many rows here that you could always find *some* subset that encodes *any*
+binary string!  This system ran for $$T$$ time steps and $$M$$ is orders of
+magnitude larger than $$T$$.  The probability that the random fluctuations here
+would produce *some* subset of rows that matched the series of binary strings
+that encode the Turing machine is nearly 1!"
+
+Alice responds, "But that doesn't matter!  There's no rule that says I can't
+pick and choose which rows I want to be included in my 'system.'  In every
+place we've been, there have always been more rocks lying around than the ones
+in the rows for the Turing machine.  In those cases we only included the rocks
+that were convenient for us, and I am doing exactly the same thing now.  All
+you need is a mapping from the physical states of your system to the states of
+the Turing machine that you built.  And I found that mapping!  This field of
+rocks is conscious."
+
+*The moral of the story*: A computer is a mapping of physical states to the
+states of a Turing machine, but the collection of physical states that
+constitutes the computer does not need to be physically contiguous.  Just as a
+computation may be distributed across hundreds of computers in data centers
+across the globe, the computation could consist of an arbitrary subset of the
+rows of rocks.
+
+## Thought Experiment № 12
+
 ### Wherein a hot iron bar attains consciousness
 
+In a dramatic plot twist, I now reveal that this whole time Alice and I are
+microscopic beings.  What we thought to be a field of rocks is in fact a bar of
+iron.  The two rows of rocks correspond to the spin states of the iron.  The
+grid of rocks corresponds to a long column of iron atoms in this bar.  The
+earthquakes we were observing are in fact thermal fluctuations in the bar.
+When Alice claimed that the field of rocks in the last thought experiment was
+conscious, she was really claiming that a hot bar of iron is conscious.
+
+*The moral of the story*: The computational theory of consciousness forces us
+to accept that a hot iron bar is conscious.
 
 ## Conclusions
 
