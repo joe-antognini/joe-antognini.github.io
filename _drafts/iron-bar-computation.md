@@ -10,16 +10,17 @@ image:
 In my [last post][1] I outlined the so-called "[triviality argument][2]" that
 consciousness cannot be reduced to the process of computing a particular kind
 of computer program.  The post generated some lively discussion on [Hacker
-News][3] [and][5] [Reddit][4], and I had some good discussions with a number of
-people about it offline.  A number of commenters raised various objections to
-the argument as I presented it, but most of the objections centered around the
-leap I made from a computer that manipulates rocks in a field to the randomly
-fluctating states of atoms in an iron bar.  The iron bar is not a *real*
-computer, according to their argument, because the mapping from its states to
-the state of a Turing machine is totally arbitrary.  Moreover, because this
-mapping is purely random, *producing* this mapping essentially requires you to
-perform the computation yourself --- so, to the extent that any computation is
-being performed, it's really *you* who are computing, not the iron bar.
+News][3] [and][5] [Reddit][4], along with the article's comment section, and I
+had some good discussions with a number of people about it offline.  A number
+of commenters raised various objections to the argument as I presented it, but
+most of the objections centered around the leap I made from a computer that
+manipulates rocks in a field to the randomly fluctating states of atoms in an
+iron bar.  The iron bar is not a *real* computer, according to their argument,
+because the mapping from its states to the state of a Turing machine is totally
+arbitrary.  Moreover, because this mapping is purely random, *producing* this
+mapping essentially requires you to perform the computation yourself --- so, to
+the extent that any computation is being performed, it's really *you* who are
+computing, not the iron bar.
 
 I think these objections are incorrect and I still believe that a careful
 understanding of what a computer really is will force us to accept that if
