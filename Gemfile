@@ -6,6 +6,6 @@ gem 'coderay'
 gem 'rake'
 gem 'kramdown', '>= 2.3.1'
 gem 'addressable', '>= 2.8.0'
-gem 'rexml', '>= 3.2.5'
+gem 'rexml', '>= 3.3.6'
 
 gem "webrick", ">= 1.8.2"
