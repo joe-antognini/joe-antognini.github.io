@@ -156,9 +156,9 @@ we can answer that we need to take a quick detour.
 
 ## Samples in high dimensional spaces
 
-High dimensional spaces are counterintuitive.  One of the counteruintitive
+High dimensional spaces are counterintuitive.  One of the counterintuitive
 properties of high dimensional distributions is this: a sample from a symmetric
-high dimensional distirbution is highly likely to be further from the origin
+high dimensional distribution is highly likely to be further from the origin
 than the mean.  Specifically, for an isotropic $$D$$-dimensional Gaussian, the
 difference between the average distance to a sample and the distance to the
 mean grows as $$\sim$$$$\sqrt{D}$$.
@@ -302,14 +302,14 @@ an estimate is to choose a point somewhere on the line between the origin and
 $$\textbf{x}$$. [[^5]] In other words, you don't actually know what direction
 any of the $$\zeta_i$$ are in so you can't simply move your guess down the
 right side of the triangle to reduce $$\rho$$.  The only direction you are
-allowed to move your sample is along the hypoteneuse of this triangle.
+allowed to move your sample is along the hypotenuse of this triangle.
 
 ### How *should* we transform the sample?
 
 The beauty of the James-Stein estimator is that even though we are constrained
-to move the sample along the hypoteneuse, we can nevertheless reduce the
+to move the sample along the hypotenuse, we can nevertheless reduce the
 distance between our guess and the true mean by shrinking it until the
-direction between our guess and the mean is perpendicular to the hypoteneuse.
+direction between our guess and the mean is perpendicular to the hypotenuse.
 
 {% include image name="SteinsTriangle-2.png" %}
 
@@ -337,7 +337,7 @@ which is the James-Stein estimator without the ReLU.
 To be clear, this is a very hand-wavey argument.  Representing the entire
 distribution by a single point is not particularly sophisticated, and there is
 no special reason to choose to use the mode instead of the mean or median
-except that it happens to give an answer that corrseponds to the James-Stein
+except that it happens to give an answer that corresponds to the James-Stein
 estimator. [[^2]]
 
 ### Can we derive the James-Stein estimator rigorously?
@@ -373,7 +373,7 @@ loss than an estimate at the origin.
 The reason for this is that once we have shrunk the sample all the way down to
 the origin we have already traded away all the variance for bias.  In other
 words, we started with an estimate that had no bias and high variance, and
-ended up with an estimate that had high bias and no varaiance.  But if we were
+ended up with an estimate that had high bias and no variance.  But if we were
 to keep going past the origin, we'd continue to increase the bias but would
 start to increase the variance as well!  This is strictly worse than keeping
 our estimate at the origin, so we are better off clamping the estimate at zero
@@ -398,7 +398,7 @@ identically zero as it was in the one-dimensional case, it is strongly bunched
 up close to zero in the two dimensional case.  The idea of the James-Stein
 estimator is to note that a certain proportion of a sample's magnitude is due
 to a component orthogonal to the mean and to shrink the estimate to reduce that
-othogonal component somewhat.  But if the magnitude of the orthogonal component
+orthogonal component somewhat.  But if the magnitude of the orthogonal component
 is too small, this won't always work.  There are some values of the mean for
 which the James-Stein estimator is better, but others where it is worse.  It is
 not the better estimator no matter what.
@@ -416,10 +416,10 @@ the volume subtended by the origin at a fixed distance decays exponentially
 with dimension.  In one or two dimensions the volume subtended by the origin is
 large enough that you are guaranteed to eventually make your way back to it.
 But in higher dimensions, the volume subtended is smaller, so that as time
-progresses you are less and less likely to make your back and the probability
+progresses you are less and less likely to make your way back and the probability
 approaches zero even in the limit of an infinite number of steps.
 
-While rigorously proving this correspondance is non-trivial, both problems have
+While rigorously proving this correspondence is non-trivial, both problems have
 at their core a comparison between the distance between a point and the origin
 and the volume of the unit sphere in the space.
 
@@ -433,12 +433,12 @@ fact the concepts that Stein's paradox illustrates run much deeper through
 statistics and machine learning.
 
 As we discussed earlier on, while we usually don't think that there is anything
-special about our choice of origin, we do neveretheless use it to smuggle in
+special about our choice of origin, we do nevertheless use it to smuggle in
 some priors, even if those priors are weak and we perhaps do so unwittingly.
 This is also true of machine learning models, maybe even more so.  For most
 machine learning models the origin really *is* special.  For example, at the
 origin most garden-variety neural networks will exhibit particularly simple
-behavior --- they will output all zeros indpendent of the input. [[^3]]  Any
+behavior --- they will output all zeros independent of the input. [[^3]]  Any
 movement away from this special point will introduce complexity into the
 functional behavior of the model.  Neural networks are, of course, non-linear,
 so it is not always true that points further from the origin in parameter space
@@ -460,12 +460,12 @@ number of problems.)
 
 This phenomenon can manifest itself during neural network training.  Suppose we
 have converged on a local minimum in the loss landscape after training with
-some varaint of stochastic gradient descent.  At convergence there will be
+some variant of stochastic gradient descent.  At convergence there will be
 equality between the stochastic component of SGD, for which the random walk is
 causing the parameters to drift away from the minimum, and the true gradient,
 which is pushing the parameters towards the minimum. [[^4]]  At this point the
 neural network is wandering on some high-dimensional ellipsoid around the
-minumum.  But by the nature of high dimensional spaces, the neural network will
+minimum.  But by the nature of high dimensional spaces, the neural network will
 *always* be further from the origin than the minimum, and therefore on the side
 of too much complexity.  Thus this converged model will always slightly
 overfit.
@@ -487,7 +487,7 @@ down and the dragons at bay.
     found from a sequence of priors as the sequence tends to infinity.
 
 [^2]:
-    The median and mean of the $$\chi$$ distribtion are more complicated but
+    The median and mean of the $$\chi$$ distribution are more complicated but
     are asymptotically equal to the mode in the limit of a large number of
     degrees of freedom.  But the asymptotic limit does not help you prove the
     case for $$D = 3$$.
