@@ -1,25 +1,35 @@
 ---
 layout: post
 title: Twelve Thought Experiments on the Computational Theory of Consciousness
-date: 2023-06-09
+date: 2025-11-21
 categories: ml
 image:
   feature: constellations3.jpg
 ---
 
-In my [last post][1] I outlined the so-called "[triviality argument][2]" that
+[A few years ago][1] I outlined the so-called "[triviality argument][2]" that
 consciousness cannot be reduced to the process of computing a particular kind
-of computer program.  The post generated some lively discussion on [Hacker
-News][3] [and][5] [Reddit][4], and I had some good discussions with a number of
-people about it offline.  A number of commenters raised various objections to
-the argument as I presented it, but most of the objections centered around the
-leap I made from a computer that manipulates rocks in a field to the randomly
-fluctuating states of atoms in an iron bar.  The iron bar is not a *real*
-computer, according to their argument, because the mapping from its states to
-the state of a Turing machine is totally arbitrary.  Moreover, because this
-mapping is purely random, *producing* this mapping essentially requires you to
-perform the computation yourself --- so, to the extent that any computation is
-being performed, it's really *you* who are computing, not the iron bar.
+of computer program.  At the core of the argument is the recognition that there
+is no unique, objective way to define computational states in the physical
+world.  Consequently, it is always possible to find some (perhaps complicated)
+mapping of arbitrary physical states onto the states of a computer program that
+generates conscious experiences.  (The example I used in the earlier post was
+the fluctuating orientations of the magnetic moments in a hot iron bar.)  If
+consciousness could be reduced to a purely computational phenomenon, we would
+be forced to conclude that all sorts of inanimate objects like hot iron bars
+are conscious purely by virtue of this arbitrary mapping.
+
+The post generated some lively discussion on [Hacker News][3] [and][5]
+[Reddit][4], and I had some good conversations with a number of people about it
+offline.  A number of commenters raised various objections to the argument as I
+presented it, but most of the objections centered around the leap I made from a
+computer that manipulates rocks in a field to the randomly fluctuating states
+of atoms in an iron bar.  The iron bar is not a *real* computer, according to
+their argument, because the mapping from its states to the state of a Turing
+machine is totally arbitrary.  Moreover, because this mapping is purely random,
+*producing* this mapping essentially requires you to perform the computation
+yourself --- so, to the extent that any computation is being performed, it's
+really *you* who are computing, not the iron bar.
 
 I think these objections are incorrect and I still believe that a careful
 understanding of what a computer really is will force us to accept that if
@@ -29,23 +39,24 @@ etc.).  So in this post I want to make the leap from the "rocks in a field"
 computer to the iron bar a little more deliberately so we can see what is
 really going on in the argument.
 
-To this end, let's walk through a series of thought experiments.  Throughout
-this I will assume that consciousness *can* be reduced to a particular kind of
-computation.  That is, by running a particular computer program, I can generate
-a new, independent, conscious being.  As in the last essay, I'll call this
-program `consciousness.exe`.  Let's see where we end up.
+To this end, let's walk through a series of thought experiments.  This will be
+a *reducto ad absurdum*, so throughout this I will assume that consciousness
+*can* be reduced to a particular kind of computation.  In other words, I will
+assume that by running a particular computer program, I can generate a new,
+independent, conscious being.  As in the last essay, I'll call this program
+`consciousness.exe`.  Let's see where we end up.
 
 ### Some assumptions
 
-Before I proceed, I am going to lay out a couple of assumptions.  The first is
+Before we proceed, I am going to lay out a couple of assumptions.  The first is
 that the existence of a conscious being should not depend on some other
 conscious being recognizing it as being conscious.  If I were somehow the lone
 survivor of a terrible catastrophe that destroyed the rest of humanity, I will
 assume that I would remain conscious, even though no one else would be around
 anymore to recognize it.  If the computational theory of consciousness is
-correct we must extend the same courtesy to computers --- a computer that is
-executing the `consciousness.exe` program would have to be conscious even if no
-other conscious beings recognize it as such.
+correct we must extend the same courtesy to computers --- we will have to
+accept that a computer that is executing the `consciousness.exe` program is
+conscious even if no other conscious beings recognize it as such.
 
 My second assumption is that the Church-Turing thesis holds.  That is, any
 computation can be performed with a suitable Turing machine.  In particular, if
@@ -55,11 +66,11 @@ machine which will generate a conscious being when it is executed.
 My third assumption is that all of these thought experiments take place in a
 universe which is governed purely by the laws of classical physics --- in other
 words, this is a universe in which quantum mechanics does not exist.  The fact
-that this doesn't describe the real universe isn't relevant since any
-computable function can be computed by a Turing machine which operates purely
-by the laws of classical mechanics.  Even if the brain somehow took advantage
-of some quantum computational processes, these can be simulated with a
-classical Turing machine (even if it possibly runs less efficiently).
+that this doesn't describe the real universe isn't relevant for our purposes
+since any computable function can be computed by a Turing machine which
+operates purely by the laws of classical mechanics.  Even if the brain somehow
+took advantage of some quantum computational processes, these can be simulated
+with a classical Turing machine (even if it possibly runs less efficiently).
 
 ## Thought Experiment № 1 
 
@@ -69,8 +80,8 @@ Let's imagine we are out in a desert, much like the Mojave, but far larger.  It
 is an endless flat plain littered with rocks.  To pass the time, I draw a very
 long grid on the ground with two rows, one to the north and one to the south.
 In each column I place a rock in either the northern row or the southern row.
-If the rock is in the northern row I consider it a "0" and if it is in the
-southern row I consider it a "1."  These two rows will correspond to the ticker
+If the rock is in the southern row I consider it a "0" and if it is in the
+northern row I consider it a "1."  These two rows will correspond to the ticker
 tape of a Turing machine.
 
 Beneath these two rows, I draw a set of $$N$$ boxes and I place a rock into one
@@ -87,9 +98,9 @@ to a special state that tells me that I am done.
 
 For concreteness, we can imagine that the set of rules I play this game by has
 the effect of sorting a list.  I am not a very good computer scientist, so I
-implement a bubble sort algorithm.  I can arrange the rocks on the input rows
-to encode whatever list of integers I desire.  Then I follow the steps of my
-program and when I finish in the halting state, the sequence of rocks on the
+decide to use a bubble sort algorithm.  I can arrange the rocks on the input
+rows to encode whatever list of integers I desire.  Then I follow the steps of
+my program and when I finish in the halting state, the sequence of rocks on the
 grid describes the same list that I started with, but sorted.
 
 If, instead, I operate by the special rules of the `consciousness.exe` program,
@@ -212,7 +223,7 @@ assumed from the outset is not the case.)
 Some time later I go on another hike through the desert, this time with my
 friend Alice.  We encounter another row of rocks and a pair of machines that
 look identical to the ones I built.  I tell Alice about the machines I saw in
-the past and how one of them sorts list and the other simulates consciousness
+the past and how one of them sorts lists and the other simulates consciousness
 and I suggest that maybe these two do the same.  So we arrange the rocks on the
 input row to correspond to some list and press "START" on the left machine.
 This time, though, the machine does not correspond at all to the state
@@ -235,7 +246,7 @@ that my own purpose-built Turing machine did.
 *The moral of the story*: There is no unique correspondence between the
 physical states of the system and the states of the Turing machine.  Moreover,
 a machine could have been computing at some point in the past even if at the
-time I did not understand what its encoding is.
+time I did not understand what its encoding was.
 
 ## Thought Experiment № 6
 
@@ -298,6 +309,32 @@ physical bits.
 
 ## Thought Experiment № 8
 
+### A Turing machine in another resonant canyon
+
+As our journey through the desert proceeds we find a pair of machines in a
+region that looks identical to the one that came before.  There are $$M$$ pairs
+of rows ($$M$$ being very large), and two machines.  As before, earthquakes
+jostle the position of the rocks every second.
+
+We set up some rocks to represent an unsorted list of integers and press
+"START" on the left machine, but we see something strange.  The states all seem
+correct, but only on the *even* time steps.  On the odd time steps they are
+sometimes wrong.
+
+After mulling this over for a time, Alice realizes what is going on.  On even
+time steps, we take an XOR across all $$M$$ rows, but on odd time steps, we
+omit the very furthest row.  Once we have taken this into account, the state
+transitions all match up exactly what we expect to run bubble sort on our list.
+
+We then set up the rocks to simulate the experience of sitting in an armchair
+and press the "START" button on the right machine.  With our newfound knowledge
+of how to interpret the states, we observe that the state transitions are
+exactly as they were for my original machine.
+
+*The moral of the story*: The encoding need not be fixed in time.
+
+## Thought Experiment № 9
+
 ### The subterranean Turing machine
 
 Our hike continues and we arrive at an area with two long rows of rocks and
@@ -331,7 +368,7 @@ have been computing all along.
 mechanism by which these state changes take place.  All we have to do is verify
 that the state changes are proceeding according to the correct rules.
 
-## Thought Experiment № 9
+## Thought Experiment № 10
 
 ### The ghostly machine
 
@@ -369,7 +406,7 @@ correspond to the states of an abstract Turing machine.  The machine itself is
 irrelevant and does not even need to exist as long as the system ends up
 transitioning through the correct sequence of states.
 
-## Thought Experiment № 10
+## Thought Experiment № 11
 
 ### A ghostly machine in a resonant canyon
 
@@ -399,7 +436,7 @@ states of a Turing machine performing the computation.  The computational
 theory of consciousness forces us to accept that this grid of rocks is
 conscious.
 
-## Thought Experiment № 11
+## Thought Experiment № 12
 
 ### Alice hunts for consciousness in a grid of rocks
 
@@ -469,17 +506,17 @@ computation may be distributed across hundreds of computers in data centers
 across the globe, the computation could consist of an arbitrary subset of the
 rows of rocks.
 
-## Thought Experiment № 12
+## A Dramatic Plot Twist
 
 ### Wherein a hot iron bar attains consciousness
 
-In a dramatic plot twist, I now reveal that this whole time Alice and I are
-microscopic beings.  What we thought to be a field of rocks is in fact a bar of
-iron.  The two rows of rocks correspond to the magnetic orientation of the iron
-atoms.  The grid of rocks corresponds to a long column of iron atoms in this
-bar.  The earthquakes we were observing are in fact thermal fluctuations in the
-bar.  When Alice claimed that the field of rocks in the last thought experiment
-was conscious, she was really claiming that a hot bar of iron is conscious.
+I now reveal that this whole time Alice and I are microscopic beings.  What we
+thought to be a field of rocks is in fact a bar of iron.  The two rows of rocks
+correspond to the magnetic orientation of the iron atoms.  The grid of rocks
+corresponds to a long column of iron atoms in this bar.  The earthquakes we
+were observing are in fact thermal fluctuations in the bar.  When Alice claimed
+that the field of rocks in the last thought experiment was conscious, she was
+really claiming that a hot bar of iron is conscious.
 
 *The moral of the story*: The computational theory of consciousness forces us
 to accept that a hot iron bar is conscious.
@@ -490,8 +527,8 @@ Throughout this series of thought experiments I've endeavored to show that a
 physical computer is nothing more than a system with a mapping from its
 physical states to the states of an abstract Turing machine.  This mapping does
 not need to be especially simple, nor does anyone need to know how the physical
-system has managed to correctly map its own states onto the states of the
-Turing machine.  The mapping just needs to exist.
+system has managed to correctly update its physical states to match the
+corresponding updates of the Turing machine.  The mapping just needs to exist.
 
 In every experiment I paired the `consciousness.exe` computer program with a
 computer program that runs bubble sort to highlight the conceptual difference
@@ -508,6 +545,17 @@ laptop's computations if I probe its voltage states with an oscilloscope.
 `consciousness.exe` computer program, we would have to accept that the hot iron
 bar is conscious.
 
+At root, computational processes *require* the existence of an indpendent
+observer to provide the mapping between the physical states of the system and
+the abstract states of a Turing machine.  It's not necessary that the observer
+validate every intermediate step of the computation, or even the input and
+output (assuming they have confidence from the physics of the system that the
+rules of the Turing machine will be obeyed).  But they must provide the
+mapping.  By contrast, consciousness exists independently from any external
+observers.  No one needs to provide the mapping between the states of the
+neurons in my brain to the abstract states of a Turing machine in order to
+imbue me with consciousness.
+
 I have also tried to present examples where the kinds of physical states we're
 considering are at least somewhat physically straightforward.  But the physical
 states can, in principle, be arbitrarily complicated as well.  We can imagine
@@ -520,18 +568,18 @@ physical system with enough degrees of freedom will have a subset of its
 elements that encode the state transitions of an arbitrary Turing machine.
 
 At the end of all of this, the computational theory of consciousness forces us
-into a position of panpsychism, and an especially extreme form of panpsychism
-at that.  We have to accept that not only are all things conscious, but they
-contain *all* consciousnesses, including yours and mine.  This conclusion is
-absurd on its face, and the implication is that consciousness cannot be a
-special form of computation.
+into a position of panpsychism --- and an especially extreme form of
+panpsychism at that.  We have to accept that not only are all things conscious,
+but they contain *all* consciousnesses, including yours and mine.  This
+conclusion is absurd on its face.  The implication is that consciousness cannot
+be completely reduced a special form of computation.
 
-To me, consciousness must involve a *physical* process in some way.  These
-physical processes surely involve some computation, but the computation must be
-done with respect to a particular physical system --- and so, they cannot be a
-pure computational process, since such processes are independent of the
-physcial systems that perform them.  So while we can use a computer to
-*simulate* the activity of the neurons in a brain, suche a simulation will not
+To my mind, consciousness must involve a *physical* process in some way.  These
+physical processes surely *involve* some computation, but the computation must
+be done with respect to a particular physical system --- and so, they cannot be
+a pure computational process, since such processes are independent of the
+physical systems that perform them.  So while we can use a computer to
+*simulate* the activity of the neurons in a brain, such a simulation will not
 actually produce a consciousness because it lacks the physical component that
 produces consciousness (whatever that might be).
 
@@ -549,7 +597,7 @@ produces consciousness (whatever that might be).
      doing have no bearing on the computations that the rest of the system is
      doing.
 
-[1]: _posts/2022-06-17-consciousness.md
+[1]: consciousness
 
 [2]: https://marksprevak.com/publications/triviality-arguments-about-computational-implementation-2018/
 
@@ -561,6 +609,6 @@ produces consciousness (whatever that might be).
 
 [6]: https://www.jstor.org/stable/2025395
 
-[7]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1068.2142&rep=rep1&type=pdf
+[7]: https://www.google.com/books/edition/Representation_and_Reality/A0YJILtyCPEC?hl=en&gbpv=0
 
-[8]: https://www.google.com/books/edition/Representation_and_Reality/A0YJILtyCPEC?hl=en&gbpv=0
+[8]: https://www.jstor.org/stable/23356753
