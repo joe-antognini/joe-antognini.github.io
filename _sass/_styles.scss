@@ -79,26 +79,31 @@ code {
     color: $accent;
     // font-family: "Monaco", "Courier New", "Courier";
     font-family: "Courier Prime", "Courier";
-    font-size: .9em;
+    //font-size: .9em;
+    font-size: $fs5;
     //font-weight: bold;
 }
 
 .highlight {
-    background: #d0d7dc;
+    //background: #d0d7dc;
+    background: #e6ecf2;
     padding: 12px;
     border-radius: 4px;
-    margin-bottom: $lh;
-    overflow-x: scroll;
+    margin-bottom: 33px;
+
+    line-height: 16px;
 
     code {
         color: $black;
         //font-family: "Monaco", "Courier New", "Courier";
         font-family: "Courier Prime", "Courier";
-        font-size: .9em;
+        font-size: $fs6;
+        line-height: 16px;
+        margin-bottom: 1px;
         .lineno {
             margin-right: $lh/2;
             color: $grey-light;
-            line-height: 2em;
+            line-height: 16px;
         }
         .cp {
             color: #c930c7;
@@ -130,6 +135,16 @@ code {
     }
 }
 
+.highlight code,
+.highlight pre {
+    margin-bottom: 4px !important;
+    padding-bottom: 4px !important;
+}
+
+/* This removes the double-padding effect if a highlight block is followed by a paragraph */
+.highlight + p {
+    margin-top: -10px;
+}
 
 
 hr {
