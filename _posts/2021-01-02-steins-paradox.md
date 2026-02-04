@@ -316,23 +316,23 @@ direction between our guess and the mean is perpendicular to the hypotenuse.
 Some simple geometry reveals that this new point is located at:
 
 $$
-\left(1 - \frac{\rho}{|\mu|^2 + \rho^2} \right) \textbf{x} = \left(1 -
-\frac{\rho}{|\textbf{x}|^2} \right) \textbf{x}
+\left(1 - \frac{\rho^2}{|\textbf{x}|^2} \right) \textbf{x}
 $$
 
 This is looking like the beginnings of the James-Stein estimator!
 
 What exactly is $$\rho$$?  Unfortunately $$\rho$$ is random variable, but let's
-represent it by some central point of its distribution.  Now $$\rho$$ follows a
-$$\chi$$ distribution with $$D - 1$$ degrees of freedom and the mode of this
-distribution is $$D - 2$$.  So if we simply represent this distribution by its
+represent it by some central point of its distribution.  Now $$\rho^2$$ follows a
+$$\chi^2$$ distribution with $$D - 1$$ degrees of freedom and the mode of this
+distribution is $$\max(D - 2, 0)$$.  So if we simply represent this distribution by its
 mode, our estimator becomes
 
 $$
 \left(1 - \frac{D - 2}{|\textbf{x}|^2} \right) \textbf{x},
 $$
 
-which is the James-Stein estimator without the ReLU.
+for $$D \geq 3$$ and is the naive estimator $$\textbf{x}$$ for $$D < 3$$, which
+is exactly the James-Stein estimator without the ReLU.
 
 To be clear, this is a very hand-wavey argument.  Representing the entire
 distribution by a single point is not particularly sophisticated, and there is
@@ -382,13 +382,20 @@ with a ReLU function.
 ## Why does Stein's paradox not hold in two dimensions?
 
 Let's now turn to the second counterintuitive property of Stein's paradox:
-what's so special about three dimensions?  It is not hard to see why the
+what's so special about three dimensions?  We saw a hint that three dimensions
+is special since the mode of the $$\chi^2$$ distribution is 0 for one and two
+dimensions, but is $$D - 2$$ for higher numbers of dimensions.  But as I
+pointed out, that came about from representing the entire $$\rho^2$$
+distribution by its mode, and it's not really obvious why we should pick the
+mode in particular rather than, say, the mean or median.
+
+Thinking back to our geometric argument, it is not hard to see why the
 James-Stein estimator doesn't help in one dimension --- we arrived at the
 James-Stein estimator by separating the sample into two components, one along
 the direction to the true mean, and the other as a residual component
 perpendicular to the first.  But in one dimension there is no residual
 component!  By shrinking your estimate towards the origin you introduce some
-bias, but this is not counterbalanced by the reduction in variance.
+bias, but this is not counterbalanced by any reduction in variance.
 
 But what about the two dimensional case?  Here again we unfortunately must wave
 our hands.  In the two dimensional case we do, in fact, reduce the variance by
